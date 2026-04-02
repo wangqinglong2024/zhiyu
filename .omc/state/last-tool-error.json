@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cat /opt/projects/ideas_ai/supabase/migrations/20260402000002_create_orders.sql && echo \\\"===\\\" && cat /opt/projects/ideas_ai/frontend/src/styles/\",\"description\":\"Check orders migration an...",
+  "error": "Exit code 1\n-- 订单表\nCREATE TABLE public.orders (\n    id            uuid PRIMARY KEY DEFAULT gen_random_uuid(),\n    user_id       uuid NOT NULL REFERENCES public.users(id),\n    category      varchar(20) NOT NULL CHECK (category IN ('career', 'emotion')),\n    input_content text NOT NULL,\n    report        jsonb,\n    status        varchar(20) NOT NULL DEFAULT 'pending'\n                  CHECK (status IN ('pending','paid','generating','completed','failed','expired','refunded')),\n    amount        dec...",
+  "timestamp": "2026-04-02T14:36:48.642Z",
+  "retry_count": 1
+}

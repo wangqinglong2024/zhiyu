@@ -1,0 +1,444 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775137929186,
+  "projectRoot": "/opt/projects/ideas_ai",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "admin": {
+      "path": "admin",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1775137929152,
+      "keyFiles": [
+        "index.html",
+        "package.json",
+        "tsconfig.json",
+        "tsconfig.node.json",
+        "vite.config.ts"
+      ]
+    },
+    "backend": {
+      "path": "backend",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1775137929167,
+      "keyFiles": [
+        "Dockerfile",
+        "config.py",
+        "dependencies.py",
+        "main.py",
+        "requirements.txt"
+      ]
+    },
+    "frontend": {
+      "path": "frontend",
+      "purpose": null,
+      "fileCount": 11,
+      "lastAccessed": 1775137929168,
+      "keyFiles": [
+        "Dockerfile",
+        "index.html",
+        "nginx.conf",
+        "package.json",
+        "postcss.config.js"
+      ]
+    },
+    "product": {
+      "path": "product",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1775137929170,
+      "keyFiles": [
+        "GLOBAL.md",
+        "README.md"
+      ]
+    },
+    "supabase": {
+      "path": "supabase",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1775137929171,
+      "keyFiles": []
+    },
+    "admin/src": {
+      "path": "admin/src",
+      "purpose": "Source code",
+      "fileCount": 2,
+      "lastAccessed": 1775137929176,
+      "keyFiles": [
+        "App.tsx",
+        "main.tsx"
+      ]
+    },
+    "backend/middleware": {
+      "path": "backend/middleware",
+      "purpose": "Middleware",
+      "fileCount": 3,
+      "lastAccessed": 1775137929179,
+      "keyFiles": [
+        "__init__.py",
+        "error_handler.py",
+        "rate_limit.py"
+      ]
+    },
+    "backend/models": {
+      "path": "backend/models",
+      "purpose": "Data models",
+      "fileCount": 5,
+      "lastAccessed": 1775137929180,
+      "keyFiles": [
+        "__init__.py",
+        "common.py",
+        "order.py"
+      ]
+    },
+    "frontend/src": {
+      "path": "frontend/src",
+      "purpose": "Source code",
+      "fileCount": 2,
+      "lastAccessed": 1775137929181,
+      "keyFiles": [
+        "App.tsx",
+        "main.tsx"
+      ]
+    },
+    "product/app": {
+      "path": "product/app",
+      "purpose": "Application code",
+      "fileCount": 5,
+      "lastAccessed": 1775137929186,
+      "keyFiles": [
+        "ai-report.md",
+        "auth.md",
+        "commission-wallet.md"
+      ]
+    },
+    "supabase/migrations": {
+      "path": "supabase/migrations",
+      "purpose": "Database migrations",
+      "fileCount": 8,
+      "lastAccessed": 1775137929186,
+      "keyFiles": [
+        "20260402000000_create_users.sql",
+        "20260402000001_create_wallets.sql",
+        "20260402000002_create_orders.sql"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "frontend/src/App.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1775140897883,
+      "type": "file"
+    },
+    {
+      "path": "product/README.md",
+      "accessCount": 2,
+      "lastAccessed": 1775140468555,
+      "type": "file"
+    },
+    {
+      "path": "product/GLOBAL.md",
+      "accessCount": 2,
+      "lastAccessed": 1775140473489,
+      "type": "file"
+    },
+    {
+      "path": "product/engineering/backend-structure.md",
+      "accessCount": 2,
+      "lastAccessed": 1775140473546,
+      "type": "file"
+    },
+    {
+      "path": "product/engineering/frontend-structure.md",
+      "accessCount": 2,
+      "lastAccessed": 1775140473830,
+      "type": "file"
+    },
+    {
+      "path": "backend/main.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140479238,
+      "type": "file"
+    },
+    {
+      "path": "backend/requirements.txt",
+      "accessCount": 2,
+      "lastAccessed": 1775140479575,
+      "type": "file"
+    },
+    {
+      "path": "docker-compose.yml",
+      "accessCount": 2,
+      "lastAccessed": 1775140479827,
+      "type": "file"
+    },
+    {
+      "path": "backend/config.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140488858,
+      "type": "file"
+    },
+    {
+      "path": "backend/dependencies.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140489030,
+      "type": "file"
+    },
+    {
+      "path": "backend/routers/auth.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140492982,
+      "type": "file"
+    },
+    {
+      "path": "backend/routers/orders.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140493389,
+      "type": "file"
+    },
+    {
+      "path": "backend/services/commission.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140493885,
+      "type": "file"
+    },
+    {
+      "path": "backend/db/client.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140494290,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/pages/HomePage.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1775140500279,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/pages/ReportPage.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1775140501177,
+      "type": "file"
+    },
+    {
+      "path": "backend/routers/webhooks.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140501851,
+      "type": "file"
+    },
+    {
+      "path": "backend/services/dify.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140502099,
+      "type": "file"
+    },
+    {
+      "path": "backend/routers/admin/stats.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140510231,
+      "type": "file"
+    },
+    {
+      "path": "backend/services/report.py",
+      "accessCount": 2,
+      "lastAccessed": 1775140510612,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/pages/ProfilePage.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1775140769644,
+      "type": "file"
+    },
+    {
+      "path": "backend/.env",
+      "accessCount": 2,
+      "lastAccessed": 1775140780995,
+      "type": "file"
+    },
+    {
+      "path": "frontend/nginx.conf",
+      "accessCount": 2,
+      "lastAccessed": 1775140886299,
+      "type": "file"
+    },
+    {
+      "path": "frontend/Dockerfile",
+      "accessCount": 2,
+      "lastAccessed": 1775140926904,
+      "type": "file"
+    },
+    {
+      "path": "product/engineering/database-migrations.md",
+      "accessCount": 1,
+      "lastAccessed": 1775140318333,
+      "type": "file"
+    },
+    {
+      "path": "product/engineering/environment.md",
+      "accessCount": 1,
+      "lastAccessed": 1775140325587,
+      "type": "file"
+    },
+    {
+      "path": "backend/services/payment.py",
+      "accessCount": 1,
+      "lastAccessed": 1775140336874,
+      "type": "file"
+    },
+    {
+      "path": "backend/services/sms.py",
+      "accessCount": 1,
+      "lastAccessed": 1775140337587,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/pages/AnalyzePage.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775140343280,
+      "type": "file"
+    },
+    {
+      "path": "backend/routers/commissions.py",
+      "accessCount": 1,
+      "lastAccessed": 1775140349167,
+      "type": "file"
+    },
+    {
+      "path": "backend/routers/withdrawals.py",
+      "accessCount": 1,
+      "lastAccessed": 1775140349298,
+      "type": "file"
+    },
+    {
+      "path": "supabase/migrations/20260402000007_rpc_functions.sql",
+      "accessCount": 1,
+      "lastAccessed": 1775140350349,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/pages/LoginPage.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775140500812,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/api/withdrawals.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140768180,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/api/auth.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140768539,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/api/client.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140769247,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/api/commissions.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140774875,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/styles/globals.css",
+      "accessCount": 1,
+      "lastAccessed": 1775140776552,
+      "type": "directory"
+    },
+    {
+      "path": "frontend/src/pages/WithdrawPage.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775140886966,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/package.json",
+      "accessCount": 1,
+      "lastAccessed": 1775140887006,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/vite.config.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140894100,
+      "type": "file"
+    },
+    {
+      "path": "frontend/src/store/settingsStore.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140894210,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/tsconfig.json",
+      "accessCount": 1,
+      "lastAccessed": 1775140899581,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/index.html",
+      "accessCount": 1,
+      "lastAccessed": 1775140906767,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/src/main.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775140912387,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/src/store/adminStore.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140919406,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/src/api/client.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140926380,
+      "type": "file"
+    },
+    {
+      "path": "frontend/admin/src/api/stats.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775140931617,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

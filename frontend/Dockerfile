@@ -1,33 +1,38 @@
 # ======================================================
 # 多阶段构建
-# Stage 1: 构建 React SPA（Vite）
-# Stage 2: Nginx 托管静态文件
+# Stage 1: 构建用户端 React SPA
+# Stage 2: 构建管理后台 React SPA
+# Stage 3: Nginx 托管静态文件
 # ======================================================
 
-FROM node:20-alpine AS builder
+FROM node:20-alpine AS frontend-builder
 
-WORKDIR /app
-
-# 依赖安装（利用层缓存）
+WORKDIR /app/frontend
 COPY package.json package-lock.json* ./
 RUN npm ci --prefer-offline
-
-# 拷贝源码并构建
 COPY . .
 RUN npm run build
-# 构建产物输出到 /app/dist
+
+# ======================================================
+FROM node:20-alpine AS admin-builder
+
+WORKDIR /app/admin
+COPY admin/package.json admin/package-lock.json* ./
+RUN npm ci --prefer-offline
+COPY admin/ .
+RUN npm run build
 
 # ======================================================
 FROM nginx:alpine
 
-# 删除 Nginx 默认配置
 RUN rm /etc/nginx/conf.d/default.conf
-
-# 自定义配置（SPA 兜底）
 COPY nginx.conf /etc/nginx/conf.d/app.conf
 
-# 拷贝构建产物
-COPY --from=builder /app/dist /usr/share/nginx/html
+# 用户端静态文件
+COPY --from=frontend-builder /app/frontend/dist /usr/share/nginx/html
+
+# 管理后台（放在 /admin/ 子目录）
+COPY --from=admin-builder /app/admin/dist /usr/share/nginx/html/admin
 
 EXPOSE 80
 

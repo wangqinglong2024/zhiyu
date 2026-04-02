@@ -12,6 +12,7 @@ import GeneratingPage from './pages/GeneratingPage'
 import ReportPage from './pages/ReportPage'
 import ProfilePage from './pages/ProfilePage'
 import InvitePage from './pages/InvitePage'
+import WithdrawPage from './pages/WithdrawPage'
 
 export default function App() {
   return (
@@ -29,6 +30,7 @@ export default function App() {
           <Route path="/generating/:orderId" element={<GeneratingPage />} />
           <Route path="/report/:orderId" element={<ReportPage />} />
           <Route path="/profile" element={<ProfilePage />} />
+          <Route path="/withdraw" element={<WithdrawPage />} />
 
           {/* 兜底 */}
           <Route path="*" element={<Navigate to="/" replace />} />
