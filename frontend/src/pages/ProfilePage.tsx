@@ -9,6 +9,7 @@ import MeshBackground from '../components/layout/MeshBackground'
 import Button from '../components/common/Button'
 import { getMyOrders } from '../api/orders'
 import { getBalance } from '../api/commissions'
+import { getMe } from '../api/auth'
 import { useAuthStore } from '../store/authStore'
 import { useAuth } from '../hooks/useAuth'
 
@@ -30,7 +31,6 @@ const STATUS_COLOR: Record<string, string> = {
 export default function ProfilePage() {
   useAuth()
   const navigate = useNavigate()
-  const userId = useAuthStore((s) => s.userId)
   const logout = useAuthStore((s) => s.logout)
 
   const { data: ordersData } = useQuery({
@@ -43,13 +43,18 @@ export default function ProfilePage() {
     queryFn: () => getBalance().then((r) => r.data.data),
   })
 
+  const { data: meData } = useQuery({
+    queryKey: ['me'],
+    queryFn: () => getMe().then((r) => r.data.data),
+  })
+
   const wallet = walletData?.wallet
   const orders = ordersData?.orders || []
-
-  // 生成邀请链接（需要后端返回邀请码，这里暂用 userId 前 6 位 mock）
-  const inviteLink = `https://ideas.top/invite/${userId?.slice(0, 6).toUpperCase() || 'XXXXXX'}`
+  const inviteCode = meData?.invite_code || ''
+  const inviteLink = inviteCode ? `https://ideas.top/invite/${inviteCode}` : ''
 
   const handleCopyInvite = () => {
+    if (!inviteLink) return
     navigator.clipboard.writeText(inviteLink).then(() => alert('邀请链接已复制'))
   }
 

@@ -19,6 +19,7 @@ from models.user import SendSmsRequest, LoginRequest, WechatLoginRequest
 from models.common import ok, fail
 from services.sms import send_sms_code, verify_sms_code
 from utils.jwt_utils import create_admin_token
+from dependencies import get_current_user
 from passlib.context import CryptContext
 
 router = APIRouter(prefix="/auth", tags=["auth"])
@@ -27,9 +28,9 @@ _pwd_ctx = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 
 @router.post("/send-sms")
-async def send_sms(req: SendSmsRequest):
-    """发送短信验证码（60 秒限流）"""
-    check_sms_rate_limit(req.phone)
+async def send_sms(req: SendSmsRequest, request: Request):
+    """发送短信验证码（手机号 60 秒 + IP 每 5 分钟 3 次双重限流）"""
+    check_sms_rate_limit(req.phone, request)
     await send_sms_code(req.phone)
     return ok(message="验证码已发送")
 
@@ -163,3 +164,22 @@ async def admin_login(request: Request, body: dict):
 
     token = create_admin_token()
     return ok(data={"access_token": token, "token_type": "bearer"})
+
+
+@router.get("/me")
+async def get_me(user_id: str = Depends(get_current_user)):
+    """获取当前登录用户信息（含邀请码、手机号脱敏）"""
+    from db.queries.users import get_user_by_id
+    from utils.phone_mask import mask_phone
+    user = await get_user_by_id(user_id)
+    if not user:
+        raise HTTPException(status_code=404, detail="用户不存在")
+    phone = user.get("phone", "")
+    if phone and not phone.startswith("wx_"):
+        phone = mask_phone(phone)
+    return ok(data={
+        "user_id": user_id,
+        "phone_masked": phone,
+        "invite_code": user.get("invite_code", ""),
+        "created_at": str(user.get("created_at", "")),
+    })
