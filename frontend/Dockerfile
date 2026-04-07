@@ -9,7 +9,9 @@ FROM node:20-alpine AS frontend-builder
 
 WORKDIR /app/frontend
 COPY package.json package-lock.json* ./
-RUN npm install --prefer-offline
+# 先安装依赖，再显式安装 Alpine(musl) 平台的 Tailwind CSS v4 原生绑定
+# （npm 有 optional dependencies bug，需手动补装平台包）
+RUN npm install && npm install @tailwindcss/oxide-linux-x64-musl --no-save
 COPY . .
 RUN npm run build
 

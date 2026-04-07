@@ -9,7 +9,7 @@
 
 - **产品：** 内观 / AI 认知镜
 - **一句话：** 付费 ¥28.8，用 AI 看清自己困境的本质
-- **目标用户：** 中国都市上班族，25-40 岁，正处于职场或情感困境中。他们不只是在用工具，他们在求助。
+- **目标用户：** 中国都市上班族，25-40 岁，正处于职场或情感困境中
 - **平台：** H5 Web（移动端优先，最大宽 440px），管理端桌面优先
 - **产品类型：** 付费 AI 内容工具
 
@@ -17,118 +17,132 @@
 
 ## 审美方向
 
-- **方向：** Luxury Minimal Dark（鎏金极简暗）
-- **装饰级别：** intentional（精心克制）— 金色是唯一装饰语言，其余一律退让
-- **意境：** A24 电影字幕卡 × 古青铜铸造 × 深夜私人诊室。用户付了钱才看到报告，设计必须让他觉得值。
-- **设计原则：** 黑暗是背景，金色是唯一说话的颜色。不过度装饰，不使用渐变泡泡/圆形图标网格/居中平铺等 AI 烂俗套路。
+- **方向：** Mesh Gradient Glassmorphism（渐变网格毛玻璃）
+- **双模式：** Dark（默认）/ Light，完整 token 切换，无闪烁
+- **背景：** 三色动态 Mesh（紫罗兰 + 鎏金 + 青碧节点，24-32s 缓慢漂浮）
+- **玻璃层：** 三层深度（card/panel/modal），blur 20/24/32px
+- **装饰哲学：** 鎏金是唯一报告专属光晕，紫罗兰用于社交功能（邀请），青碧作背景深度
+- **Z 轴层次：** Mesh 背景(-10) → 玻璃 card(0) → 浮层(10) → 模态(20) → ThemeToggle(50) → 噪点纹理(9999)
 
 ---
 
 ## 颜色体系
 
-### CSS Custom Properties
+### CSS Variables（Dark 模式）
 
 ```css
-/* === 背景层 === */
---bg-base:       #0A0A0F;
---bg-mesh:       radial-gradient(ellipse 80% 60% at 20% 30%, rgba(201,168,76,0.07) 0%, transparent 60%),
-                 radial-gradient(ellipse 60% 40% at 80% 70%, rgba(201,168,76,0.04) 0%, transparent 55%),
-                 radial-gradient(ellipse 100% 100% at 50% 50%, #0D0C14 0%, #0A0A0F 100%);
+/* 背景 */
+--bg-base:        #080812;
 
-/* === 玻璃面板层 === */
---surface-1:     rgba(255,255,255,0.05);   /* 卡片底层 */
---surface-2:     rgba(255,255,255,0.08);   /* 浮层 / 激活态 */
---surface-3:     rgba(255,255,255,0.12);   /* 模态框 / 最高层 */
---border-soft:   rgba(255,255,255,0.08);
---border-base:   rgba(255,255,255,0.12);
---border-gold:   rgba(201,168,76,0.35);    /* 高亮边框 */
+/* Mesh 节点 */
+--mesh-node-1:    rgba(124, 58, 237, 0.22);   /* 紫罗兰 */
+--mesh-node-2:    rgba(201, 168, 76, 0.18);   /* 鎏金 */
+--mesh-node-3:    rgba(20, 184, 166, 0.14);   /* 青碧 */
+--mesh-node-4:    rgba(236, 72, 153, 0.10);   /* 玫瑰（点缀） */
 
-/* === 金色体系 === */
---gold-light:    #E8C97A;
---gold-base:     #C9A84C;                  /* 主色 */
---gold-dark:     #A8872E;
---gold-glow:     rgba(201,168,76,0.15);    /* 报告区域光晕 */
---gold-grad:     linear-gradient(135deg, #A8872E 0%, #C9A84C 40%, #E8C97A 100%);
+/* 玻璃面板 */
+--surface-1:      rgba(255, 255, 255, 0.055); /* 卡片底层 */
+--surface-2:      rgba(255, 255, 255, 0.09);  /* 浮层/hover */
+--surface-3:      rgba(255, 255, 255, 0.13);  /* 模态框 */
+--surface-input:  rgba(255, 255, 255, 0.04);  /* 输入框 */
 
-/* === 文字体系 === */
---text-primary:   #F0EDE6;
---text-secondary: rgba(240,237,230,0.60);
---text-muted:     rgba(240,237,230,0.35);
---text-disabled:  rgba(240,237,230,0.20);
+/* 边框 */
+--border-base:    rgba(255, 255, 255, 0.11);
+--border-bright:  rgba(255, 255, 255, 0.20);
+--border-gold:    rgba(201, 168, 76, 0.40);
+--border-purple:  rgba(124, 58, 237, 0.35);
+
+/* 鎏金体系 */
+--gold-light:     #EDD07E;
+--gold-base:      #C9A84C;
+--gold-dark:      #A8872E;
+--gold-glow:      rgba(201, 168, 76, 0.18);
+--gold-grad:      linear-gradient(135deg, #A8872E 0%, #C9A84C 45%, #EDD07E 100%);
+
+/* 紫罗兰体系 */
+--purple-light:   #A78BFA;
+--purple-base:    #7C3AED;
+--purple-glow:    rgba(124, 58, 237, 0.20);
+
+/* 文字 */
+--text-primary:   #F0EDE8;
+--text-secondary: rgba(240, 237, 232, 0.62);
+--text-muted:     rgba(240, 237, 232, 0.36);
 --text-gold:      #C9A84C;
+--text-purple:    #A78BFA;
 
-/* === 语义颜色 === */
---success: #4CAF82;
---warning: #E8A838;
---error:   #E05454;
---info:    #5B8FE8;
+/* 阴影 */
+--shadow-glass:   0 8px 32px rgba(0,0,0,0.45), inset 0 1px 0 rgba(255,255,255,0.14);
+--shadow-gold:    0 0 40px rgba(201,168,76,0.22), 0 0 80px rgba(201,168,76,0.08);
+--shadow-purple:  0 0 40px rgba(124,58,237,0.20);
+--shadow-elevated:0 24px 64px rgba(0,0,0,0.65);
 ```
 
-### 使用规则
+### CSS Variables（Light 模式，`[data-theme="light"]`）
+
+```css
+--bg-base:        #F0EEFF;
+--surface-1:      rgba(255, 255, 255, 0.55);
+--surface-2:      rgba(255, 255, 255, 0.72);
+--surface-3:      rgba(255, 255, 255, 0.88);
+--text-primary:   #1A1530;
+--text-secondary: rgba(26, 21, 48, 0.62);
+--text-gold:      #B8922A;
+--text-purple:    #6D28D9;
+/* 其余 border/shadow 见 styles/globals.css */
+```
+
+### 颜色用途规则
 
 | 用途 | Token |
 |------|-------|
-| 主要 CTA 按钮背景 | `--gold-grad` |
-| 报告模块标题文字 | `--text-gold` |
-| 报告模块边框 | `--border-gold` |
-| 报告模块阴影 | `--shadow-gold` |
-| 普通卡片 | `--surface-1` + `--border-base` |
-| 所有错误提示 | `--error` |
-| 提现成功/已打款 | `--success` |
+| 主 CTA 按钮 | `--gold-grad` |
+| 报告模块边框 + 光晕 | `--border-gold` + `--shadow-gold`（仅报告页） |
+| 邀请/社交功能 | `--border-purple` + `--shadow-purple` |
+| 错误提示 | `--error` |
+| 成功/收益 | `--success` |
+| 普通卡片边框 | `--border-base` |
+| 输入框 focus | `--gold-base` + `--gold-glow` |
 
 ---
 
 ## 字体体系
 
-### 字体栈
-
 ```css
-/* 主字体（中文，不可替换） */
+/* 主字体（中文，系统字体栈） */
 --font-cn: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans SC', sans-serif;
 
-/* 数字/拉丁补充（金额、时间戳、百分比专用） */
---font-num: 'Geist', 'Geist Mono', monospace;
-/* 加载：https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap */
-/* 所有数字显示必须加：font-variant-numeric: tabular-nums */
+/* 数字/拉丁（金额、时间戳、百分比专用） */
+--font-num: 'Geist', 'Geist Mono', ui-monospace, monospace;
+/* font-variant-numeric: tabular-nums; 强制等宽数字 */
 ```
 
 ### 字号体系
 
 ```css
---text-xs:   11px;  /* line-height: 1.4 — 辅助说明、法律文本 */
---text-sm:   13px;  /* line-height: 1.5 — 标签、次要信息 */
---text-base: 15px;  /* line-height: 1.7 — 正文、报告内容（主力字号）*/
---text-md:   17px;  /* line-height: 1.5 — 小标题、按钮 */
---text-lg:   20px;  /* line-height: 1.4 — 模块标题 */
---text-xl:   24px;  /* line-height: 1.3 — 页面标题 */
---text-2xl:  32px;  /* line-height: 1.2 — Hero 大字 */
---text-3xl:  40px;  /* line-height: 1.1 — 海报数字/引言 */
+--text-xs:   11px / 1.4  /* 辅助说明、法律文本 */
+--text-sm:   13px / 1.5  /* 标签、次要信息 */
+--text-base: 15px / 1.7  /* 正文（主力字号）*/
+--text-md:   17px / 1.5  /* 小标题、按钮 */
+--text-lg:   20px / 1.4  /* 模块标题 */
+--text-xl:   24px / 1.3  /* 页面标题 */
+--text-2xl:  32px / 1.2  /* Hero 大字 */
+--text-3xl:  40px / 1.1  /* 海报数字/引言 */
 ```
 
-### 字重
-
-| 用途 | font-weight |
-|------|-------------|
-| 正文 | 400 |
-| 标签 / 按钮 | 500 |
-| 标题 | 600 |
-| 大字 / 金句 | 700 |
-
-### 刻意差异点 — 汉字大字距
-
-报告模块标题（2-6 字）使用 `letter-spacing: 0.18em`，例如：
+### 铭文感大字距（严格限制）
 
 ```css
-/* 报告页模块标题：核心症结、三条路径、认知升维 */
+/* 仅用于 2-6 字报告模块标题 */
 .report-section-title {
-  font-size: var(--text-lg);
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 0.18em;
   color: var(--text-gold);
 }
 ```
 
-**严禁**将此字距用于正文或超过 6 个汉字的文本，会导致阅读障碍。
+**严禁** 将 `letter-spacing: 0.18em` 用于正文或超过 6 个汉字的文本。
 
 ---
 
@@ -136,18 +150,12 @@
 
 **基准单位：8px**，密度：comfortable（移动端优先）
 
-```css
---space-1:  4px;
---space-2:  8px;
---space-3:  12px;
---space-4:  16px;
---space-5:  20px;   /* 移动端页面横向 padding */
---space-6:  24px;   /* 卡片内边距 */
---space-8:  32px;   /* 模块间距 */
---space-10: 40px;   /* 大模块间距 */
---space-12: 48px;   /* Section 间距 */
---space-16: 64px;   /* 页面级大间距 */
-```
+| Token | 值 | 用途 |
+|-------|----|------|
+| `--space-5` | 20px | 移动端页面横向 padding |
+| `--space-6` | 24px | 卡片内边距 |
+| `--space-8` | 32px | 模块间距 |
+| `--space-12`| 48px | Section 间距 |
 
 | 参数 | 值 |
 |------|-----|
@@ -164,54 +172,41 @@
 --radius-md:   12px;     /* 按钮、输入框 */
 --radius-lg:   16px;     /* 卡片、面板 */
 --radius-xl:   24px;     /* 底部弹出 sheet */
---radius-full: 9999px;   /* 头像、pill 按钮 */
+--radius-full: 9999px;   /* 头像、pill */
 ```
 
 ---
 
-## 阴影体系
+## 玻璃面板规格（三层深度）
 
 ```css
---shadow-glass:    0 8px 32px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.08);
---shadow-gold:     0 0 32px rgba(201,168,76,0.18);   /* 报告区域光晕，严格只用在报告页 */
---shadow-elevated: 0 20px 60px rgba(0,0,0,0.6);      /* 模态框 */
-```
-
----
-
-## 毛玻璃面板（Glass Panel）
-
-```css
+/* Level 1：普通卡片 */
 .glass-panel {
-  background: var(--surface-1);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: var(--surface-1);           /* rgba(255,255,255,0.055) */
+  backdrop-filter: blur(20px) saturate(140%);
   border: 1px solid var(--border-base);
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-glass);
+  border-radius: 16px;
+  box-shadow: var(--shadow-glass);        /* 含 inset 顶部高亮线 */
+}
+
+/* Level 2：浮层/hover 增强 */
+.glass-panel-2 {
+  background: var(--surface-2);           /* rgba(255,255,255,0.09) */
+  backdrop-filter: blur(24px) saturate(150%);
+}
+
+/* Level 3：模态框 */
+.glass-panel-3 {
+  background: var(--surface-3);           /* rgba(255,255,255,0.13) */
+  backdrop-filter: blur(32px) saturate(160%);
+}
+
+/* hover 增强（cursor-pointer 卡片） */
+.glass-panel-hover:hover {
+  background: var(--surface-2);
+  border-color: var(--border-bright);
 }
 ```
-
----
-
-## 背景纹理（纸质颗粒）
-
-在 `body` 或根容器上叠加，2% opacity。打破纯数字感，给「内观」一丝古籍质感。
-
-```css
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 9999;
-  opacity: 0.025;
-  background-image: url("data:image/svg+xml,..."); /* SVG feTurbulence noise */
-  background-size: 200px 200px;
-}
-```
-
-**性能注意：** 在中低端机型（骁龙 870 以下）上线前需测试 FPS，如有掉帧立即移除。
 
 ---
 
@@ -221,10 +216,10 @@ body::before {
 
 ```ts
 const duration = {
-  micro:  0.08,   // 点击反馈、hover
-  short:  0.2,    // 按钮状态切换
-  medium: 0.35,   // 页面淡入淡出
-  long:   0.5,    // 加载动画、生成进度
+  micro:  0.08,  // 点击反馈
+  short:  0.22,  // 按钮状态
+  medium: 0.38,  // 页面淡入
+  long:   0.5,   // 加载动画
 }
 ```
 
@@ -232,40 +227,41 @@ const duration = {
 
 ```ts
 const ease = {
-  enter: 'easeOut',       // 进入：快入慢停
-  exit:  'easeIn',        // 退出：慢出快消
-  move:  'easeInOut',     // 移位
-  spring: { type: 'spring', stiffness: 280, damping: 28 },  // 按钮弹压
+  enter:  'easeOut',
+  exit:   'easeIn',
+  spring: { type: 'spring', stiffness: 300, damping: 22 },
 }
 ```
 
 ### 标准动效片段
 
 ```ts
-// 页面切换（每个页面根组件）
+// 页面切换
 const pageVariants = {
-  initial: { opacity: 0, y: 8 },
-  animate: { opacity: 1, y: 0, transition: { duration: 0.35, ease: 'easeOut' } },
-  exit:    { opacity: 0, y: -4, transition: { duration: 0.2, ease: 'easeIn' } },
+  initial: { opacity: 0, y: 12 },
+  animate: { opacity: 1, y: 0, transition: { duration: 0.4, ease: 'easeOut' } },
 }
 
-// 卡片列表交错进入
+// 卡片交错进入
 const cardVariants = {
-  initial: { opacity: 0, y: 12 },
+  initial: { opacity: 0, y: 16, scale: 0.97 },
   animate: (i: number) => ({
-    opacity: 1, y: 0,
-    transition: { duration: 0.35, ease: 'easeOut', delay: i * 0.06 }
+    opacity: 1, y: 0, scale: 1,
+    transition: { duration: 0.4, ease: 'easeOut', delay: 0.15 + i * 0.1 },
   }),
 }
 
-// 按钮点击
-const buttonTap = { scale: 0.96, transition: { type: 'spring', stiffness: 280, damping: 28 } }
+// 按钮弹压
+const buttonTap = { scale: 0.96, transition: { type: 'spring', stiffness: 300, damping: 22 } }
 
-// 生成中旋转
-const spinVariants = {
-  animate: { rotate: 360, transition: { duration: 3, ease: 'linear', repeat: Infinity } }
-}
+// 主按钮光泽扫过（纯 CSS ::after hover）
+// 旋转指示器
+const spinVariants = { animate: { rotate: 360, transition: { duration: 1.5, ease: 'linear', repeat: Infinity } } }
 ```
+
+### Mesh 背景动画（CSS keyframes）
+
+三个 Mesh 节点各自独立的漂浮动画，周期 22-32s，纯 CSS，无 JS 帧开销。
 
 ---
 
@@ -274,102 +270,67 @@ const spinVariants = {
 ### 按钮
 
 ```
-主按钮（Primary）:
-  background: var(--gold-grad)
-  color: #1a1408（深棕，与金色形成高对比）
-  border-radius: var(--radius-md)
-  padding: 14px 24px
-  font-size: var(--text-md)
-  font-weight: 500
-  tap: scale(0.96) spring
-
-次按钮（Secondary）:
-  background: transparent
-  border: 1px solid var(--border-base)
-  color: var(--text-primary)
-  hover: border-color → var(--border-gold), color → var(--text-gold)
-
-幽灵按钮（Ghost）:
-  background: transparent
-  border: none
-  color: var(--text-secondary)
-  用于「返回」「跳过」等低优先级操作
+主按钮（Primary）:  gold-grad + hover 光泽扫过（::after）+ whileTap scale(0.96)
+次按钮（Secondary）: surface-1 + border-base, hover → border-gold + text-gold
+幽灵（Ghost）:       transparent，text-secondary，低优先级操作
 ```
 
 ### 输入框
 
-登录页使用**底部下划线样式**（无边框感，配合全屏暗色背景更沉浸）：
-
-```css
-.input-underline {
-  background: transparent;
-  border: none;
-  border-bottom: 1px solid var(--border-base);
-  color: var(--text-primary);
-  padding: 12px 0;
-}
-.input-underline:focus {
-  border-bottom-color: var(--gold-base);
-  box-shadow: 0 2px 0 rgba(201,168,76,0.4);
-}
+```
+登录页（底部下划线）: input-underline
+表单输入（完整边框）: input-glass（blur 12px，focus → border-gold + gold-glow shadow）
 ```
 
-普通场景（提现申请表单等）使用**完整边框输入框**：
+### 徽章
 
 ```css
-.input {
-  background: var(--surface-1);
-  border: 1px solid var(--border-base);
-  border-radius: var(--radius-md);
-  padding: 12px 16px;
-}
-.input:focus {
-  border-color: var(--gold-base);
-  box-shadow: 0 0 0 3px rgba(201,168,76,0.12);
-}
+.glass-badge        /* 普通：surface-1，border-base */
+.glass-badge-gold   /* 金色：gold-glow，border-gold */
+.glass-badge-purple /* 紫色：purple-glow，border-purple */
 ```
 
-### 报告页模块（最重要的组件）
+### 报告页模块（最重要，严格管控）
 
 ```css
 .report-module {
-  background: var(--surface-1);
-  border: 1px solid var(--border-gold);    /* 金色边框 */
-  border-radius: var(--radius-lg);
-  padding: 20px;
-  box-shadow: var(--shadow-glass), var(--shadow-gold);  /* 光晕效果 */
-  margin-bottom: 16px;
+  border: 1px solid var(--border-gold);
+  box-shadow: var(--shadow-glass), var(--shadow-gold);  /* 金色光晕 */
 }
 ```
 
-**严格规定：** `--shadow-gold` 只允许出现在报告展示页的内容模块上。任何其他场景滥用会破坏「报告 = 有价值」的视觉信号。
+**红线：** `--shadow-gold` 只允许出现在报告展示页的内容模块。任何其他场景滥用破坏"报告 = 有价值"的信号。
+
+### ThemeToggle（主题切换）
+
+- 固定在 `fixed top-5 right-5 z-50`
+- `theme-toggle` 类：36×36 圆形玻璃按钮，hover → border-gold + text-gold
+- ☀️ 暗色模式显示（点击切换到亮色），🌙 亮色模式显示（点击切换回暗色）
 
 ---
 
 ## 管理端规范
 
-管理端（`/admin/*`）使用独立视觉语言，不共享应用端暗色系统：
+管理端（`/admin/*`）使用独立视觉语言，不共享应用端设计：
 
 - 组件库：Ant Design
 - 背景：白色（`#fff`）
 - 顶部导航：`#1a1a2e`（深色）
-- 正文色：`#1a1a1a`
-- 辅助色：Ant Design 默认系统色
-- 优先级：功能 > 美观。管理端不需要特别设计，用 Ant Design 默认即可。
-- **不**移动端适配，1280px 桌面优先。
+- **不** 移动端适配，1280px 桌面优先
+- 优先级：功能 > 美观
 
 ---
 
 ## 合规文案（强制展示）
 
 ```
-报告页底部（固定）：
+报告页底部：
 本报告由 AI 根据您的描述生成，仅供参考，不构成专业职业、心理或法律建议。
 
 输入页按钮下方：
 AI生成内容仅供参考，不构成专业职业/心理建议
 
-我的邀请页面：
+邀请页面：
 本平台采用单级分销机制，邀请人仅对直接邀请的用户产生佣金，与多级传销无关。
 ```
 
@@ -379,9 +340,12 @@ AI生成内容仅供参考，不构成专业职业/心理建议
 
 | 日期 | 决策 | 原因 |
 |------|------|------|
-| 2026-04-02 | 初始设计系统建立 | /design-consultation 基于产品文档生成 |
-| 2026-04-02 | 字体选择系统默认 + Geist 数字补充 | 中文 H5 必须走系统字体，Geist 仅用于数字，加载代价极低 |
-| 2026-04-02 | 汉字大字距 0.18em（仅模块标题） | 差异化：无其他 AI 工具这样做，「铭文感」强化报告价值 |
-| 2026-04-02 | 报告模块金色光晕（shadow-gold） | 付费内容必须在视觉上「发光」，强化 ¥28.8 的价值感 |
-| 2026-04-02 | 纸质颗粒纹理 2% opacity | 打破纯数字感，与「内观」产品名的古意契合；低端机需测试 |
-| 2026-04-02 | --gold-grad 仅用于主 CTA 按钮 | 金色渐变稀缺性原则，泛用则失去强调效果 |
+| 2026-04-02 | 初始 Luxury Minimal Dark 设计建立 | /design-consultation 首版 |
+| 2026-04-03 | 全面升级为 Mesh Gradient Glassmorphism | 用户要求高端毛玻璃 + 渐变网格背景 |
+| 2026-04-03 | 三色 Mesh 节点（紫罗兰 + 鎏金 + 青碧） | 色彩对比度充足，与金色品牌色形成层次不平凡的搭配 |
+| 2026-04-03 | Light/Dark 双模式 + data-theme 属性 + localStorage 持久化 | 用户强需求；防 FOUC 通过 initTheme() 在首帧前注入 |
+| 2026-04-03 | 三层玻璃深度（blur 20/24/32px） | 与背景 Mesh 形成 Z 轴空间感；单层 blur 会失去层次 |
+| 2026-04-03 | 主按钮 ::after hover 光泽扫过 | 高端感微交互，无 JS 帧开销，CSS only |
+| 2026-04-03 | ThemeToggle fixed top-5 right-5 | 全局可访问，不干扰内容布局 |
+| 2026-04-03 | 报告模块保留金色光晕（shadow-gold） | 付费内容必须视觉上"发光"；升级后仍是核心价值信号 |
+| 2026-04-02 | 汉字大字距 0.18em（仅模块标题 2-6 字） | 铭文感差异化；此次重构保留 |

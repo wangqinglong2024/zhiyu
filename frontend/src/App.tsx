@@ -1,8 +1,13 @@
 /**
  * 路由配置：React Router v6
+ * 全局背景层：MeshBackground (z:0) + ParticleLayer (z:1)
+ * 业务页面内容统一在 z:2+ 渲染
  */
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { AnimatePresence } from 'framer-motion'
+
+import MeshBackground from './components/layout/MeshBackground'
+import ParticleLayer from './components/layout/ParticleLayer'
 
 import LoginPage from './pages/LoginPage'
 import HomePage from './pages/HomePage'
@@ -17,6 +22,12 @@ import WithdrawPage from './pages/WithdrawPage'
 export default function App() {
   return (
     <BrowserRouter>
+      {/* z-0：动态渐变网格（三色 Blob） */}
+      <MeshBackground />
+      {/* z-1：Three.js 粒子层（透明 canvas） */}
+      <ParticleLayer />
+
+      {/* z-2+：所有业务页面内容 */}
       <AnimatePresence mode="wait">
         <Routes>
           {/* 公开路由 */}

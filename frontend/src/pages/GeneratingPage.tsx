@@ -1,20 +1,25 @@
 /**
- * AI 生成中页：展示进度动画，轮询到 completed 后跳转报告页
+ * AI 生成中页：进度动画 + 轮询跳转
+ * 背景层由 App.tsx 全局注入，本页内容在 z:2
  */
 import { useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
-import MeshBackground from '../components/layout/MeshBackground'
 import { useOrderStatus } from '../hooks/useOrderStatus'
 import { useAuth } from '../hooks/useAuth'
 
-const steps = ['理解你的困境...', '识别核心症结...', '推演三条路径...', '生成认知升维...']
+const steps = [
+  { text: '理解你的困境...' },
+  { text: '识别核心症结...' },
+  { text: '推演三条路径...' },
+  { text: '生成认知升维...' },
+]
 
 export default function GeneratingPage() {
   useAuth()
   const { orderId } = useParams<{ orderId: string }>()
-  const navigate = useNavigate()
-  const { data } = useOrderStatus(orderId)
+  const navigate    = useNavigate()
+  const { data }    = useOrderStatus(orderId)
 
   useEffect(() => {
     if (data?.status === 'completed') {
@@ -25,61 +30,78 @@ export default function GeneratingPage() {
   }, [data, orderId, navigate])
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-5 max-w-app mx-auto">
-      <MeshBackground />
+    <div
+      className="relative min-h-screen flex items-center justify-center px-5"
+      style={{ zIndex: 2 }}
+    >
       <motion.div
         className="text-center w-full"
+        style={{ maxWidth: 420 }}
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.5 }}
       >
-        {/* 旋转光环 */}
-        <div className="relative w-24 h-24 mx-auto mb-8">
+        {/* 双层旋转光环 */}
+        <div className="relative w-28 h-28 mx-auto mb-10">
+          {/* 外环（慢转） */}
           <motion.div
-            className="absolute inset-0 rounded-full border-2"
-            style={{ borderColor: 'var(--border-gold)', borderTopColor: 'var(--gold-base)' }}
+            className="absolute inset-0 rounded-full border"
+            style={{ borderColor: 'rgba(14,165,233,0.25)', borderTopColor: '#0ea5e9', borderWidth: 1.5 }}
             animate={{ rotate: 360 }}
-            transition={{ duration: 3, ease: 'linear', repeat: Infinity }}
+            transition={{ duration: 4, ease: 'linear', repeat: Infinity }}
           />
-          <div
-            className="absolute inset-3 rounded-full"
-            style={{ background: 'var(--gold-glow)' }}
+          {/* 内环（快转，反向） */}
+          <motion.div
+            className="absolute inset-3 rounded-full border"
+            style={{ borderColor: 'rgba(253,166,175,0.25)', borderBottomColor: '#fda4af', borderWidth: 1 }}
+            animate={{ rotate: -360 }}
+            transition={{ duration: 2.5, ease: 'linear', repeat: Infinity }}
           />
-          <span
-            className="absolute inset-0 flex items-center justify-center text-2xl"
-            style={{ color: 'var(--text-gold)' }}
+          {/* 中心光晕 */}
+          <motion.div
+            className="absolute inset-6 rounded-full flex items-center justify-center"
+            style={{ background: 'rgba(14,165,233,0.10)' }}
+            animate={{ opacity: [0.6, 1, 0.6] }}
+            transition={{ duration: 2, ease: 'easeInOut', repeat: Infinity }}
           >
-            ✦
-          </span>
+            <span style={{ color: 'var(--accent-text)', fontSize: 20 }}>✦</span>
+          </motion.div>
         </div>
 
-        <h2 className="text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+        <h2 className="text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
           AI 正在分析中
         </h2>
-        <p className="text-sm mb-8" style={{ color: 'var(--text-secondary)' }}>
-          通常需要 30-60 秒，请耐心等待
+        <p className="text-sm mb-10" style={{ color: 'var(--text-secondary)' }}>
+          通常需要 30–60 秒，请耐心等待
         </p>
 
-        {/* 步骤指示 */}
-        <div className="flex flex-col gap-2 text-left max-w-[280px] mx-auto">
-          {steps.map((step, i) => (
-            <motion.div
-              key={step}
-              className="flex items-center gap-3 text-sm"
-              initial={{ opacity: 0.3 }}
-              animate={{ opacity: [0.3, 1, 0.3] }}
-              transition={{
-                duration: 2,
-                ease: 'easeInOut',
-                repeat: Infinity,
-                delay: i * 0.5,
-              }}
-              style={{ color: 'var(--text-secondary)' }}
-            >
-              <span style={{ color: 'var(--text-gold)' }}>›</span>
-              {step}
-            </motion.div>
-          ))}
+        {/* 步骤卡片 */}
+        <div className="glass-card p-6 max-w-xs mx-auto">
+          <div className="flex flex-col gap-4">
+            {steps.map((step, i) => (
+              <motion.div
+                key={step.text}
+                className="flex items-center gap-3 text-sm"
+                initial={{ opacity: 0.25 }}
+                animate={{ opacity: [0.25, 1, 0.25] }}
+                transition={{
+                  duration: 2.4,
+                  ease: 'easeInOut',
+                  repeat: Infinity,
+                  delay: i * 0.6,
+                }}
+              >
+                <motion.span
+                  style={{ color: 'var(--accent)', fontSize: 10 }}
+                  animate={{ scale: [1, 1.5, 1] }}
+                  transition={{ duration: 2.4, repeat: Infinity, delay: i * 0.6 }}
+                >
+                  ●
+                </motion.span>
+                <span style={{ color: 'var(--text-secondary)' }}>{step.text}</span>
+              </motion.div>
+            ))}
+          </div>
         </div>
       </motion.div>
     </div>

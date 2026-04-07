@@ -1,6 +1,6 @@
 /**
  * 报告展示卡片（核心症结 / 三条路径 / 认知升维）
- * 严格遵循 DESIGN.md：金色边框 + shadow-gold 只在此处使用
+ * Sky accent 边框 + glass shadow，遵循 Rose + Sky + Amber 三色体系
  */
 import { motion } from 'framer-motion'
 import type { ReportData } from '../../types/api'
@@ -46,8 +46,8 @@ export default function ReportCard({ report }: Props) {
         <h3 className="report-section-title mb-4">三条路径</h3>
         <div className="flex flex-col gap-4">
           {report.paths.map((path, idx) => (
-            <div key={idx} className="border-l-2 pl-4" style={{ borderColor: 'var(--border-gold)' }}>
-              <p className="font-medium mb-1" style={{ color: 'var(--text-gold)' }}>
+            <div key={idx} className="border-l-2 pl-4" style={{ borderColor: 'var(--border-sky)' }}>
+              <p className="font-medium mb-1" style={{ color: 'var(--text-sky)' }}>
                 {idx + 1}. {path.title}
               </p>
               <p className="text-base mb-2" style={{ color: 'var(--text-primary)' }}>
@@ -87,7 +87,7 @@ export default function ReportCard({ report }: Props) {
         >
           <p
             className="text-lg font-semibold italic leading-relaxed"
-            style={{ color: 'var(--text-gold)', letterSpacing: '0.04em' }}
+            style={{ color: 'var(--text-sky)', letterSpacing: '0.04em' }}
           >
             "{report.quote}"
           </p>

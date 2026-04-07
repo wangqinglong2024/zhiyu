@@ -37,8 +37,8 @@ async def send_sms_code(phone: str) -> None:
         if settings.app_env == "production":
             logger.error(f"[SMS ERROR] SMS API key not configured in production! Phone: {phone[:3]}****{phone[7:]}")
             raise RuntimeError("SMS service not configured")
-        # 开发/演示模式：记录日志（不含 OTP 明文）
-        logger.warning(f"[SMS MOCK] phone={phone[:3]}****{phone[7:]} (SMS key not configured, code stored in memory)")
+        # 开发模式：在日志中打印验证码，方便本地测试
+        logger.warning(f"[SMS MOCK] phone={phone[:3]}****{phone[7:]}  >>>  验证码: {code}  <<<  (仅开发环境，生产禁用)")
         return
 
     try:

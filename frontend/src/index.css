@@ -1,0 +1,491 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   内观 AI 认知镜 — Mesh Gradient Glassmorphism Design System
+   双模式：[data-theme="dark"]（默认）/ [data-theme="light"]
+   ============================================================ */
+
+/* ── 暗色模式（默认） ── */
+:root,
+[data-theme="dark"] {
+  /* 背景基色 */
+  --bg-base:        #080812;
+  --bg-overlay:     rgba(8, 8, 18, 0.85);
+
+  /* Mesh 渐变节点颜色（动画版） */
+  --mesh-node-1:    rgba(124, 58, 237, 0.22);   /* 紫罗兰 */
+  --mesh-node-2:    rgba(201, 168, 76, 0.18);   /* 鎏金 */
+  --mesh-node-3:    rgba(20, 184, 166, 0.14);   /* 青碧 */
+  --mesh-node-4:    rgba(236, 72, 153, 0.10);   /* 玫瑰（点缀） */
+  --mesh-node-5:    rgba(59, 130, 246, 0.10);   /* 星蓝（点缀） */
+
+  /* 静态 Mesh 背景（兜底，不支持动画时使用） */
+  --bg-mesh: radial-gradient(ellipse 65% 55% at 12% 18%, var(--mesh-node-1) 0%, transparent 65%),
+             radial-gradient(ellipse 55% 45% at 88% 22%, var(--mesh-node-2) 0%, transparent 60%),
+             radial-gradient(ellipse 70% 60% at 55% 85%, var(--mesh-node-3) 0%, transparent 65%),
+             radial-gradient(ellipse 50% 40% at 80% 65%, var(--mesh-node-4) 0%, transparent 55%),
+             radial-gradient(ellipse 45% 38% at 20% 72%, var(--mesh-node-5) 0%, transparent 55%),
+             radial-gradient(ellipse 100% 100% at 50% 50%, #0D0B1A 0%, #080812 100%);
+
+  /* 玻璃面板（三层深度） */
+  --surface-1:      rgba(255, 255, 255, 0.055);  /* 卡片底层 */
+  --surface-2:      rgba(255, 255, 255, 0.09);   /* 浮层 / hover 态 */
+  --surface-3:      rgba(255, 255, 255, 0.13);   /* 模态框 / 最高层 */
+  --surface-input:  rgba(255, 255, 255, 0.04);   /* 输入框 */
+
+  /* 边框 */
+  --border-soft:    rgba(255, 255, 255, 0.06);
+  --border-base:    rgba(255, 255, 255, 0.11);
+  --border-bright:  rgba(255, 255, 255, 0.20);
+  --border-gold:    rgba(201, 168, 76, 0.40);
+  --border-purple:  rgba(124, 58, 237, 0.35);
+
+  /* 玻璃高亮边（顶部亮线，物理感） */
+  --glass-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.14);
+  --glass-shadow:    0 8px 32px rgba(0, 0, 0, 0.45), var(--glass-highlight);
+
+  /* 鎏金体系 */
+  --gold-light:     #EDD07E;
+  --gold-base:      #C9A84C;
+  --gold-dark:      #A8872E;
+  --gold-glow:      rgba(201, 168, 76, 0.18);
+  --gold-grad:      linear-gradient(135deg, #A8872E 0%, #C9A84C 45%, #EDD07E 100%);
+
+  /* 紫罗兰体系（辅助色） */
+  --purple-light:   #A78BFA;
+  --purple-base:    #7C3AED;
+  --purple-glow:    rgba(124, 58, 237, 0.20);
+  --purple-grad:    linear-gradient(135deg, #6D28D9 0%, #7C3AED 50%, #A78BFA 100%);
+
+  /* 青碧体系（辅助色） */
+  --teal-base:      #14B8A6;
+  --teal-glow:      rgba(20, 184, 166, 0.18);
+
+  /* 文字 */
+  --text-primary:   #F0EDE8;
+  --text-secondary: rgba(240, 237, 232, 0.62);
+  --text-muted:     rgba(240, 237, 232, 0.36);
+  --text-disabled:  rgba(240, 237, 232, 0.20);
+  --text-gold:      #C9A84C;
+  --text-purple:    #A78BFA;
+
+  /* 语义颜色 */
+  --success:        #34D399;
+  --warning:        #FBBF24;
+  --error:          #F87171;
+  --info:           #60A5FA;
+
+  /* 阴影体系 */
+  --shadow-glass:   0 8px 32px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.14);
+  --shadow-gold:    0 0 40px rgba(201, 168, 76, 0.22), 0 0 80px rgba(201, 168, 76, 0.08);
+  --shadow-purple:  0 0 40px rgba(124, 58, 237, 0.20);
+  --shadow-elevated:0 24px 64px rgba(0, 0, 0, 0.65);
+  --shadow-card:    0 4px 24px rgba(0, 0, 0, 0.30), inset 0 1px 0 rgba(255, 255, 255, 0.10);
+}
+
+/* ── 亮色模式 ── */
+[data-theme="light"] {
+  --bg-base:        #F0EEFF;
+  --bg-overlay:     rgba(240, 238, 255, 0.88);
+
+  --mesh-node-1:    rgba(124, 58, 237, 0.10);
+  --mesh-node-2:    rgba(201, 168, 76, 0.18);
+  --mesh-node-3:    rgba(20, 184, 166, 0.10);
+  --mesh-node-4:    rgba(236, 72, 153, 0.07);
+  --mesh-node-5:    rgba(59, 130, 246, 0.08);
+
+  --bg-mesh: radial-gradient(ellipse 65% 55% at 12% 18%, var(--mesh-node-1) 0%, transparent 65%),
+             radial-gradient(ellipse 55% 45% at 88% 22%, var(--mesh-node-2) 0%, transparent 60%),
+             radial-gradient(ellipse 70% 60% at 55% 85%, var(--mesh-node-3) 0%, transparent 65%),
+             radial-gradient(ellipse 50% 40% at 80% 65%, var(--mesh-node-4) 0%, transparent 55%),
+             radial-gradient(ellipse 45% 38% at 20% 72%, var(--mesh-node-5) 0%, transparent 55%),
+             radial-gradient(ellipse 100% 100% at 50% 50%, #EAE5FF 0%, #F0EEFF 100%);
+
+  --surface-1:      rgba(255, 255, 255, 0.55);
+  --surface-2:      rgba(255, 255, 255, 0.72);
+  --surface-3:      rgba(255, 255, 255, 0.88);
+  --surface-input:  rgba(255, 255, 255, 0.45);
+
+  --border-soft:    rgba(0, 0, 0, 0.05);
+  --border-base:    rgba(0, 0, 0, 0.09);
+  --border-bright:  rgba(0, 0, 0, 0.18);
+  --border-gold:    rgba(201, 168, 76, 0.45);
+  --border-purple:  rgba(124, 58, 237, 0.30);
+
+  --glass-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.80);
+  --glass-shadow:    0 8px 32px rgba(100, 80, 180, 0.12), var(--glass-highlight);
+
+  --gold-light:     #EDD07E;
+  --gold-base:      #B8922A;
+  --gold-dark:      #96740F;
+  --gold-glow:      rgba(184, 146, 42, 0.16);
+  --gold-grad:      linear-gradient(135deg, #96740F 0%, #B8922A 45%, #D4AA50 100%);
+
+  --purple-light:   #7C3AED;
+  --purple-base:    #6D28D9;
+  --purple-glow:    rgba(109, 40, 217, 0.14);
+  --purple-grad:    linear-gradient(135deg, #5B21B6 0%, #6D28D9 50%, #7C3AED 100%);
+
+  --teal-base:      #0D9488;
+  --teal-glow:      rgba(13, 148, 136, 0.14);
+
+  --text-primary:   #1A1530;
+  --text-secondary: rgba(26, 21, 48, 0.62);
+  --text-muted:     rgba(26, 21, 48, 0.38);
+  --text-disabled:  rgba(26, 21, 48, 0.20);
+  --text-gold:      #B8922A;
+  --text-purple:    #6D28D9;
+
+  --success:        #059669;
+  --warning:        #D97706;
+  --error:          #DC2626;
+  --info:           #2563EB;
+
+  --shadow-glass:   0 8px 32px rgba(100, 80, 180, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.80);
+  --shadow-gold:    0 0 32px rgba(184, 146, 42, 0.20);
+  --shadow-purple:  0 0 32px rgba(109, 40, 217, 0.14);
+  --shadow-elevated:0 24px 64px rgba(80, 60, 160, 0.18);
+  --shadow-card:    0 4px 24px rgba(100, 80, 180, 0.10), inset 0 1px 0 rgba(255, 255, 255, 0.70);
+}
+
+/* ============================================================
+   全局基础样式
+   ============================================================ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  /* 主题颜色跟随系统 fallback */
+  color-scheme: dark light;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-base);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans SC', sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  /* 平滑主题切换 */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* 纸质颗粒纹理（2.5% opacity，增加高级感） */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.028;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+  background-size: 200px 200px;
+}
+
+/* ============================================================
+   Mesh 背景动画
+   ============================================================ */
+
+/* Mesh 节点 1：紫罗兰，左上漂浮 */
+@keyframes meshFloat1 {
+  0%   { transform: translate(0, 0) scale(1); }
+  33%  { transform: translate(3%, 2%) scale(1.05); }
+  66%  { transform: translate(-2%, 4%) scale(0.97); }
+  100% { transform: translate(0, 0) scale(1); }
+}
+
+/* Mesh 节点 2：鎏金，右上漂浮 */
+@keyframes meshFloat2 {
+  0%   { transform: translate(0, 0) scale(1); }
+  40%  { transform: translate(-4%, 3%) scale(1.06); }
+  70%  { transform: translate(2%, -2%) scale(0.96); }
+  100% { transform: translate(0, 0) scale(1); }
+}
+
+/* Mesh 节点 3：青碧，底部漂浮 */
+@keyframes meshFloat3 {
+  0%   { transform: translate(0, 0) scale(1); }
+  30%  { transform: translate(5%, -3%) scale(1.04); }
+  65%  { transform: translate(-3%, 2%) scale(1.07); }
+  100% { transform: translate(0, 0) scale(1); }
+}
+
+/* 全局 Mesh 呼吸感 */
+@keyframes meshBreath {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.85; }
+}
+
+/* ============================================================
+   工具类
+   ============================================================ */
+
+/* 玻璃面板：三层深度 */
+.glass-panel {
+  background: var(--surface-1);
+  backdrop-filter: blur(20px) saturate(140%);
+  -webkit-backdrop-filter: blur(20px) saturate(140%);
+  border: 1px solid var(--border-base);
+  border-radius: 16px;
+  box-shadow: var(--shadow-glass);
+  transition: background 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.glass-panel-2 {
+  background: var(--surface-2);
+  backdrop-filter: blur(24px) saturate(150%);
+  -webkit-backdrop-filter: blur(24px) saturate(150%);
+  border: 1px solid var(--border-bright);
+  border-radius: 16px;
+  box-shadow: var(--shadow-glass);
+  transition: background 0.25s ease, border-color 0.25s ease;
+}
+
+.glass-panel-3 {
+  background: var(--surface-3);
+  backdrop-filter: blur(32px) saturate(160%);
+  -webkit-backdrop-filter: blur(32px) saturate(160%);
+  border: 1px solid var(--border-bright);
+  border-radius: 20px;
+  box-shadow: var(--shadow-elevated);
+}
+
+/* hover 态增强 */
+.glass-panel-hover:hover {
+  background: var(--surface-2);
+  border-color: var(--border-bright);
+  box-shadow: var(--shadow-glass), 0 0 0 1px var(--border-soft);
+}
+
+/* 报告模块（金色光晕 — 仅限报告页） */
+.report-module {
+  background: var(--surface-1);
+  backdrop-filter: blur(20px) saturate(140%);
+  -webkit-backdrop-filter: blur(20px) saturate(140%);
+  border: 1px solid var(--border-gold);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: var(--shadow-glass), var(--shadow-gold);
+  margin-bottom: 16px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.report-module:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-glass), var(--shadow-gold), 0 12px 40px rgba(201, 168, 76, 0.15);
+}
+
+/* 报告模块标题（铭文感大字距） */
+.report-section-title {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  color: var(--text-gold);
+}
+
+/* ── 按钮 ── */
+.btn-primary {
+  background: var(--gold-grad);
+  color: #1a1408;
+  border: none;
+  border-radius: 12px;
+  padding: 14px 24px;
+  font-size: 17px;
+  font-weight: 500;
+  cursor: pointer;
+  width: 100%;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* 主按钮光泽扫过效果 */
+.btn-primary::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 60%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.20), transparent);
+  transition: left 0.5s ease;
+}
+.btn-primary:hover::after { left: 150%; }
+.btn-primary:active { opacity: 0.88; }
+.btn-primary:disabled { opacity: 0.38; cursor: not-allowed; }
+.btn-primary:disabled::after { display: none; }
+
+.btn-secondary {
+  background: var(--surface-1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-base);
+  color: var(--text-primary);
+  border-radius: 12px;
+  padding: 12px 24px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
+}
+.btn-secondary:hover {
+  border-color: var(--border-gold);
+  color: var(--text-gold);
+  background: var(--surface-2);
+}
+
+/* ── 输入框 ── */
+
+/* 底部下划线（登录页） */
+.input-underline {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--border-base);
+  color: var(--text-primary);
+  padding: 12px 0;
+  font-size: 15px;
+  width: 100%;
+  outline: none;
+  caret-color: var(--gold-base);
+  transition: border-color 0.2s ease;
+}
+.input-underline:focus {
+  border-bottom-color: var(--gold-base);
+  box-shadow: 0 2px 0 var(--gold-glow);
+}
+.input-underline::placeholder { color: var(--text-muted); }
+
+/* 完整边框输入框 */
+.input-glass {
+  background: var(--surface-input);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-base);
+  border-radius: 12px;
+  color: var(--text-primary);
+  padding: 12px 16px;
+  font-size: 15px;
+  width: 100%;
+  outline: none;
+  caret-color: var(--gold-base);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.input-glass:focus {
+  border-color: var(--gold-base);
+  box-shadow: 0 0 0 3px var(--gold-glow);
+}
+.input-glass::placeholder { color: var(--text-muted); }
+
+/* ── 数字字体 ── */
+.font-num {
+  font-family: 'Geist', 'Geist Mono', ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── 渐变文字 ── */
+.text-gradient-gold {
+  background: var(--gold-grad);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-purple {
+  background: var(--purple-grad);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── 玻璃标签 / 徽章 ── */
+.glass-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  background: var(--surface-1);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--border-base);
+  border-radius: 9999px;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.glass-badge-gold {
+  background: var(--gold-glow);
+  border-color: var(--border-gold);
+  color: var(--text-gold);
+}
+
+.glass-badge-purple {
+  background: var(--purple-glow);
+  border-color: var(--border-purple);
+  color: var(--text-purple);
+}
+
+/* ── 主题切换按钮 ── */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: var(--surface-1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-base);
+  border-radius: 9999px;
+  cursor: pointer;
+  color: var(--text-secondary);
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+.theme-toggle:hover {
+  background: var(--surface-2);
+  border-color: var(--border-gold);
+  color: var(--text-gold);
+}
+
+/* ── 卡片进入动画 ── */
+@keyframes cardFadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.card-enter {
+  animation: cardFadeUp 0.35s ease-out forwards;
+}
+
+/* ── 分隔线 ── */
+.divider {
+  border: none;
+  border-top: 1px solid var(--border-soft);
+  margin: 16px 0;
+}
+
+/* ── 滚动条美化（暗色） ── */
+[data-theme="dark"] ::-webkit-scrollbar { width: 4px; }
+[data-theme="dark"] ::-webkit-scrollbar-track { background: transparent; }
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 9999px;
+}
+
+/* ── 滚动条美化（亮色） ── */
+[data-theme="light"] ::-webkit-scrollbar { width: 4px; }
+[data-theme="light"] ::-webkit-scrollbar-track { background: transparent; }
+[data-theme="light"] ::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.18);
+  border-radius: 9999px;
+}
+
+/* ── 安全区适配（iPhone 底部） ── */
+.safe-bottom { padding-bottom: env(safe-area-inset-bottom, 16px); }
+.safe-top    { padding-top:    env(safe-area-inset-top,    0px);  }
