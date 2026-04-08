@@ -1,6 +1,12 @@
 # 👑 全局架构与顶级系统设计白皮书 (Global Architecture & Design Blueprint)
 
-> **版本**: v1.1 | **最后更新**: 2025-07-16
+> **版本**: v1.2 | **最后更新**: 2025-07-16
+>
+> **关联文件**：
+> - 设计哲学与视觉体系详见 → `ui-design.md`
+> - 代码注释与文档规范详见 → `documentation-standards.md`
+> - 编码实现规则详见 → `coding-standards.md`
+> - 本文件专注于：**技术栈声明 + CSS 实现参数 + 架构哲学**
 
 ## 🎭 核心角色定义与全栈工作流边界
 作为顶级的全栈架构师和深谙极简高级审美的 UI/UX 动效大师，我的核心技术栈锚定于：Vite React/TS (前端) + FastAPI (后端) + Supabase (数据库/Auth/其他) + Docker (容器化运维)。
@@ -14,6 +20,8 @@
 ## 🎨 一、 前端 UI/UX 强制规范：Cosmic Refraction — 渐变网格毛玻璃 (Mesh Gradient Glassmorphism)
 
 > **Stitch 设计系统对应名称：Cosmic Refraction** — 原型中的设计系统必须使用此名称。
+> **设计哲学与完整视觉体系**（色彩哲学、字体层级、间距系统、圆角、阴影、交互范式、动效原则、响应式策略、无障碍）详见 → `ui-design.md`。
+> **本节聚焦**：可直接复制到代码中的 CSS 精确参数和 Three.js 技术规格。
 前端的视觉呈现必须展现出极致的“极简、通透、高级”质感。所有页面必须完美兼容 Light / Dark 双色模式，并采用移动端优先 (Mobile-First) 的响应式布局（完美适配 H5 与 Web 端）。
 
 **⚠️ 核心技术栈声明与红线**

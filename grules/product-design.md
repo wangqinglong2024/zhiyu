@@ -301,7 +301,7 @@
 - [ ] 核心用户动线在屏幕间的跳转逻辑合理
 - [ ] 没有 PRD 中未提及的多余功能（防止范围蔓延）
 
-**与 `rules.md` UI 规范一致性检查**：
+**与 `rules.md` + `ui-design.md` UI 规范一致性检查**：
 - [ ] 项目已应用 "Cosmic Refraction" 设计系统
 - [ ] 色彩体系正确：Primary=Rose (#e11d48)、Secondary=Sky (#0284c7)、Tertiary=Amber (#d97706)
 - [ ] **无任何紫色元素**（按钮、链接、装饰、背景、阴影）
