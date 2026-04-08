@@ -1,4 +1,4 @@
-# UI/UE 设计规范 (UI/UX Design Standards)
+# UI/UX 设计规范 (UI/UX Design Standards)
 
 > **版本**: v1.0 | **最后更新**: 2025-07-16
 >
