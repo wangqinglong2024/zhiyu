@@ -124,7 +124,7 @@ React App (主框架)
 ├── 游戏容器（React 组件包装 Phaser Canvas）
 │   └── Phaser 3 Game Instance
 │       ├── 关卡场景 (LevelScene) — 知识教学/词汇战役/汉字书写/听力挑战
-│       ├── 小游戏场景 (MiniGameScene) — 消消乐/过山车/连连看
+│       ├── 小游戏场景 (MiniGameScene) — 声调狙击手/部首大爆炸/拼音漂移
 │       ├── 过场动画场景 (CutsceneScene) — 剧情对话 + 字幕
 │       └── PvP 场景 (PvPScene, v1.1)
 │
@@ -179,8 +179,8 @@ React App (主框架)
 │   ├── /subscribe/ # 会员订阅
 │   ├── /coins/     # Coins 充值
 │   └── /webhook/   # 支付回调
-├── /referral/      # 分享佣金系统
-│   ├── /link/      # 生成推荐链接
+├── /referral/      # 推广链接自动绑定佣金系统
+│   ├── /bindlink/  # 推广链接生成 + 注册时自动绑定推荐关系
 │   ├── /stats/     # 推荐统计数据
 │   └── /withdraw/  # 佣金提现
 └── /admin/         # 管理后台 API
