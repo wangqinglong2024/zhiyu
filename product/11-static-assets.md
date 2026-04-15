@@ -12,9 +12,9 @@
 | 类别 | 预估数量 | 生成方式 |
 |------|---------|---------|
 | 世界地图插画 | 4-5 张 | Flux AI 生成 |
-| 角色立绘 | 6 组（每组 3-4 个表情） | Flux AI 生成 |
+| 角色立绘 | 8 组（每组 3-4 个表情） | Flux AI 生成 |
 | 过场动画背景 | 8 张 | Flux AI 生成 |
-| 预设头像 | 6 个 | Flux AI 生成 |
+| 预设头像 | 12 个 | Flux AI 生成 |
 | Landing Page 主视觉 | 1 张 | Flux AI 生成 |
 | 分享海报模板 | 1 张 | Flux AI + 设计工具 |
 | UI 图标 | 约 40 个 | SVG 手工 / 图标库 |
@@ -121,14 +121,15 @@ text, letters, UI elements, watermark
 
 | 编号 | 角色名 | 表情变体 | 文件名格式 | 单图尺寸 |
 |------|--------|---------|-----------|---------|
-| CHAR-01 | Xiǎo Lóng（小龙） | 开心、惊讶、思考、鼓励 | char-xiaolong-{emotion}.png | 512 × 1024 px |
-| CHAR-02 | Mei Lì（美丽老师） | 微笑、讲解、赞许、严肃 | char-meili-{emotion}.png | 512 × 1024 px |
-| CHAR-03 | Tùng（阿松/玩家化身） | 开心、困惑、自信、紧张 | char-tung-{emotion}.png | 512 × 1024 px |
-| CHAR-04 | Boss：声调大王 | 威严、生气、被击败 | char-boss-tone-{emotion}.png | 512 × 1024 px |
-| CHAR-05 | Boss：笔画怪 | 狡猾、攻击、被击败 | char-boss-stroke-{emotion}.png | 512 × 1024 px |
-| CHAR-06 | Boss：语法守卫 | 冷酷、战斗、被击败 | char-boss-grammar-{emotion}.png | 512 × 1024 px |
+| CHAR-01 | 阿明（Minh）—越南青年主角 | 开心、惊讶、思考、自信 | char-minh-{emotion}.png | 512 × 1024 px |
+| CHAR-02 | 小龙（Xiǎo Lóng）—可爱龙精灵引导 | 开心、讲解、鼓励、紧张 | char-xiaolong-{emotion}.png | 512 × 1024 px |
+| CHAR-03 | 美丽老师（Měi Lì）—汉字谷地 NPC | 微笑、讲解、赞许、严肃 | char-meili-{emotion}.png | 512 × 1024 px |
+| CHAR-04 | 声调守卫—Boss 1 | 威严、生气、被击败 | char-boss-tone-{emotion}.png | 512 × 1024 px |
+| CHAR-05 | 汉字封印师—Boss 2 | 神秘、攻击、被击败 | char-boss-seal-{emotion}.png | 512 × 1024 px |
+| CHAR-06 | 集市掌柜—Boss 3 | 狡猰、得意、被击败 | char-boss-market-{emotion}.png | 512 × 1024 px |
+| CHAR-07 | 语法将军—Boss 4 | 冷酷、战斗、被击败 | char-boss-grammar-{emotion}.png | 512 × 1024 px |
 
-> 合计约 22 张角色立绘图片。
+> 合计约 24 张角色立绘图片。
 
 ### 3.2 Flux AI Prompt — 角色统一风格
 
@@ -142,7 +143,21 @@ consistent art style across all characters.
 Game visual novel character art. High quality, detailed but clean lines.
 ```
 
-#### CHAR-01 小龙（开心）
+#### CHAR-01 阿明（开心）
+
+```
+{Style prefix}
+A Vietnamese teenage boy, age ~20, wearing a modern casual outfit: 
+white t-shirt with a small star logo, light blue jacket, jeans, sneakers. 
+Short black hair, bright cheerful expression, giving a thumbs up. 
+Energetic and relatable protagonist character.
+Standing pose, transparent background, 512x1024 pixels.
+
+Negative prompt:
+dark, gloomy, purple, low quality, western features, child
+```
+
+#### CHAR-02 小龙（开心）
 
 ```
 {Style prefix}
@@ -156,7 +171,7 @@ Negative prompt:
 scary, realistic dragon, western dragon, dark, purple, gloomy, low quality
 ```
 
-#### CHAR-02 美丽老师（微笑）
+#### CHAR-03 美丽老师（微笑）
 
 ```
 {Style prefix}
@@ -168,20 +183,6 @@ Standing pose, transparent background, 512x1024 pixels.
 
 Negative prompt:
 revealing clothing, sexy, dark, purple, gloomy, low quality, western features
-```
-
-#### CHAR-03 阿松/玩家化身（开心）
-
-```
-{Style prefix}
-A Vietnamese teenage boy, age ~16, wearing a modern casual outfit: 
-white t-shirt with a small star logo, light blue jacket, jeans, sneakers. 
-Short black hair, bright cheerful expression, giving a thumbs up. 
-Energetic and relatable protagonist character.
-Standing pose, transparent background, 512x1024 pixels.
-
-Negative prompt:
-dark, gloomy, purple, low quality, western features, adult
 ```
 
 ---
@@ -266,6 +267,12 @@ realistic photo, people, dark and scary, purple, low quality, watermark, text
 | AVT-04 | 学者兔 | avatar-rabbit.png |
 | AVT-05 | 武士狗 | avatar-dog.png |
 | AVT-06 | 凤凰鸟 | avatar-phoenix.png |
+| AVT-07 | 功夫猴 | avatar-monkey.png |
+| AVT-08 | 锦鲤鱼 | avatar-koi.png |
+| AVT-09 | 仙鹤 | avatar-crane.png |
+| AVT-10 | 小老虎 | avatar-tiger.png |
+| AVT-11 | 竹叶蛇 | avatar-snake.png |
+| AVT-12 | 月兔 | avatar-moonrabbit.png |
 
 尺寸：256 × 256 px（正方形，圆形裁切显示）
 
@@ -295,6 +302,25 @@ pastel orange circular background.
 
 AVT-06: A cute chibi phoenix bird with colorful tail feathers spread, 
 pastel red circular background.
+
+AVT-07: A cute chibi monkey doing a kung fu pose, golden headband, 
+pastel peach circular background.
+
+AVT-08: A cute chibi koi fish jumping out of water with sparkles, 
+red-gold scales, pastel aqua circular background.
+
+AVT-09: A cute chibi crane bird standing gracefully, white feathers 
+with red cap, pastel lavender circular background.
+
+AVT-10: A cute chibi baby tiger cub sitting, orange stripes, big 
+sparkly eyes, pastel coral circular background.
+
+AVT-11: A cute chibi green snake coiled playfully around a bamboo 
+branch, friendly expression, pastel mint circular background.
+
+AVT-12: A cute chibi rabbit sitting on a crescent moon, holding a 
+tiny mortar and pestle (jade rabbit myth), pastel purple circular 
+background.
 
 Negative prompt (all):
 scary, realistic, dark, purple, low quality, blurry, text, watermark
@@ -610,7 +636,7 @@ realistic photo, dark, gloomy, purple, low quality, blurry, text overlay, waterm
 | 世界地图 | 4 个区域地图背景完成，风格一致 |
 | 角色立绘 | 6 个角色各表情变体完成，透明背景 |
 | 过场背景 | 8 张场景背景完成 |
-| 头像 | 6 个预设头像完成 |
+| 头像 | 12 个预设头像完成 |
 | 图标 | 所有 UI 图标可用（SVG） |
 | 徽章 | 25 个徽章彩色版完成 |
 | 音效 | 15 个音效文件可播放 |
