@@ -1,6 +1,7 @@
-# 成就徽章 — 详细规格与 Flux 提示词
+# 成就徽章 — 详细规格与 FLUX 2 提示词
 
 > **关联文档**: [成就荣誉 PRD](../09-achievement-honor.md)
+> **对齐版本**: 严格对齐 PRD-09 定义的 25 枚徽章
 
 ---
 
@@ -27,516 +28,401 @@
 | 银 | 亮银色金属边框 | 进阶成就 |
 | 金 | 璀璨金色金属边框 + 微发光 | 高级成就 |
 
-```
-Style Prefix（所有徽章共用）:
-A circular game achievement medal/badge icon, 256x256px. Round metallic 
-frame border, centered icon illustration inside. Clean cel-shaded style 
-with slight metallic sheen on the border. Vibrant colors, clear readable 
-icon at small sizes. Transparent background outside the circle.
-Trendy modern game achievement aesthetic.
-
-Negative Prefix:
-realistic photo, dark gloomy, blurry, low quality, text, watermark, 
-non-circular shape, complex background, multiple icons
-```
-
 ---
 
-## 一、学习进度类（6 枚）
+## 一、学习进度类（7 枚）
 
-### BADGE-01: 初出茅庐
+### BADGE-01: 第一步（Bước đầu tiên）
 
 | 属性 | 值 |
 |------|-----|
-| 文件名 | `badge-first-lesson.webp` |
+| 文件名 | `badge-first-step.webp` |
 | 等级 | 铜 |
-| 解锁条件 | 完成第一个关卡 |
+| 解锁条件 | 完成第 1 关 |
 | 图标描述 | 一只小脚印踏出第一步，背景是一条发光的路 |
 
 ```
-{Style Prefix}
-Bronze metallic circular frame. Inside: a single small footprint stepping 
-onto a glowing golden path that extends into the distance. The footprint 
-has a cute sparkle effect. Warm sunrise colors in the background (orange 
-to yellow gradient). Symbolizes "first step on the journey".
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Bronze metallic circular frame border with warm copper-brown sheen. Inside the medal: a single cute footprint stepping onto a glowing golden path that extends into the distance with sparkle effects. The footprint glows softly. Background inside the circle is a warm sunrise gradient from orange to soft yellow. Clean cel-shaded illustration style, vibrant colors, clear and readable at small sizes. Trendy modern mobile game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-02: 拼音入门
+### BADGE-02: 拼音毕业（Tốt nghiệp Pīnyīn）
 
 | 属性 | 值 |
 |------|-----|
-| 文件名 | `badge-pinyin-start.webp` |
+| 文件名 | `badge-pinyin-graduate.webp` |
+| 等级 | 银 |
+| 解锁条件 | 通关拼音群岛全部 20 关 |
+| 图标描述 | 毕业帽放在拼音字母上方，海浪装饰 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine. Inside the medal: a small graduation cap (mortarboard) floating above a stylized Pinyin letter "ā" with a cute face, surrounded by tropical ocean waves and palm tree silhouettes. Turquoise and silver color scheme with sparkle confetti effects. Clean cel-shaded illustration style, vibrant colors, readable at small sizes. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-03: 汉字大师（Bậc thầy Hán tự）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-hanzi-master.webp` |
+| 等级 | 银 |
+| 解锁条件 | 通关汉字谷地全部 15 关 |
+| 图标描述 | 毛笔在金色墨水中写字，古风山谷背景 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished sheen. Inside the medal: an elegant Chinese calligraphy brush writing a luminous golden Chinese character with flowing strokes, ink splatter sparkle effects. Behind the brush: a misty jade-green mountain valley silhouette. Dark navy background contrasting with golden calligraphy. Clean cel-shaded illustration style, scholarly and elegant. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-04: 词汇之王（Vua từ vựng）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-vocab-king.webp` |
+| 等级 | 银 |
+| 解锁条件 | 通关词汇平原全部 15 关 |
+| 图标描述 | 装满发光汉字的宝箱，集市灯笼装饰 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with warm sheen. Inside the medal: an open ornate treasure chest overflowing with glowing Chinese characters floating upward. Small red paper lanterns hanging at top corners. Characters in warm colors (gold, amber, coral). Sparkle and light ray effects emanating from the chest. Clean cel-shaded illustration style, vibrant colors. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-05: 旅途完成（Hoàn thành hành trình）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-journey-complete.webp` |
+| 等级 | 金 |
+| 解锁条件 | 通关全部 60 关（4 个区域） |
+| 图标描述 | 学士帽 + 卷轴 + 四区域小图标环绕 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with brilliant golden glow and sparkle effects. Inside the medal: a graduation cap (mortarboard) floating above a rolled diploma scroll tied with red ribbon. Around the cap: four tiny icons representing game zones — a turquoise wave (Pinyin Islands), a jade mountain (Hanzi Valley), a golden market stall (Vocab Plains), a steel castle tower (Grammar Fortress). Confetti and star particles celebrating. Warm golden light fills the scene. Clean cel-shaded illustration, premium and celebratory. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-06: 完美之星（Sao hoàn hảo）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-perfect-star.webp` |
 | 等级 | 铜 |
-| 解锁条件 | 完成拼音群岛第 1 章 |
-| 图标描述 | 字母 "a" 在海浪上冲浪 |
+| 解锁条件 | 任意关卡获得 3 星 |
+| 图标描述 | 三颗金星叠放，发光光芒 |
 
 ```
-{Style Prefix}
-Bronze metallic circular frame. Inside: a stylized Pinyin letter "a" 
-character surfing on a tropical wave, the letter has a cute face with 
-determined expression. Ocean spray and sparkle effects. Turquoise and 
-gold color scheme. Fun and dynamic.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Bronze metallic circular frame border with warm copper sheen. Inside the medal: three brilliant five-pointed golden stars arranged in a row, each star has a glossy metallic shine with white highlight at top point. Warm golden glow and starburst light rays radiating outward. Small sparkle particles scattered around the stars. Sky blue gradient background inside. Clean cel-shaded illustration, bright and rewarding. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-03: 声调达人
+### BADGE-07: 绝对完美（Hoàn hảo tuyệt đối）
 
 | 属性 | 值 |
 |------|-----|
-| 文件名 | `badge-tone-master.webp` |
-| 等级 | 银 |
-| 解锁条件 | 四声识别准确率 ≥ 90% |
-| 图标描述 | 四个声调符号环绕一个音叉 |
-
-```
-{Style Prefix}
-Silver metallic circular frame with polished shine. Inside: a golden tuning 
-fork in the center, vibrating with energy waves. Four tone marks (ˉ ˊ ˇ ˋ) 
-orbiting around it in blue, green, gold, and red respectively, leaving 
-small trail effects. Musical note particles scattered.
-
-{Negative Prefix}
-```
-
-### BADGE-04: 汉字学者
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-hanzi-scholar.webp` |
-| 等级 | 银 |
-| 解锁条件 | 累计学习 100 个汉字 |
-| 图标描述 | 一支毛笔在金色墨水中写字 |
-
-```
-{Style Prefix}
-Silver metallic circular frame. Inside: an elegant Chinese calligraphy 
-brush writing a Chinese character in luminous golden ink, the character 
-partially formed with flowing golden strokes. Ink splatter sparkle effects. 
-Dark navy background contrasting with golden calligraphy. Scholarly and 
-elegant.
-
-{Negative Prefix}
-```
-
-### BADGE-05: 词汇宝库
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-vocab-vault.webp` |
+| 文件名 | `badge-absolute-perfect.webp` |
 | 等级 | 金 |
-| 解锁条件 | 累计学习 500 个词汇 |
-| 图标描述 | 装满发光汉字的宝箱 |
+| 解锁条件 | 全部 60 关都获得 3 星 |
+| 图标描述 | 钻石棱镜折射三星光芒 + 皇冠 |
 
 ```
-{Style Prefix}
-Gold metallic circular frame with soft golden glow. Inside: an open ornate 
-treasure chest overflowing with glowing Chinese characters floating upward 
-from inside. Characters in various warm colors (gold, amber, coral). 
-Sparkle and light ray effects emanating from the chest. Rich and rewarding.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with radiant golden glow and elaborate filigree engravings. Inside the medal: a sparkling diamond prism in the center refracting rainbow light into three large brilliant golden stars arranged in a triangle formation. A small golden crown floats above the prism. Lens flare and starburst effects. Dazzling premium feel. Clean cel-shaded illustration. Modern game achievement aesthetic.
 
-{Negative Prefix}
-```
-
-### BADGE-06: 毕业典礼
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-graduation.webp` |
-| 等级 | 金 |
-| 解锁条件 | 完成所有 4 个区域 |
-| 图标描述 | 学士帽 + 卷轴 + 四区域小图标 |
-
-```
-{Style Prefix}
-Gold metallic circular frame with golden sparkle glow. Inside: a graduation 
-cap (mortarboard) floating above a rolled diploma scroll tied with red 
-ribbon. Around the cap: four tiny icons representing the game zones — a 
-wave (Pinyin), a mountain (Hanzi), a market stall (Vocab), a castle tower 
-(Grammar). Confetti and star particles celebrating. Warm golden light.
-
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
 ---
 
 ## 二、连续学习类（4 枚）
 
-### BADGE-07: 三日打卡
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-streak-3.webp` |
-| 等级 | 铜 |
-| 解锁条件 | 连续学习 3 天 |
-| 图标描述 | 3 颗小火焰排成一排 |
-
-```
-{Style Prefix}
-Bronze metallic circular frame. Inside: three small stylized flame icons 
-in a row, each slightly different size (growing left to right), warm 
-orange-gold gradient. Small "3" number subtly integrated. Warm ember 
-particles around flames.
-
-{Negative Prefix}
-```
-
-### BADGE-08: 周打卡
+### BADGE-08: 周打卡（7 ngày liên tục）
 
 | 属性 | 值 |
 |------|-----|
 | 文件名 | `badge-streak-7.webp` |
-| 等级 | 银 |
+| 等级 | 铜 |
 | 解锁条件 | 连续学习 7 天 |
 | 图标描述 | 一周日历图标，每天都有火焰标记 |
 
 ```
-{Style Prefix}
-Silver metallic circular frame. Inside: a stylized calendar/week view with 
-7 columns, each topped with a burning flame icon forming a continuous fire 
-streak across all 7 days. Calendar in warm cream, flames in orange-gold 
-gradient. Dynamic upward energy.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Bronze metallic circular frame border with warm copper sheen. Inside the medal: a stylized calendar week view with 7 columns, each topped with a small burning flame icon forming a continuous fire streak across all 7 days. Calendar in warm cream color, flames in orange-to-gold gradient. Dynamic upward energy feeling. Clean cel-shaded illustration, vibrant warm colors. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-09: 月打卡
+### BADGE-09: 月打卡（30 ngày kiên trì）
 
 | 属性 | 值 |
 |------|-----|
 | 文件名 | `badge-streak-30.webp` |
-| 等级 | 金 |
+| 等级 | 银 |
 | 解锁条件 | 连续学习 30 天 |
-| 图标描述 | 巨大的火焰变成了凤凰形状 |
+| 图标描述 | 火焰变成凤凰形状 |
 
 ```
-{Style Prefix}
-Gold metallic circular frame with golden aura glow. Inside: a magnificent 
-stylized flame that has transformed into a phoenix shape, wings spread 
-wide, flaming tail feathers. Golden-orange-red fire gradient. Sparkle 
-particle trail. Majestic and impressive, symbolizing sustained dedication.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine. Inside the medal: a magnificent stylized flame that has transformed into a phoenix bird shape with wings spread wide and flaming tail feathers. Golden-orange-red fire gradient coloring. Sparkle particle trail behind the phoenix. Majestic and impressive, symbolizing sustained dedication. Clean cel-shaded illustration. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-10: 百日之约
+### BADGE-10: 百日不停（100 ngày không dừng）
 
 | 属性 | 值 |
 |------|-----|
 | 文件名 | `badge-streak-100.webp` |
-| 等级 | 金（特殊动画） |
+| 等级 | 金 |
 | 解锁条件 | 连续学习 100 天 |
 | 图标描述 | 金龙环绕的 "100" |
 
 ```
-{Style Prefix}
-Gold metallic circular frame with elaborate ornate engravings and glowing 
-rim. Inside: the number "100" in bold golden 3D metallic text, with a 
-small cute golden Chinese dragon coiled around the numbers. Dragon's eyes 
-sparkle with stars. Firework-like particle effects in background. Premium 
-and celebratory feel.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with elaborate ornate engravings and glowing rim. Inside the medal: the number "100" in bold golden 3D metallic text, with a small cute golden Chinese dragon coiled around the numbers. Dragon eyes sparkle with star catchlights. Firework-like particle effects in the background. Premium and celebratory feel. Clean cel-shaded illustration. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-11: 一年同行（Một năm đồng hành）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-streak-365.webp` |
+| 等级 | 金（传奇） |
+| 解锁条件 | 连续学习 365 天 |
+| 图标描述 | 金色太阳绕地球一圈 + 龙尾巴光迹 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with diamond-encrusted sparkling rim and animated glow effect. Inside the medal: a golden sun orbiting around a small stylized Earth globe, leaving a trail of golden dragon-tail fire that forms a complete circle. The trail is made of 365 tiny sparkle dots. Background is deep space indigo with star constellations. Epic and legendary achievement feel. Clean cel-shaded illustration. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
 ---
 
-## 三、迷你游戏类（5 枚）
+## 三、词汇掌握类（4 枚）
 
-### BADGE-11: 声调神射手
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-tone-sniper.webp` |
-| 等级 | 银 |
-| 解锁条件 | 声调狙击手单局满分 |
-| 图标描述 | 准星中心命中声调符号 |
-
-```
-{Style Prefix}
-Silver metallic circular frame. Inside: a cyan-blue neon crosshair/reticle 
-with a golden tone mark "ˇ" in the exact center, hit effect burst radiating 
-outward. Small score "100%" in tiny text. Precise and satisfying.
-
-{Negative Prefix}
-```
-
-### BADGE-12: 部首拆解王
+### BADGE-12: 初识十词（10 từ đầu tiên）
 
 | 属性 | 值 |
 |------|-----|
-| 文件名 | `badge-radical-king.webp` |
-| 等级 | 银 |
-| 解锁条件 | 部首大爆炸单局完美通关 |
-| 图标描述 | 汉字从碎片完美组合 + 皇冠 |
-
-```
-{Style Prefix}
-Silver metallic circular frame. Inside: a Chinese character "字" assembled 
-from glowing puzzle pieces clicking into place, with a small golden crown 
-floating above it. Assembly completion sparkle effect. Jade green and gold 
-color scheme.
-
-{Negative Prefix}
-```
-
-### BADGE-13: 拼音飞车手
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-drift-racer.webp` |
-| 等级 | 银 |
-| 解锁条件 | 拼音漂移单局时间记录前 10% |
-| 图标描述 | 赛车拖着拼音字母尾迹 |
-
-```
-{Style Prefix}
-Silver metallic circular frame. Inside: a small turquoise racing car 
-speeding from left to right, leaving a trail of glowing Pinyin letters 
-(a, o, e, i, u) in its wake like exhaust trail. Motion blur lines. 
-Dynamic speed feeling. Neon cyan and gold.
-
-{Negative Prefix}
-```
-
-### BADGE-14: 全能玩家
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-all-rounder.webp` |
-| 等级 | 金 |
-| 解锁条件 | 三个迷你游戏各获得 ≥ 3 星 |
-| 图标描述 | 三个迷你游戏图标组合 + 三颗星 |
-
-```
-{Style Prefix}
-Gold metallic circular frame with golden glow. Inside: three small game 
-icons arranged in a triangle — a crosshair (Tone Sniper), a puzzle piece 
-(Radical Blitz), a car (Pinyin Drift). Three golden stars floating above. 
-A ribbon banner wrapping around the bottom. Premium all-around achievement.
-
-{Negative Prefix}
-```
-
-### BADGE-15: Boss 克星
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-boss-slayer.webp` |
-| 等级 | 金 |
-| 解锁条件 | 击败所有 4 个 Boss |
-| 图标描述 | 四把交叉的武器 + 碎裂盾牌 |
-
-```
-{Style Prefix}
-Gold metallic circular frame with fiery glow. Inside: four stylized game 
-weapons arranged in an X-cross pattern — a sword, a brush, an abacus, 
-and a book. In the center: a cracked dark shield/emblem breaking apart. 
-Behind: dramatic red and gold burst effect. Powerful and triumphant.
-
-{Negative Prefix}
-```
-
----
-
-## 四、社交类（5 枚）
-
-### BADGE-16: 初次邀请
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-first-referral.webp` |
+| 文件名 | `badge-vocab-10.webp` |
 | 等级 | 铜 |
-| 解锁条件 | 成功邀请 1 位好友 |
-| 图标描述 | 两个手拉手的小人 |
+| 解锁条件 | 掌握度 ≥ 80% 的词达到 10 个 |
+| 图标描述 | 一本打开的小书，10 个汉字浮出 |
 
 ```
-{Style Prefix}
-Bronze metallic circular frame. Inside: two cute simplified character 
-silhouettes holding hands, one slightly taller. A small glowing link/chain 
-icon connecting them. Warm friendly colors (turquoise and gold). Heart 
-sparkle above their joined hands.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Bronze metallic circular frame border with warm copper sheen. Inside the medal: a small open book with pages fanning out, ten tiny glowing Chinese characters floating upward from the pages in a gentle arc. Characters glow in warm amber-gold color. Small sparkle effects around each character. Soft warm gradient background. Clean cel-shaded illustration, inviting and encouraging. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-17: 推荐达人
+### BADGE-13: 五十精通（50 từ thành thạo）
 
 | 属性 | 值 |
 |------|-----|
-| 文件名 | `badge-referral-pro.webp` |
+| 文件名 | `badge-vocab-50.webp` |
 | 等级 | 银 |
-| 解锁条件 | 成功邀请 10 位好友 |
-| 图标描述 | 一群小人围在一起 + 扩音器 |
+| 解锁条件 | 掌握度 ≥ 80% 的词达到 50 个 |
+| 图标描述 | 书架上的多本书 + 发光汉字旋涡 |
 
 ```
-{Style Prefix}
-Silver metallic circular frame. Inside: a small megaphone/loudspeaker 
-icon emitting sound waves, and multiple tiny character silhouettes 
-gathering around in a semi-circle. Numbers "10+" subtly shown. Community 
-and influence feeling. Warm coral and gold.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine. Inside the medal: a small ornate bookshelf with multiple colorful books, above it a spiral vortex of glowing Chinese characters swirling upward. Characters in varying warm colors (gold, amber, coral, jade). Energy sparkle effects within the vortex. Rich scholarly atmosphere. Clean cel-shaded illustration, vibrant colors. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-18: 超级推荐官
+### BADGE-14: 百词大师（100 từ bậc thầy）
 
 | 属性 | 值 |
 |------|-----|
-| 文件名 | `badge-referral-super.webp` |
+| 文件名 | `badge-vocab-100.webp` |
 | 等级 | 金 |
-| 解锁条件 | 推荐收益累计达到 $100 |
-| 图标描述 | 金色皇冠 + 人群 + 钻石 |
+| 解锁条件 | 掌握度 ≥ 80% 的词达到 100 个 |
+| 图标描述 | 脑中发光 + "100" + 汉字光环 |
 
 ```
-{Style Prefix}
-Gold metallic circular frame with premium sparkle. Inside: a golden crown 
-at the top, below it a glowing diamond/gem, surrounded by a network graph 
-of connected dots (representing a referral network). Golden light rays. 
-VIP and prestigious feeling. Rich gold and royal purple accents.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with brilliant golden glow. Inside the medal: a stylized human head silhouette profile facing right, brain area glowing with golden light. The number "100" in metallic gold text overlaid on the brain. A halo of tiny Chinese characters orbiting around the head like electrons around an atom. Knowledge and mastery symbolism. Clean cel-shaded illustration, premium feel. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-19: 会员先锋
+### BADGE-15: 全词库通关（Toàn bộ từ vựng）
 
 | 属性 | 值 |
 |------|-----|
-| 文件名 | `badge-first-member.webp` |
-| 等级 | 银 |
-| 解锁条件 | 首次开通会员 |
-| 图标描述 | 闪亮的会员卡 |
-
-```
-{Style Prefix}
-Silver metallic circular frame. Inside: a stylized premium membership card 
-floating at a slight angle, golden/holographic surface with star pattern, 
-small crown icon on the card. Subtle rainbow holographic sheen effect. 
-Light rays emanating from behind the card. Premium and exclusive.
-
-{Negative Prefix}
-```
-
-### BADGE-20: 年度会员
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-annual-member.webp` |
+| 文件名 | `badge-vocab-all.webp` |
 | 等级 | 金 |
-| 解锁条件 | 开通年度会员 |
-| 图标描述 | 钻石镶嵌的 VIP 徽章 |
+| 解锁条件 | 所有词汇掌握度 ≥ 80% |
+| 图标描述 | 金色宝典发光 + 勾选标记 + 汉字光芒 |
 
 ```
-{Style Prefix}
-Gold metallic circular frame with diamond-encrusted border effect. Inside: 
-a shield-shaped VIP emblem with a large sparkling diamond at center, 
-"VIP" letters in metallic gold below. Laurel wreath decoration on sides. 
-Royal purple velvet background inside the shield. Luxurious and exclusive.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with radiant golden glow and sparkle rim. Inside the medal: a large ornate golden book (treasure tome) standing upright, cover engraved with Chinese dragon motif. A bright green check mark hovers above the book. Chinese characters burst outward from the opened top in a fountain of golden light. Completion and mastery symbolism. Clean cel-shaded illustration, premium celebratory feel. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
 ---
 
-## 五、特殊/隐藏类（5 枚）
+## 四、迷你游戏类（4 枚）
 
-### BADGE-21: 夜猫子
+### BADGE-16: 游戏玩家（Game thủ）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-gamer.webp` |
+| 等级 | 铜 |
+| 解锁条件 | 任意迷你游戏玩满 10 次 |
+| 图标描述 | 游戏手柄 + "10" + 星星 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Bronze metallic circular frame border with warm copper sheen. Inside the medal: a cute stylized game controller/gamepad in neon turquoise and gold colors, glowing softly. The number "10" in small bold text at bottom. Three small stars scattered around the controller. Playful sparkle effects. Clean cel-shaded illustration, fun and inviting. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-17: 声调射手（Xạ thủ thanh điệu）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-tone-shooter.webp` |
+| 等级 | 银 |
+| 解锁条件 | Tone Sniper 最高连击 ≥ 50 |
+| 图标描述 | 准星中心命中声调符号 + "50" 连击 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine. Inside the medal: a cyan-blue neon crosshair reticle with a golden tone mark "ˇ" in the exact center, hit effect burst radiating outward in warm gold sparks. Small "x50" combo text in neon cyan at bottom. Precise and satisfying visual. Clean cel-shaded illustration, dynamic energy. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-18: 组装师（Nhà lắp ráp）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-assembler.webp` |
+| 等级 | 银 |
+| 解锁条件 | Radical Blitz 单局 ≥ 500 分 |
+| 图标描述 | 汉字从碎片完美组合 + "500" 分 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine. Inside the medal: a Chinese character "好" assembled from glowing puzzle pieces clicking into place with assembly completion sparkle effect. A small golden "500" score text at the bottom. Jade green and warm gold color scheme. Clean cel-shaded illustration, satisfying puzzle-complete feel. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-19: 拼音赛车手（Tay đua Pīnyīn）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-pinyin-racer.webp` |
+| 等级 | 银 |
+| 解锁条件 | Pinyin Drift 连续正确 ≥ 30 |
+| 图标描述 | 赛车拖着拼音字母尾迹 + "30" 连正确 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine. Inside the medal: a small turquoise racing car speeding from left to right, leaving a trail of glowing Pinyin letters (a, o, e, i, u) in its wake like exhaust trail. Motion blur speed lines. Small "x30" text in neon cyan at bottom right. Dynamic speed feeling. Clean cel-shaded illustration, neon cyan and gold colors. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+---
+
+## 五、社交类（3 枚）
+
+### BADGE-20: 推荐人（Người giới thiệu）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-referral-1.webp` |
+| 等级 | 铜 |
+| 解锁条件 | 成功推荐 1 位好友注册 |
+| 图标描述 | 两个手拉手的小人 + 心形 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Bronze metallic circular frame border with warm copper sheen. Inside the medal: two cute simplified character silhouettes holding hands, one slightly taller than the other. A small glowing chain-link icon connecting them. A heart sparkle floats above their joined hands. Warm friendly colors — turquoise silhouettes on soft warm gold background. Clean cel-shaded illustration. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-21: 大使（Đại sứ）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-ambassador.webp` |
+| 等级 | 银 |
+| 解锁条件 | 成功推荐 10 位好友注册 |
+| 图标描述 | 扩音器 + 人群聚集 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine. Inside the medal: a stylized megaphone loudspeaker icon emitting colorful sound waves, multiple tiny character silhouettes gathering around in a semi-circle below. "10+" subtly shown in small text. Community and influence feeling. Warm coral and gold color scheme with sparkle effects. Clean cel-shaded illustration. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+### BADGE-22: 影响力大师（Người có ảnh hưởng）
+
+| 属性 | 值 |
+|------|-----|
+| 文件名 | `badge-influencer.webp` |
+| 等级 | 金 |
+| 解锁条件 | 成功推荐 50 位好友注册 |
+| 图标描述 | 金色皇冠 + 人群网络 + 光芒 |
+
+```
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with premium golden sparkle glow. Inside the medal: a golden crown at the top, below it a network graph of connected glowing dots representing a large referral network. "50" in bold golden metallic text at center. Golden light rays emanating outward. VIP and prestigious feeling. Rich gold and royal purple accent colors. Clean cel-shaded illustration. Modern game achievement aesthetic.
+
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
+```
+
+---
+
+## 六、特殊/隐藏类（3 枚）
+
+### BADGE-23: 夜猫子（Cú đêm）🔒
 
 | 属性 | 值 |
 |------|-----|
 | 文件名 | `badge-night-owl.webp` |
 | 等级 | 铜（隐藏） |
 | 解锁条件 | 凌晨 0:00-5:00 期间完成关卡 |
-| 图标描述 | 可爱的猫头鹰 + 月亮 |
+| 图标描述 | 可爱猫头鹰 + 月亮 + 小书 |
 
 ```
-{Style Prefix}
-Bronze metallic circular frame. Inside: a cute little owl with large round 
-glowing yellow eyes, perched on a branch. A crescent moon behind it. Night 
-sky with stars. The owl holds a tiny book. Cozy midnight blue and golden 
-moon colors.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Bronze metallic circular frame border with warm copper sheen. Inside the medal: a cute little owl with large round glowing yellow eyes, perched on a small branch. A crescent moon behind it in the night sky with tiny stars. The owl holds a tiny open book in its talons. Cozy midnight blue and warm golden moon colors. Clean cel-shaded illustration, adorable and charming. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-22: 闪电学习
+### BADGE-24: 闪电学习（Học nhanh）🔒
 
 | 属性 | 值 |
 |------|-----|
 | 文件名 | `badge-speed-learner.webp` |
 | 等级 | 银（隐藏） |
 | 解锁条件 | 30 分钟内完成一整章关卡 |
-| 图标描述 | 闪电 + 书本翻页特效 |
+| 图标描述 | 闪电击穿书本 + 翻页特效 |
 
 ```
-{Style Prefix}
-Silver metallic circular frame. Inside: a bold neon-yellow lightning bolt 
-striking through an open book that's rapidly flipping pages, pages flying 
-outward. Speed lines and electric sparkle effects. Dynamic and energetic. 
-Cyan and gold color accents.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Silver metallic circular frame border with polished shine and electric sparkle accents. Inside the medal: a bold neon-yellow lightning bolt striking through an open book that is rapidly flipping pages, pages flying outward in all directions. Speed lines and electric sparkle effects. Dynamic and energetic feeling. Cyan and gold color accents on deep blue background. Clean cel-shaded illustration. Modern game achievement aesthetic.
 
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```
 
-### BADGE-23: 完美主义者
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-perfectionist.webp` |
-| 等级 | 金（隐藏） |
-| 解锁条件 | 任意章节所有关卡全部 3 星通关 |
-| 图标描述 | 三颗发光星 + 钻石棱镜 |
-
-```
-{Style Prefix}
-Gold metallic circular frame with radiant glow. Inside: three large 
-brilliant golden stars arranged in a triangle formation, a sparkling 
-diamond prism in the center refracting rainbow light. Lens flare and 
-starburst effects. Perfect, brilliant, dazzling achievement.
-
-{Negative Prefix}
-```
-
-### BADGE-24: 语言桥梁
+### BADGE-25: 语言桥梁（Cầu nối ngôn ngữ）🔒
 
 | 属性 | 值 |
 |------|-----|
 | 文件名 | `badge-language-bridge.webp` |
 | 等级 | 金（隐藏） |
 | 解锁条件 | 使用全部 4 种 UI 语言各完成至少 1 个关卡 |
-| 图标描述 | 四面小旗帜组成的桥 |
+| 图标描述 | 四面小旗帜组成的桥 + 多语河流 |
 
 ```
-{Style Prefix}
-Gold metallic circular frame with rainbow-shimmer border. Inside: a small 
-ornate bridge spanning across, with four tiny flags planted on it — 
-Vietnamese flag, Chinese flag, US/UK flag, and Indonesian flag. Below the 
-bridge: a flowing river of glowing characters from all four languages. 
-Multicultural celebration. Warm and inclusive.
+A circular game achievement medal icon, 256x256 pixels, transparent background outside the circle. Gold metallic circular frame border with rainbow-shimmer border effect. Inside the medal: a small ornate arching bridge spanning across, with four tiny flags planted on it — Vietnamese flag (red with yellow star), Chinese flag (red with stars), US/UK flag, and Indonesian flag (red and white). Below the bridge: a flowing river of glowing text characters from all four languages. Multicultural celebration atmosphere with warm inclusive colors. Clean cel-shaded illustration. Modern game achievement aesthetic.
 
-{Negative Prefix}
-```
-
-### BADGE-25: 龙的传人
-
-| 属性 | 值 |
-|------|-----|
-| 文件名 | `badge-dragon-heir.webp` |
-| 等级 | 金（终极/隐藏） |
-| 解锁条件 | 解锁所有其他成就 |
-| 图标描述 | 小龙进化为金色巨龙 + 所有区域缩影 |
-
-```
-{Style Prefix}
-Gold metallic circular frame with animated glow effect (elaborate golden 
-filigree border). Inside: a majestic golden Chinese dragon (evolved form 
-of the mascot Xiao Long), coiled in a spiral with its body forming a 
-frame around the center. In the center: a glowing orb containing miniature 
-representations of all four game zones. The dragon's eyes are brilliant 
-sapphire blue with star catchlights. Golden light and particle effects 
-throughout. The ultimate achievement badge — prestigious and awe-inspiring.
-
-{Negative Prefix}
+Negative prompt: realistic photo, dark gloomy, blurry, low quality, text, watermark, non-circular shape, complex background, multiple icons
 ```

@@ -55,21 +55,12 @@ text, watermark, UI elements, characters, people
 ### Flux 提示词
 
 ```
-{Style Prefix}
-A wide cinematic panoramic view of a magical tropical archipelago from a 
-beach viewpoint, 16:9 composition. Foreground: golden sandy beach with 
-soft waves lapping the shore, tropical plants and palm fronds framing 
-the left edge. Middle ground: crystal turquoise ocean stretching out. 
-Background: a chain of fantastical islands visible in the distance — each 
-island has a distinct shape, with the largest featuring rock formations 
-that subtly resemble Chinese Pinyin letters. Tiny glowing tone marks 
-(ˉ ˊ ˇ ˋ) float above the islands like fireflies. The sky is a dramatic 
-sunrise gradient from warm golden-orange on the horizon to soft blue above, 
-with wispy clouds. Volumetric god rays streaming through cloud gaps. A 
-faint rainbow arcs across the sky. Dreamy bokeh light particles in the 
-air. The scene conveys wonder, adventure, and a new beginning.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+A wide cinematic panoramic view of a magical tropical archipelago from a beach viewpoint, 16:9 composition. Foreground: golden sandy beach with soft waves lapping the shore, tropical plants and palm fronds framing the left edge. Middle ground: crystal turquoise ocean stretching out. Background: a chain of fantastical islands visible in the distance — each island has a distinct shape, with the largest featuring rock formations that subtly resemble Chinese Pinyin letters. Tiny glowing tone marks (ˉ ˊ ˇ ˋ) float above the islands like fireflies. The sky is a dramatic sunrise gradient from warm golden-orange on the horizon to soft blue above, with wispy clouds. Volumetric god rays streaming through cloud gaps. A faint rainbow arcs across the sky. Dreamy bokeh light particles in the air. The scene conveys wonder, adventure, and a new beginning.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```
 
 ---
@@ -93,21 +84,12 @@ air. The scene conveys wonder, adventure, and a new beginning.
 ### Flux 提示词
 
 ```
-{Style Prefix}
-A dramatic mountain base scene, wide 16:9. Foreground: a rocky path winding 
-upward from the bottom-left, with glowing Pinyin letters embedded in the 
-stones. Middle ground: swirling mist and clouds wrapping around the mountain 
-face. The mountain has four distinct peaks in the background, each shaped 
-like one of the four Chinese tone marks — one flat, one rising, one dipping 
-then rising (V-shape), one falling. The peaks glow faintly in different 
-colors: blue, green, gold, red respectively. Near the summit of the highest 
-peak: a dark silhouette of a warrior figure (the Tone Guardian) standing 
-imposingly, backlit by dramatic orange light. Mystical atmosphere — 
-volumetric fog, floating particles, subtle lightning in distant clouds. 
-Color palette: cool misty blue-gray foreground transitioning to warm 
-orange-gold at the mountain peaks. Ominous but exciting, a challenge ahead.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+A dramatic mountain base scene, wide 16:9. Foreground: a rocky path winding upward from the bottom-left, with glowing Pinyin letters embedded in the stones. Middle ground: swirling mist and clouds wrapping around the mountain face. The mountain has four distinct peaks in the background, each shaped like one of the four Chinese tone marks — one flat, one rising, one dipping then rising (V-shape), one falling. The peaks glow faintly in different colors: blue, green, gold, red respectively. Near the summit of the highest peak: a dark silhouette of a warrior figure (the Tone Guardian) standing imposingly, backlit by dramatic orange light. Mystical atmosphere — volumetric fog, floating particles, subtle lightning in distant clouds. Color palette: cool misty blue-gray foreground transitioning to warm orange-gold at the mountain peaks. Ominous but exciting, a challenge ahead.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```
 
 ---
@@ -131,21 +113,12 @@ orange-gold at the mountain peaks. Ominous but exciting, a challenge ahead.
 ### Flux 提示词
 
 ```
-{Style Prefix}
-Interior of an ancient Chinese academy/study hall, wide 16:9. A grand hall 
-with tall wooden pillars and traditional upturned beam ceiling. The central 
-back wall features a large stone mural/relief showing the evolution of 
-Chinese characters — from ancient pictographs (sun as a circle, moon as 
-a crescent, mountain as three peaks, water as wavy lines) carved into 
-the stone with faint golden glow. Bookshelves line the side walls, filled 
-with scrolls and ancient texts. A long wooden table in the center with 
-ink brush sets, rice paper, and an open thread-bound book. Traditional 
-Chinese paper lanterns hang from the ceiling, casting warm amber light. 
-Dust particles float in sunbeams coming through lattice windows. A small 
-incense brazier with wisps of smoke. The atmosphere is scholarly, ancient, 
-reverent. Warm amber and jade green color palette.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+Interior of an ancient Chinese academy/study hall, wide 16:9. A grand hall with tall wooden pillars and traditional upturned beam ceiling. The central back wall features a large stone mural/relief showing the evolution of Chinese characters — from ancient pictographs (sun as a circle, moon as a crescent, mountain as three peaks, water as wavy lines) carved into the stone with faint golden glow. Bookshelves line the side walls, filled with scrolls and ancient texts. A long wooden table in the center with ink brush sets, rice paper, and an open thread-bound book. Traditional Chinese paper lanterns hang from the ceiling, casting warm amber light. Dust particles float in sunbeams coming through lattice windows. A small incense brazier with wisps of smoke. The atmosphere is scholarly, ancient, reverent. Warm amber and jade green color palette.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```
 
 ---
@@ -169,22 +142,12 @@ reverent. Warm amber and jade green color palette.
 ### Flux 提示词
 
 ```
-{Style Prefix}
-Interior of a mystical museum-like cavern, wide 16:9. The cave walls are 
-smooth and covered with sealed Chinese characters — each character is 
-trapped behind a translucent magical barrier that glows with different 
-colors (jade green, amber gold, sapphire blue). Some characters pulse 
-brighter as if trying to break free. In the center of the cave: a large 
-ancient stone altar with a luminous scroll floating above it, surrounded 
-by orbiting seal symbols. The ceiling has crystal formations that refract 
-light into rainbow patterns. Display pedestals along the walls (museum-like) 
-hold ancient artifacts — bronze vessels with inscriptions, oracle bone 
-fragments, bamboo slip bundles. A mystical purple-blue ambient light fills 
-the lower half, while warm golden light emanates from the sealed characters 
-above. Mysterious fog at ground level. The scene feels like entering a 
-forbidden archive of ancient knowledge.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+Interior of a mystical museum-like cavern, wide 16:9. The cave walls are smooth and covered with sealed Chinese characters — each character is trapped behind a translucent magical barrier that glows with different colors (jade green, amber gold, sapphire blue). Some characters pulse brighter as if trying to break free. In the center of the cave: a large ancient stone altar with a luminous scroll floating above it, surrounded by orbiting seal symbols. The ceiling has crystal formations that refract light into rainbow patterns. Display pedestals along the walls (museum-like) hold ancient artifacts — bronze vessels with inscriptions, oracle bone fragments, bamboo slip bundles. A mystical purple-blue ambient light fills the lower half, while warm golden light emanates from the sealed characters above. Mysterious fog at ground level. The scene feels like entering a forbidden archive of ancient knowledge.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```
 
 ---
@@ -208,21 +171,12 @@ forbidden archive of ancient knowledge.
 ### Flux 提示词
 
 ```
-{Style Prefix}
-A vibrant food street scene combining Vietnamese and Chinese culinary 
-culture, wide 16:9. A bustling narrow street with restaurants and food 
-stalls on both sides. Left side shops have Chinese menu boards with 
-dishes written in Chinese characters: "牛肉粉" "春卷" "火锅" on 
-colorful signboards with neon underglow. Right side: a Vietnamese pho 
-stall with steaming bowls, a bánh mì cart, Chinese BBQ (char siu) hanging 
-in windows. Red paper lanterns strung across the street. Steam and aroma 
-wisps rising from food stalls. Customers' tables with dim sum baskets and 
-chopsticks visible (but no people shown). Warm evening lighting — golden 
-street lamps mixed with colorful neon restaurant signs. Vietnamese tiles 
-on the ground, Chinese-style wooden shop fronts above. Tropical plants 
-in pots along the street. Mouthwatering, lively, cultural fusion atmosphere.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+A vibrant food street scene combining Vietnamese and Chinese culinary culture, wide 16:9. A bustling narrow street with restaurants and food stalls on both sides. Left side shops have Chinese menu boards with dishes written in Chinese characters: "牛肉粉" "春卷" "火锅" on colorful signboards with neon underglow. Right side: a Vietnamese pho stall with steaming bowls, a bánh mì cart, Chinese BBQ (char siu) hanging in windows. Red paper lanterns strung across the street. Steam and aroma wisps rising from food stalls. Customers' tables with dim sum baskets and chopsticks visible (but no people shown). Warm evening lighting — golden street lamps mixed with colorful neon restaurant signs. Vietnamese tiles on the ground, Chinese-style wooden shop fronts above. Tropical plants in pots along the street. Mouthwatering, lively, cultural fusion atmosphere.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```
 
 ---
@@ -246,21 +200,12 @@ in pots along the street. Mouthwatering, lively, cultural fusion atmosphere.
 ### Flux 提示词
 
 ```
-{Style Prefix}
-A bustling fantasy marketplace central square, wide 16:9. An open area 
-surrounded by colorful merchant stalls and shops. Each stall displays 
-different goods: fruits with Chinese price tags, silk fabric rolls, 
-ceramic pots, herbal medicine jars. A large abacus-shaped fountain in 
-the center square. Merchant stalls have ornate awnings in red, gold, and 
-jade green. Price tags and signs in Chinese calligraphy with golden frames. 
-Stacks of gold coins and counting beads scattered decoratively. A large 
-weighing scale balanced on a wooden post. String of calculating beads 
-(abacus beads) as decorative garlands above. Warm late-afternoon golden 
-light. Lanterns beginning to glow as evening approaches. Cultural fusion 
-of Vietnamese market handicrafts and Chinese merchant aesthetics. 
-Prosperous, busy, a place of commerce and challenge.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+A bustling fantasy marketplace central square, wide 16:9. An open area surrounded by colorful merchant stalls and shops. Each stall displays different goods: fruits with Chinese price tags, silk fabric rolls, ceramic pots, herbal medicine jars. A large abacus-shaped fountain in the center square. Merchant stalls have ornate awnings in red, gold, and jade green. Price tags and signs in Chinese calligraphy with golden frames. Stacks of gold coins and counting beads scattered decoratively. A large weighing scale balanced on a wooden post. String of calculating beads (abacus beads) as decorative garlands above. Warm late-afternoon golden light. Lanterns beginning to glow as evening approaches. Cultural fusion of Vietnamese market handicrafts and Chinese merchant aesthetics. Prosperous, busy, a place of commerce and challenge.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```
 
 ---
@@ -284,21 +229,12 @@ Prosperous, busy, a place of commerce and challenge.
 ### Flux 提示词
 
 ```
-{Style Prefix}
-A massive futuristic-ancient Chinese fortress gate, wide 16:9 cinematic. 
-A colossal wall stretching across the frame, combining ancient Chinese 
-Great Wall architecture with futuristic technology — stone blocks with 
-glowing circuit patterns, traditional upturned roof tiles made of 
-holographic material. The central gate is enormous with two red doors 
-featuring golden dragon knockers. Above the gate: a holographic projection 
-showing rotating Chinese sentence structure diagrams (Subject-Verb-Object 
-patterns) in glowing blue light. Guard towers with searchlight beams. 
-Dramatic sky with golden light breaking through clouds above the fortress. 
-Individual Chinese characters floating in the air on the left side (单独), 
-forming into complete sentences on the right side (组合) — visualizing the 
-"words combine into sentences" concept. Red, gold, steel blue color scheme.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+A massive futuristic-ancient Chinese fortress gate, wide 16:9 cinematic. A colossal wall stretching across the frame, combining ancient Chinese Great Wall architecture with futuristic technology — stone blocks with glowing circuit patterns, traditional upturned roof tiles made of holographic material. The central gate is enormous with two red doors featuring golden dragon knockers. Above the gate: a holographic projection showing rotating Chinese sentence structure diagrams (Subject-Verb-Object patterns) in glowing blue light. Guard towers with searchlight beams. Dramatic sky with golden light breaking through clouds above the fortress. Individual Chinese characters floating in the air on the left side (单独), forming into complete sentences on the right side (组合) — visualizing the "words combine into sentences" concept. Red, gold, steel blue color scheme.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```
 
 ---
@@ -322,19 +258,10 @@ forming into complete sentences on the right side (组合) — visualizing the
 ### Flux 提示词
 
 ```
-{Style Prefix}
-An epic throne hall interior, wide 16:9 cinematic. Grand Chinese palace 
-hall reimagined with sci-fi technology. Massive red pillars with golden 
-dragon carvings line both sides, ascending to a high vaulted ceiling with 
-holographic Chinese grammar formulas floating in the air (sentence patterns, 
-measure words, complement structures displayed as glowing diagrams). At the 
-far end: an imposing throne on elevated steps, made of stacked ancient books 
-and scrolls forming a chair shape, with energy shields orbiting around it. 
-Red carpet runner leading to the throne. Floor is polished dark marble 
-reflecting the holograms. Dramatic backlighting behind the throne — golden 
-rays mixed with crimson energy. Side alcoves display trophy scrolls. 
-The atmosphere is tense, epic, final-battle energy. Rich red, gold, and 
-deep blue color palette.
+Digital illustration game background, wide cinematic 16:9 landscape composition, vibrant saturated colors, warm and inviting atmosphere, hand-painted semi-realistic style blending Vietnamese and Chinese cultural elements. Trendy Gen-Z aesthetic — subtle neon accent lights, soft bloom glow effects, dreamy bokeh particles. High detail foreground, softer background layers with atmospheric perspective. Fantasy adventure game quality, story book illustration feel.
 
-{Negative Prefix}
+An epic throne hall interior, wide 16:9 cinematic. Grand Chinese palace hall reimagined with sci-fi technology. Massive red pillars with golden dragon carvings line both sides, ascending to a high vaulted ceiling with holographic Chinese grammar formulas floating in the air (sentence patterns, measure words, complement structures displayed as glowing diagrams). At the far end: an imposing throne on elevated steps, made of stacked ancient books and scrolls forming a chair shape, with energy shields orbiting around it. Red carpet runner leading to the throne. Floor is polished dark marble reflecting the holograms. Dramatic backlighting behind the throne — golden rays mixed with crimson energy. Side alcoves display trophy scrolls. The atmosphere is tense, epic, final-battle energy. Rich red, gold, and deep blue color palette.
+1920x1080 pixels.
+
+Negative prompt: realistic photo, dark gloomy horror, desaturated, ugly, low quality, blurry, text, watermark, UI elements, characters, people
 ```

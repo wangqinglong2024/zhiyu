@@ -11,15 +11,15 @@
 
 | 类别 | 预估数量 | 生成方式 | 详细文档 |
 |------|---------|---------|---------|
-| 世界地图插画 | 5 张 | Flux AI 生成 | [01-world-maps.md](static-assets/01-world-maps.md) |
-| 角色立绘 | 7 角色 × 3-4 表情 ≈ 24 张 | Flux AI 生成 | [02-characters.md](static-assets/02-characters.md) |
-| 过场动画背景 | 8 张（横屏 16:9） | Flux AI 生成 | [03-cutscene-backgrounds.md](static-assets/03-cutscene-backgrounds.md) |
-| 预设头像 | 12 个 | Flux AI 生成 | [04-avatars.md](static-assets/04-avatars.md) |
-| 落地页与营销素材 | 3 张 | Flux AI + 设计工具 | [05-hero-marketing.md](static-assets/05-hero-marketing.md) |
-| 游戏内贴图 | 约 30-50 张 | Flux AI + HTML/CSS | [06-game-textures.md](static-assets/06-game-textures.md) |
-| 徽章图标 | 25 个 | Flux AI 生成 | [07-badges.md](static-assets/07-badges.md) |
-| UI 图标 | 约 40 个 | SVG / 图标库 | [08-ui-icons.md](static-assets/08-ui-icons.md) |
-| 音效与 TTS 语音 | 15 音效 + 6 BGM + ~490 TTS | 音效库 + AI 音乐 + TTS API | [09-audio-tts.md](static-assets/09-audio-tts.md) |
+| 世界地图插画 | 5 张 | FLUX 2 生成 | [01-world-maps.md](static-assets/01-world-maps.md) |
+| 角色立绘 | 3 主角 × 4 表情 + 4 Boss × 3 表情 = 24 张 | FLUX 2 生成 | [02-characters.md](static-assets/02-characters.md) |
+| 过场动画背景 | 8 张（横屏 16:9） | FLUX 2 生成 | [03-cutscene-backgrounds.md](static-assets/03-cutscene-backgrounds.md) |
+| 预设头像 | 12 个 | FLUX 2 生成 | [04-avatars.md](static-assets/04-avatars.md) |
+| 落地页与营销素材 | 3 张 | FLUX 2 + 设计工具 | [05-hero-marketing.md](static-assets/05-hero-marketing.md) |
+| 游戏内贴图 | 约 50-60 张（含 3 张迷你游戏背景） | FLUX 2 + HTML/CSS | [06-game-textures.md](static-assets/06-game-textures.md) |
+| 徽章图标 | 25 个（6 类，对齐 PRD-09） | FLUX 2 生成 | [07-badges.md](static-assets/07-badges.md) |
+| UI 图标 | 约 40 个 | SVG / Lucide React | [08-ui-icons.md](static-assets/08-ui-icons.md) |
+| 音效与 TTS 语音 | 19 音效 + 6 BGM + ~540 TTS | ElevenLabs SFX + Suno AI BGM + Azure TTS | [09-audio-tts.md](static-assets/09-audio-tts.md) |
 
 ### 1.2 横竖屏与响应式处理总策略
 
@@ -57,12 +57,32 @@
 │   ├── map-vocabulary-plains.webp
 │   ├── map-grammar-fortress.webp
 │   └── map-mini-game-island.webp
-├── characters/              ← 角色立绘
+├── characters/              ← 角色立绘（3 主角 + 4 Boss，共 24 张）
 │   ├── char-minh-happy.png
 │   ├── char-minh-surprised.png
+│   ├── char-minh-thinking.png
+│   ├── char-minh-confident.png
 │   ├── char-xiaolong-happy.png
-│   └── ...
-├── backgrounds/             ← 过场动画横屏背景
+│   ├── char-xiaolong-explain.png
+│   ├── char-xiaolong-cheer.png
+│   ├── char-xiaolong-nervous.png
+│   ├── char-meili-smile.png
+│   ├── char-meili-explain.png
+│   ├── char-meili-approve.png
+│   ├── char-meili-serious.png
+│   ├── char-tone-guardian-stern.png
+│   ├── char-tone-guardian-angry.png
+│   ├── char-tone-guardian-defeated.png
+│   ├── char-hanzi-sealer-mystery.png
+│   ├── char-hanzi-sealer-attack.png
+│   ├── char-hanzi-sealer-defeated.png
+│   ├── char-market-master-sly.png
+│   ├── char-market-master-smug.png
+│   ├── char-market-master-defeated.png
+│   ├── char-grammar-general-cold.png
+│   ├── char-grammar-general-battle.png
+│   └── char-grammar-general-defeated.png
+├── backgrounds/             ← 过场动画横屏背景（8 张）
 │   ├── bg-cutscene-pinyin-overview.webp
 │   ├── bg-cutscene-tone-mountain.webp
 │   ├── bg-cutscene-hanzi-academy.webp
@@ -71,34 +91,76 @@
 │   ├── bg-cutscene-market-square.webp
 │   ├── bg-cutscene-grammar-gate.webp
 │   └── bg-cutscene-grammar-throne.webp
-├── avatars/                 ← 预设头像
-│   ├── avatar-panda.png
-│   ├── avatar-dragon.png
-│   └── ...
-├── badges/                  ← 成就徽章
+├── avatars/                 ← 预设头像（12 个）
+│   ├── avatar-panda.webp
+│   ├── avatar-dragon.webp
+│   ├── avatar-cat.webp
+│   ├── avatar-rabbit.webp
+│   ├── avatar-shiba.webp
+│   ├── avatar-phoenix.webp
+│   ├── avatar-monkey.webp
+│   ├── avatar-koi.webp
+│   ├── avatar-crane.webp
+│   ├── avatar-tiger.webp
+│   ├── avatar-snake.webp
+│   └── avatar-moonrabbit.webp
+├── badges/                  ← 成就徽章（25 个，6 类）
 │   ├── badge-first-step.png
-│   └── ...
-├── game/                    ← 游戏内贴图
-│   ├── tone-block-1.png
-│   ├── car-player.png
-│   └── ...
-├── ui/                      ← UI 图标
-│   ├── heart-full.svg
-│   ├── star-full.svg
-│   └── ...
-├── audio/                   ← 音效与语音
-│   ├── sfx/
-│   │   ├── sfx-tap.mp3
-│   │   └── ...
-│   └── tts/
-│       ├── vocab/
-│       ├── cutscene/
-│       └── listening/
+│   ├── badge-pinyin-graduate.png
+│   ├── badge-hanzi-master.png
+│   └── ... (共 25 个)
+├── game/                    ← 游戏内贴图 & 迷你游戏背景
+│   ├── tone-block-1.png ~ tone-block-4.png
+│   ├── tone-crosshair.png
+│   ├── tone-hit-effect.png
+│   ├── radical-piece-template.png
+│   ├── radical-target-frame.png
+│   ├── radical-bomb.png
+│   ├── drift-car.png
+│   ├── drift-pinyin-pickup.png
+│   ├── drift-obstacle.png
+│   ├── drift-powerup-shield.png
+│   ├── drift-powerup-slowmo.png
+│   ├── drift-powerup-double.png
+│   ├── drift-powerup-speed.png
+│   ├── drift-road-tile.png
+│   ├── heart-full.png / heart-half.png / heart-empty.png
+│   ├── star-full.png / star-half.png / star-empty.png
+│   ├── combo-fire.png
+│   ├── boss-hp-frame.png
+│   ├── progress-bar-frame.png
+│   ├── bg-game-tone-sniper.webp
+│   ├── bg-game-radical-blitz.webp
+│   └── bg-game-pinyin-drift.webp
+├── ui/                      ← UI 图标（Lucide React + 自定义 SVG）
+│   └── ... (详见 08-ui-icons.md)
+├── audio/                   ← 音效、BGM 与语音
+│   ├── sfx/                 ← 19 个音效 (ElevenLabs + JSFXR)
+│   │   ├── sfx-ui-tap.mp3
+│   │   ├── sfx-quiz-correct.mp3
+│   │   ├── sfx-brush-write.mp3
+│   │   └── ... (共 19 个)
+│   ├── bgm/                 ← 6 首 BGM (Suno AI)
+│   │   ├── bgm-menu.mp3
+│   │   ├── bgm-pinyin-zone.mp3
+│   │   ├── bgm-hanzi-zone.mp3
+│   │   ├── bgm-vocab-zone.mp3
+│   │   ├── bgm-grammar-zone.mp3
+│   │   └── bgm-boss-battle.mp3
+│   └── tts/                 ← ~540 条 TTS (Azure Neural TTS)
+│       ├── tts-initial-*.mp3
+│       ├── tts-final-*.mp3
+│       ├── tts-tone-*.mp3
+│       ├── tts-char-*.mp3
+│       ├── tts-word-*.mp3
+│       ├── tts-sentence-*.mp3
+│       └── tts-cutscene-*.mp3
 └── marketing/               ← 营销素材
-    ├── hero-visual.webp
-    └── share-poster-template.png
+    ├── hero-landing.webp
+    ├── share-poster-template.webp
+    └── og-share-image.webp
 ```
 
 ---
 
-*各类资源的详细规格、使用场景和 Flux AI 提示词，请查阅 [static-assets/](static-assets/) 文件夹内的分类文档。*
+*各类资源的详细规格、使用场景和 AI 生成提示词（FLUX 2 / ElevenLabs / Suno AI / Azure TTS），请查阅 [static-assets/](static-assets/) 文件夹内的分类文档。所有图像提示词已展开为完整独立版本，可直接复制到对应 AI 工具使用。*

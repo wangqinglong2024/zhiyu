@@ -41,15 +41,45 @@
 | SFX-13 | `sfx-countdown-tick.mp3` | ≤0.1s | 倒计时滴答 | 秒表 tick 声 |
 | SFX-14 | `sfx-countdown-end.mp3` | ≤0.5s | 倒计时归零 | 闹钟铃声短响 |
 | SFX-15 | `sfx-page-transition.mp3` | ≤0.3s | 页面/场景切换 | 柔和的 "唰" 风声 |
+| SFX-16 | `sfx-brush-write.mp3` | ≤0.6s | 汉字书写关——笔画书写 | 毛笔沾墨划过宣纸的沙沙声，柔和有质感 |
+| SFX-17 | `sfx-drift-engine.mp3` | ≤1.0s 循环 | 拼音漂移——赛车引擎底噪 | 轻快电动赛车引擎低频嗡鸣，可无缝循环 |
+| SFX-18 | `sfx-drift-pickup.mp3` | ≤0.3s | 拼音漂移——拾取道具 | 清脆电子"叮咚"上升音，奖励感 |
+| SFX-19 | `sfx-drift-crash.mp3` | ≤0.5s | 拼音漂移——撞到障碍物 | 轻微碰撞声 + 橡胶弹跳，不刺耳 |
 
 ### 音效来源建议
 
-| 来源 | 说明 |
-|------|------|
-| **Freesound.org** | 开源音效库，CC0 / CC-BY 授权 |
-| **Mixkit.co** | 免费音效，可商用 |
-| **JSFXR / ChipTone** | 在线 8-bit 音效生成器，适合 UI 音效 |
-| **自制** | 使用 GarageBand / Audacity 录制和调整 |
+| 来源 | 说明 | 推荐用途 |
+|------|------|---------|
+| **ElevenLabs Sound Effects** | AI 音效生成，输入文本描述即可生成高质量音效 | SFX-04~12 等复杂音效（连击、Boss、胜利号角等） |
+| **JSFXR / ChipTone** | 在线 8-bit 风格音效生成器，免费 | SFX-01, SFX-10, SFX-13 等简单 UI 音效 |
+| **Freesound.org** | 开源音效库，CC0 / CC-BY 授权 | 补充素材，如 SFX-16 毛笔书写声 |
+| **Mixkit.co** | 免费音效，可商用 | 备选来源 |
+
+#### ElevenLabs 音效生成提示词
+
+以下提示词直接复制到 ElevenLabs Sound Effects 工具中即可生成：
+
+| 编号 | ElevenLabs Prompt |
+|------|------------------|
+| SFX-01 | `A crisp short UI tap click sound, high frequency, clean digital feel, 0.1 seconds` |
+| SFX-02 | `Ascending two-note ding-ding chime, bright and cheerful, correct answer quiz sound, 0.5 seconds` |
+| SFX-03 | `A low-pitched soft buzz/error sound, gentle and non-harsh, wrong answer feedback, 0.5 seconds` |
+| SFX-04 | `Metallic impact hit with ascending pitch, combo counter increment, energetic and satisfying, 0.3 seconds` |
+| SFX-05 | `Gentle glass cracking and shattering sound, light and not scary, combo break, 0.3 seconds` |
+| SFX-06 | `Magical sparkle and fairy dust sound with small bell chime, earning a star reward, reverb tail, 0.8 seconds` |
+| SFX-07 | `Short triumphant fanfare with brass and light applause, level complete victory sound, 2 seconds` |
+| SFX-08 | `Descending minor key short melodic phrase, gentle and encouraging (not sad), try again, 1.5 seconds` |
+| SFX-09 | `Magical enchantment sound with a bronze gong hit and sparkling stars, achievement unlocked, epic, 1.5 seconds` |
+| SFX-10 | `Single coin drop into piggy bank clink, short and satisfying, 0.2 seconds` |
+| SFX-11 | `Deep dramatic drum roll with tense string stab, boss appearing menacingly, 2 seconds` |
+| SFX-12 | `Epic brass fanfare with crowd cheering, boss defeated celebration, triumphant, 2.5 seconds` |
+| SFX-13 | `Single clock tick tock, stopwatch mechanical sound, precise, 0.1 seconds` |
+| SFX-14 | `Short alarm clock ring, countdown finished alert, bright and urgent, 0.5 seconds` |
+| SFX-15 | `Soft whoosh wind sound, page transition, smooth and gentle, 0.3 seconds` |
+| SFX-16 | `Ink brush stroke on rice paper, calligraphy writing sound, soft textured, 0.6 seconds` |
+| SFX-17 | `Electric go-kart engine hum, light buzzing motor loop, futuristic and fun, 1 second seamless loop` |
+| SFX-18 | `Bright electronic pickup chime, ascending two-tone ding, reward collect, 0.3 seconds` |
+| SFX-19 | `Light bumper car collision with rubber bounce, gentle and cartoonish, 0.5 seconds` |
 
 ---
 
@@ -74,7 +104,8 @@
 | 汉字读音 | ~200 条 | 教学范围内的单字发音 |
 | 词汇读音 | ~180 条 | 教学范围内的词语发音 |
 | 例句朗读 | ~50 条 | 语法教学中的示范句子 |
-| **合计** | **~490 条** | |
+| 过场对话 | ~50 条 | 8 段过场动画中的中文旁白 / 角色台词（Boss 用 YunxiNeural 男声） |
+| **合计** | **~540 条** | |
 
 ### TTS 生成策略
 
@@ -99,6 +130,12 @@
 | 单字 | `tts-char-{拼音}.mp3` | `tts-char-shan.mp3` |
 | 词汇 | `tts-word-{拼音缩写}.mp3` | `tts-word-nihao.mp3` |
 | 例句 | `tts-sentence-{编号}.mp3` | `tts-sentence-001.mp3` |
+| 过场对话 | `tts-cutscene-{动画编号}-{台词编号}.mp3` | `tts-cutscene-01-001.mp3` |
+
+> **过场对话说明**: 8 段过场动画（对应 [过场动画规格](03-cutscene-backgrounds.md)）。  
+> - 旁白 / 美丽老师台词 → `zh-CN-XiaoxiaoNeural`（女声，style="chat"）  
+> - Boss 角色台词 → `zh-CN-YunxiNeural`（男声，style="serious"）  
+> - 语速 `rate="-10%"`（比正式教学稍快，更自然）
 
 ### Azure TTS SSML 示例
 
@@ -164,11 +201,64 @@
 
 ### BGM 来源建议
 
-| 来源 | 说明 |
-|------|------|
-| **Suno AI** | AI 音乐生成，可精确控制风格，需确认商用授权 |
-| **Uppbeat / Epidemic Sound** | 订阅制版权音乐库 |
-| **自制** | 使用 GarageBand + 中国乐器采样包合成 |
+| 来源 | 说明 | 推荐用途 |
+|------|------|---------|
+| **Suno AI** | AI 音乐生成，可精确控制风格和情绪，支持自定义模式 | 首选——生成全部 6 首 BGM |
+| **Uppbeat / Epidemic Sound** | 订阅制版权音乐库 | 备选——如 Suno 效果不佳时替换 |
+
+#### Suno AI 生成提示词
+
+以下提示词直接复制到 Suno AI 的 Custom Mode 中使用：
+
+**BGM-01: 主菜单 / 世界地图**
+
+| 属性 | 值 |
+|------|-----|
+| Style of Music | `Chill Lo-Fi, Vietnamese bamboo flute (sáo trúc), Chinese guzheng, electronic beats, warm and inviting` |
+| Title | `PlayLingo Menu Theme` |
+| Prompt | `A cheerful and relaxing lo-fi track blending Vietnamese bamboo flute melody with Chinese guzheng arpeggios over soft electronic drum beats. Warm and inviting atmosphere, suitable for a game main menu. Medium tempo (100 BPM). Seamless loop. No vocals.` |
+
+**BGM-02: 拼音群岛**
+
+| 属性 | 值 |
+|------|-----|
+| Style of Music | `Tropical Chill, ukulele, wind chimes, light percussion, island vibes` |
+| Title | `Pinyin Islands` |
+| Prompt | `A bright and breezy tropical chill track with ukulele strumming, light bongo drums, and occasional Chinese wind chime accents. Warm sunshine island atmosphere, playful and motivating for learning. Upbeat tempo (110 BPM). Seamless loop. No vocals.` |
+
+**BGM-03: 汉字谷地**
+
+| 属性 | 值 |
+|------|-----|
+| Style of Music | `Ambient, Chinese guqin, ethereal pads, water droplet echoes, mysterious` |
+| Title | `Hanzi Valley` |
+| Prompt | `A mysterious and ethereal ambient track with Chinese guqin (ancient zither) plucking sparse notes over lush synthesizer pads and reverberant water droplet sounds. Meditative and slightly magical, suitable for a puzzle/learning zone. Slow tempo (80 BPM). Seamless loop. No vocals.` |
+
+**BGM-04: 词汇平原**
+
+| 属性 | 值 |
+|------|-----|
+| Style of Music | `World Music, Vietnamese erhu, market percussion, brass bells, festive` |
+| Title | `Vocabulary Marketplace` |
+| Prompt | `A lively and festive world music track blending Vietnamese two-string fiddle (đàn nhị) melody with bustling market percussion, small brass bells, and wood block rhythm. Warm and energetic atmosphere like a busy Asian marketplace. Medium-fast tempo (120 BPM). Seamless loop. No vocals.` |
+
+**BGM-05: 语法要塞**
+
+| 属性 | 值 |
+|------|-----|
+| Style of Music | `Synthwave, Chinese war drums, tense strings, electronic, cyberpunk meets ancient` |
+| Title | `Grammar Fortress` |
+| Prompt | `A tense and driving synthwave track combining pulsing electronic bass with Chinese taiko war drums and staccato string sections. Cyberpunk-meets-ancient-fortress atmosphere, building tension suitable for challenging learning levels. Fast tempo (130 BPM). Seamless loop. No vocals.` |
+
+**BGM-06: Boss 战**
+
+| 属性 | 值 |
+|------|-----|
+| Style of Music | `Epic Orchestral, electronic drums, Chinese da-gu, cinematic boss battle, intense` |
+| Title | `Boss Battle` |
+| Prompt | `An epic and intense boss battle track with full orchestral strings and brass, layered with electronic drum beats and thundering Chinese da-gu (large drum) hits. Dramatic chord progressions building tension and release, cinematic quality. Powerful and challenging but not dark or scary — heroic battle energy. Fast tempo (140 BPM). Seamless loop. No vocals.` |
+
+> **迷你游戏 BGM 说明**: 迷你游戏复用所在区域的 BGM（如拼音群岛的声调狙击手使用 BGM-02），不单独生成。Boss 战统一使用 BGM-06。
 
 ---
 
