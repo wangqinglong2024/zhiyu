@@ -1,7 +1,7 @@
 # 技术架构设计
 
-> LingoBase 技术选型与系统设计
-> 版本：v5.0（终版） | 日期：2026-04-16
+> 知语 Zhiyu 技术选型与系统设计
+> 版本：v6.0（终版） | 日期：2026-04-16
 
 ---
 
@@ -17,7 +17,7 @@
 | **数据请求** | React Query (TanStack Query) | 缓存、重试、乐观更新 |
 | **国际化** | i18next + react-i18next | 多语言切换（zh/en/vi → 后续 id/th/ms） |
 | **PWA** | Workbox | 离线缓存、推送通知 |
-| **后端框架** | FastAPI (Python) | 异步高性能、自动文档 |
+| **后端框架** | Node.js + TypeScript (Hono/Fastify) | 异步高并发、全栈 TS 统一 |
 | **认证** | Supabase Auth + JWT | 邮箱/手机/OAuth 登录 |
 | **数据库** | Supabase PostgreSQL | 托管 PostgreSQL + RLS 行级安全 |
 | **缓存** | Redis (Upstash) | Serverless Redis，排行榜/会话/限流 |
@@ -66,7 +66,7 @@
 ┌──────────────────────┼──────────────────────────┐
 │              Backend Services                   │
 │  ┌───────────────────┼───────────────────────┐  │
-│  │           FastAPI (Python)                │  │
+│  │        Node.js + TypeScript               │  │
 │  │  ┌──────────┐ ┌──────────┐ ┌──────────┐  │  │
 │  │  │ 用户服务  │ │ 课程服务  │ │ 游戏服务  │  │  │
 │  │  └──────────┘ └──────────┘ └──────────┘  │  │
@@ -91,7 +91,7 @@
 |------|------|
 | **用户服务** | 注册/登录/Profile/偏好设置/学习进度/成就系统 |
 | **课程服务** | 课程大纲/课时内容/练习题/考试/证书 |
-| **游戏服务** | 关卡数据/积分计算/排行榜/道具管理 |
+| **游戏服务** | 12 款 2D 游戏（Phaser 3）/实时 PK（WebSocket）/ELO 段位/匹配系统/积分/排行榜/皮肤 |
 | **内容服务** | 发现中国文章/多语言内容/Dify 知识库接口 |
 | **支付服务** | Paddle Webhook/会员管理/订单记录/退款 |
 | **AI 服务** | 口语评测/写作批改/智能推题/SRS 调度 |
@@ -141,7 +141,7 @@ src/
 /courses/:level/:unit/:lesson  # 课时页
 /courses/:level/exam        # 升级考试
 /games                      # 游戏大厅
-/games/:id                  # 关卡页
+/games/:id                  # 游戏页（12 款独立游戏）
 /games/ranking              # 排行榜
 /profile                    # 个人中心
 /profile/progress           # 学习进度
@@ -175,26 +175,29 @@ src/
 
 ## 四、后端架构
 
-### 4.1 FastAPI 项目结构
+### 4.1 后端项目结构
 
 ```
-app/
-  ├── main.py               # 应用入口
-  ├── config.py             # 配置管理
-  ├── dependencies.py       # 依赖注入
-  ├── routers/              # 路由模块
-  │     ├── auth.py
-  │     ├── users.py
-  │     ├── courses.py
-  │     ├── games.py
-  │     ├── discover.py
-  │     ├── payments.py
-  │     └── admin.py
-  ├── services/             # 业务逻辑层
-  ├── models/               # 数据模型
-  ├── schemas/              # Pydantic schemas
-  ├── middleware/            # 中间件
-  └── utils/                # 工具函数
+server/
+  ├── src/
+  │     ├── index.ts            # 应用入口
+  │     ├── config.ts           # 配置管理
+  │     ├── routes/             # 路由模块
+  │     │     ├── auth.ts
+  │     │     ├── users.ts
+  │     │     ├── courses.ts
+  │     │     ├── games.ts
+  │     │     ├── discover.ts
+  │     │     ├── payments.ts
+  │     │     └── admin.ts
+  │     ├── services/           # 业务逻辑层
+  │     ├── models/             # 数据模型（Drizzle ORM / Prisma）
+  │     ├── schemas/            # Zod 校验 schemas
+  │     ├── middleware/         # 中间件
+  │     ├── ws/                 # WebSocket 对战服务
+  │     └── utils/              # 工具函数
+  ├── package.json
+  └── tsconfig.json
 ```
 
 ### 4.2 认证流程
@@ -202,7 +205,7 @@ app/
 ```
 用户登录 → Supabase Auth 验证 → 返回 JWT
      ↓
-请求携带 JWT → FastAPI 中间件验证 → 访问受保护资源
+请求携带 JWT → Node.js 中间件验证 → 访问受保护资源
      ↓
 Token 过期 → Refresh Token 刷新 → 新 JWT
 ```
@@ -271,15 +274,17 @@ level_exams
   ├── passed (boolean)
   └── taken_at
 
--- 游戏进度表
-game_progress
+-- 游戏记录表
+game_records
   ├── id (UUID, PK)
   ├── user_id (FK → users)
-  ├── stage_id (关卡 ID)
-  ├── stars (0-3)
+  ├── game_id (1-12, 对应 12 款游戏)
+  ├── mode (solo_classic/solo_timed/pk_1v1/multiplayer)
   ├── score
   ├── best_score
-  └── completed_at
+  ├── elo_rating
+  ├── rank_tier (bronze/silver/gold/diamond/king/legend)
+  └── played_at
 
 -- SRS 复习表
 srs_items
@@ -298,7 +303,7 @@ orders
   ├── id (UUID, PK)
   ├── user_id (FK → users)
   ├── paddle_transaction_id
-  ├── product_type (membership/game_pack/course_pack/item)
+  ├── product_type (membership/skin/season_pass)
   ├── product_id
   ├── amount
   ├── currency
@@ -363,7 +368,7 @@ Dify AI 工作流（内容生产）
     "en": "Hello, my name is Xiaoming."
   },
   "audio": {
-    "zh": "https://cdn.lingobase.com/audio/l1u1l1_001.mp3"
+    "zh": "https://cdn.zhiyu.app/audio/l1u1l1_001.mp3"
   },
   "metadata": {
     "characters": ["你", "好", "我", "叫"],
@@ -376,7 +381,7 @@ Dify AI 工作流（内容生产）
 ### 6.3 调用流程
 
 ```
-前端请求课时内容 → FastAPI → 查询 Dify 知识库 → 根据用户语言偏好筛选字段 → 返回前端
+前端请求课时内容 → Node.js API → 查询 Dify 知识库 → 根据用户语言偏好筛选字段 → 返回前端
 ```
 
 ---
@@ -396,7 +401,7 @@ Dify AI 工作流（内容生产）
 ### 7.2 写作批改
 
 ```
-用户提交作文 → FastAPI → Dify AI Workflow → GPT/Claude 批改 → 返回结果
+用户提交作文 → Node.js API → Dify AI Workflow → GPT/Claude 批改 → 返回结果
                                                                 ├── 总分
                                                                 ├── 语法错误列表
                                                                 ├── 用词建议
@@ -406,21 +411,20 @@ Dify AI 工作流（内容生产）
 
 ### 7.3 SRS 间隔重复
 
-```python
-# 核心算法（简化版 SM-2）
-def calculate_next_review(ease_factor, interval, quality):
-    if quality >= 3:  # 答对
-        if interval == 0:
-            interval = 1
-        elif interval == 1:
-            interval = 2
-        else:
-            interval = round(interval * ease_factor)
-        ease_factor = max(1.3, ease_factor + 0.1 - (5 - quality) * 0.08)
-    else:  # 答错
-        interval = 1
-        ease_factor = max(1.3, ease_factor - 0.2)
-    return interval, ease_factor
+```typescript
+// 核心算法（简化版 SM-2）
+function calculateNextReview(easeFactor: number, interval: number, quality: number) {
+  if (quality >= 3) { // 答对
+    if (interval === 0) interval = 1;
+    else if (interval === 1) interval = 2;
+    else interval = Math.round(interval * easeFactor);
+    easeFactor = Math.max(1.3, easeFactor + 0.1 - (5 - quality) * 0.08);
+  } else { // 答错
+    interval = 1;
+    easeFactor = Math.max(1.3, easeFactor - 0.2);
+  }
+  return { interval, easeFactor };
+}
 ```
 
 ---
@@ -445,7 +449,7 @@ def calculate_next_review(ease_factor, interval, quality):
 | RLS | 数据库行级安全 |
 | 限流 | Redis 令牌桶 |
 | CORS | 白名单域名 |
-| 输入验证 | Pydantic Schema 严格校验 |
+| 输入验证 | Zod Schema 严格校验 |
 | SQL 注入防护 | ORM + 参数化查询 |
 | XSS 防护 | React 默认转义 + CSP Header |
 | 敏感数据加密 | AES-256 加密存储 |
