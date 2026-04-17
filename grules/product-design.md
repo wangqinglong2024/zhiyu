@@ -634,7 +634,80 @@ Stitch 项目的 `name` 格式为 `projects/{projectId}`。提取数字 ID：
 
 ---
 
-## 五、product/ 目录管理规范
+## 五、Story File 模板（BMAD 灵感 — 自包含任务文件）
+
+> **核心理念**：每个开发任务必须拥有一个自包含的 Story File，包含该任务所需的全部上下文。
+> AI 打开一个 Story File 就能完全理解「做什么、为什么、怎么做、怎么验收」，无需额外询问。
+> 参考 BMAD Method 的 Context-Engineered Development 模式。
+
+### Story File 标准模板
+
+```markdown
+# STORY-{模块}.{序号}: {任务标题}
+
+## 状态
+待开发 / 开发中 / 待测试 / 已完成
+
+## 上下文
+- **所属 PRD**：product/prd-{项目名}.md
+- **对应页面**：{页面名称}（Stitch 屏幕 ID: xxx）
+- **优先级**：P0 / P1 / P2
+- **依赖**：STORY-{x}.{y}（如有）
+
+## 目标
+用一句话描述这个任务要达成什么业务目标。
+
+## 验收标准（Acceptance Criteria）
+1. GIVEN {前置条件} WHEN {用户操作} THEN {预期结果}
+2. GIVEN {前置条件} WHEN {用户操作} THEN {预期结果}
+3. GIVEN {异常条件} WHEN {用户操作} THEN {错误处理}
+
+## 技术方案
+
+### 数据库变更
+- 新建表 / 修改字段 / 无变更
+- RLS 策略：{描述}
+- Migration 文件：`supabase/migrations/YYYYMMDD_xxx.sql`
+
+### 后端 API
+| 方法 | 路径 | 鉴权 | 说明 |
+|------|------|------|------|
+| POST | /api/v1/xxx | authMiddleware | 创建资源 |
+
+### 前端组件
+- 页面：`src/pages/XxxPage.tsx`
+- 组件：`src/features/{module}/components/Xxx.tsx`
+- Hook：`src/features/{module}/hooks/use-xxx.ts`
+
+### 涉及文件清单
+- [ ] `supabase/migrations/xxx.sql`
+- [ ] `backend/src/services/xxx-service.ts`
+- [ ] `backend/src/routers/v1/xxx.ts`
+- [ ] `frontend/src/features/xxx/...`
+
+## 设计参考
+- Stitch 屏幕截图 / UI 规范引用
+- 关键交互说明
+
+## 边界情况与风险
+- {风险 1}：{应对措施}
+- {风险 2}：{应对措施}
+
+## 测试要点
+- 冒烟：{核心路径}
+- 边界：{空值/超长/并发}
+- 安全：{鉴权/RLS/注入}
+```
+
+### Story File 使用规则
+1. **AI 在开发前必须先生成 Story File**：保存到 `product/stories/` 目录
+2. **用户确认后才能开始编码**：Story File 是开发合同，双方达成一致才动手
+3. **Story File 不可变**：开发过程中发现需要变更，先更新 Story File 再改代码
+4. **一个 Story = 一个 PR**：每个 Story File 对应一次原子提交或 PR
+
+---
+
+## 五-B、product/ 目录管理规范
 
 ### 1. 目录结构
 
@@ -643,6 +716,10 @@ product/
 ├── prd-{项目名}.md          # 优化后的产品需求文档
 ├── review-{项目名}.md       # Stitch 原型审查报告
 ├── changelog-{项目名}.md    # 需求变更记录（可选）
+├── decisions/               # 产品决策记录（PDR）
+│   └── PDR-NNN-{标题}.md
+├── stories/                 # Story Files（开发任务文件）
+│   └── STORY-{模块}.{序号}.md
 └── assets/                  # 需求相关的图片/附件（可选）
     └── ...
 ```
@@ -696,21 +773,23 @@ Stitch 原型审查（或从 PRD 生成原型）
 [Gate 2] 原型审查通过？（功能 + UI 规范 + 设计系统合规）
     │  ❌ → 修改原型后重新审查
     ▼  ✅
-进入 task-workflow.md 的第 2 步（需求分析）
+进入 index.md「AI 标准开发流水线」❹ 技术分析阶段
 ```
 
-### 2. 与 task-workflow.md 的衔接
+### 2. 与开发流水线的衔接
 
-本文件覆盖的是 `task-workflow.md` 第 1 步（产品需求）的前置阶段：
+本文件覆盖 `index.md`「AI 标准开发流水线」中 ❶❷❸ 三个阶段的详细规范：
 
 | 阶段 | 负责文件 | 输出 |
 |------|---------|------|
-| **0. PRD 优化 + 原型审查** | **本文件 (product-design.md)** | 优化后的 PRD + 原型审查报告 |
-| 1. 产品需求 | task-workflow.md 第 1 步 | PRD（已通过 Gate 1 和 Gate 2） |
-| 2. 需求分析 | task-workflow.md 第 2 步 | 功能模块 + 数据库 + API 清单 |
-| 3. 任务拆解 | task-workflow.md 第 3 步 | 开发任务列表 |
-| 4. 逐任务开发 | task-workflow.md 第 4 步 | 可运行的代码 |
-| 5. 集成验收 | task-workflow.md 第 5 步 | 通过验收的产品 |
+| **❶ 需求理解** | **本文件** + `index.md` | 确认理解无偏差 |
+| **❷ PRD 优化** | **本文件** | 优化后的 PRD → `product/` 目录 |
+| **❸ 原型审查** | **本文件** + `ui-design.md` | 审查报告 → `product/` 目录 |
+| ❹ 技术分析 | `rules.md` + `coding-standards.md` | 功能模块 + 数据库 + API 清单 |
+| ❺ 任务拆解 | `index.md` | 开发任务列表 |
+| ❻ 逐任务开发 | `coding-standards.md` + `project-structure.md` | 可运行的代码 |
+| ❼ QA 测试 | `qa-testing.md` | 测试报告 + 健康评分 |
+| ❽ 交付确认 | `index.md` + `documentation-standards.md` | 交付清单 + 完成状态 |
 
 ### 3. AI 处理 PRD + Stitch 的标准对话模板
 

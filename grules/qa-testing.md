@@ -1,9 +1,9 @@
 # QA 测试规范 (QA Testing Standards)
 
-> **版本**: v1.0 | **最后更新**: 2025-07-16
+> **版本**: v2.0 | **最后更新**: 2026-04-17
 >
 > **适用范围**：所有基于 Vite React/TS + Express/TS/Node.js + Supabase + Docker 技术栈的项目。
-> **核心工具**：Browser MCP（Puppeteer）进行真实浏览器测试。
+> **核心工具**：Browser MCP（Puppeteer）进行真实浏览器测试；gstack `/browse` + `/qa` 技能。
 > **铁律**：所有服务必须通过 Docker 启动后测试。禁止在宿主机安装 Node.js 等运行时直接测试。
 
 ---
@@ -443,3 +443,143 @@ INSERT INTO public.categories (name, sort_order) VALUES
 | Bug | 回归测试文件 | 通过 |
 |-----|------------|------|
 ```
+
+---
+
+## 十一、Docker 故障排查清单
+
+> 测试失败时，按以下顺序逐层排查，从基础设施到应用层。
+
+### Layer 0：Docker 引擎
+```bash
+docker compose ps                          # 所有容器状态必须为 Up
+docker compose logs --tail=50 <service>    # 查看最近日志
+docker inspect <container> --format '{{.State.ExitCode}}'  # 退出码非 0 = 异常
+```
+
+### Layer 1：网络连通性
+```bash
+# 容器间能否互通
+docker compose exec backend ping frontend
+docker compose exec backend curl -f http://frontend:80
+# Supabase 连接
+docker compose exec backend curl -f $SUPABASE_URL/rest/v1/ -H "apikey: $SUPABASE_ANON_KEY"
+```
+
+### Layer 2：端口映射
+```bash
+# 宿主机能否访问
+curl -f http://localhost:${DEV_FE_PORT:-3100}    # 前端
+curl -f http://localhost:${DEV_BE_PORT:-8100}/api/v1/health  # 后端
+```
+
+### Layer 3：应用层
+```bash
+# 前端构建是否成功
+docker compose exec frontend ls /usr/share/nginx/html/index.html
+# 后端是否正常启动
+docker compose exec backend node -e "console.log('OK')"
+# 环境变量是否注入
+docker compose exec backend env | grep SUPABASE
+```
+
+### 常见问题速查
+
+| 现象 | 原因 | 修复 |
+|------|------|------|
+| 容器反复重启 | 启动命令失败或 OOM | 检查 logs + 增加 memory limit |
+| 前端白屏 | Vite 构建失败或 nginx.conf 错误 | 检查构建日志 + try_files 配置 |
+| 后端 502 | Nginx upstream 地址错误 | 检查 proxy_pass 指向容器名:端口 |
+| CORS 报错 | Nginx 和 Express 双重 CORS 冲突 | 统一在一层处理，禁止两层都加 |
+| Supabase 连接超时 | 网络名错误或 Supabase 未启动 | 确认 `global-data-link` 网络存在 |
+| 环境变量为空 | `.env` 文件路径错误或变量名拼写 | `docker compose config` 验证 |
+
+---
+
+## 十二、性能基线测试
+
+> 每次发版前必须测量并记录以下性能指标。
+
+### 前端性能基线
+
+| 指标 | 目标 | 测量方式 |
+|------|------|---------|
+| 首屏加载 (FCP) | < 1.5s | Lighthouse / Browser MCP |
+| 最大内容绘制 (LCP) | < 2.5s | Lighthouse |
+| 累计布局偏移 (CLS) | < 0.1 | Lighthouse |
+| 首次输入延迟 (INP) | < 200ms | Lighthouse |
+| JS Bundle 大小 | < 300KB (gzip) | `npx vite-bundle-visualizer` |
+
+### 后端性能基线
+
+| 指标 | 目标 | 测量方式 |
+|------|------|---------|
+| API 响应时间 (P50) | < 100ms | 日志统计 / 健康检查 |
+| API 响应时间 (P95) | < 500ms | 日志统计 |
+| 数据库查询时间 | < 50ms (单查询) | PostgreSQL `pg_stat_statements` |
+| 内存使用 | < 256MB (Node.js) | `docker stats` |
+| 容器启动时间 | < 10s | Docker healthcheck 首次通过时间 |
+
+### 自动化性能回归检测
+```bash
+# 在 CI/CD 或发版前运行
+# 1. 构建并启动
+docker compose up -d --build
+
+# 2. 等待健康检查通过
+until curl -f http://localhost:8100/api/v1/health; do sleep 2; done
+
+# 3. 运行 Lighthouse（需 chrome headless）
+npx lighthouse http://localhost:3100 --output=json --output-path=./perf-report.json --chrome-flags="--headless --no-sandbox"
+
+# 4. 提取关键指标并与基线比较
+# FCP/LCP/CLS 超过基线 20% → 标记为性能回归
+```
+
+---
+
+## 十三、CI/CD 集成规范
+
+> 虽然 AI 开发以本地 Docker 为主，但项目成熟后应建立自动化流水线。
+
+### GitHub Actions 标准模板
+```yaml
+# .github/workflows/ci.yml
+name: CI
+on: [push, pull_request]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 前端检查
+      - name: Frontend lint & build
+        run: |
+          cd frontend
+          npm ci
+          npm run build        # 零编译错误
+
+      # 后端检查
+      - name: Backend lint & build
+        run: |
+          cd backend
+          npm ci
+          npm run build        # TypeScript 编译
+
+      # Docker 构建验证
+      - name: Docker build
+        run: docker compose build
+
+      # 集成测试（可选，需要 Supabase 连接）
+      # - name: Integration test
+      #   run: docker compose up -d && ./scripts/run-tests.sh
+```
+
+### 质量门禁（CI 必须通过）
+- 前端 `npm run build` 零错误
+- 后端 TypeScript 编译零错误
+- Docker 镜像构建成功
+- （可选）Lighthouse 性能评分 ≥ 80
+- （可选）单元测试通过率 100%

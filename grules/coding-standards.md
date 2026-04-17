@@ -1,9 +1,10 @@
 # 编码规范手册 (Coding Standards)
 
-> **版本**: v1.0 | **最后更新**: 2025-07-16
+> **版本**: v2.0 | **最后更新**: 2026-04-17
 >
 > **适用范围**：所有基于 Vite React/TS + Express/TS/Node.js + Supabase + Docker 技术栈的项目。
 > **使用方法**：新项目启动时，将此文件喂给 AI，作为生成代码时必须遵守的铁律。
+> **关联文件**：代码审查检查表、完成状态协议、先查后建原则 → 见 `rules.md` §五
 
 ---
 
@@ -498,80 +499,80 @@ app.use(cors({
 
 ---
 
-## 七、代码审查检查表
+## 七、前端工程化进阶
 
-> AI 在完成每个任务后，自动执行此检查表。所有项通过后才算完成。
+### 1. Error Boundary 强制规则
+```tsx
+// ✅ 每个路由页面必须包裹 ErrorBoundary
+<ErrorBoundary fallback={<ErrorPage />}>
+  <Suspense fallback={<LoadingSkeleton />}>
+    <PageComponent />
+  </Suspense>
+</ErrorBoundary>
+```
+- 使用 `react-error-boundary` 库，禁止手写 class 组件实现
+- 每个路由页面必须有独立的 ErrorBoundary（避免一个页面崩溃影响全局）
+- ErrorBoundary 的 `onError` 回调必须上报错误日志（生产环境）
+- 用 `useErrorBoundary` Hook 在异步操作中主动触发 Boundary
 
-### 功能正确性
-- [ ] 核心功能按需求正常工作
-- [ ] 边界情况已处理（空值、空列表、超长输入、并发）
-- [ ] 错误路径有合理的用户提示
+### 2. 性能优化铁律
+- **使用 `React.memo`**：列表子项组件、纯展示组件必须 memo 化
+- **使用 `useMemo` / `useCallback`**：仅在依赖稳定且计算代价大时使用，禁止无脑包裹
+- **使用 `React.lazy`**：非首屏路由页面必须懒加载
+- **图片优化**：使用 `loading="lazy"` + `srcSet` 适配多分辨率；首屏 LCP 图片用 `fetchpriority="high"`
+- **Bundle 分析**：发版前运行 `npx vite-bundle-visualizer`，单个 chunk 超过 200KB 必须拆分
+- **避免重渲染**：禁止在 JSX 中内联创建对象/数组（如 `style={{ color: 'red' }}`），提取为常量或 useMemo
 
-### 代码质量
-- [ ] 命名清晰、符合命名约定表
-- [ ] 无重复代码（相同逻辑出现 2 次以上必须抽取）
-- [ ] 无遗留的调试代码（console.log / print / TODO）
-- [ ] 类型完整（TypeScript 前后端均无 `any`）
-
-### 安全性
-- [ ] 用户输入已校验（前端 Zod + 后端 Zod）
-- [ ] 有鉴权守卫（需要登录的接口有 authMiddleware）
-- [ ] RLS 策略已配置（新表刚创建就开启）
-- [ ] 无敏感信息硬编码
-- [ ] 敏感字段已加密存储或脱敏输出
-- [ ] 涉及金额的接口有签名验证 + 幂等处理
-- [ ] 新增 API 已配置速率限制
-- [ ] CORS 白名单已配置（无 `*` 通配符）
-
-### 性能
-- [ ] 数据库查询有索引支持（WHERE / ORDER BY 的字段）
-- [ ] 无 N+1 查询（列表接口一次性查完所需数据）
-- [ ] 大列表有分页、无一次性全量加载
-
-### 可维护性
-- [ ] 关键决策有中文注释解释"为什么"
-- [ ] 数据库变更有 migration 文件
-- [ ] 三端类型同步（DB Schema → Zod Schema/TS 类型 → 前端类型）
+### 3. 可访问性 (a11y) 编码规则
+- **使用语义化 HTML**：`<button>` 做操作，`<a>` 做导航，禁止 `<div onClick>`
+- **添加 ARIA 属性**：图标按钮必须有 `aria-label`；装饰元素必须有 `aria-hidden="true"`
+- **管理焦点**：弹窗打开时 Focus Trap，关闭后焦点回到触发元素
+- **键盘可达**：所有核心操作可通过 Tab + Enter 完成
+- **对比度**：正文文字对比度 ≥ 4.5:1（WCAG AA）
 
 ---
 
-## 八、完成状态协议
+## 八、后端工程化进阶
 
-> AI 完成每个任务后，必须在交付时声明完成状态。
+### 1. 优雅关闭 (Graceful Shutdown)
+```typescript
+// ✅ main.ts 中必须实现
+process.on('SIGTERM', async () => {
+  // 停止接受新连接
+  server.close()
+  // 等待进行中的请求完成（超时 10s）
+  await drainConnections(10000)
+  // 关闭数据库连接池
+  await pool.end()
+  process.exit(0)
+})
+```
+- Docker 容器停止时发送 SIGTERM，必须优雅处理
+- 禁止 `process.exit(1)` 直接退出（会丢失进行中的请求）
 
-| 状态 | 含义 | 何时使用 |
-|------|------|---------|
-| ✅ **完成** | 全部步骤执行成功，有验证证据 | 代码写完、测试通过、check-list 全绿 |
-| ⚠️ **完成但有顾虑** | 已完成，但有需要注意的问题 | 主路径可用但存在已知边界限制 |
-| 🚫 **阻塞** | 无法继续，需要外部输入 | 缺少凭证、依赖服务不可达、需求不明确 |
-| ❓ **需要上下文** | 缺少必要信息 | 不确定产品意图、不确定技术选型 |
+### 2. 健康检查端点
+```typescript
+// ✅ GET /api/v1/health — Docker 和 Nginx 用于探活
+router.get('/health', async (req, res) => {
+  const dbOk = await checkDbConnection()
+  res.status(dbOk ? 200 : 503).json({
+    status: dbOk ? 'healthy' : 'unhealthy',
+    uptime: process.uptime(),
+    timestamp: new Date().toISOString(),
+  })
+})
+```
+- 健康检查必须验证数据库连接（不只是返回 200）
+- Docker Compose 的 `healthcheck` 必须指向此端点
 
-### 升级机制
-- 同一问题尝试 3 次仍失败 → 立即停下，报告状态为 **阻塞**
-- 涉及安全敏感变更 → 不擅自行动，报告状态为 **需要上下文**
-- 影响范围超出当前任务边界 → 标记为 **完成但有顾虑**，列出溢出影响
+### 3. 请求追踪 (Request Tracing)
+- 每个请求分配唯一 `requestId`（中间件生成 UUID 或接收 `X-Request-ID` Header）
+- `requestId` 透传到所有日志和下游调用
+- 响应 Header 包含 `X-Request-ID` 便于前端排错
 
 ---
 
-## 九、"先查后建"原则
-
-> 写任何新代码前，先确认有没有现成方案。
-
-### 检查顺序
-1. **Supabase 有没有原生支持？** — Auth、Storage、Realtime、Edge Functions 已覆盖就直接用
-2. **框架有没有内置？** — React Router、Express 中间件、Zod 验证
-3. **现有代码库有没有类似实现？** — 搜索项目内已有的 utils、hooks、services
-4. **主流第三方库？** — 只选星标 > 1000、维护活跃（最近 3 个月有更新）的库
-
-### 禁止重复造轮子的场景
-- 日期处理 → 用 `dayjs`（前端）/ `datetime`（后端），不手写解析
-- 表单校验 → 用 `zod`（前后端共用），不手写 if-else
-- HTTP 请求 → 用封装好的 `apiClient`，不裸写 `fetch`
-- 加密/哈希 → 用 `bcrypt`/`jsonwebtoken`/`crypto`，不自己实现算法
-
----
-
-## 十、支付与资金安全规范
+## 九、支付与资金安全规范（涉及资金时必读）
 
 > 涉及微信支付、余额操作、虚拟货币等任何资金流动的功能，必须严格遵守以下规则。资金安全零容忍。
 
@@ -652,7 +653,7 @@ CREATE TABLE transaction_logs (
 
 ---
 
-## 十一、数据库设计铁律
+## 十、数据库设计铁律
 
 > 此处定义建表时必须遵守的数据库设计规则，与 §四 Supabase 交互规范互补。
 
@@ -707,3 +708,8 @@ updated_at  TIMESTAMPTZ NOT NULL DEFAULT now()           -- 更新时间
 - 多对多关系使用中间表（关联表），中间表的两个外键组成联合主键
 - 跨 schema 引用 `auth.users(id)` 时必须 `ON DELETE CASCADE`
 - 禁止无外键的"逻辑关联"（仅靠字段名相似来关联）
+
+---
+
+> **代码审查检查表、完成状态协议、先查后建原则** 已统一移至 `rules.md` §五「AI 开发纪律与质量闭环」。
+> 编码时请同时参照 `rules.md` 中的自检清单。
