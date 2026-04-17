@@ -1,7 +1,7 @@
 # 技术架构设计
 
 > 知语 Zhiyu 技术选型与系统设计
-> 版本：v8.0（终版） | 日期：2026-04-16
+> 版本：V1.0 | 日期：2026-04-17
 
 ---
 
@@ -21,7 +21,7 @@
 | **认证** | Supabase Auth + JWT | 邮箱/手机/OAuth 登录 |
 | **数据库** | Supabase PostgreSQL | 托管 PostgreSQL + RLS 行级安全 |
 | **缓存** | Redis (Upstash) | Serverless Redis，排行榜/会话/限流 |
-| **内容引擎** | Dify | 知识库存储教学内容 + AI 工作流 |
+| **内容引擎** | Dify | AI 内容生产工具（生成后写入 Supabase） |
 | **支付** | Paddle MoR | Merchant of Record 模式，代处理全球税务，支持中国大陆公司签约 |
 | **CDN / 存储** | Cloudflare CDN + R2 | 全球加速 + 对象存储 |
 | **TTS** | Azure TTS（或备选） | 中文语音合成，支持多种声色 |
@@ -92,7 +92,7 @@
 | **用户服务** | 注册/登录/Profile/偏好设置/学习进度/成就系统 |
 | **课程服务** | 课程大纲/课时内容/练习题/考试/证书 |
 | **游戏服务** | 12 款 2D 游戏（Phaser 3）/实时 PK（WebSocket）/星数段位/匹配系统/积分/排行榜/皮肤 |
-| **内容服务** | 发现中国文章/多语言内容/Dify 知识库接口 |
+| **内容服务** | 发现中国文章/多语言内容/Supabase 内容查询 |
 | **支付服务** | Paddle MoR Webhook/课程购买管理/订单记录/退款 |
 | **AI 服务** | 口语评测/写作批改/智能推题/SRS 调度 |
 
@@ -139,7 +139,7 @@ src/
 /courses/:level             # Level 课程页
 /courses/:level/:unit       # 单元页
 /courses/:level/:unit/:lesson  # 课时页
-/courses/:level/exam        # 升级考试
+/courses/:level/exam        # 级别综合考核
 /games                      # 游戏大厅
 /games/:id                  # 游戏页（12 款独立游戏）
 /games/ranking              # 排行榜
@@ -263,7 +263,7 @@ course_progress
   ├── score
   └── completed_at
 
--- 升级考试记录
+-- 级别综合考核记录
 level_exams
   ├── id (UUID, PK)
   ├── user_id (FK → users)
@@ -349,18 +349,18 @@ coin_transactions
 
 ---
 
-## 六、Dify 知识库集成
+## 六、内容存储与 Dify 集成
 
 ### 6.1 架构
 
 ```
-Dify 知识库（内容存储）
-  ├── 发现中国文章库
-  ├── 课程内容库（按 Level 分库）
-  ├── 练习题库
-  └── 古诗文库
+Supabase PostgreSQL（内容主存储）
+  ├── 发现中国文章表
+  ├── 课程内容表（按 Level/Unit/Lesson 结构化）
+  ├── 练习题库表
+  └── 古诗文表
 
-Dify AI 工作流（内容生产）
+Dify AI 工作流（内容生产工具，生成后写入 Supabase）
   ├── 课程内容生成 Workflow
   ├── 练习题生成 Workflow
   ├── 多语言翻译 Workflow
@@ -399,7 +399,7 @@ Dify AI 工作流（内容生产）
 ### 6.3 调用流程
 
 ```
-前端请求课时内容 → Node.js API → 查询 Dify 知识库 → 根据用户语言偏好筛选字段 → 返回前端
+前端请求课时内容 → Node.js API → 查询 Supabase 数据库 → 根据用户语言偏好筛选字段 → 返回前端
 ```
 
 ---

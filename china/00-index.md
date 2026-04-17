@@ -1,7 +1,7 @@
 # 发现中国 — 12 大类目索引
 
 > 知语 Zhiyu「发现中国」模块内容类目详细定义
-> 版本：v8.0 | 日期：2026-04-16
+> 版本：V1.0 | 日期：2026-04-17
 
 ---
 
@@ -20,7 +20,7 @@
 | 09 | 哲学思想 | [09-philosophy-wisdom.md](09-philosophy-wisdom.md) | 儒释道、诸子百家 |
 | 10 | 当代中国 | [10-modern-china.md](10-modern-china.md) | 科技、城市生活、流行文化 |
 | 11 | 趣味汉字 | [11-fun-with-chinese.md](11-fun-with-chinese.md) | 汉字演变、数字密码、网络用语 |
-| 12 | 中国习俗 | [12-chinese-customs.md](12-chinese-customs.md) | 社交礼仪、生活习俗、民间信仰、吉凶禁忌 |
+| 12 | 中国神话传说 | [12-myths-legends.md](12-myths-legends.md) | 创世神话、神仙体系、民间传说、四大民间故事 |
 
 ---
 
