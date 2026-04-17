@@ -63,7 +63,7 @@ docker compose logs --tail=50 <service>
 
 | 日志关键词 | 根因 | 修复 |
 |-----------|------|------|
-| `ModuleNotFoundError` | 依赖未安装 / Dockerfile COPY 遗漏 | 检查 requirements.txt 和 Dockerfile |
+| `ModuleNotFoundError` / `Cannot find module` | 依赖未安装 / Dockerfile COPY 遗漏 | 检查 package.json 和 Dockerfile |
 | `port already in use` | 端口被占 | `lsof -i :<port>` 找到占用进程 |
 | `no space left on device` | 磁盘满 | `docker system prune -f` + 清理旧镜像 |
 | `permission denied` | 文件权限 / 非 root 用户问题 | 检查 Dockerfile USER 指令和卷权限 |
@@ -121,23 +121,23 @@ done
 
 ---
 
-### 2.2 后端 (FastAPI) 层
+### 2.2 后端 (Express/Node.js) 层
 
 #### 症状：API 返回 5xx
 
 ```bash
 # 第一步：查看最近错误日志
-docker compose logs --tail=100 backend | grep -E "ERROR|Traceback|500"
+docker compose logs --tail=100 backend | grep -E "ERROR|Error|500"
 
 # 第二步：区分错误类型
 ```
 
 | 错误类型 | 识别方式 | 处理 |
 |---------|---------|------|
-| **代码异常** | 有 Traceback + 具体行号 | 定位代码修复 |
-| **依赖超时** | `TimeoutError` / `ConnectError` | 检查 Supabase/外部 API 存活 |
-| **数据库错误** | `asyncpg` / `sqlalchemy` 异常 | 跳转 2.4 数据库层诊断 |
-| **验证错误** | `ValidationError` | 检查请求参数和 Pydantic 模型 |
+| **代码异常** | 有 Error stack + 具体行号 | 定位代码修复 |
+| **依赖超时** | `ETIMEDOUT` / `ECONNREFUSED` | 检查 Supabase/外部 API 存活 |
+| **数据库错误** | `pg` / `supabase` 异常 | 跳转 2.4 数据库层诊断 |
+| **验证错误** | `ZodError` | 检查请求参数和 Zod Schema |
 
 #### 症状：API 响应缓慢（P95 > 1s）
 
@@ -160,32 +160,31 @@ awk '{print $NF, $7}' /var/log/nginx/access.log | sort -rn | head -20
 docker stats --no-stream
 
 # 第二步：常见泄漏源排查清单
-# □ httpx.AsyncClient 未复用（每次请求创建新实例）→ 改为全局单例
-# □ 数据库连接池未设上限 → 确认 pool_size + max_overflow
+# □ axios 实例未复用（每次请求创建新实例）→ 改为全局单例
+# □ 数据库连接池未设上限 → 确认 pool max 配置
 # □ 大列表查询未分页 → 强制 LIMIT
-# □ 文件句柄未关闭 → 使用 async with
-# □ 全局缓存无过期策略 → 设置 TTL 或 maxsize
+# □ 文件/流未关闭 → 使用 try-finally 或 Readable.destroy()
+# □ 全局缓存无过期策略 → 设置 TTL 或 max
 ```
 
 #### 断路器模式（防止级联故障）
 
-```python
-# 对外部依赖（第三方 API、微信支付等）使用断路器
-# 推荐库：tenacity（已在 FastAPI 生态）
+```typescript
+// 对外部依赖（第三方 API、微信支付等）使用重试 + 指数退避
+import axios from 'axios'
 
-from tenacity import retry, stop_after_attempt, wait_exponential, CircuitBreaker
-
-# 指数退避重试：1s → 2s → 4s，最多 3 次
-@retry(
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=1, max=10),
-    reraise=True
-)
-async def call_external_api():
-    async with httpx.AsyncClient(timeout=5.0) as client:
-        resp = await client.get("https://api.example.com/data")
-        resp.raise_for_status()
-        return resp.json()
+async function callExternalApi(url: string, retries = 3): Promise<unknown> {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const resp = await axios.get(url, { timeout: 5000 })
+      return resp.data
+    } catch (err) {
+      if (attempt === retries) throw err
+      const delay = Math.min(1000 * 2 ** (attempt - 1), 10000)
+      await new Promise(r => setTimeout(r, delay))
+    }
+  }
+}
 ```
 
 ---
@@ -551,10 +550,10 @@ docker stats --no-stream --format "table {{.Name}}\t{{.CPUPerc}}\t{{.MemPerc}}\t
 | **N+1 查询** | 循环中多次 DB 查询 | 改为 JOIN 或 IN 批量查询 |
 | **缺失索引** | EXPLAIN 显示 Seq Scan + 行数多 | 对 WHERE/JOIN/ORDER BY 列加索引 |
 | **大列表无分页** | 单次返回 1000+ 行 | 强制 LIMIT + 分页（见 api-design.md） |
-| **重复计算** | 相同参数频繁调用同函数 | `@lru_cache` 或 Redis 缓存 |
+| **重复计算** | 相同参数频繁调用同函数 | node-cache / lru-cache 或 Redis 缓存 |
 | **前端大 Bundle** | vite-bundle-visualizer 红色块 | 动态 import() + React.lazy |
 | **图片未优化** | LCP 指向大图 | WebP 格式 + `loading="lazy"` + CDN |
-| **连接未复用** | 每次请求创建新 httpx client | 全局 AsyncClient 单例 |
+| **连接未复用** | 每次请求创建新 axios 实例 | 全局 axios 单例复用 |
 
 ---
 
@@ -645,7 +644,7 @@ fi
 
 ### 安全
 - [ ] 无异常登录尝试（检查 auth.audit_log_entries）
-- [ ] 依赖包无高危漏洞（`pip audit` / `npm audit`）
+- [ ] 依赖包无高危漏洞（`npm audit`）
 - [ ] RLS 策略覆盖所有公开表
 
 ### 数据

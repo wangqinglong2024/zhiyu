@@ -2,7 +2,7 @@
 
 > **版本**: v1.0 | **最后更新**: 2025-07-16
 >
-> **适用范围**：所有基于 Vite React/TS + FastAPI + Supabase + Docker 技术栈的项目。
+> **适用范围**：所有基于 Vite React/TS + Express/TS/Node.js + Supabase + Docker 技术栈的项目。
 > **使用方法**：新项目启动时，AI 按此模板生成目录骨架，再填充业务代码。
 
 ---
@@ -101,48 +101,42 @@ project-name/
 │           ├── AuthProvider.tsx
 │           └── ThemeProvider.tsx
 │
-├── backend/                    # ====== 后端（FastAPI + Python） ======
+├── backend/                    # ====== 后端（Express + TypeScript + Node.js） ======
 │   ├── Dockerfile              # 后端容器构建
-│   ├── requirements.txt        # Python 依赖（或 pyproject.toml）
-│   ├── alembic.ini             # 数据库迁移配置（如使用 Alembic）
+│   ├── package.json            # Node.js 依赖
+│   ├── tsconfig.json           # TypeScript 配置
 │   │
-│   └── app/
-│       ├── main.py             # FastAPI 应用入口（挂载路由、中间件）
-│       ├── __init__.py
+│   └── src/
+│       ├── main.ts             # Express 应用入口（挂载路由、中间件）
 │       │
 │       ├── core/               # 核心基础设施
-│       │   ├── config.py       # 配置管理（从环境变量读取）
-│       │   ├── auth.py         # JWT 验签 + get_current_user 依赖
-│       │   ├── exceptions.py   # 自定义异常类 + 全局异常处理器
-│       │   ├── response.py     # 统一响应格式封装
-│       │   ├── supabase.py     # Supabase Client 初始化
-│       │   └── middleware.py   # CORS、日志、请求 ID 等中间件
+│       │   ├── config.ts       # 配置管理（从环境变量读取）
+│       │   ├── auth.ts         # JWT 验签 + authMiddleware 中间件
+│       │   ├── exceptions.ts   # 自定义异常类 + 全局错误处理中间件
+│       │   ├── response.ts     # 统一响应格式封装
+│       │   ├── supabase.ts     # Supabase Client 初始化
+│       │   └── middleware.ts   # CORS、日志、请求 ID 等中间件
 │       │
-│       ├── models/             # Pydantic 数据模型（请求/响应/内部）
-│       │   ├── __init__.py
-│       │   ├── user.py         # UserCreate, UserResponse, UserInDB
-│       │   ├── chat.py
-│       │   └── common.py       # 通用模型（分页、统一响应体等）
+│       ├── models/             # Zod Schema + TypeScript 数据类型（请求/响应/内部）
+│       │   ├── user.ts         # UserCreateSchema, UserResponse
+│       │   ├── chat.ts
+│       │   └── common.ts       # 通用模型（分页、统一响应体等）
 │       │
 │       ├── routers/            # 路由层（API Endpoint 定义）
-│       │   ├── __init__.py
 │       │   ├── v1/
-│       │   │   ├── __init__.py
-│       │   │   ├── users.py
-│       │   │   ├── auth.py
-│       │   │   ├── chats.py
-│       │   │   └── router.py   # v1 路由汇总注册
-│       │   └── health.py       # 健康检查端点
+│       │   │   ├── users.ts
+│       │   │   ├── auth.ts
+│       │   │   ├── chats.ts
+│       │   │   └── index.ts    # v1 路由汇总注册
+│       │   └── health.ts       # 健康检查端点
 │       │
 │       ├── services/           # 服务层（业务逻辑）
-│       │   ├── __init__.py
-│       │   ├── user_service.py
-│       │   └── chat_service.py
+│       │   ├── user-service.ts
+│       │   └── chat-service.ts
 │       │
 │       └── repositories/       # 数据访问层（直接与 DB 交互）
-│           ├── __init__.py
-│           ├── user_repo.py
-│           └── chat_repo.py
+│           ├── user-repo.ts
+│           └── chat-repo.ts
 │
 ├── supabase/                   # ====== 数据库迁移 ======
 │   └── migrations/
@@ -163,7 +157,7 @@ project-name/
 | 目录名 kebab-case | `user-profile/` | `userProfile/`, `UserProfile/` |
 | 组件文件 PascalCase | `UserCard.tsx` | `user-card.tsx`, `userCard.tsx` |
 | Hook 文件 kebab-case | `use-auth.ts` | `useAuth.ts` |
-| Python 文件 snake_case | `user_service.py` | `UserService.py`, `user-service.py` |
+| 后端文件 kebab-case | `user-service.ts` | `UserService.ts`, `user_service.ts` |
 | 类型文件统一 | `types.ts` | `interfaces.ts`, `models.ts` |
 
 ---
@@ -188,10 +182,10 @@ src/features/payment/
 
 ### 后端
 ```
-app/routers/v1/payments.py       # 路由
-app/services/payment_service.py  # 业务逻辑
-app/repositories/payment_repo.py # 数据访问
-app/models/payment.py            # 数据模型
+backend/src/routers/v1/payments.ts       # 路由
+backend/src/services/payment-service.ts  # 业务逻辑
+backend/src/repositories/payment-repo.ts # 数据访问
+backend/src/models/payment.ts            # 数据模型 (Zod Schema + TypeScript 类型)
 ```
 
 ### 数据库
@@ -199,7 +193,7 @@ app/models/payment.py            # 数据模型
 supabase/migrations/20260407120000_create_payments_table.sql
 ```
 
-**必须同步**：建表后立即更新前端类型（`supabase gen types typescript`）和后端 Pydantic 模型。
+**必须同步**：建表后立即更新前端类型（`supabase gen types typescript`）和后端 Zod Schema / TypeScript 类型。
 
 ---
 
@@ -227,20 +221,24 @@ EXPOSE 80
 ### 2. 后端 Dockerfile
 ```dockerfile
 # backend/Dockerfile
-FROM python:3.12-slim
+FROM node:20-alpine AS builder
 WORKDIR /app
 
-# 系统依赖（如需编译某些包）
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    gcc libpq-dev curl && rm -rf /var/lib/apt/lists/*
-
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY package.json package-lock.json ./
+RUN npm ci
 
 COPY . .
+RUN npm run build
+
+FROM node:20-alpine
+WORKDIR /app
+
+COPY --from=builder /app/dist ./dist
+COPY --from=builder /app/node_modules ./node_modules
+COPY --from=builder /app/package.json ./
 
 EXPOSE 8000
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["node", "dist/main.js"]
 ```
 
 ### 3. docker-compose.yml（生产基础文件）
@@ -419,14 +417,10 @@ server {
 
 # 依赖
 node_modules/
-__pycache__/
-*.pyc
-.venv/
 
 # 构建产物
 dist/
 build/
-*.egg-info/
 
 # IDE
 .idea/

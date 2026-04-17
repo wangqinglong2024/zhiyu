@@ -14,7 +14,7 @@
 
 | 文件 | 内容 | 什么时候读 |
 |------|------|-----------|
-| [rules.md](rules.md) | 全局架构白皮书（Cosmic Refraction 设计系统技术参数 + Supabase/FastAPI/测试哲学） | **每个项目启动时必读** |
+| [rules.md](rules.md) | 全局架构白皮书（Cosmic Refraction 设计系统技术参数 + Supabase/Express/测试哲学） | **每个项目启动时必读** |
 | [env.md](env.md) | 项目凭证与配置（Supabase/Dify/微信支付等） | 需要配置连接信息时 |
 
 ### 🟠 产品与设计阶段
@@ -54,7 +54,7 @@
 
 ```
 前端：Vite + React + TypeScript + Tailwind CSS v4
-后端：FastAPI + Python（全异步）
+后端：Express + TypeScript + Node.js（全异步）
 数据库：Supabase（PostgreSQL + Auth + Storage + Realtime）
 容器化：Docker + Docker Compose
 网关：Nginx 反向代理

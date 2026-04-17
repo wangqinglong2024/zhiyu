@@ -15,8 +15,8 @@
 |------|------|------|
 | 代码内注释（行注释、块注释） | **简体中文** | `// 使用乐观锁防止并发扣款` |
 | 变量名、函数名、类名 | **英文** | `handlePayment`, `UserService` |
-| JSDoc / Python Docstring 的描述文本 | **简体中文** | `"""根据用户 ID 获取钱包余额"""` |
-| JSDoc / Python Docstring 的参数名、类型 | **英文** | `@param userId - 用户唯一标识` |
+| JSDoc 的描述文本 | **简体中文** | `/** 根据用户 ID 获取钱包余额 */` |
+| JSDoc 的参数名、类型 | **英文** | `@param userId - 用户唯一标识` |
 | Markdown 文档（PRD、README 等） | **简体中文** | 全文中文，技术术语保持英文原貌 |
 | Git Commit Message 的描述 | **简体中文** | `feat(auth): 新增手机号验证码登录` |
 
@@ -32,13 +32,14 @@
    ```
 
 2. **标记业务决策和约束条件**
-   ```python
-   # ✅ 微信支付要求金额为整数分，此处将元转分并取整
-   amount_fen = int(decimal_amount * 100)
+   ```typescript
+   // ✅ 微信支付要求金额为整数分，此处将元转分并取整
+   const amountFen = Math.round(decimalAmount * 100)
 
-   # ✅ RLS 策略要求：普通用户只能查看自己的订单，管理员可查看所有
-   if not current_user.is_admin:
-       query = query.eq("user_id", current_user.id)
+   // ✅ RLS 策略要求：普通用户只能查看自己的订单，管理员可查看所有
+   if (!currentUser.isAdmin) {
+     query = query.eq('user_id', currentUser.id)
+   }
    ```
 
 3. **在复杂逻辑前提供"导航图"**
@@ -106,63 +107,58 @@ type PaymentStatus =
   | 'refunded'   // 已退款
 ```
 
-### 5. Python / FastAPI 注释规范
+### 5. 后端 Express/TypeScript 注释规范
 
-#### 路由函数（Docstring）
-```python
-@router.post("/{order_id}/pay", response_model=PaymentResponse)
-async def create_payment(
-    order_id: str,
-    current_user: dict = Depends(get_current_user),
-) -> PaymentResponse:
-    """
-    发起微信支付。
-
-    业务流程：
-    1. 校验订单状态为 pending 且属于当前用户
-    2. 行锁订单（FOR UPDATE）防止并发重复支付
-    3. 调用微信统一下单 API 获取 prepay_id
-    4. 订单状态流转：pending → paying
-    5. 返回前端拉起微信支付所需的参数（签名后）
-
-    Raises:
-        BizError(40402): 订单不存在
-        BizError(40301): 无权操作他人订单
-        BizError(40901): 订单状态不允许支付（非 pending）
-    """
+#### 路由函数（JSDoc）
+```typescript
+/**
+ * 发起微信支付。
+ *
+ * 业务流程：
+ * 1. 校验订单状态为 pending 且属于当前用户
+ * 2. 行锁订单（FOR UPDATE）防止并发重复支付
+ * 3. 调用微信统一下单 API 获取 prepay_id
+ * 4. 订单状态流转：pending → paying
+ * 5. 返回前端拉起微信支付所需的参数（签名后）
+ *
+ * @throws BizError(40402) 订单不存在
+ * @throws BizError(40301) 无权操作他人订单
+ * @throws BizError(40901) 订单状态不允许支付（非 pending）
+ */
+router.post('/:orderId/pay', authMiddleware, async (req, res) => {
+  // ...
+})
 ```
 
 #### Service 层函数
-```python
-async def deduct_balance(user_id: str, amount_fen: int, reason: str) -> bool:
-    """
-    扣减用户余额（通过 PostgreSQL 存储过程，单事务内完成）。
-
-    安全保障：
-    - 行锁防并发：存储过程内 SELECT FOR UPDATE
-    - 余额校验：扣减前检查 balance >= amount_fen
-    - 流水记录：扣减与流水插入在同一事务，要么全成功要么全回滚
-
-    Args:
-        user_id: 用户 UUID
-        amount_fen: 扣减金额（单位：分）。必须为正整数
-        reason: 扣减原因（写入流水表 remark 字段）
-
-    Returns:
-        True 扣减成功，False 余额不足
-
-    Raises:
-        BizError(50001): 数据库操作异常（需人工排查）
-    """
+```typescript
+/**
+ * 扣减用户余额（通过 PostgreSQL 存储过程，单事务内完成）。
+ *
+ * 安全保障：
+ * - 行锁防并发：存储过程内 SELECT FOR UPDATE
+ * - 余额校验：扣减前检查 balance >= amountFen
+ * - 流水记录：扣减与流水插入在同一事务，要么全成功要么全回滚
+ *
+ * @param userId - 用户 UUID
+ * @param amountFen - 扣减金额（单位：分）。必须为正整数
+ * @param reason - 扣减原因（写入流水表 remark 字段）
+ * @returns true 扣减成功，false 余额不足
+ * @throws BizError(50001) 数据库操作异常（需人工排查）
+ */
+async function deductBalance(userId: string, amountFen: number, reason: string): Promise<boolean> {
+  // ...
+}
 ```
 
-#### Pydantic 模型字段（必须有 Field description）
-```python
-class OrderCreate(BaseModel):
-    """创建订单请求体"""
-    product_id: str = Field(..., description="商品 ID（UUID 格式）")
-    quantity: int = Field(..., ge=1, le=99, description="购买数量，1~99")
-    coupon_code: str | None = Field(None, max_length=32, description="优惠券码（可选）")
+#### Zod Schema 字段（必须有 describe）
+```typescript
+const OrderCreateSchema = z.object({
+  /** 创建订单请求体 */
+  productId: z.string().uuid().describe('商品 ID（UUID 格式）'),
+  quantity: z.number().int().min(1).max(99).describe('购买数量，1~99'),
+  couponCode: z.string().max(32).optional().describe('优惠券码（可选）'),
+})
 ```
 
 ### 6. SQL / Migration 注释规范
@@ -245,7 +241,7 @@ CREATE POLICY "wallets_owner_select" ON wallets
 
 ## 技术栈
 - 前端：Vite + React + TypeScript + Tailwind CSS v4
-- 后端：FastAPI + Python
+- 后端：Express + TypeScript + Node.js
 - 数据库：Supabase (PostgreSQL)
 - 容器化：Docker + Docker Compose
 
@@ -419,10 +415,10 @@ AI 在回答问题或生成方案时，必须遵循以下格式规范：
 
 ### 新增文件
 - `frontend/src/features/wallet/components/WalletCard.tsx` — 钱包余额卡片组件
-- `backend/app/services/wallet_service.py` — 钱包业务逻辑
+- `backend/src/services/wallet-service.ts` — 钱包业务逻辑
 
 ### 修改文件
-- `backend/app/routers/v1/router.py` — 注册钱包路由
+- `backend/src/routers/v1/index.ts` — 注册钱包路由
 - `supabase/migrations/20260408_create_wallets.sql` — 新建钱包表
 
 ### 验收方式
@@ -471,19 +467,19 @@ AI 在回答问题或生成方案时，必须遵循以下格式规范：
  */
 ```
 
-### Python 文件
-```python
-"""
-钱包服务层 - 余额操作与流水管理
-
-职责：
-- 查询余额（走缓存优先，60s TTL）
-- 扣减余额（调用 PostgreSQL 存储过程，单事务保证原子性）
-- 充值（对接微信支付回调，验签后入账）
-- 流水查询（分页，只读，按时间倒序）
-
-安全：所有写操作通过行锁 + 幂等键保证并发安全。
-"""
+### 后端 TypeScript 文件
+```typescript
+/**
+ * 钱包服务层 - 余额操作与流水管理
+ *
+ * 职责：
+ * - 查询余额（走缓存优先，60s TTL）
+ * - 扣减余额（调用 PostgreSQL 存储过程，单事务保证原子性）
+ * - 充值（对接微信支付回调，验签后入账）
+ * - 流水查询（分页，只读，按时间倒序）
+ *
+ * 安全：所有写操作通过行锁 + 幂等键保证并发安全。
+ */
 ```
 
 ### CSS 文件
@@ -514,4 +510,4 @@ AI 在回答问题或生成方案时，必须遵循以下格式规范：
 | .env.example | 项目根目录 | 环境变量模板（无真实值） | 新增/删除环境变量时更新 |
 | PRD | product/prd-{项目名}.md | 产品需求文档 | 需求变更时更新 |
 | 数据库迁移 | supabase/migrations/*.sql | Schema 变更历史 | 每次表结构变更时新增 |
-| API 文档 | FastAPI 自动生成（dev 环境） | 接口定义 | 自动（Pydantic 模型驱动） |
+| API 文档 | swagger-ui-express 自动生成（dev 环境） | 接口定义 | 自动（Zod Schema 驱动） |

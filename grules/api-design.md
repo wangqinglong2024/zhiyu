@@ -2,7 +2,7 @@
 
 > **版本**: v1.0 | **最后更新**: 2025-07-16
 >
-> **适用范围**：所有 FastAPI 后端项目的 RESTful API 设计。
+> **适用范围**：所有 Express/TypeScript/Node.js 后端项目的 RESTful API 设计。
 > **核心原则**：一致性 > 灵活性。所有 API 必须"长得一样"，前端无需猜测。
 
 ---
@@ -114,68 +114,77 @@ POST /api/v1/auth/refresh-token      # 刷新 Token
 ## 四、后端实现模板
 
 ### 统一响应封装
-```python
-# app/core/response.py
-from typing import Any, Optional
-from pydantic import BaseModel
+```typescript
+// src/core/response.ts
 
-class ApiResponse(BaseModel):
-    code: int = 0
-    message: str = "success"
-    data: Optional[Any] = None
+export interface ApiResponse<T = unknown> {
+  code: number
+  message: string
+  data: T | null
+}
 
-    @classmethod
-    def ok(cls, data: Any = None, message: str = "success"):
-        return cls(code=0, message=message, data=data)
+export interface PageData<T> {
+  items: T[]
+  total: number
+  page: number
+  pageSize: number
+  hasNext: boolean
+}
 
-    @classmethod
-    def error(cls, code: int, message: str):
-        return cls(code=code, message=message, data=None)
+export function ok<T>(data?: T, message = 'success'): ApiResponse<T> {
+  return { code: 0, message, data: data ?? null }
+}
 
-class PageData(BaseModel):
-    items: list
-    total: int
-    page: int
-    page_size: int
-    has_next: bool
+export function error(code: number, message: string): ApiResponse<null> {
+  return { code, message, data: null }
+}
 ```
 
 ### 自定义业务异常
-```python
-# app/core/exceptions.py
-class BizError(Exception):
-    """业务异常，会被全局异常处理器捕获并转为标准 JSON 响应"""
-    def __init__(self, code: int, message: str, status_code: int = 400):
-        self.code = code
-        self.message = message
-        self.status_code = status_code
+```typescript
+// src/core/exceptions.ts
 
-# 使用示例
-raise BizError(code=40901, message="用户名已被占用")
-raise BizError(code=40301, message="无权操作该资源", status_code=403)
+export class BizError extends Error {
+  /** 业务异常，会被全局错误处理中间件捕获并转为标准 JSON 响应 */
+  constructor(
+    public readonly code: number,
+    message: string,
+    public readonly statusCode: number = 400,
+  ) {
+    super(message)
+    this.name = 'BizError'
+  }
+}
+
+// 使用示例
+throw new BizError(40901, '用户名已被占用')
+throw new BizError(40301, '无权操作该资源', 403)
 ```
 
-### 全局异常处理器
-```python
-# 在 main.py 中注册
-from fastapi import Request
-from fastapi.responses import JSONResponse
+### 全局错误处理中间件
+```typescript
+// 在 main.ts 中注册
+import { Request, Response, NextFunction } from 'express'
+import { BizError } from '@/core/exceptions'
+import { logger } from '@/core/logger'
 
-@app.exception_handler(BizError)
-async def biz_error_handler(request: Request, exc: BizError):
-    return JSONResponse(
-        status_code=exc.status_code,
-        content={"code": exc.code, "message": exc.message, "data": None},
-    )
+export function errorHandler(err: Error, req: Request, res: Response, _next: NextFunction) {
+  if (err instanceof BizError) {
+    return res.status(err.statusCode).json({
+      code: err.code,
+      message: err.message,
+      data: null,
+    })
+  }
 
-@app.exception_handler(Exception)
-async def global_error_handler(request: Request, exc: Exception):
-    # 生产环境不暴露错误详情
-    logger.error(f"未处理异常: {exc}", exc_info=True)
-    return JSONResponse(
-        status_code=500,
-        content={"code": 50000, "message": "服务器内部错误", "data": None},
-    )
+  // 生产环境不暴露错误详情
+  logger.error(`未处理异常: ${err.message}`, { stack: err.stack })
+  res.status(500).json({
+    code: 50000,
+    message: '服务器内部错误',
+    data: null,
+  })
+}
 ```
 
 ---
@@ -195,23 +204,24 @@ GET /api/v1/users?page=1&page_size=20&sort_by=created_at&sort_order=desc&keyword
 | `sort_order` | string | `desc` | `asc` 或 `desc` |
 | `keyword` | string | - | 搜索关键词（可选） |
 
-### 后端通用分页依赖
-```python
-from fastapi import Query
+### 后端通用分页中间件
+```typescript
+import { Request } from 'express'
+import { z } from 'zod'
 
-class PaginationParams:
-    def __init__(
-        self,
-        page: int = Query(1, ge=1, description="页码"),
-        page_size: int = Query(20, ge=1, le=100, description="每页条数"),
-        sort_by: str = Query("created_at", description="排序字段"),
-        sort_order: str = Query("desc", regex="^(asc|desc)$", description="排序方向"),
-    ):
-        self.page = page
-        self.page_size = page_size
-        self.sort_by = sort_by
-        self.sort_order = sort_order
-        self.offset = (page - 1) * page_size
+export const PaginationSchema = z.object({
+  page: z.coerce.number().int().min(1).default(1).describe('页码'),
+  pageSize: z.coerce.number().int().min(1).max(100).default(20).describe('每页条数'),
+  sortBy: z.string().default('created_at').describe('排序字段'),
+  sortOrder: z.enum(['asc', 'desc']).default('desc').describe('排序方向'),
+})
+
+export type PaginationParams = z.infer<typeof PaginationSchema>
+
+export function parsePagination(query: Request['query']): PaginationParams & { offset: number } {
+  const params = PaginationSchema.parse(query)
+  return { ...params, offset: (params.page - 1) * params.pageSize }
+}
 ```
 
 ---
@@ -292,8 +302,8 @@ export const useUpdateProfile = () => {
 
 ## 八、接口文档要求
 
-- FastAPI 的 Swagger 文档（`/docs`）是唯一的 API 文档来源
-- 每个路由函数必须有完整的中文 docstring
-- 每个 Pydantic 模型字段必须有 `Field(description=...)` 中文说明
-- Tag 分组必须与业务模块名一致（`tags=["用户管理"]`、`tags=["对话"]`）
-- 响应示例必须在 `response_model` 中体现，不手写 OpenAPI JSON
+- 后端 API 文档使用 `swagger-ui-express` + `swagger-jsdoc` 自动生成（仅 dev 环境开放 `/docs`）
+- 每个路由函数必须有完整的中文 JSDoc 注释
+- 每个 Zod Schema 字段必须有 `.describe('中文说明')`
+- Tag 分组必须与业务模块名一致（如 `用户管理`、`对话`）
+- 响应示例必须在 Zod Schema / TypeScript 类型中体现，不手写 OpenAPI JSON

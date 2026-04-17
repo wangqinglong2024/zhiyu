@@ -154,29 +154,29 @@ ALTER DEFAULT PRIVILEGES IN SCHEMA dev_ideas GRANT ALL ON TABLES TO service_role
 
 ### 3. 后端如何切换 Schema
 
-```python
-# backend/app/core/config.py
-import os
+```typescript
+// backend/src/core/config.ts
+const ENV = process.env.APP_ENV ?? 'dev'  // dev / staging / production
+const PROJECT = process.env.PROJECT_NAME ?? 'ideas'
 
-ENV = os.getenv("APP_ENV", "dev")  # dev / staging / production
-PROJECT = os.getenv("PROJECT_NAME", "ideas")
+const schemaMap: Record<string, string> = {
+  production: 'public',
+  staging: `stg_${PROJECT}`,
+  dev: `dev_${PROJECT}`,
+}
 
-# 根据环境确定数据库 Schema
-DB_SCHEMA = {
-    "production": "public",
-    "staging": f"stg_{PROJECT}",
-    "dev": f"dev_{PROJECT}",
-}[ENV]
+export const DB_SCHEMA = schemaMap[ENV] ?? `dev_${PROJECT}`
 ```
 
-```python
-# Supabase 客户端初始化时指定 Schema
-from supabase import create_client
+```typescript
+// Supabase 客户端初始化时指定 Schema
+import { createClient } from '@supabase/supabase-js'
+import { config } from '@/core/config'
 
-supabase = create_client(
-    supabase_url=settings.SUPABASE_URL,
-    supabase_key=settings.SUPABASE_KEY,
-    options=ClientOptions(schema=DB_SCHEMA)
+export const supabase = createClient(
+  config.SUPABASE_URL,
+  config.SUPABASE_KEY,
+  { db: { schema: DB_SCHEMA } },
 )
 ```
 
@@ -557,9 +557,10 @@ server {
 
 ```dockerfile
 # 后端 — 利用层缓存，依赖不变时不重装
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY package.json package-lock.json ./
+RUN npm ci
 COPY . .
+RUN npm run build
 
 # 前端 — 同理，node_modules 层缓存
 COPY package.json package-lock.json ./
@@ -568,7 +569,7 @@ COPY . .
 RUN npm run build
 ```
 
-- 基础镜像锁定版本：`node:20-alpine`、`python:3.12-slim`
+- 基础镜像锁定版本：前后端均使用 `node:20-alpine`
 - 生产镜像必须是多阶段构建（builder → runner），最终镜像不含 devDependencies
 - 每次构建打印 `IMAGE_TAG` 和 `GIT_SHA` 到日志
 
@@ -649,23 +650,29 @@ docker compose up -d {service}
 
 ### 1. 健康检查端点（必须实现）
 
-```python
-# backend/app/routers/health.py
-@router.get("/api/v1/health")
-async def health_check():
-    """供部署脚本调用，判断服务是否就绪"""
-    checks = {
-        "api": "ok",
-        "database": await check_db_connection(),
-        "env": settings.APP_ENV,           # 返回当前环境标识
-        "schema": settings.DB_SCHEMA,      # 返回当前连接的 Schema
-        "timestamp": datetime.utcnow().isoformat(),
-    }
-    all_ok = all(v == "ok" for v in checks.values() if isinstance(v, str))
-    return JSONResponse(
-        status_code=200 if all_ok else 503,
-        content=checks,
-    )
+```typescript
+// backend/src/routers/health.ts
+import { Router, Request, Response } from 'express'
+import { checkDbConnection } from '@/core/supabase'
+import { config } from '@/core/config'
+
+const router = Router()
+
+router.get('/api/v1/health', async (req: Request, res: Response) => {
+  /** 供部署脚本调用，判断服务是否就绪 */
+  const dbStatus = await checkDbConnection()
+  const checks = {
+    api: 'ok',
+    database: dbStatus,
+    env: config.APP_ENV,
+    schema: config.DB_SCHEMA,
+    timestamp: new Date().toISOString(),
+  }
+  const allOk = checks.api === 'ok' && checks.database === 'ok'
+  res.status(allOk ? 200 : 503).json(checks)
+})
+
+export default router
 ```
 
 ### 2. Docker 容器健康检查

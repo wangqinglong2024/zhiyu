@@ -194,16 +194,16 @@ AI 会帮你翻译成技术方案。
 ```
 阶段 0：项目初始化（只做一次）
   T-0.1  生成 Docker + 项目骨架
-  T-0.2  后端基础设施（config, auth, exceptions, middleware, main.py）
+  T-0.2  后端基础设施（config, auth, exceptions, middleware, main.ts）
   T-0.3  前端基础设施（lib/, providers/, router/, 全局样式）
   T-0.4  数据库初始迁移 + RLS 策略
 
 阶段 1：核心功能后端
   T-1.1  [模块A] 数据库建表 + 迁移文件
-  T-1.2  [模块A] Pydantic 模型 + Repository 层
+  T-1.2  [模块A] Zod Schema + Repository 层
   T-1.3  [模块A] Service 层 + Router 层
   T-1.4  [模块B] 数据库建表 + 迁移文件
-  T-1.5  [模块B] Pydantic 模型 + Repository 层
+  T-1.5  [模块B] Zod Schema + Repository 层
   T-1.6  [模块B] Service 层 + Router 层
   ...
 
@@ -236,10 +236,10 @@ AI 会帮你翻译成技术方案。
 | 编号 | 任务标题 | 涉及文件 | 前置依赖 | 验收标准 |
 |------|---------|---------|---------|---------|
 | T-0.1 | 项目骨架 + Docker 配置 | docker-compose.yml, Dockerfile ×2, .env.example | 无 | docker compose up 能启动前后端容器 |
-| T-0.2 | 后端基础设施 | app/core/*.py, app/main.py | T-0.1 | /docs 能打开 Swagger; /health 返回 200 |
+| T-0.2 | 后端基础设施 | src/core/*.ts, src/main.ts | T-0.1 | /docs 能打开 Swagger; /health 返回 200 |
 | T-0.3 | 前端基础设施 | src/lib/*, src/styles/*, src/providers/* | T-0.1 | npm run dev 能打开页面，毛玻璃背景正常 |
 | T-1.1 | 用户表 + RLS | migrations/xxx.sql | T-0.2 | 表创建成功，RLS 生效 |
-| T-1.2 | 用户模型 + 数据访问 | models/user.py, repositories/user_repo.py | T-1.1 | 单元测试通过 |
+| T-1.2 | 用户模型 + 数据访问 | models/user.ts, repositories/user-repo.ts | T-1.1 | 单元测试通过 |
 | ... | ... | ... | ... | ... |
 ```
 
@@ -275,9 +275,9 @@ AI 会帮你翻译成技术方案。
    【完成状态】：✅ 完成 / ⚠️ 完成但有顾虑 / 🚫 阻塞 / ❓ 需要上下文
    
    本次新增/修改的文件：
-   - backend/app/routers/v1/users.py（新增）
-   - backend/app/services/user_service.py（新增）
-   - backend/app/models/user.py（修改：新增 UserUpdate 模型）
+   - backend/src/routers/v1/users.ts（新增）
+   - backend/src/services/user-service.ts（新增）
+   - backend/src/models/user.ts（修改：新增 UserUpdateSchema）
    
    验收方式：
    - 启动后端容器，访问 /docs

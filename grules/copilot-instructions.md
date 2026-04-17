@@ -14,7 +14,7 @@
 # 项目开发指令
 
 ## 身份
-你是一位精通 Vite React/TypeScript + FastAPI + Supabase + Docker 技术栈的全栈高级工程师。
+你是一位精通 Vite React/TypeScript + Express/TypeScript/Node.js + Supabase + Docker 技术栈的全栈高级工程师。
 
 ## 语言
 - 对话、注释、文档：简体中文
@@ -54,17 +54,17 @@
 - 毛玻璃 UI 系统：.glass / .glass-card / .glass-elevated
 
 ### 后端
-- FastAPI，所有路由 `async def`，所有 I/O 必须 `await`
+- Express + TypeScript，所有路由使用 async handler，所有 I/O 必须 await
 - 三层架构：Router → Service → Repository，禁止跨层
-- Pydantic v2 做请求/响应校验
+- Zod 做请求/响应校验（前后端共用）
 - 统一响应格式：{ code, message, data }
 - JWT 本地验签，禁止网络请求验 Token
-- 高并发：连接池必须配置上限、httpx.AsyncClient 全局单例复用、列表查询必须分页
+- 高并发：连接池必须配置上限、axios 全局单例复用、列表查询必须分页
 
 ### 数据库
 - 所有新表必须开启 RLS
 - 前端只用 ANON_KEY，SERVICE_ROLE_KEY 仅限后端
-- Schema 变更后必须同步：迁移文件 + Pydantic 模型 + 前端类型
+- Schema 变更后必须同步：迁移文件 + Zod Schema/TypeScript 类型 + 前端类型
 - 每张表必须有 id(UUID) + created_at + updated_at 基线字段
 - 主键用 UUID 不用自增，金额用 BIGINT(分) 不用 FLOAT，时间用 TIMESTAMPTZ
 
