@@ -1,0 +1,358 @@
+/* Tailwind CSS v4 入口 — 使用 @import 方式，严禁 tailwind.config.js */
+@import "tailwindcss";
+
+/* ===== 自定义主题变量（@theme 指令） ===== */
+@theme {
+  /* 色彩系统 */
+  --color-rose-primary: #e11d48;
+  --color-rose-light: #fda4af;
+  --color-sky-primary: #0284c7;
+  --color-sky-light: #7dd3fc;
+  --color-amber-primary: #d97706;
+  --color-amber-light: #fde68a;
+
+  /* 字体 */
+  --font-heading: 'Manrope', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* 圆角 */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-2xl: 24px;
+  --radius-3xl: 32px;
+}
+
+/* ===== CSS 自定义属性（Light/Dark 模式切换） ===== */
+:root {
+  /* 渐变网格 Blob 色彩 — Light */
+  --mesh-color-1: #fda4af;
+  --mesh-color-2: #7dd3fc;
+  --mesh-color-3: #fde68a;
+  --mesh-opacity: 0.6;
+
+  /* 毛玻璃参数 — Light */
+  --glass-bg: rgba(255, 255, 255, 0.25);
+  --glass-border: rgba(255, 255, 255, 0.45);
+  --glass-inset: rgba(255, 255, 255, 0.6);
+  --glass-shadow: rgba(0, 0, 0, 0.06);
+  --glass-blur: 24px;
+  --glass-saturate: 1.8;
+
+  /* 输入框 Focus */
+  --input-focus-glow: rgba(225, 29, 72, 0.25);
+
+  /* 背景 */
+  --bg-primary: #fafafa;
+  --bg-elevated: #ffffff;
+
+  /* 文字 */
+  --text-primary: #171717;
+  --text-secondary: #404040;
+  --text-tertiary: #a3a3a3;
+
+  color-scheme: light;
+}
+
+.dark {
+  /* 渐变网格 Blob 色彩 — Dark */
+  --mesh-color-1: #e11d48;
+  --mesh-color-2: #0284c7;
+  --mesh-color-3: #d97706;
+  --mesh-opacity: 0.12;
+
+  /* 毛玻璃参数 — Dark */
+  --glass-bg: rgba(255, 255, 255, 0.07);
+  --glass-border: rgba(255, 255, 255, 0.12);
+  --glass-inset: rgba(255, 255, 255, 0.1);
+  --glass-shadow: rgba(0, 0, 0, 0.50);
+  --glass-blur: 24px;
+  --glass-saturate: 1.8;
+
+  /* 输入框 Focus */
+  --input-focus-glow: rgba(253, 164, 175, 0.2);
+
+  /* 背景 */
+  --bg-primary: #0e0e0e;
+  --bg-elevated: #171717;
+
+  /* 文字 */
+  --text-primary: #fafafa;
+  --text-secondary: #a3a3a3;
+  --text-tertiary: #525252;
+
+  color-scheme: dark;
+}
+
+/* ===== 全局基础样式 ===== */
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* ===== 毛玻璃语义化类库 ===== */
+
+/* .glass — 标准基线毛玻璃面板 */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  border: 1px solid var(--glass-border);
+  box-shadow:
+    inset 0 1px 0 0 var(--glass-inset),
+    0 4px 12px var(--glass-shadow);
+}
+
+/* .glass-card — 卡片级毛玻璃，含 hover 悬浮响应 */
+.glass-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-2xl);
+  box-shadow:
+    inset 0 1px 0 0 var(--glass-inset),
+    0 4px 12px var(--glass-shadow);
+  transition: all 300ms ease-out;
+}
+
+.glass-card:hover {
+  transform: translateY(-1px);
+  box-shadow:
+    inset 0 1px 0 0 var(--glass-inset),
+    0 8px 24px var(--glass-shadow);
+}
+
+/* .glass-elevated — 高阶浮起面板 (blur 32px)，弹窗/悬浮菜单/聊天输入区 */
+.glass-elevated {
+  background: var(--glass-bg);
+  backdrop-filter: blur(32px) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(32px) saturate(var(--glass-saturate));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-xl);
+  box-shadow:
+    inset 0 1px 0 0 var(--glass-inset),
+    0 8px 24px var(--glass-shadow),
+    0 16px 48px rgba(0, 0, 0, 0.08);
+}
+
+.dark .glass-elevated {
+  box-shadow:
+    inset 0 1px 0 0 var(--glass-inset),
+    0 8px 24px var(--glass-shadow),
+    0 16px 48px rgba(0, 0, 0, 0.6);
+}
+
+/* .glass-bubble-ai — AI 对话气泡（质感更强、更清晰） */
+.glass-bubble-ai {
+  background: rgba(255, 255, 255, 0.30);
+  backdrop-filter: blur(20px) saturate(1.6);
+  -webkit-backdrop-filter: blur(20px) saturate(1.6);
+  border: 1px solid rgba(255, 255, 255, 0.40);
+  border-radius: var(--radius-xl);
+  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.5);
+}
+
+.dark .glass-bubble-ai {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.12);
+  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.08);
+}
+
+/* .glass-bubble-user — 用户对话气泡（更柔和） */
+.glass-bubble-user {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(16px) saturate(1.4);
+  -webkit-backdrop-filter: blur(16px) saturate(1.4);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: var(--radius-xl);
+  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.3);
+}
+
+.dark .glass-bubble-user {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.05);
+}
+
+/* .glass-decor — 纯装饰性浮动玻璃方块 */
+.glass-decor {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px) saturate(1.2);
+  -webkit-backdrop-filter: blur(12px) saturate(1.2);
+  border: 1px solid rgba(255, 255, 255, 0.20);
+  border-radius: var(--radius-lg);
+  pointer-events: none;
+}
+
+.dark .glass-decor {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+/* ===== 按钮体系 ===== */
+
+/* .btn-primary — 主行动点 CTA */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 24px;
+  background: var(--color-rose-primary, #e11d48);
+  color: #ffffff;
+  border: none;
+  border-radius: 9999px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 300ms ease-out;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(225, 29, 72, 0.35);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+.btn-primary:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+/* .btn-glass — 毛玻璃药丸按钮 */
+.btn-glass {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 20px;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  border: 1px solid var(--glass-border);
+  border-radius: 9999px;
+  color: var(--text-primary);
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 300ms ease-out;
+}
+
+.btn-glass:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px var(--glass-shadow);
+}
+
+.btn-glass:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* .btn-ghost — 透明幽灵按钮 */
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 20px;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 9999px;
+  color: var(--text-primary);
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 300ms ease-out;
+}
+
+.btn-ghost:hover {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px) saturate(1.2);
+  -webkit-backdrop-filter: blur(12px) saturate(1.2);
+  border-color: var(--glass-border);
+  transform: translateY(-1px);
+}
+
+.btn-ghost:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* ===== 输入体系 ===== */
+
+/* .glass-input — 表单输入框 */
+.glass-input {
+  width: 100%;
+  padding: 12px 20px;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  border: 1px solid var(--glass-border);
+  border-radius: 9999px;
+  color: var(--text-primary);
+  font-size: 16px;
+  outline: none;
+  transition: all 300ms ease-out;
+}
+
+.glass-input::placeholder {
+  color: var(--text-tertiary);
+}
+
+/* Focus 弥散光晕 — 绝不使用 ring/border */
+.glass-input:focus {
+  box-shadow: 0 0 0 4px var(--input-focus-glow);
+  border-color: var(--glass-border);
+}
+
+.glass-input:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+/* 聊天输入框（方角） */
+.glass-input-chat {
+  width: 100%;
+  padding: 12px 16px;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-xl);
+  color: var(--text-primary);
+  font-size: 16px;
+  outline: none;
+  transition: all 300ms ease-out;
+}
+
+.glass-input-chat:focus {
+  box-shadow: 0 0 0 4px var(--input-focus-glow);
+}
+
+/* ===== 性能降级 ===== */
+@media (max-width: 768px) {
+  .perf-low .glass,
+  .perf-low .glass-card,
+  .perf-low .glass-elevated {
+    --glass-blur: 12px;
+    --glass-saturate: 1.2;
+  }
+}

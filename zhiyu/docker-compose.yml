@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  frontend:
+    container_name: ideas-dev-fe
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "${FRONTEND_PORT:-3100}:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - app-net
+    restart: unless-stopped
+
+  backend:
+    container_name: ideas-dev-be
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "${BACKEND_PORT:-8100}:3000"
+    env_file:
+      - .env
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/api/v1/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    networks:
+      - app-net
+      - global-data-link
+    restart: unless-stopped
+
+networks:
+  app-net:
+    driver: bridge
+  global-data-link:
+    external: true

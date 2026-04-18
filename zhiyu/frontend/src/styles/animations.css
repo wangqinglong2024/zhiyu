@@ -1,0 +1,51 @@
+/* ===== 三个 Mesh Gradient Blob 漂移动画 ===== */
+@keyframes mesh-drift-1 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25%      { transform: translate(80px, -60px) scale(1.05); }
+  50%      { transform: translate(-40px, 80px) scale(0.95); }
+  75%      { transform: translate(60px, 40px) scale(1.02); }
+}
+
+@keyframes mesh-drift-2 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25%      { transform: translate(-70px, 50px) scale(0.97); }
+  50%      { transform: translate(90px, -30px) scale(1.04); }
+  75%      { transform: translate(-50px, -70px) scale(1.01); }
+}
+
+@keyframes mesh-drift-3 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25%      { transform: translate(50px, 70px) scale(1.03); }
+  50%      { transform: translate(-80px, -40px) scale(0.96); }
+  75%      { transform: translate(30px, -60px) scale(1.06); }
+}
+
+/* 应用到 3 个 Blob 元素（错开延迟产生呼吸感） */
+.mesh-blob-1 {
+  animation: mesh-drift-1 22s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+}
+.mesh-blob-2 {
+  animation: mesh-drift-2 25s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+  animation-delay: -7s;
+}
+.mesh-blob-3 {
+  animation: mesh-drift-3 20s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+  animation-delay: -13s;
+}
+
+/* ===== 装饰性浮动玻璃方块 ===== */
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50%      { transform: translateY(-20px) rotate(3deg); }
+}
+.animate-float-slow {
+  animation: float-slow 8s ease-in-out infinite;
+}
+
+/* ===== 无障碍：尊重用户减少动画偏好 ===== */
+@media (prefers-reduced-motion: reduce) {
+  .mesh-blob-1, .mesh-blob-2, .mesh-blob-3,
+  .animate-float-slow {
+    animation: none !important;
+  }
+}
