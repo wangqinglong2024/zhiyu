@@ -52,6 +52,35 @@ export function authMiddleware(req: Request, _res: Response, next: NextFunction)
 }
 
 /**
+ * 可选认证中间件 — 不强制要求登录，但若有 Token 则解析用户信息
+ * 用于公开接口但需判断登录状态的场景（如文章列表的 isFavorited）
+ */
+export function optionalAuthMiddleware(req: Request, _res: Response, next: NextFunction): void {
+  const authHeader = req.headers.authorization
+  if (!authHeader || !authHeader.startsWith('Bearer ')) {
+    return next()
+  }
+
+  const token = authHeader.slice(7)
+  if (!token) {
+    return next()
+  }
+
+  try {
+    const decoded = jwt.verify(token, config.JWT_SECRET) as jwt.JwtPayload
+    ;(req as AuthRequest).user = {
+      sub: decoded.sub as string,
+      role: decoded.role as string || 'authenticated',
+      email: decoded.email as string | undefined,
+      aud: decoded.aud as string | undefined,
+    }
+  } catch {
+    // Token 无效时忽略，视为未登录
+  }
+  next()
+}
+
+/**
  * 管理员权限中间件 — 在 authMiddleware 之后使用
  */
 export function adminMiddleware(req: Request, _res: Response, next: NextFunction): void {
