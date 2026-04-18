@@ -20,6 +20,14 @@ app.use(cors({
   credentials: true,
 }))
 app.use(compression())
+
+// Paddle Webhook 需要原始 body 用于签名验证
+app.use('/api/v1/webhooks/paddle', express.raw({ type: 'application/json' }), (req, _res, next) => {
+  (req as any).rawBody = req.body
+  req.body = JSON.parse(req.body.toString())
+  next()
+})
+
 app.use(express.json({ limit: '10mb' }))
 app.use(express.urlencoded({ extended: true }))
 app.use(morgan('combined'))
