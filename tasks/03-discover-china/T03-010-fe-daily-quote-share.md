@@ -120,7 +120,7 @@ if (navigator.canShare && navigator.canShare({ files: [file] })) {
 
 ## 依赖
 
-- 前置: T03-005（金句 API，bgImageUrl 字段）
+- 前置: T03-005（金句 API，bgImageUrl 字段）、T03-007（DailyQuoteCard.tsx 组件，分享按钮需修改该组件）
 - 后续: T03-012（复用 SharePreviewSheet 和 ShareActions）
 
 ## 验收标准（GIVEN-WHEN-THEN）

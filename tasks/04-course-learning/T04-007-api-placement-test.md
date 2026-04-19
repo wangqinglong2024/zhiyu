@@ -167,8 +167,11 @@ CREATE TABLE public.placement_test_questions (
 CREATE INDEX idx_ptq_module_level ON public.placement_test_questions (module, difficulty_level) WHERE is_active = true;
 
 ALTER TABLE public.placement_test_questions ENABLE ROW LEVEL SECURITY;
-CREATE POLICY "ptq_select_authenticated" ON public.placement_test_questions
-  FOR SELECT TO authenticated USING (is_active = true);
+-- ⚠️ 安全：题库含 correct_answer 字段，禁止前端直接查表
+-- 仅允许 service_role（后端）读取题目，防止用户作弊
+-- authenticated 用户通过后端 API 获取题目（API 层过滤答案字段后返回）
+CREATE POLICY "ptq_select_service_only" ON public.placement_test_questions
+  FOR SELECT TO service_role USING (is_active = true);
 ```
 
 ## 范围（做什么）

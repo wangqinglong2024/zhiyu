@@ -184,7 +184,7 @@ frontend/src/core/components/ui/
 - 新建: `frontend/src/core/components/ui/Toast.tsx`
 - 新建: `frontend/src/core/components/ui/ToastProvider.tsx`
 - 新建: `frontend/src/core/components/ui/Card.tsx`
-- 新建: `frontend/src/core/components/ui/Badge.tsx`
+- 新建: `frontend/src/core/components/ui/Badge.tsx`（⚠️ T02-001 已在 `components/ui/Badge.tsx` 创建了基础版本，此处为 core 层增强版本，需在 T02-001 完成后迁移合并）
 - 新建: `frontend/src/core/components/ui/Skeleton.tsx`
 - 新建: `frontend/src/core/components/ui/Divider.tsx`
 - 新建: `frontend/src/core/components/ui/Avatar.tsx`

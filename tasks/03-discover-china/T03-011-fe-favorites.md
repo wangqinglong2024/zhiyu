@@ -3,7 +3,7 @@
 > 分类: 03-发现中国 (Discover China)
 > 状态: 📋 待开发
 > 复杂度: M(中等)
-> 预估文件数: 5
+> 预估文件数: 8
 
 ## 需求摘要
 
@@ -129,7 +129,7 @@ interface FavoriteStore {
 
 ## 依赖
 
-- 前置: T03-006（收藏 API）
+- 前置: T03-006（收藏 API）、T03-008（ArticleCard.tsx 组件，需集成 FavoriteButton）、T03-009（ArticleHeader.tsx 组件，需集成 FavoriteButton）
 - 后续: T03-013（集成验证）
 
 ## 验收标准（GIVEN-WHEN-THEN）

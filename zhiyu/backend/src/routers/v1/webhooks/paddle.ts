@@ -1,4 +1,4 @@
-import { Router, Request, Response } from 'express'
+import { Router, Request, Response, NextFunction } from 'express'
 import * as purchaseService from '../../../services/course-purchase-service'
 import { success } from '../../../core/response'
 import { BadRequest } from '../../../core/exceptions'
@@ -10,7 +10,8 @@ const router = Router()
  * POST /webhooks/paddle
  * Paddle Webhook 回调（无 auth，使用签名验证）
  */
-router.post('/paddle', async (req: Request, res: Response) => {
+router.post('/paddle', async (req: Request, res: Response, next: NextFunction) => {
+  try {
   // 签名验证
   const signature = req.headers['paddle-signature'] as string
   if (!signature) throw BadRequest('缺少 Paddle 签名')
@@ -53,6 +54,9 @@ router.post('/paddle', async (req: Request, res: Response) => {
   await purchaseService.handlePaddleWebhook(eventType, data)
 
   success(res, { received: true })
+  } catch (err) {
+    next(err)
+  }
 })
 
 export default router

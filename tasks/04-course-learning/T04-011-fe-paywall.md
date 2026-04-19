@@ -183,7 +183,7 @@ components/paywall/
 
 - 前置: T04-008（课程购买 API — Paddle + 知语币兑换）
 - 前置: T04-005（Level 预览 API）
-- 前置: T02-XXX（全局框架 — Toast、Modal 基础组件）
+- 前置: T02-011（全局框架 — Toast、Modal 基础组件）
 - 后续: 无（本组件被 T04-010、T04-012 调用）
 
 ## 验收标准（GIVEN-WHEN-THEN）

@@ -41,6 +41,8 @@ CREATE TABLE public.profiles (
   zhiyu_coins INTEGER NOT NULL DEFAULT 0,               -- 知语币余额
   user_role VARCHAR(20) NOT NULL DEFAULT 'free',        -- free / paid / banned
   last_login_at TIMESTAMPTZ,
+  login_fail_count SMALLINT NOT NULL DEFAULT 0,        -- 连续登录失败次数（T02-003 登录锁定功能用）
+  locked_until TIMESTAMPTZ,                            -- 锁定截止时间（5 次失败后锁定 15 分钟）
   created_at TIMESTAMPTZ NOT NULL DEFAULT now(),
   updated_at TIMESTAMPTZ NOT NULL DEFAULT now()
 );

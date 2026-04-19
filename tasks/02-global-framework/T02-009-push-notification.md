@@ -132,7 +132,7 @@ frontend/src/features/push/
 
 ## 涉及文件
 
-- 新建: `supabase/migrations/xxx_create_push_tables.sql`
+- 新建: `supabase/migrations/20260418200001_create_push_tables.sql`
 - 新建: `backend/src/models/push.ts`
 - 新建: `backend/src/routers/v1/push.ts`
 - 新建: `backend/src/routers/v1/admin/push.ts`

@@ -62,11 +62,12 @@ Response 200:
 ### 文章列表 API
 
 ```
-GET /api/v1/categories/:categoryId/articles?page=1&pageSize=10&sort=latest&locale=vi
+GET /api/v1/categories/:categoryId/articles?page=1&page_size=10&sort=latest&locale=vi
 
 Response 200:
 {
   "code": 0,
+  "message": "success",
   "data": {
     "items": [
       {
@@ -81,12 +82,10 @@ Response 200:
         "publishedAt": "2026-04-15T00:00:00Z"
       }
     ],
-    "pagination": {
-      "page": 1,
-      "pageSize": 10,
-      "total": 28,
-      "totalPages": 3
-    }
+    "total": 28,
+    "page": 1,
+    "page_size": 10,
+    "has_next": true
   }
 }
 ```
@@ -170,10 +169,10 @@ const categoriesQuerySchema = z.object({
   locale: z.enum(['zh', 'en', 'vi']).default('zh'),
 });
 
-// 文章列表参数
+// 文章列表参数（查询参数强制 snake_case，符合 api-design.md 规约）
 const articlesQuerySchema = z.object({
   page: z.coerce.number().int().min(1).default(1),
-  pageSize: z.coerce.number().int().min(1).max(50).default(10),
+  page_size: z.coerce.number().int().min(1).max(50).default(10),
   sort: z.enum(['latest', 'popular']).default('latest'),
   locale: z.enum(['zh', 'en', 'vi']).default('zh'),
 });
@@ -225,8 +224,8 @@ const viewBodySchema = z.object({
    **THEN** 返回 12 条类目，英文名称正确，按 sort_order 排序
 
 2. **GIVEN** 类目 1（公开）下有 15 篇已发布文章  
-   **WHEN** 未登录用户调用 `GET /api/v1/categories/1/articles?page=1&pageSize=10&sort=latest`  
-   **THEN** 返回 10 条文章 + pagination.total=15 + pagination.totalPages=2
+   **WHEN** 未登录用户调用 `GET /api/v1/categories/1/articles?page=1&page_size=10&sort=latest`  
+   **THEN** 返回 10 条文章 + total=15 + has_next=true
 
 3. **GIVEN** 类目 4（非公开）下有文章  
    **WHEN** 未登录用户调用 `GET /api/v1/categories/4/articles`  
@@ -273,7 +272,7 @@ const viewBodySchema = z.object({
 - [ ] 4 个 API 端点全部返回正确数据
 - [ ] Zod 校验拦截非法输入返回 400
 - [ ] 未登录用户访问非公开类目返回 403
-- [ ] 分页参数正确（total/totalPages 准确）
+- [ ] 分页参数正确（total/page_size/has_next 准确）
 - [ ] 排序功能正确（latest/popular）
 - [ ] 浏览量去重逻辑正确
 - [ ] 控制台无 Error 级别日志

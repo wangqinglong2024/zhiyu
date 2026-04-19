@@ -180,7 +180,7 @@ interface QuestionRendererProps {
 
 ## 依赖
 
-- 前置: T05-004（RenderedQuestion 类型定义）、T02-xxx（Cosmic Refraction 基础组件）
+- 前置: T05-004（RenderedQuestion 类型定义）、T02-011（Cosmic Refraction 基础组件）
 - 后续: T05-009（小测验/单元测评页面）、T05-010（综合考核页面）
 
 ## 验收标准（GIVEN-WHEN-THEN）

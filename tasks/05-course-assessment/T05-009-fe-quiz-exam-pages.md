@@ -3,7 +3,7 @@
 > 分类: 05-系统课程-考核 (Course Assessment)
 > 状态: 📋 待开发
 > 复杂度: L(复杂)
-> 预估文件数: 10
+> 预估文件数: 13
 
 ## 需求摘要
 
@@ -43,9 +43,9 @@ frontend/src/pages/assessment/
 ### 路由配置
 
 ```
-/course/lessons/:lessonId/quiz          -- 课时小测验
-/course/units/:unitId/test              -- 单元测评
-/course/assessments/:attemptId/result   -- 考核结果页
+/courses/lessons/:lessonId/quiz          -- 课时小测验
+/courses/units/:unitId/test              -- 单元测评
+/courses/assessments/:attemptId/result   -- 考核结果页
 ```
 
 ### 课时小测验流程
@@ -177,7 +177,7 @@ function useUnitTest(unitId: string) {
 ## 依赖
 
 - 前置: T05-005（课时小测验 API）、T05-006（单元测评 API）、T05-008（题型组件）
-- 外部: T02-xxx（全局路由框架）
+- 外部: T02-001（全局路由框架）
 - 后续: T05-011（集成验证）
 
 ## 验收标准（GIVEN-WHEN-THEN）

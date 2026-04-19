@@ -73,15 +73,15 @@ frontend/src/features/discover-china/
 
 ```
 用户配置:
-  - learningMode: 'pinyin-zh' | 'zh-only'
+  - learningMode: 'pinyin_chinese' | 'chinese_only'
   - explanationEnabled: boolean
   - uiLanguage: 'zh' | 'en' | 'vi'
 
 渲染规则:
-  配置1: pinyin-zh + explanation ON → 拼音行 + 中文行 + 解释语言行
-  配置2: pinyin-zh + explanation OFF → 拼音行 + 中文行
-  配置3: zh-only + explanation ON → 中文行 + 解释语言行
-  配置4: zh-only + explanation OFF → 中文行
+  配置1: pinyin_chinese + explanation ON → 拼音行 + 中文行 + 解释语言行
+  配置2: pinyin_chinese + explanation OFF → 拼音行 + 中文行
+  配置3: chinese_only + explanation ON → 中文行 + 解释语言行
+  配置4: chinese_only + explanation OFF → 中文行
   配置5: uiLanguage=zh → 自动关闭解释语言 → 拼音行(可选) + 中文行
 ```
 

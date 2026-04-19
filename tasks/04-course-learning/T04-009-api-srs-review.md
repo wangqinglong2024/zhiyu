@@ -246,7 +246,7 @@ export function calculateNextReview(
 - 新建: `backend/src/services/srs-service.ts`
 - 新建: `backend/src/services/srs-algorithm.ts` — 纯算法函数
 - 新建: `backend/src/repositories/srs-repository.ts`
-- 新建: `backend/src/models/srs.ts` — Zod Schema + 类型
+- 修改: `backend/src/models/srs-review.ts` — 扩展 Zod Schema + API 请求/响应类型（T04-004 已新建基础类型）
 - 修改: `backend/src/routers/v1/index.ts` — 注册 SRS 路由
 
 ## 依赖

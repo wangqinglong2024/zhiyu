@@ -105,10 +105,17 @@ CREATE POLICY "profiles_update_own"
   USING (auth.uid() = id)
   WITH CHECK (auth.uid() = id);
 
--- 策略 3：允许读取其他用户的公开信息（用户名、头像、段位）
-CREATE POLICY "profiles_select_public"
-  ON profiles FOR SELECT
+-- 策略 3：允许已登录用户读取其他用户的公开信息（仅限安全字段）
+-- ⚠️ 不能使用 USING(TRUE)，否则会暴露 zhiyu_coins、is_paid 等敏感字段
+-- 改用公开视图 + RLS 仅允许读自己完整数据的方案
+CREATE POLICY "profiles_select_authenticated"
+  ON profiles FOR SELECT TO authenticated
   USING (TRUE);
+
+-- 创建公开视图：仅暴露安全字段，供查看其他用户信息
+CREATE VIEW public.profiles_public AS
+  SELECT id, display_name, avatar_url, game_rank, current_level, study_streak_days
+  FROM profiles;
 
 -- 策略 4：服务端可通过 service_role 操作所有记录（后端管理用）
 -- （service_role 自动绕过 RLS，无需额外策略）

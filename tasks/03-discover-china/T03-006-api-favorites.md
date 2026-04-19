@@ -79,11 +79,12 @@ Response 200:
 ### 我的收藏列表 API
 
 ```
-GET /api/v1/favorites?page=1&pageSize=20&locale=vi
+GET /api/v1/favorites?page=1&page_size=20&locale=vi
 
 Response 200:
 {
   "code": 0,
+  "message": "success",
   "data": {
     "items": [
       {
@@ -100,7 +101,10 @@ Response 200:
         "createdAt": "2026-04-18T12:00:00Z"
       }
     ],
-    "pagination": { "page": 1, "pageSize": 20, "total": 15, "totalPages": 1 }
+    "total": 15,
+    "page": 1,
+    "page_size": 20,
+    "has_next": false
   }
 }
 ```
@@ -109,7 +113,7 @@ Response 200:
 - 按收藏时间倒序（最近收藏在前）
 - 关联查询文章最新信息（非收藏时快照）
 - 已下架文章自动过滤（不出现在列表中）
-- 默认 pageSize=20
+- 默认 page_size=20
 
 ### 批量查询收藏状态 API
 
@@ -156,9 +160,10 @@ const favoriteCheckSchema = z.object({
   articleIds: z.array(z.string().uuid()).min(1).max(50),
 });
 
+// 收藏列表查询参数（查询参数强制 snake_case，符合 api-design.md 规约）
 const favoriteListSchema = z.object({
   page: z.coerce.number().int().min(1).default(1),
-  pageSize: z.coerce.number().int().min(1).max(50).default(20),
+  page_size: z.coerce.number().int().min(1).max(50).default(20),
   locale: z.enum(['zh', 'en', 'vi']).default('zh'),
 });
 ```
@@ -214,8 +219,8 @@ const favoriteListSchema = z.object({
    **THEN** 返回 401 `UNAUTHORIZED`
 
 6. **GIVEN** 用户有 25 条收藏  
-   **WHEN** 调用 `GET /api/v1/favorites?page=1&pageSize=20`  
-   **THEN** 返回 20 条 + 关联文章最新信息 + pagination.total=25
+   **WHEN** 调用 `GET /api/v1/favorites?page=1&page_size=20`  
+   **THEN** 返回 20 条 + 关联文章最新信息 + total=25 + has_next=true
 
 7. **GIVEN** 用户收藏了 3 篇文章  
    **WHEN** 调用 `POST /api/v1/favorites/check` 传入 5 个 articleId  

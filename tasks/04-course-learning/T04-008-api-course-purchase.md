@@ -183,7 +183,7 @@ function verifyPaddleSignature(rawBody: string, signature: string, secret: strin
 - 新建: `backend/src/services/course-purchase-service.ts`
 - 新建: `backend/src/repositories/course-purchase-repository.ts`
 - 新建: `backend/src/utils/paddle-signature.ts` — Paddle 验签工具
-- 新建: `backend/src/models/course-purchase.ts` — Zod Schema + 类型
+- 修改: `backend/src/models/course-purchase.ts` — 扩展 Zod Schema + API 请求/响应类型（T04-003 已新建基础类型）
 - 修改: `backend/src/routers/v1/index.ts` — 注册路由
 - 修改: `backend/src/app.ts` — Webhook 路由需使用 raw body（不经过 JSON parser）
 

@@ -286,7 +286,7 @@ export default router
 - 修改: `zhiyu/backend/src/core/response.ts`
 - 修改: `zhiyu/backend/src/core/exceptions.ts`
 - 修改: `zhiyu/backend/src/core/auth.ts`
-- 修改: `zhiyu/backend/src/routers/health.ts`
+- 修改: `zhiyu/backend/src/routers/health.ts`（⚠️ T01-005 已集成 Supabase 健康检查，此处在其基础上补充 uptime/version 等元数据字段，非覆盖重写）
 - 修改: `zhiyu/backend/src/routers/v1/index.ts`
 
 ## 依赖

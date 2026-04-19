@@ -66,21 +66,20 @@ Response 200:
 ### 金句历史列表 API
 
 ```
-GET /api/v1/daily-quotes?page=1&pageSize=10
+GET /api/v1/daily-quotes?page=1&page_size=10
 
 Response 200:
 {
   "code": 0,
+  "message": "success",
   "data": {
     "items": [
       { "id": "uuid", "quoteZh": "...", "scheduledDate": "2026-04-18", ... }
     ],
-    "pagination": {
-      "page": 1,
-      "pageSize": 10,
-      "total": 50,
-      "totalPages": 5
-    }
+    "total": 50,
+    "page": 1,
+    "page_size": 10,
+    "has_next": true
   }
 }
 ```
@@ -153,8 +152,8 @@ backend/src/
    **THEN** 返回 `{ "code": 0, "data": null }`
 
 5. **GIVEN** 有 25 条已发布金句  
-   **WHEN** 调用 `GET /api/v1/daily-quotes?page=1&pageSize=10`  
-   **THEN** 返回 10 条金句 + pagination.total=25
+   **WHEN** 调用 `GET /api/v1/daily-quotes?page=1&page_size=10`  
+   **THEN** 返回 10 条金句 + total=25 + has_next=true
 
 6. **GIVEN** 有未来日期排期的金句  
    **WHEN** 调用 `GET /api/v1/daily-quotes` 列表接口  

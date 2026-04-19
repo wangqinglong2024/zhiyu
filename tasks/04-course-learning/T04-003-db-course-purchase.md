@@ -83,17 +83,17 @@ CREATE TABLE public.user_course_purchases (
 );
 
 -- 条件唯一索引：同一用户同一 Level 只能有一个 completed 状态的购买
-CREATE UNIQUE INDEX idx_ucp_active_purchase 
+CREATE UNIQUE INDEX idx_ucpur_active_purchase 
   ON public.user_course_purchases (user_id, level_id) 
   WHERE status = 'completed';
 
--- 常规索引
-CREATE INDEX idx_ucp_user ON public.user_course_purchases (user_id);
-CREATE INDEX idx_ucp_user_status ON public.user_course_purchases (user_id, status);
-CREATE INDEX idx_ucp_paddle_tx ON public.user_course_purchases (paddle_transaction_id) WHERE paddle_transaction_id IS NOT NULL;
-CREATE INDEX idx_ucp_idempotency ON public.user_course_purchases (idempotency_key) WHERE idempotency_key IS NOT NULL;
-CREATE INDEX idx_ucp_expiry ON public.user_course_purchases (expires_at) WHERE status = 'completed';
-CREATE INDEX idx_ucp_reminders ON public.user_course_purchases (expires_at, reminder_30d_sent, reminder_7d_sent, reminder_1d_sent) WHERE status = 'completed';
+-- 常规索引（前缀 idx_ucpur_ 避免与 user_course_progress 的 idx_ucp_ 冲突）
+CREATE INDEX idx_ucpur_user ON public.user_course_purchases (user_id);
+CREATE INDEX idx_ucpur_user_status ON public.user_course_purchases (user_id, status);
+CREATE INDEX idx_ucpur_paddle_tx ON public.user_course_purchases (paddle_transaction_id) WHERE paddle_transaction_id IS NOT NULL;
+CREATE INDEX idx_ucpur_idempotency ON public.user_course_purchases (idempotency_key) WHERE idempotency_key IS NOT NULL;
+CREATE INDEX idx_ucpur_expiry ON public.user_course_purchases (expires_at) WHERE status = 'completed';
+CREATE INDEX idx_ucpur_reminders ON public.user_course_purchases (expires_at, reminder_30d_sent, reminder_7d_sent, reminder_1d_sent) WHERE status = 'completed';
 ```
 
 #### 辅助视图: `user_accessible_levels` — 用户可访问的 Level 列表

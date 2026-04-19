@@ -255,8 +255,8 @@ echo "=== 场景 5: 24h 冷却 ==="
 1. `docker compose up -d --build` — 构建全部服务
 2. `docker compose ps` — 确认所有容器 Running
 3. 执行全部 Migration
-4. 导入种子数据：`docker compose exec supabase-db psql -f /tests/seed-data.sql`
-5. 执行 E2E 测试脚本：`docker compose exec backend bash /tests/e2e-assessment-test.sh`
+4. 导入种子数据：`docker compose exec supabase-db psql -f /tests/e2e/assessment/seed-data.sql`
+5. 执行 E2E 测试脚本：`docker compose exec backend bash /tests/e2e/assessment/e2e-assessment-test.sh`
 6. 检查所有场景的输出（PASS/FAIL）
 7. 验证前端页面流程（手动或截图）
 

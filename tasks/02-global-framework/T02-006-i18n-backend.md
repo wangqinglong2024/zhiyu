@@ -39,8 +39,15 @@ CREATE INDEX idx_i18n_ns_lang ON public.i18n_translations(namespace, lang);
 -- RLS 策略：所有人可读，仅管理员可写
 ALTER TABLE public.i18n_translations ENABLE ROW LEVEL SECURITY;
 CREATE POLICY "i18n_read" ON public.i18n_translations FOR SELECT USING (true);
+-- ⚠️ Supabase JWT 默认不含自定义 user_role，需通过子查询 profiles 表验证管理员身份
 CREATE POLICY "i18n_admin_write" ON public.i18n_translations 
-  FOR ALL USING (auth.jwt() ->> 'user_role' = 'admin');
+  FOR ALL USING (
+    EXISTS (
+      SELECT 1 FROM public.profiles 
+      WHERE profiles.id = auth.uid() 
+      AND profiles.role IN ('admin', 'content_ops')
+    )
+  );
 ```
 
 ### API 端点清单
@@ -96,8 +103,8 @@ backend/src/
 
 ## 涉及文件
 
-- 新建: `supabase/migrations/xxx_create_i18n_translations.sql`
-- 新建: `supabase/seed/i18n-seed.sql`（默认翻译种子）
+- 新建: `supabase/migrations/20260418100001_create_i18n_translations.sql`
+- 新建: `supabase/migrations/20260418100002_seed_i18n_defaults.sql`（默认翻译种子数据，合并到 migration 保证可重建）
 - 新建: `backend/src/models/i18n.ts`
 - 新建: `backend/src/routers/v1/i18n.ts`
 - 新建: `backend/src/routers/v1/admin/i18n.ts`

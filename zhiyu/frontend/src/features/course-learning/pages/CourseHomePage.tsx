@@ -1,11 +1,22 @@
 import { type FC } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { BookOpen, Zap, GraduationCap, ChevronRight, Star, Lock } from 'lucide-react'
+import { BookOpen, Zap, GraduationCap, ChevronRight, Star, Lock, LogIn } from 'lucide-react'
 import { useLevels, useProgressOverview, useSrsStats, usePlacementHistory } from '../hooks/useCourse'
+import { useLoginWallContext } from '../../auth/contexts/LoginWallContext'
 import type { LevelWithStatus } from '../services/api'
 
 export const CourseHomePage: FC = () => {
   const navigate = useNavigate()
+  const { isAuthenticated, openAuthModal } = useLoginWallContext()
+
+  if (!isAuthenticated) {
+    return <LoginPrompt onLogin={() => openAuthModal({ type: 'navigate_tab', payload: { targetTab: '/courses' } })} />
+  }
+
+  return <AuthenticatedCourseHome navigate={navigate} />
+}
+
+const AuthenticatedCourseHome: FC<{ navigate: ReturnType<typeof useNavigate> }> = ({ navigate }) => {
   const { data: levels, isLoading: levelsLoading, error: levelsError } = useLevels()
   const { data: overview } = useProgressOverview()
   const { data: srsStats } = useSrsStats()
@@ -171,6 +182,25 @@ const CourseHomeSkeleton: FC = () => (
         </div>
       ))}
     </div>
+  </div>
+)
+
+const LoginPrompt: FC<{ onLogin: () => void }> = ({ onLogin }) => (
+  <div className="min-h-screen px-4 pt-12 pb-24 flex flex-col items-center justify-center text-center">
+    <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-[#e11d48] to-[#0284c7] flex items-center justify-center mb-6">
+      <BookOpen className="w-8 h-8 text-white" />
+    </div>
+    <h1 className="text-xl font-bold mb-2">系统课程</h1>
+    <p className="text-sm text-[var(--color-text-secondary)] mb-6 max-w-[260px]">
+      登录后即可开启 12 级进阶中文学习之旅
+    </p>
+    <button
+      onClick={onLogin}
+      className="glass-card px-6 py-3 flex items-center gap-2 active:scale-[0.98] transition-transform"
+    >
+      <LogIn className="w-5 h-5 text-[var(--color-accent-rose)]" />
+      <span className="font-medium text-sm">登录 / 注册</span>
+    </button>
   </div>
 )
 

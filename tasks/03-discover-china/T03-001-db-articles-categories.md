@@ -101,7 +101,7 @@ CREATE TABLE article_views (
   viewed_at     TIMESTAMPTZ NOT NULL DEFAULT now()
 );
 
--- 24 小时去重索引
+-- 永久去重索引（同一登录用户对同一文章只计一次浏览）
 CREATE UNIQUE INDEX idx_article_views_user_dedup
   ON article_views(article_id, user_id)
   WHERE user_id IS NOT NULL;

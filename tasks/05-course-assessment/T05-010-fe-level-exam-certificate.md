@@ -3,7 +3,7 @@
 > 分类: 05-系统课程-考核 (Course Assessment)
 > 状态: 📋 待开发
 > 复杂度: L(复杂)
-> 预估文件数: 12
+> 预估文件数: 16
 
 ## 需求摘要
 
@@ -45,10 +45,10 @@ frontend/src/pages/assessment/
 ### 路由配置
 
 ```
-/course/levels/:levelId/exam              -- 综合考核
-/course/levels/:levelId/exam/result       -- 考核结果
-/course/certificates/:certificateNo       -- 证书展示
-/course/certificates                      -- 我的证书列表
+/courses/levels/:levelId/exam              -- 综合考核
+/courses/levels/:levelId/exam/result       -- 考核结果
+/courses/certificates/:certificateNo       -- 证书展示
+/courses/certificates                      -- 我的证书列表
 ```
 
 ### 综合考核流程
@@ -236,7 +236,7 @@ async function generateCertificateImage(data: CertificateData): Promise<Blob> {
 ### 我的证书列表
 
 ```
-/course/certificates
+/courses/certificates
 
 ┌──────────────────────────────┐
 │  我的证书 (3/12)             │
@@ -294,7 +294,7 @@ async function generateCertificateImage(data: CertificateData): Promise<Blob> {
 ## 依赖
 
 - 前置: T05-007（综合考核 API + 证书 API）、T05-008（题型组件）
-- 外部: T02-xxx（全局路由和设计基础）
+- 外部: T02-001（全局路由和设计基础）
 - 后续: T05-011（集成验证）
 
 ## 验收标准（GIVEN-WHEN-THEN）

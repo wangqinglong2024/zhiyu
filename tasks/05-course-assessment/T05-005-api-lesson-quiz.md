@@ -91,6 +91,8 @@ POST /api/v1/assessments/:attemptId/submit
 Authorization: Bearer {token}
 
 Body: {}  // 无需额外参数，所有答案已逐题提交
+// ⚠️ 路由架构：T05-005/006/007 共享 /api/v1/assessments/:attemptId/submit 路径
+// 在 assessment/index.ts 中统一注册，通过查询 attempt.type 分派到对应 service
 
 Response 200:
 {
@@ -158,6 +160,7 @@ for (const wrongAnswer of wrongAnswers) {
 ## 涉及文件
 
 - 新建: `backend/src/routers/v1/assessment/lesson-quiz.ts` — 课时小测验路由
+- 新建: `backend/src/routers/v1/assessment/index.ts` — assessment 路由汇总（统一注册 /api/v1/assessments 前缀，T05-005/006/007 共享此入口，按 attempt.type 分派到不同 service）
 - 新建: `backend/src/services/lesson-quiz-service.ts` — 课时小测验业务逻辑
 - 新建: `backend/src/validators/lesson-quiz-schema.ts` — 请求体 Zod Schema
 - 修改: `backend/src/routers/v1/index.ts` — 注册新路由
@@ -166,7 +169,7 @@ for (const wrongAnswer of wrongAnswers) {
 ## 依赖
 
 - 前置: T05-001（题库 DB）、T05-002（考核记录 DB）、T05-004（题型引擎）
-- 外部: T04-004（SRS 系统，错题写入）
+- 外部: T04-009（SRS 复习 API，错题写入）
 - 后续: T05-009（前端小测验页面）
 
 ## 验收标准（GIVEN-WHEN-THEN）

@@ -1,4 +1,4 @@
-import { createContext, useState, useCallback, useContext, type ReactNode } from 'react'
+import { createContext, useState, useCallback, useContext, useEffect, type ReactNode } from 'react'
 import type { AuthResponse, UserProfile } from '../../../types/api'
 import { authService } from '../services/auth-service'
 
@@ -31,6 +31,17 @@ export function LoginWallProvider({ children }: { children: ReactNode }) {
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false)
   const [pendingAction, setPendingAction] = useState<LoginWallAction | null>(null)
   const [user, setUser] = useState<UserProfile | null>(null)
+
+  // 挂载时恢复已有 session
+  useEffect(() => {
+    if (authService.isAuthenticated()) {
+      authService.getMe().then(setUser).catch(() => {
+        // token 过期或无效，清除
+        sessionStorage.removeItem('access_token')
+        sessionStorage.removeItem('refresh_token')
+      })
+    }
+  }, [])
 
   const isAuthenticated = !!user
 

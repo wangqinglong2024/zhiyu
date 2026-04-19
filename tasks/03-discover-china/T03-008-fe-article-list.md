@@ -124,8 +124,8 @@ frontend/src/features/discover-china/
 
 ## 依赖
 
-- 前置: T03-004（文章列表 API）
-- 后续: T03-009（文章详情，卡片点击跳转目标）
+- 前置: T03-004（文章列表 API）、T03-006（收藏状态查询 API，文章卡片需显示收藏状态）
+- 后续: T03-009（文章详情，卡片点击跳转目标）、T03-011（FavoriteButton 集成到 ArticleCard）
 
 ## 验收标准（GIVEN-WHEN-THEN）
 

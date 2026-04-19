@@ -2,7 +2,7 @@
 
 > 分类: 04-系统课程-学习 (Course Learning)
 > 状态: 📋 待开发
-> 复杂度: XL(极复杂)
+> 复杂度: L(复杂)
 > 预估文件数: 12
 
 ## 需求摘要
@@ -181,7 +181,7 @@ function useCourseData() {
 ## 依赖
 
 - 前置: T04-005（课程结构查询 API）、T04-006（学习进度 API）、T04-009（SRS 统计 API）、T04-007（入学测试历史 API）
-- 前置: T02-XXX（全局框架 — 底部 Tab Bar、Auth 守卫、Toast）
+- 前置: T02-001（全局框架 — 底部 Tab Bar、Auth 守卫、Toast）
 - 后续: T04-011（付费墙 — 锁定 Level 点击触发）
 
 ## 验收标准（GIVEN-WHEN-THEN）
