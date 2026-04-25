@@ -28,7 +28,7 @@
 5. Game          game_runs / game_scores / leaderboards
 6. Economy       coins_balances / coins_ledger / shop_items / orders
 7. Subscription  subscriptions / plans / payment_orders
-8. Referral      referral_codes / referrals / commissions / withdrawals
+8. Referral      referral_codes / referrals / commissions（佣金 = ZC，自动入账 coins_ledger）
 9. Support       conversations / messages / tickets / faq
 10. Factory      factory_tasks / agents / prompt_templates / generations
 11. Admin        admin_users / roles / permissions / audit_logs / flags
@@ -425,40 +425,44 @@ CREATE TABLE payment_orders (
 ```sql
 CREATE TABLE referral_codes (
   user_id uuid PRIMARY KEY REFERENCES users(id),
-  code text UNIQUE NOT NULL,
+  code text UNIQUE NOT NULL,           -- 6 位无歧义；系统生成、不可改、不暴露给前端字段
   created_at timestamptz NOT NULL DEFAULT now()
 );
 
 CREATE TABLE referrals (
   id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-  referrer_user_id uuid REFERENCES users(id),
+  referrer_user_id uuid REFERENCES users(id),    -- L1
+  l2_user_id uuid REFERENCES users(id),          -- L2（自动派生）
   referred_user_id uuid REFERENCES users(id),
   bound_at timestamptz NOT NULL DEFAULT now(),
   source text,
+  source_ip text,
+  source_device_id text,
+  is_effective boolean DEFAULT true,             -- 注册即有效
+  is_suspicious boolean DEFAULT false,
   UNIQUE(referred_user_id)
 );
 
 CREATE TABLE commissions (
   id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-  referrer_user_id uuid REFERENCES users(id),
+  beneficiary_user_id uuid REFERENCES users(id),
   referred_user_id uuid REFERENCES users(id),
   order_id uuid REFERENCES payment_orders(id),
-  amount_usd numeric(10,2),
-  rate numeric(4,2),       -- 0.30
-  status text,             -- pending|locked|paid|reversed
-  created_at timestamptz NOT NULL DEFAULT now()
+  level int NOT NULL CHECK (level IN (1,2)),
+  order_amount_usd numeric(10,2),
+  rate numeric(4,3),                   -- 0.20
+  amount_coins int NOT NULL,           -- = order_amount_usd * 100 * rate（单位 ZC）
+  status text,                         -- pending|confirmed|issued|reversed
+  confirmed_at timestamptz,
+  issued_at timestamptz,
+  coins_ledger_id uuid,
+  created_at timestamptz NOT NULL DEFAULT now(),
+  UNIQUE(order_id, level)
 );
 
-CREATE TABLE withdrawals (
-  id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-  user_id uuid REFERENCES users(id),
-  amount_usd numeric(10,2),
-  method text,
-  account jsonb,
-  status text,             -- pending|approved|paid|rejected
-  reviewed_by uuid REFERENCES admin_users(id),
-  created_at timestamptz NOT NULL DEFAULT now()
-);
+-- 不再提供 withdrawals 表：佣金 confirmed 后自动作为 ZC 入账 coins_ledger
+-- 旧表保留兼容（仅历史数据用，不再写入）：
+-- CREATE TABLE withdrawals_legacy ( ... );
 ```
 
 ### 4.14 客服

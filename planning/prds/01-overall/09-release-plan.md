@@ -30,7 +30,7 @@
 ### W-10 → W-7：核心引擎
 - [ ] 用户注册 / 登录
 - [ ] 内容数据库 schema
-- [ ] LangGraph 内容工厂 v1
+- [ ] CMS 后台 + 批量导入工具（v1 内容生产路径）
 - [ ] FSRS-5 SRS
 - [ ] Paddle Checkout
 - [ ] 知语币体系

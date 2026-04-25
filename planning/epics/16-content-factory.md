@@ -1,9 +1,20 @@
 # Epic E16 · AI 内容工厂（Content Factory）
 
-> 阶段：M2-M5 · 优先级：P0 · 估算：8 周（贯穿）
+> 阶段：**v1.5（Post-MVP）** · 优先级：**P1（v1 不交付）** · 估算：8 周
 
 ## 摘要
 LangGraph + Claude + DeepSeek 编排，自动生成文章 / 课程节 / 小说章 / 词包，人审 + 评分 + 发布。
+
+## ⚠️ 范围与排期说明
+- **MVP（v1.0）阶段不实现 LangGraph 自动化**，所有内容由人工/外部脚本写库
+- 本 Epic 整体推迟到 v1.5（M+3 评估，M+4-M+5 实施）
+- 数据库表（prompt_templates / factory_tasks / generations）在 E01 平台基建一并建好（保留 schema），但暂不接入工作流
+- admin 路由 `/admin/factory` 在 E17 仅作为占位（"v1.5 即将上线"），不接入实际功能
+
+## MVP 替代路径（不在本 Epic）
+- 见 E08（课程）/ E06（探索）/ E11（小说）：均提供后台 CRUD + 批量导入工具
+- TTS：手工调用云 API + R2 上传脚本
+- 翻译：人工 + DeepSeek API 离线脚本
 
 ## 范围
 - prompt_templates / factory_tasks / generations 模型

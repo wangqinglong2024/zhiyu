@@ -5,19 +5,19 @@ last_updated: 2026-04-25
 milestones:
   M0: { sprints: [s01, s02], status: planned, capacity_sp: 160, planned_sp: 109 }
   M1: { sprints: [s03, s04], status: planned, capacity_sp: 160, planned_sp: 109 }
-  M2: { sprints: [s05, s06, s07], status: planned, capacity_sp: 240, planned_sp: 170 }
+  M2: { sprints: [s05, s06, s07], status: planned, capacity_sp: 240, planned_sp: 150 }
   M3: { sprints: [s08, s09, s10], status: planned, capacity_sp: 240, planned_sp: 163 }
   M4: { sprints: [s11, s12, s13], status: planned, capacity_sp: 240, planned_sp: 148 }
-  M5: { sprints: [s14, s15, s16], status: planned, capacity_sp: 240, planned_sp: 146 }
-  M6: { sprints: [s17, s18, s19], status: planned, capacity_sp: 240, planned_sp: 156 }
+  M5: { sprints: [s14, s15, s16], status: planned, capacity_sp: 240, planned_sp: 153 }
+  M6: { sprints: [s17, s18, s19], status: planned, capacity_sp: 240, planned_sp: 158 }
 
 totals:
   sprints: 19
   total_capacity_sp: 1520
-  total_planned_sp: 1001
-  buffer_pct: 34
-  epics: 20
-  stories: 215
+  total_planned_sp: 990
+  buffer_pct: 35
+  epics: 19  # E01-E15 + E17-E20 进入 v1；E16 推迟 v1.5
+  stories: 196  # E16 12 stories 推迟到 99-post-mvp-backlog
 
 current_sprint: null  # set to s01 on kickoff
 
@@ -35,9 +35,9 @@ epic_progress:
   E11: { stories: 10, done: 0 }
   E12: { stories: 10, done: 0 }
   E13: { stories: 10, done: 0 }
-  E14: { stories: 10, done: 0 }
+  E14: { stories: 11, done: 0 }
   E15: { stories: 10, done: 0 }
-  E16: { stories: 12, done: 0 }
+  E16: { stories: 12, done: 0, status: deferred_v1_5 }
   E17: { stories: 12, done: 0 }
   E18: { stories: 10, done: 0 }
   E19: { stories: 10, done: 0 }

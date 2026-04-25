@@ -64,7 +64,7 @@
 | content_editor | content:create|update, factory:trigger |
 | reviewer | content:review |
 | support_agent | user:read, support:*, ticket:* |
-| finance | order:*, refund:*, withdrawal:* |
+| finance | order:*, refund:* |
 | analyst | reports:read |
 
 ### 3.3 RLS（Postgres）
@@ -154,7 +154,7 @@ Cross-Origin-Embedder-Policy: credentialless
 ### 7.3 分销反作弊
 - 自我邀请检测（同设备 / IP / 邮箱前缀）
 - 突增告警
-- 提现审核
+- 佣金 issue 前反作弊复审（不提供提现，无提现审核环节）
 
 ## 八、AI 安全
 

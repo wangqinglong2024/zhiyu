@@ -278,14 +278,15 @@ zhiyu:queue:{name}
 
 ## 十二、Background Jobs（详）
 
-### 12.1 内容工厂
-详见 06-ai-factory.md
+### 12.1 内容工厂（v1.5）
+v1 不实现自动化；详见 06-ai-factory.md（架构保留）
 
 ### 12.2 分销佣金
 - 用户付费成功 → 触发
-- 计算上级佣金（30%）
-- 写入 referral_commissions 表
-- 满足提现条件 → 通知
+- 计算 L1/L2 佣金（rate=0.20，单位 ZC = order_usd × 100 × 0.20）
+- 写入 commissions（pending）
+- 14 天 cron → confirmed → 自动 economy.issue 入账 ZC
+- **不支持现金提现**：无 withdrawal cron / 队列
 
 ### 12.3 推送通知
 - 学习提醒（用户偏好时间）

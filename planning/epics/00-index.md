@@ -31,15 +31,18 @@ inputDocuments:
 | E11 | 小说阅读 | 05 | 10 | P0 | M4 | [11-novels.md](./11-novels.md) |
 | E12 | 知语币与商城 | 08 | 10 | P0 | M5 | [12-economy.md](./12-economy.md) |
 | E13 | 支付与订阅 | 10 | 10 | P0 | M5 | [13-payment.md](./13-payment.md) |
-| E14 | 分销系统 | 09 | 10 | P1 | M6 | [14-referral.md](./14-referral.md) |
+| E14 | 分销系统（佣金=ZC，无提现） | 09 | 11 | P0 | M5-M6 | [14-referral.md](./14-referral.md) |
 | E15 | 客服 IM 与工单 | 11 | 10 | P0 | M6 | [15-customer-service.md](./15-customer-service.md) |
-| E16 | AI 内容工厂 | 14 | 12 | P0 | M2-M5 | [16-content-factory.md](./16-content-factory.md) |
+| E16 | AI 内容工厂（**v1.5 Post-MVP**） | 14 | 12 | P1 | v1.5 | [16-content-factory.md](./16-content-factory.md) |
 | E17 | 管理后台 | 12 | 12 | P0 | M3-M5 | [17-admin.md](./17-admin.md) |
 | E18 | 安全与合规 | 13 | 10 | P0 | M0-M6 | [18-security.md](./18-security.md) |
 | E19 | 可观测与运维 | spec/10 | 10 | P0 | M0-M6 | [19-observability.md](./19-observability.md) |
 | E20 | 上线与发布 | spec/08 | 10 | P0 | M6 | [20-launch.md](./20-launch.md) |
 
 合计 **20 Epics × ~10 Stories ≈ 200+ Stories**
+
+> **MVP（v1）实际交付**：E01-E15 + E17-E20 共 19 Epics（约 190 stories）
+> **Post-MVP（v1.5）**：E16 内容工厂自动化（保留全部 12 stories 规划）
 
 ---
 

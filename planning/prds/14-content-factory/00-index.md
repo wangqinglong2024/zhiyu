@@ -1,13 +1,25 @@
 # 14 · 内容工厂（Content Factory · CF）
 
-> **代号**：CF | **优先级**：P0 | **核心**：LangGraph 工作流 + 双 LLM + TTS + 4 语翻译 + 母语审校
+> **代号**：CF | **优先级**：**Post-MVP（v1.5）** | **核心**：LangGraph 工作流 + 双 LLM + TTS + 4 语翻译 + 母语审校
+
+> **重要说明**：MVP（v1.0）阶段内容全部手动生成并入库，本模块作为后续自动化架构规划保留，不列入 v1 交付范围。代码库按该架构预留接口（content_*、prompt_templates、factory_tasks 表及 admin/factory 路由），但不实现 LangGraph 调度器。
 
 ## 文件
 - [01-functional-requirements.md](./01-functional-requirements.md)
 - [02-data-model-api.md](./02-data-model-api.md)
 - [03-acceptance-criteria.md](./03-acceptance-criteria.md)
 
-## 关键决策
+## MVP 内容入库路径（手动）
+- 内容产出由外部人工/外部脚本完成，直接写入数据库（content_articles / content_chapters / lessons / quiz_*）
+- 管理后台提供常规 CRUD 与审校工作台（需要）
+- 仅保留质量闸 / 红线词检查作为发布前的校验
+
+## v1.5 开启条件
+- v1 上线 4 国 ≥ 3 个月，产品趋于稳定
+- 手动产能出现瓶颈（月译者产能 < 50%需求）
+- LLM / TTS 商业接口预算到位
+
+## 关键决策（保留以备 v1.5 实现）
 - 编排：LangGraph TS（基于 Vercel AI SDK）
 - LLM：
   - Claude Sonnet 4.5（创意 / 复杂推理 / 审校）

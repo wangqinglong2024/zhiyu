@@ -3,7 +3,7 @@
 ## 用户故事
 - US-RF-01：邀请朋友注册并赚佣金
 - US-RF-02：实时看 L1 / L2 收益
-- US-RF-03：提现到 PayPal / 银行
+- US-RF-03：佣金兑换为知语币用于站内消费
 - US-RF-04：分享链接 / QR / 海报
 
 ## 功能需求
@@ -29,31 +29,35 @@
 - 同一 IP 1 天内同一上级注册超 3 → 标可疑
 
 ### RF-FR-005：有效推荐判定
-- cron 每日检查：被推荐人注册就记为有效推荐
+- 被推荐人成功注册即记为有效推荐（is_effective=true）
 
 ### RF-FR-006：佣金计算
 - 触发：被推荐人成功付费（任何订单）
-- L1 佣金 = 订单金额(美元) × 100（倍率） x 20%
-- L2 佣金 = 订单金额（美元） × 100（倍率） x 20%
-- 写 referral_commissions（pending → confirmed → paid）
+- L1 佣金（ZC）= 订单金额(USD) × 100 × 20%
+- L2 佣金（ZC）= 订单金额(USD) × 100 × 20%
+- 写 referral_commissions（pending → confirmed）
 - 退款：触发 commission_reversed
 
 ### RF-FR-007：佣金确认期
 - 订单成功后 14 天确认期（防退款）
-- 14 天后 status: pending → confirmed
-- 退款发生：扣回（如已发放则负数 ledger）
+- 14 天后 status: pending → confirmed，同时调用 economy.issue 入账知语币
+- 退款发生：
+  - pending：直接标记 reversed
+  - confirmed/issued：scoins_ledger 生成负数扣除（如余额不足可以为负，账户状态 owed=true）
 
-### RF-FR-008：提现
-- `/me/referral/withdraw`
-- 不支持提现，仅支持兑换平台商品
+### RF-FR-008：佣金发放为知语币
+- 佣金 confirmed 后自动以知语币形式入账用户账户（无需手动兑换）
+- **不提供现金提现接口**
+- 仅可用于站内消费：解锁课程段 / 章节 / 商城商品 / 会员 / 道具等
+- coins_ledger.source = 'referral_commission'
 
 ### RF-FR-009：仪表板
 - `/me/referral`
 - 元素：
-  - 总收益 / 待确认 / 可提现 / 已提现
+  - 累计佣金总额（ZC） / 待确认 / 已发放
   - L1 / L2 推荐人数
-  - 最近 30 天收益曲线
-  - 邀请链接 + 复制 / 海报按钮
+  - 最近 30 天佣金曲线（ZC）
+  - 邀请链接 + 复制 / 海报按钮（仅展示链接，不展示纯邀请码字符串）
   - 推荐人列表（脱敏）
 
 ### RF-FR-011：反作弊

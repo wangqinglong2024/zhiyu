@@ -16,7 +16,7 @@
 | 10 | CS | 客服 IM | 实时聊天/工作台 | [11-customer-service/](../11-customer-service/) |
 | 11 | AD | 管理后台 | 内容/用户/订单/分析 | [12-admin/](../12-admin/) |
 | 12 | SC | 反爬安全 | WAF/限流/水印/指纹 | [13-security/](../13-security/) |
-| 13 | CF | 内容工厂 | LangGraph/审校/版本 | [14-content-factory/](../14-content-factory/) |
+| 13 | CF | 内容工厂（**v1.5**） | LangGraph/审校/版本 | [14-content-factory/](../14-content-factory/) |
 | 14 | I18N | 多语 | UI/内容/邮件 4 语 | [15-i18n/](../15-i18n/) |
 
 ## 二、模块依赖关系图

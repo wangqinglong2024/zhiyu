@@ -39,7 +39,7 @@
 | 11 | 客服 IM | [`11-customer-service/`](./11-customer-service/) |
 | 12 | 管理后台 | [`12-admin/`](./12-admin/) |
 | 13 | 反爬与安全 | [`13-security/`](./13-security/) |
-| 14 | 内容工厂（AI Pipeline） | [`14-content-factory/`](./14-content-factory/) |
+| 14 | 内容工厂（AI Pipeline · **v1.5**） | [`14-content-factory/`](./14-content-factory/) |
 | 15 | 多语国际化 | [`15-i18n/`](./15-i18n/) |
 
 ## 二、PRD 阅读顺序建议

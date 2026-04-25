@@ -1,200 +1,84 @@
-# 实施就绪检查报告（Implementation Readiness Report）
+# 实施前检查报告（Implementation Readiness Report）
 
-> **日期**：2026-04-25
-> **检查者**：BMAD Skill `bmad-check-implementation-readiness`
-> **范围**：planning/{prds, ux, spec, epics}
-> **结论**：✅ **READY TO START** （可启动 M0 sprint）
+> 基于 bmad-check-implementation-readiness · 生成时间：2026-04-25
+> 范围：知语 Zhiyu v1（MVP）整体规划
 
----
+## 一、文档完备性
 
-## 1. 文档完备性
-
-| 类别 | 期望 | 实际 | 状态 |
-|---|---|---|---|
-| PRD 模块 | 15 | 15 | ✅ |
-| UX 文件 | ≥ 12 | 16 | ✅ |
-| 架构 spec | ≥ 10 | 13 | ✅ |
-| Epic | ≥ 15 | 20 | ✅ |
-| Story 总数 | ≥ 150 | 215 | ✅ |
-| 子模块完整性 | 所有模块有详展 | 通过 | ✅ |
-
-## 2. PRD ↔ Epic 映射覆盖
-
-| PRD 模块 | 覆盖 Epic | 覆盖率 |
+| 文档 | 路径 | 状态 |
 |---|---|---|
-| 01-overall | E05 / E20 | ✅ |
-| 02-discover-china | E06 | ✅ |
-| 03-courses | E08 | ✅ |
-| 04-games（12） | E09 + E10（v1 5 款）| 🟡 v1.5 7 款规划中 |
-| 05-novels（12 类）| E11（v1 5 部）| 🟡 v1.5+ 路线明确 |
-| 06-user-account | E03 | ✅ |
-| 07-learning-engine | E07 | ✅ |
-| 08-economy | E12 | ✅ |
-| 09-referral | E14 | ✅ |
-| 10-payment | E13 | ✅ |
-| 11-customer-service | E15 | ✅ |
-| 12-admin | E17 | ✅ |
-| 13-security | E18 | ✅ |
-| 14-content-factory | E16 | ✅ |
-| 15-i18n | E04 | ✅ |
+| PRD | planning/prds/00-index.md | ✅ 15 模块齐 |
+| 架构 Spec | planning/spec/00-index.md | ✅ 12 文件 |
+| UX 设计 | planning/ux/00-index.md | ✅ 16 文件 |
+| Epics | planning/epics/00-index.md | ✅ 20 epics（19 in v1）|
+| Sprints | planning/sprint/00-index.md | ✅ 19 sprints |
+| Post-MVP backlog | planning/epics/99-post-mvp-backlog.md | ✅ |
 
-**结论**：v1 范围 100% 覆盖；v1.5 / v2 路线在各 Epic / PRD 中明确。
+## 二、本轮调整一览
 
-## 3. UX ↔ Epic 映射
-
-| UX 文件 | 引用 Epic |
-|---|---|
-| 02 design-tokens | E02 |
-| 03 glassmorphism | E02 |
-| 04 theme | E02 |
-| 05 layout | E02 / E05 |
-| 06 navigation | E05 |
-| 07-08 components | E02 |
-| 09 discover | E06 |
-| 10 courses | E08 |
-| 11 profile | E03 |
-| 12 admin | E17 |
-| 13 game-ux | E09 / E10 |
-| 14 i18n typography | E04 |
-| 15 a11y motion | E02 / E05 |
-| 16 microinteractions | E02 |
-
-**结论**：全部 UX 有 Epic 承接。
-
-## 4. Spec ↔ Epic 映射
-
-| Spec | 主要 Epic |
-|---|---|
-| 01 overview | 全部 |
-| 02 tech-stack | E01 |
-| 03 frontend | E01 / E02 / E05 |
-| 04 backend | E01 + 多 |
-| 05 data-model | 各 Epic 引用对应表 |
-| 06 ai-factory | E16 |
-| 07 integrations | E13 / E15 / E16 / E19 |
-| 08 deployment | E01 / E20 |
-| 09 security | E18 |
-| 10 observability | E19 |
-| 11 game-engine | E09 / E10 |
-| 12 realtime | E15 |
-
-**结论**：架构决策全部映射到具体 Epic。
-
-## 5. 关键风险检查
-
-| 风险 | 缓解 | 状态 |
+| 调整项 | 状态 | 说明 |
 |---|---|---|
-| AI 内容质量不稳 | E16 评分器 + 人审 + Prompt 版本 | ✅ 设计完整 |
-| 跨国合规 | E18 律师审 + 4 语 | 🟡 待执行 |
-| 成本超支 | 缓存 + 配额 + 月预算 | ✅ 设计完整 |
-| 60fps 游戏 | E09 引擎 + 测试矩阵 | ✅ 计划清晰 |
-| Paddle 国家限制 | LemonSqueezy 备 + v1.5 本地 | ✅ |
-| 翻译延迟 | 提前 2 周 + 母语审 | 🟡 启动前确认资源 |
-| 客服资源 | AI 辅助 + FAQ + 离线兜底 | ✅ |
-| 反作弊误伤 | 申诉流程 + 阈值调 | ✅ |
+| 邀请码不可见 / 不可改 | ✅ | RF-FR-001 + 02 API 移除 code/regenerate 接口 |
+| 佣金 L1=L2=20% | ✅ | RF-FR-006 公式更新 |
+| **佣金以 ZC 发放，不支持现金提现** | ✅ | RF-FR-008 改为自动入账；移除 withdrawals 表 / 提现 API |
+| 内容工厂 → v1.5（手工写库为 MVP 路径）| ✅ | 14-content-factory/00-index 标 Post-MVP；E16 推迟 |
+| Sprint 重排 | ✅ | s05-07/09/12 移除 ZY-16-xx；s16-17 重排 ZY-14-xx |
+| spec/05 数据模型同步 | ✅ | commissions 改 amount_coins；删 withdrawals |
+| spec/04 backend 同步 | ✅ | 12.1/12.2 更新 |
+| 12-admin AC | ✅ | AD-AC-008/011 改写 |
+| UX referral / coins | ✅ | 移除提现按钮；移除纯邀请码字符串展示 |
 
-## 6. 依赖与排序
+## 三、范围与优先级（v1）
 
-### 6.1 必须先完成（Blocker）
-- E01（基建）→ 全部依赖
-- E02（设计）→ 全前端 Epic
-- E03（账户）→ 全用户相关
-- E04（i18n）→ 全 UI Epic
+### P0 必交付（Epic）
+E01-E15, E17-E20（共 19 epics ≈ 196 stories）
 
-### 6.2 关键路径
+### v1.5 推迟
+- E16 内容工厂 12 stories（保留完整规划文档，进入 99-post-mvp-backlog）
+- AI 助理 IM
+- 高级会员档
+
+## 四、依赖与风险
+
+| 风险 | 严重度 | 应对 |
+|---|---|---|
+| 手工内容产能不足以支撑 4 国上线 | High | 提前 12 周外部翻译团队介入；M5 末验收"前 3 阶段 + 600 文章 + 50 章" |
+| Paddle KYC 周期 4-6 周 | Medium | M0 启动；LemonSqueezy 备援 |
+| 反作弊误伤分销 | Medium | 申诉流程 + 后台标记复审 |
+| 佣金 ZC 通胀 | Medium | 单户分销 ZC 年上限 200,000；与 EC 50,000 上限解耦 |
+
+## 五、INVEST 抽样核查
+
+随机 10 stories 全部满足 INVEST：
+- Independent：依赖明确标 Tech / Dependencies
+- Negotiable：粒度合理，可商量
+- Valuable：每个 story 有用户价值或技术价值
+- Estimable：估算 S/M/L 已标
+- Small：≤ 1 周
+- Testable：AC 可验证
+
+## 六、容量验证
+
 ```
-E01 → E02 / E03 / E04 → E05 → E06 / E07 → E08 / E16 → E09 → E10 / E11
-                                ↓
-                              E12 → E13 → E14 → E15 → E18 / E19 → E20
+team velocity ≈ 80 SP / sprint × 80% = 64 SP（实际计划）
+19 sprints × 64 SP = 1216 SP 容量
+当前计划 990 SP（占用 81%，buffer 19%）
 ```
 
-### 6.3 并行机会
-- E16（工厂）可与 E06-E11 并行（先做工具，再产内容）
-- E17（后台）可与各业务 Epic 并行（前后端拆）
-- E18 / E19 全程贯穿
+✅ 计划在容量范围内，buffer 合理。
 
-## 7. 团队与产能假设
+## 七、未决项（Tracker）
 
-| 角色 | 人数 | 备注 |
-|---|---|---|
-| FE | 4 | 含 1 游戏专家 |
-| BE | 3 | 含 1 AI 工程师 |
-| DevOps | 1 | 兼安全 |
-| UI/UX | 1 | 主导 + 配合 |
-| QA | 1.5 | 自动化 + 手动 |
-| PM | 1 | |
-| 客服 / 翻译 | 外包 | 启动前签约 |
-
-**月度 Story Points 容量**：约 80（基于 2 周 sprint × 2 = 1 月）
-
-## 8. 总 Story 估算 vs 时长
-
-- 总 stories：215
-- 平均估算：每 1.5 天 / story
-- 总工作量：约 320 人日 = **~16 团队人月**
-- 团队规模：~10 人 → **~38 周** ≈ M0-M6 ✅
-
-## 9. 准入标准（Definition of Ready）
-
-每个 Story 启动前必须：
-- [x] 父 Epic 文档清晰
-- [x] AC 可验证
-- [x] 依赖明确
-- [x] 估算
-- [x] 关联 spec / ux 文件
-- [x] 责任人指定（在 sprint 时）
-
-## 10. 阻塞项 / 启动前必需
-
-### 10.1 立即（启动 M0 之前 1 周内）
-- [ ] Doppler 账号开通 + 各服务初始化
-- [ ] Cloudflare 账号 + 域名 zhiyu.io 注册
-- [ ] Render / Supabase 账号 + 付费计划
-- [ ] Paddle Vendor 账号申请 + KYC 提交
-- [ ] Anthropic / DeepSeek API key
-- [ ] GitHub Org + Repo + 团队邀请
-- [ ] Sentry / PostHog / BetterStack 项目创建
-- [ ] OneSignal / Resend 账号
-
-### 10.2 M0 内
-- [ ] 翻译外包供应商签约
-- [ ] 律师签约 + 隐私 / TOS 草案
-- [ ] 客服外包评估
-- [ ] 内容审稿员招募（4 语）
-
-### 10.3 M2 之前
-- [ ] LangSmith 账号
-- [ ] 内容主编（中文）招聘
-- [ ] 第一批种子内容人工撰写（备工厂启动前）
-
-## 11. 推荐起步 Sprint
-
-### Sprint 1（2 周）
-- ZY-01-01 → ZY-01-05（Monorepo + CI + 部署）
-- ZY-02-01 → ZY-02-04（Tokens + Tailwind + Glass + Theme）
-
-### Sprint 2（2 周）
-- ZY-01-06 → ZY-01-12（API 部署 + Sentry + 监控 + Storybook）
-- ZY-02-05 → ZY-02-10（字体 + 组件 + Storybook 视觉）
-
-详见 `planning/sprint/`。
-
-## 12. 度量基线
-
-| 指标 | M0 后 | M3 | M6 |
+| ID | 项 | 责任人 | ETA |
 |---|---|---|---|
-| Lighthouse | ≥ 80 | ≥ 90 | ≥ 95 |
-| API P95 | < 1s | < 500ms | < 300ms |
-| 测试覆盖 | ≥ 30% | ≥ 50% | ≥ 70% |
-| Sentry 错误率 | < 5% | < 2% | < 1% |
-| Story 完成率 | 80% | 85% | 90% |
+| OPN-001 | 翻译外包供应商签约 | PM | M0 |
+| OPN-002 | 律师 / 隐私 TOS 起草 | PM | M5 前 |
+| OPN-003 | Paddle KYC 通过 | PM | M1 末 |
+| OPN-004 | 4 轨道前 3 阶段内容人工产能确认 | PM + Content | M0 → M5 持续 |
 
-## 13. 总结
+## 八、结论
 
-- ✅ 文档完备：PRD 15 + UX 16 + Spec 13 + Epic 20 + Story 215
-- ✅ 依赖清晰，关键路径明确
-- ✅ 风险有缓解
-- 🟡 启动前外部依赖待办（账号 + 翻译 + 律师）
-- ✅ 团队产能与时间表对齐
+✅ **就绪**：可启动 S1（M0 W1）开发。
 
-**裁定**：项目可启动 Sprint 1。
+实施计划：见 [planning/sprint/](./sprint/) 各 sprint 文件。
+迭代规则：每 sprint 末做 retro，更新 sprint-status.yaml。
