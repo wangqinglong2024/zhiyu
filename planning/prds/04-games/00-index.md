@@ -3,9 +3,10 @@
 > **代号**：GM | **优先级**：P0 | **目标**：12 H5 游戏（强制横屏），词汇与课程联动
 
 ## 文件结构
-- [01-functional-requirements.md](./01-functional-requirements.md)
-- [02-data-model-api.md](./02-data-model-api.md)
-- [03-acceptance-criteria.md](./03-acceptance-criteria.md)
+- [01-functional-requirements.md](./01-functional-requirements.md) — 通用功能 + v1 5 款详细规格
+- [02-data-model-api.md](./02-data-model-api.md) — 数据模型与 API
+- [03-acceptance-criteria.md](./03-acceptance-criteria.md) — 验收准则
+- [04-extended-games-spec.md](./04-extended-games-spec.md) — **v1.5 + v2 共 7 款扩展游戏详细规格（2026-04-25 补全）**
 
 ## 12 游戏列表
 
