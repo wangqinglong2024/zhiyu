@@ -95,7 +95,7 @@
 - 泰国 PDPA：DPO 联系方式 + 用户同意流
 - 印尼 UU PDP：当地代表（M+6 后评估）
 
-→ 详见 [`/docs/02-domain-research/03-policies-regulation.md`](../02-domain-research/03-policies-regulation.md)
+→ 详见 [`/docs/02-domain-research/03-policy-regulation.md`](../02-domain-research/03-policy-regulation.md)
 
 ## 七、用户社区策略
 

@@ -63,7 +63,7 @@ inputDocuments:
 - **测试 / QA**：每屏含验收 ID，可写自动化测试
 
 ## 与 `frontend-patterns.md` 一致性
-本规范与 [/memories/repo/frontend-patterns.md](repo memory) 现有 React 19 + Vite + Tailwind 4 + Three.js + ThemeContext 实现保持完全一致，扩展定义 12 游戏画布层 + 后台模块 UX，两端复用同一 design tokens。
+本规范与 `/memories/repo/frontend-patterns.md` (repo memory) 现有 React 19 + Vite + Tailwind 4 + Three.js + ThemeContext 实现保持完全一致，扩展定义 12 游戏画布层 + 后台模块 UX，两端复用同一 design tokens。
 
 ## 关键决策摘要（必读）
 
