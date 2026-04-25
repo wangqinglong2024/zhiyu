@@ -3,7 +3,7 @@
 > 生成日期：2026-04-25
 > 基于：planning/epics（20 Epics + 1 Post-MVP Backlog）
 > 工作流：bmad-sprint-planning
-> 总 stories：218（v1 = 196 含 E10 占位 / v1.5 = 16 含 E10 增量 / v2 = 4 含 E10 增量；其中 E16 整体推迟到 v1.5）
+> 总 stories：213（v1 = 201 · v1.5 = 12 为 E16 AI 内容工厂）
 > 跟踪文件：[sprint-status.yaml](./sprint-status.yaml)
 
 ---
@@ -27,8 +27,8 @@
 | S06 | 中国发现 | M2 | 10 | P0 | [06-discover-china.md](./06-discover-china.md) |
 | S07 | 学习引擎 | M2 | 12 | P0 | [07-learning-engine.md](./07-learning-engine.md) |
 | S08 | 课程模块 | M3 | 10 | P0 | [08-courses.md](./08-courses.md) |
-| S09 | 游戏引擎共享层 | M3 | 10 | P0 | [09-game-engine.md](./09-game-engine.md) |
-| S10 | 游戏专区（12 款）| M4/M+3/M+8 | 19 | P0/P1/P2 | [10-games.md](./10-games.md) |
+| S09 | 游戏引擎共享层 | M3 | 11 | P0 | [09-game-engine.md](./09-game-engine.md) |
+| S10 | 游戏专区（12 款 MVP 一次性首发）| M4 | 15 | P0 | [10-games.md](./10-games.md) |
 | S11 | 小说阅读 | M4 | 10 | P0 | [11-novels.md](./11-novels.md) |
 | S12 | 知语币与商城 | M5 | 10 | P0 | [12-economy.md](./12-economy.md) |
 | S13 | 支付与订阅 | M5 | 10 | P0 | [13-payment.md](./13-payment.md) |
@@ -49,13 +49,13 @@
 | **M0**（4 周）| W1-W4 | S01 + S02 + S18(分散) + S19(分散) | 平台 / 设计系统 / 安全骨架 / 可观测 |
 | **M1**（4 周）| W5-W8 | S03 + S04 + S05 | 账户 / i18n / App Shell |
 | **M2**（6 周）| W9-W14 | S06 + S07 | 探索 / 学习引擎 |
-| **M3**（6 周）| W15-W20 | S08 + S09 + S17(v1) | 课程 / 游戏引擎 / 后台 v1 |
-| **M4**（6 周）| W21-W26 | S10(v1=5 款) + S11 + S17(v2) | 5 游戏 / 小说 / 后台 v2 |
-| **M5**（6 周）| W27-W32 | S12 + S13 + S14(开始) + S17(完结) | 经济 / 支付 / 分销 |
-| **M6**（6 周）| W33-W38 | S14(完结) + S15 + S20 + S18 终审 | 客服 / 上线 / 安全审计 |
+| **M3**（6 周）| W15-W20 | S08 + S09 + S17(Phase A) | 课程 / 游戏引擎 / 后台 v1 |
+| **M4**（6 周）| W21-W26 | S10(12 款) + S11 + S17(Phase B) | 12 游戏一次性首发 / 小说 / 后台 v2 |
+| **M5**（6 周）| W27-W32 | S12 → S13 → S14 （严格串行） + S17(Phase C) | 经济 / 支付 / 分销 |
+| **M6**（6 周）| W33-W38 | S15 + S20 + S18 终审 | 客服 / 上线 / 安全审计 |
 | **总计** | **38 周** | | **v1 上线 4 国** |
-| **v1.5** | M+3~M+4（8 周）| S16 + S10(v1.5=4) | AI 工厂 + 3 游戏 + 内购 |
-| **v2** | M+8~M+10（12 周）| S10(v2=4) | 4 游戏 + 后续 |
+| **v1.5** | M+3~M+4（8 周）| S16 AI 内容工厂 | 完整 12 stories（8 epic v1.5 增量项迁入 99-post-mvp-backlog）|
+| **v2** | M+8~ | 游戏 / 社区 / IAP 等项 | 见 99-post-mvp-backlog.md |
 
 ---
 

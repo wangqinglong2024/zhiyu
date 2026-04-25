@@ -1,7 +1,7 @@
 # Sprint S09 · 游戏引擎共享层（MVP 优先）
 
 > Epic：[E09](../epics/09-game-engine.md) · 阶段：M3 · 周期：W15-W18 · 优先级：P0
-> Story 数：10（MVP 子集 6 + V1 增强 4） · 状态：[sprint-status.yaml](./sprint-status.yaml#epic-9)
+> Story 数：11（MVP 子集 6 + V1 增强 5） · 状态：[sprint-status.yaml](./sprint-status.yaml#epic-9)
 
 ## Sprint 目标
 PixiJS v8 + Matter + Howler 共享引擎包，**MVP 优先**：W15-W16 交付足以驱动 G1-G12 MVP 的最小子集；W17-W18 迭代到完整能力。
@@ -25,7 +25,7 @@ PixiJS v8 + Matter + Howler 共享引擎包，**MVP 优先**：W15-W16 交付足
 
 | 序 | Story Key | 标题 | 估 | 依赖 | 周次 |
 |:-:|---|---|:-:|---|:-:|
-| 7 | 9-5-input-manager-v1 | InputManager 完整（触屏 / 多指） | M | 9-5-mvp | W17 |
+| 7 | 9-11-input-manager-v1 | InputManager 完整（触屏 / 多指） | M | 9-5-mvp | W17 |
 | 8 | 9-6-audio-manager | AudioManager（Howler） | M | 9-4 | W17 |
 | 9 | 9-7-physics-world | PhysicsWorld（Matter） | M | 9-2 | W17 |
 | 10 | 9-8-wordpack-pinyin-renderer | WordPack + 拼音 BitmapFont | L | 9-4 | W17-W18 |

@@ -1,4 +1,4 @@
-# Story 9.5 (V1): InputManager V1（多点触控 / 缩放 / 旋转 / 长按）
+# Story 9.11: InputManager V1（多点触控 / 缩放 / 旋转 / 长按）
 
 Status: ready-for-dev
 

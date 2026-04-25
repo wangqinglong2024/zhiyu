@@ -26,8 +26,8 @@ inputDocuments:
 | E06 | 中国发现（探索）| 02 | 10 | P0 | M2 | [06-discover-china.md](./06-discover-china.md) |
 | E07 | 学习引擎 | 07 | 12 | P0 | M2 | [07-learning-engine.md](./07-learning-engine.md) |
 | E08 | 课程模块 | 03 | 10 | P0 | M3 | [08-courses.md](./08-courses.md) |
-| E09 | 游戏引擎共享层 | spec/11 | 10 | P0 | M3 | [09-game-engine.md](./09-game-engine.md) |
-| E10 | 游戏专区（12 款）| 04 | 19 | P0/P1/P2 | M4/M+3/M+8 | [10-games-v1.md](./10-games-v1.md) |
+| E09 | 游戏引擎共享层 | spec/11 | 11 | P0 | M3 | [09-game-engine.md](./09-game-engine.md) |
+| E10 | 游戏专区（12 款 · 一次性首发 MVP）| 04 | 15 | P0 | M4 | [10-games.md](./10-games.md) |
 | E11 | 小说阅读 | 05 | 10 | P0 | M4 | [11-novels.md](./11-novels.md) |
 | E12 | 知语币与商城 | 08 | 10 | P0 | M5 | [12-economy.md](./12-economy.md) |
 | E13 | 支付与订阅 | 10 | 10 | P0 | M5 | [13-payment.md](./13-payment.md) |
@@ -39,11 +39,11 @@ inputDocuments:
 | E19 | 可观测与运维 | spec/10 | 10 | P0 | M0-M6 | [19-observability.md](./19-observability.md) |
 | E20 | 上线与发布 | spec/08 | 10 | P0 | M6 | [20-launch.md](./20-launch.md) |
 
-合计 **20 Epics × ~10 Stories ≈ 210+ Stories**
+合计 **20 Epics × 213 Stories**（磁盘实际数）
 
-> **MVP（v1）实际交付**：E01-E15 + E17-E20 共 19 Epics（约 196 stories），其中 E10 交付 5 款游戏 + 12 款全列表占位
-> **Post-MVP（v1.5）**：E16 内容工厂 12 stories + E10 v1.5 增 4 stories（3 游戏 + 游戏内购）
-> **v2**：E10 v2 增 4 stories（4 游戏）
+> **MVP（v1）实际交付**：E01-E15 + E17-E20 共 19 Epics（201 stories），其中 E10 一次性首发 12 款游戏全 MVP（无 `coming_soon`、无奖励、60s 单局 / 无限连玩）
+> **Post-MVP（v1.5）**：E16 内容工厂 12 stories（手工写库为 v1 路径，AI 工厂 v1.5 上线）
+> **v2 / 延后增量**：游戏内购 / 排行榜 / 三星 / 教学 / 关卡化 / IAP 等增强项见 [99-post-mvp-backlog.md](./99-post-mvp-backlog.md)
 
 ---
 
@@ -51,14 +51,16 @@ inputDocuments:
 
 | 阶段 | 时长 | 目标 |
 |---|---|---|
-| M0 基础 | 4 周 | 平台 / 设计系统 / 安全骨架 |
+| M0 基础 | 4 周 | 平台 / 设计系统 / 安全骨架 / 可观测基线 |
 | M1 账户 | 4 周 | 用户 / i18n / App Shell |
-| M2 内容 | 6 周 | 探索 / 学习引擎 / 工厂 V0 |
+| M2 内容 | 6 周 | 探索 / 学习引擎（手工内容生产并行启动） |
 | M3 课程游戏 | 6 周 | 课程 / 游戏引擎 / 后台 v1 |
-| M4 游戏小说 | 6 周 | 5 游戏 / 小说 / 后台 v2 |
-| M5 商业化 | 6 周 | 经济 / 支付 / 工厂 v1 |
-| M6 上线准备 | 6 周 | 分销 / 客服 / 安全审计 / 灰度 |
+| M4 游戏小说 | 6 周 | 12 款游戏一次性首发 / 小说 / 后台 v2 |
+| M5 商业化 | 6 周 | 经济 / 支付 / 分销（严格串行） |
+| M6 上线准备 | 6 周 | 客服 / 安全终审 / 灰度上线 |
 | **总计** | **38 周** | **v1 上线 4 国** |
+
+> 备注：AI 内容工厂（E16）已推迟到 **v1.5（M+3 起 8 周）**；E10 游戏增强（关卡 / 排行榜 / IAP 等）已迁入 [99-post-mvp-backlog.md](./99-post-mvp-backlog.md)。
 
 ---
 

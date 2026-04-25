@@ -168,7 +168,7 @@ development_status:
   9-5-input-manager-mvp: ready-for-dev
   9-9-landscape-fullscreen: ready-for-dev
   # V1 增强 (W17-W18)
-  9-5-input-manager-v1: ready-for-dev
+  9-11-input-manager-v1: ready-for-dev
   9-6-audio-manager: ready-for-dev
   9-7-physics-world: ready-for-dev
   9-8-wordpack-pinyin-renderer: ready-for-dev
@@ -267,8 +267,8 @@ development_status:
   15-10-cs-sla-dashboard: ready-for-dev
   epic-15-retrospective: optional
 
-  # ===== E16 Content Factory (v1.5) =====
-  epic-16: in-progress
+  # ===== E16 Content Factory (v1.5 推迟，不在 v1 调度池) =====
+  epic-16: backlog
   16-1-prompt-templates-admin: ready-for-dev
   16-2-langgraph-checkpointer: ready-for-dev
   16-3-anthropic-deepseek-clients: ready-for-dev
@@ -314,7 +314,7 @@ development_status:
   epic-18-retrospective: optional
 
   # ===== E19 Observability (M0-M6) =====
-  epic-19: backlog
+  epic-19: in-progress
   19-1-pino-logging-betterstack: ready-for-dev
   19-2-sentry-fe-be-integration: ready-for-dev
   19-3-posthog-event-tracking: ready-for-dev
@@ -328,7 +328,7 @@ development_status:
   epic-19-retrospective: optional
 
   # ===== E20 Launch (M6) =====
-  epic-20: backlog
+  epic-20: in-progress
   20-1-marketing-site: ready-for-dev
   20-2-seo-optimization: ready-for-dev
   20-3-app-store-pwa-twa: ready-for-dev
