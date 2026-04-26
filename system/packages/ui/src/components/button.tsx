@@ -37,21 +37,38 @@ export const Button = forwardRef<HTMLButtonElement, ButtonProps>(function Button
   ref,
 ) {
   const Comp = asChild ? Slot : 'button';
+  const classes = cn(
+    'inline-flex items-center justify-center font-medium select-none transition-colors',
+    'focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-bg-base',
+    'disabled:cursor-not-allowed disabled:opacity-50',
+    VARIANTS[variant],
+    SIZES[size],
+    iconOnly && 'aspect-square px-0',
+    className,
+  );
+  // When asChild, Radix Slot requires exactly ONE child element. Do not inject
+  // sibling spinner nodes; instead pass the user's child element through and let
+  // its own content stand. For the non-asChild path we keep the loading spinner.
+  if (asChild) {
+    return (
+      <Comp
+        ref={ref as never}
+        data-loading={loading || undefined}
+        aria-busy={loading || undefined}
+        className={classes}
+        {...rest}
+      >
+        {children}
+      </Comp>
+    );
+  }
   return (
     <Comp
       ref={ref as never}
       data-loading={loading || undefined}
       disabled={disabled || loading}
       aria-busy={loading || undefined}
-      className={cn(
-        'inline-flex items-center justify-center font-medium select-none transition-colors',
-        'focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-bg-base',
-        'disabled:cursor-not-allowed disabled:opacity-50',
-        VARIANTS[variant],
-        SIZES[size],
-        iconOnly && 'aspect-square px-0',
-        className,
-      )}
+      className={classes}
       {...rest}
     >
       {loading ? (

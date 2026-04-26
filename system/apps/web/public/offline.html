@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>You are offline · Zhiyu</title>
+    <style>
+      :root { color-scheme: light dark; }
+      body {
+        margin: 0;
+        min-height: 100dvh;
+        font-family: 'Inter', system-ui, -apple-system, 'PingFang SC', sans-serif;
+        background: radial-gradient(circle at 20% 20%, #fda4af 0%, transparent 45%),
+                    radial-gradient(circle at 80% 30%, #7dd3fc 0%, transparent 45%),
+                    radial-gradient(circle at 50% 80%, #fcd34d 0%, transparent 50%),
+                    #fafafa;
+        display: grid; place-items: center;
+      }
+      main {
+        max-width: 480px; margin: 24px; padding: 32px;
+        background: rgba(255,255,255,0.7);
+        backdrop-filter: blur(16px) saturate(180%);
+        border: 1px solid rgba(255,255,255,0.6);
+        border-radius: 24px;
+        box-shadow: 0 12px 32px rgba(15,23,42,0.12);
+        text-align: center;
+      }
+      h1 { margin: 0 0 12px; font-size: 28px; font-weight: 700; }
+      p { margin: 0 0 24px; color: #475569; line-height: 1.5; }
+      button {
+        background: #e11d48; color: #fff; border: 0;
+        border-radius: 9999px; padding: 12px 24px;
+        font-weight: 600; cursor: pointer;
+      }
+      button:hover { background: #be123c; }
+      @media (prefers-color-scheme: dark) {
+        body { background-color: #0a0a0a; }
+        main { background: rgba(23,23,23,0.7); border-color: rgba(255,255,255,0.1); color: #fafafa; }
+        p { color: #a3a3a3; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>You are offline · 已离线</h1>
+      <p>Zhiyu will reconnect automatically when your network is back. 联网后将自动恢复。</p>
+      <button onclick="location.reload()">Reload · 重试</button>
+    </main>
+  </body>
+</html>

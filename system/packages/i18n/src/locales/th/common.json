@@ -1,0 +1,110 @@
+{
+  "brand": {
+    "name": "Zhiyu",
+    "tagline": "ปรับโฉมการเรียนภาษาจีนด้วยสัมผัสกระจก"
+  },
+  "nav": {
+    "home": "หน้าหลัก",
+    "discover": "ค้นพบ",
+    "courses": "เรียน",
+    "games": "เล่น",
+    "novels": "อ่าน",
+    "profile": "ฉัน",
+    "signin": "เข้าสู่ระบบ",
+    "signup": "สมัครสมาชิก",
+    "signout": "ออกจากระบบ",
+    "styleguide": "ไกด์สไตล์",
+    "language": "ภาษา",
+    "coin": "เหรียญ Zhiyu",
+    "search": "ค้นหา",
+    "notifications": "การแจ้งเตือน"
+  },
+  "shell": {
+    "new_version": "มีเวอร์ชันใหม่พร้อมใช้งาน",
+    "reload": "รีโหลด",
+    "offline_title": "คุณออฟไลน์",
+    "offline_desc": "เราจะเชื่อมต่อใหม่เมื่อเครือข่ายกลับมา",
+    "install_hint": "เพิ่ม Zhiyu ลงหน้าจอเพื่อประสบการณ์แบบแอป"
+  },
+  "search": {
+    "placeholder": "ค้นหาบทเรียน คำศัพท์ นิยาย…",
+    "recent": "ค้นหาล่าสุด",
+    "empty_title": "ไม่พบผล",
+    "empty_desc": "ลองคำอื่นหรือดูรายการแนะนำ",
+    "hint": "⌘K",
+    "section": {
+      "course": "คอร์ส",
+      "lesson": "บทเรียน",
+      "article": "บทความ",
+      "novel": "นิยาย",
+      "word": "คำศัพท์",
+      "setting": "ตั้งค่า"
+    }
+  },
+  "notifications": {
+    "title": "การแจ้งเตือน",
+    "empty": "ยังไม่มีการแจ้งเตือน",
+    "mark_all_read": "อ่านทั้งหมด",
+    "filter_all": "ทั้งหมด",
+    "filter_system": "ระบบ",
+    "filter_learning": "การเรียน",
+    "filter_order": "คำสั่งซื้อ",
+    "filter_cs": "ฝ่ายสนับสนุน",
+    "unread": "{count, plural, =0 {ไม่มีรายการใหม่} other {ยังไม่ได้อ่าน #}}"
+  },
+  "actions": {
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "confirm": "ยืนยัน",
+    "back": "ย้อนกลับ",
+    "next": "ถัดไป",
+    "submit": "ส่ง",
+    "retry": "ลองใหม่",
+    "close": "ปิด",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "more": "เพิ่มเติม"
+  },
+  "states": {
+    "loading": "กำลังโหลด…",
+    "saving": "กำลังบันทึก…",
+    "empty": "ยังไม่มีข้อมูล",
+    "coming_soon": "เร็ว ๆ นี้",
+    "offline": "ออฟไลน์",
+    "online": "ออนไลน์",
+    "error_generic": "เกิดข้อผิดพลาด กรุณาลองใหม่"
+  },
+  "errors": {
+    "unauthorized": "กรุณาเข้าสู่ระบบก่อน",
+    "forbidden": "คุณไม่มีสิทธิ์ทำรายการนี้",
+    "not_found": "ไม่พบสิ่งที่คุณค้นหา",
+    "validation": "กรุณาตรวจสอบช่องที่ระบุ",
+    "network": "เครือข่ายไม่พร้อม กรุณาตรวจสอบ",
+    "rate_limited": "ส่งคำขอบ่อยเกินไป กรุณารอสักครู่"
+  },
+  "home": {
+    "badge": "หักเหจักรวาล · Glass UI",
+    "headline": "เรียนภาษาจีนผ่านสัมผัสกระจก",
+    "lead": "Zhiyu ช่วยให้ผู้เรียนกว่า 50 ภาษาแม่ฝึกอักษรจีน พินอินและวรรณยุกต์ในอินเทอร์เฟซที่ดื่มด่ำ",
+    "cta_start": "เริ่มเลย",
+    "cta_explore": "สำรวจคอมโพเนนต์",
+    "card1_title": "ฉากเล่าเรื่อง",
+    "card1_desc": "บทเรียน HSK 1-9 ขับเคลื่อนด้วยเรื่องราว",
+    "card2_title": "อ่านสองภาษา",
+    "card2_desc": "EN/TH/AR/VI/ID เคียงกัน วางเมาส์เพื่อฟัง",
+    "card3_title": "ทบทวน SRS",
+    "card3_desc": "คิวการ์ดตามเส้นโค้งการลืม",
+    "today_count": "{count, plural, =0 {ไม่มีการ์ดวันนี้} other {วันนี้ # การ์ด}}",
+    "system_check_title": "ตรวจสอบระบบ",
+    "system_check_body": "API base {api}, Supabase {supabase}",
+    "system_check_unset": "(ยังไม่ได้ตั้งค่า)"
+  },
+  "language_picker": {
+    "label": "ภาษา",
+    "current": "ภาษาปัจจุบัน: {label}",
+    "switched": "เปลี่ยนเป็น {label} แล้ว"
+  },
+  "footer": {
+    "copyright": "© {year} Zhiyu สงวนลิขสิทธิ์"
+  }
+}

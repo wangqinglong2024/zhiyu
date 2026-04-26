@@ -1,0 +1,13 @@
+{
+  "title": "Kursus",
+  "subtitle": "Dari obrolan jalanan ke rapat bisnis, dalam 12 tahap.",
+  "stage": "Tahap {n}",
+  "lessons_total": "{count, plural, other {# pelajaran}}",
+  "minutes": "{minutes, plural, other {# menit}}",
+  "track": {
+    "daily": "Sehari-hari",
+    "ecommerce": "E-commerce",
+    "factory": "Pabrik & rantai pasok",
+    "hsk": "Jalur HSK"
+  }
+}

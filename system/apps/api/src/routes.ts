@@ -12,6 +12,10 @@ import { isMetricsAllowed } from './metrics-acl.js';
 import { registerAuthRoutes } from './routes/auth.js';
 import { registerMeRoutes } from './routes/me.js';
 import { registerSessionRoutes, registerGdprRoutes } from './routes/me-sessions.js';
+import { registerTranslationRoutes } from './routes/translations.js';
+import { registerNotificationRoutes } from './routes/notifications.js';
+import { registerSearchRoutes } from './routes/search.js';
+import { registerI18n } from './i18n-mw.js';
 
 const env = loadEnv();
 const startedAt = Date.now();
@@ -140,4 +144,12 @@ export async function registerRoutes(app: FastifyInstance): Promise<void> {
   await registerMeRoutes(app);
   await registerSessionRoutes(app);
   await registerGdprRoutes(app);
+
+  // E04 i18n + content translations
+  await registerI18n(app);
+  await registerTranslationRoutes(app);
+
+  // E05 app shell — search + notifications
+  await registerSearchRoutes(app);
+  await registerNotificationRoutes(app);
 }

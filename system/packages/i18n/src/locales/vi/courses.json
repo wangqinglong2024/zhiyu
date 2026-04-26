@@ -1,0 +1,13 @@
+{
+  "title": "Khoá học",
+  "subtitle": "Từ giao tiếp đường phố đến họp công việc, qua 12 chặng.",
+  "stage": "Chặng {n}",
+  "lessons_total": "{count, plural, other {# bài học}}",
+  "minutes": "{minutes, plural, other {# phút}}",
+  "track": {
+    "daily": "Đời sống",
+    "ecommerce": "Thương mại điện tử",
+    "factory": "Nhà máy & chuỗi cung",
+    "hsk": "Lộ trình HSK"
+  }
+}

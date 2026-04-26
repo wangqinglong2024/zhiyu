@@ -1,0 +1,63 @@
+{
+  "overview": {
+    "title": "Hồ sơ",
+    "edit": "Chỉnh sửa hồ sơ",
+    "settings": "Cài đặt",
+    "security": "Bảo mật",
+    "data": "Dữ liệu & quyền riêng tư",
+    "level_label": "HSK tự đánh giá"
+  },
+  "edit": {
+    "title": "Chỉnh sửa hồ sơ",
+    "display_name": "Tên hiển thị",
+    "username": "Tên người dùng",
+    "username_hint": "3-20 ký tự · chữ, số, gạch dưới.",
+    "username_cooldown": "Bạn có thể đổi tên người dùng sau {days, plural, other {# ngày}}.",
+    "bio": "Giới thiệu",
+    "bio_hint": "{count}/200",
+    "locale": "Ngôn ngữ giao diện",
+    "hsk": "Cấp độ HSK",
+    "goal": "Mục tiêu học",
+    "avatar": "Ảnh đại diện",
+    "save": "Lưu thay đổi",
+    "saved": "Đã cập nhật hồ sơ."
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "appearance": "Giao diện",
+    "theme": "Chủ đề",
+    "theme_light": "Sáng",
+    "theme_dark": "Tối",
+    "theme_system": "Theo hệ thống",
+    "notifications": "Thông báo",
+    "push": "Thông báo đẩy",
+    "email": "Bản tin email",
+    "study_time": "Nhắc học hằng ngày",
+    "saved": "Đã lưu cài đặt."
+  },
+  "security": {
+    "title": "Bảo mật",
+    "sessions": "Phiên đang hoạt động",
+    "current": "Thiết bị này",
+    "revoke": "Thu hồi",
+    "revoke_all": "Đăng xuất khỏi tất cả thiết bị",
+    "revoked": "Đã thu hồi phiên.",
+    "ip": "IP {ip}",
+    "ua": "{ua}"
+  },
+  "data": {
+    "title": "Dữ liệu & quyền riêng tư",
+    "export_section": "Xuất dữ liệu của tôi",
+    "export_button": "Yêu cầu xuất",
+    "export_pending": "Đang xử lý",
+    "export_succeeded": "Sẵn sàng",
+    "download": "Tải xuống",
+    "delete_section": "Xoá tài khoản",
+    "delete_button": "Xoá tài khoản",
+    "delete_warning": "Việc xoá có thể được hoàn tác trong 30 ngày.",
+    "delete_confirm": "Tôi hiểu rằng dữ liệu của tôi sẽ bị xoá.",
+    "delete_password": "Xác nhận bằng mật khẩu",
+    "delete_done": "Tài khoản đã được lên lịch xoá. Bạn có thể huỷ trong 30 ngày.",
+    "cancel_delete": "Huỷ xoá"
+  }
+}

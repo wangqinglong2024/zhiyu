@@ -1,0 +1,13 @@
+{
+  "title": "Courses",
+  "subtitle": "From street talk to business meetings, in 12 stages.",
+  "stage": "Stage {n}",
+  "lessons_total": "{count, plural, one {# lesson} other {# lessons}}",
+  "minutes": "{minutes, plural, one {# minute} other {# minutes}}",
+  "track": {
+    "daily": "Daily life",
+    "ecommerce": "E-commerce",
+    "factory": "Factory & supply chain",
+    "hsk": "HSK pathway"
+  }
+}

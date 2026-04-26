@@ -66,9 +66,23 @@ export async function requireUser(req: FastifyRequest, reply: FastifyReply): Pro
     reply.code(401).send({ error: 'unauthenticated' });
     return null;
   }
+  const meta = (data.user.app_metadata ?? {}) as { role?: string };
+  const role: AuthUser['role'] = meta.role === 'admin' ? 'admin' : 'user';
   return {
     id: data.user.id,
     email: data.user.email ?? null,
     sessionId: (data.user as { session_id?: string }).session_id ?? null,
+    role,
   };
+}
+
+/** Like `requireUser` but enforces `app_metadata.role === 'admin'`. */
+export async function requireAdminUser(req: FastifyRequest, reply: FastifyReply): Promise<AuthUser | null> {
+  const user = await requireUser(req, reply);
+  if (!user) return null;
+  if (user.role !== 'admin') {
+    reply.code(403).send({ error: 'forbidden' });
+    return null;
+  }
+  return user;
 }

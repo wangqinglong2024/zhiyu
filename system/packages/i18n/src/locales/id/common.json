@@ -1,0 +1,110 @@
+{
+  "brand": {
+    "name": "Zhiyu",
+    "tagline": "Belajar bahasa Mandarin dengan sentuhan kaca."
+  },
+  "nav": {
+    "home": "Beranda",
+    "discover": "Jelajah",
+    "courses": "Belajar",
+    "games": "Main",
+    "novels": "Baca",
+    "profile": "Saya",
+    "signin": "Masuk",
+    "signup": "Daftar",
+    "signout": "Keluar",
+    "styleguide": "Panduan gaya",
+    "language": "Bahasa",
+    "coin": "Koin",
+    "search": "Cari",
+    "notifications": "Notifikasi"
+  },
+  "shell": {
+    "new_version": "Versi baru sudah siap",
+    "reload": "Muat ulang",
+    "offline_title": "Anda sedang offline",
+    "offline_desc": "Kami akan tersambung lagi saat jaringan kembali.",
+    "install_hint": "Tambahkan Zhiyu ke layar utama untuk pengalaman seperti aplikasi."
+  },
+  "search": {
+    "placeholder": "Cari pelajaran, kata, novel…",
+    "recent": "Pencarian terbaru",
+    "empty_title": "Tidak ada hasil",
+    "empty_desc": "Coba kata kunci lain atau lihat rekomendasi.",
+    "hint": "⌘K",
+    "section": {
+      "course": "Kursus",
+      "lesson": "Pelajaran",
+      "article": "Artikel",
+      "novel": "Novel",
+      "word": "Kosakata",
+      "setting": "Pengaturan"
+    }
+  },
+  "notifications": {
+    "title": "Notifikasi",
+    "empty": "Belum ada notifikasi",
+    "mark_all_read": "Tandai semua dibaca",
+    "filter_all": "Semua",
+    "filter_system": "Sistem",
+    "filter_learning": "Belajar",
+    "filter_order": "Pesanan",
+    "filter_cs": "Dukungan",
+    "unread": "{count, plural, =0 {Tidak ada belum dibaca} other {# belum dibaca}}"
+  },
+  "actions": {
+    "save": "Simpan",
+    "cancel": "Batal",
+    "confirm": "Konfirmasi",
+    "back": "Kembali",
+    "next": "Lanjut",
+    "submit": "Kirim",
+    "retry": "Coba lagi",
+    "close": "Tutup",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "more": "Lainnya"
+  },
+  "states": {
+    "loading": "Memuat…",
+    "saving": "Menyimpan…",
+    "empty": "Belum ada apa-apa",
+    "coming_soon": "Segera hadir",
+    "offline": "Luring",
+    "online": "Daring",
+    "error_generic": "Terjadi kesalahan. Silakan coba lagi."
+  },
+  "errors": {
+    "unauthorized": "Anda perlu masuk dulu.",
+    "forbidden": "Anda tidak memiliki izin.",
+    "not_found": "Tidak ditemukan.",
+    "validation": "Periksa kolom yang ditandai.",
+    "network": "Jaringan tidak dapat dijangkau.",
+    "rate_limited": "Terlalu banyak permintaan. Mohon perlambat."
+  },
+  "home": {
+    "badge": "Refraksi kosmik · Glass UI",
+    "headline": "Belajar Mandarin dengan rasa kaca.",
+    "lead": "Zhiyu membantu pelajar dari 50+ bahasa ibu berlatih hanzi, pinyin, dan nada di antarmuka imersif.",
+    "cta_start": "Mulai sekarang",
+    "cta_explore": "Lihat komponen",
+    "card1_title": "Skenario imersif",
+    "card1_desc": "Pelajaran HSK 1-9 berbasis kisah",
+    "card2_title": "Pembaca dwibahasa",
+    "card2_desc": "EN/TH/AR/VI/ID berdampingan, hover untuk audio",
+    "card3_title": "Ulangan SRS",
+    "card3_desc": "Antrean kartu kurva lupa",
+    "today_count": "{count, plural, =0 {Tidak ada kartu hari ini} other {# kartu hari ini}}",
+    "system_check_title": "Pemeriksaan sistem",
+    "system_check_body": "API base {api}, Supabase {supabase}",
+    "system_check_unset": "(belum diatur)"
+  },
+  "language_picker": {
+    "label": "Bahasa",
+    "current": "Bahasa saat ini: {label}",
+    "switched": "Beralih ke {label}"
+  },
+  "footer": {
+    "copyright": "© {year} Zhiyu. Hak cipta dilindungi."
+  }
+}

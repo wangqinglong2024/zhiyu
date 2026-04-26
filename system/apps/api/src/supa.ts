@@ -12,6 +12,7 @@ export type AuthUser = {
   id: string;
   email: string | null;
   sessionId: string | null;
+  role: 'admin' | 'user';
 };
 
 export const ACCESS_TOKEN_COOKIE = 'zy_at';

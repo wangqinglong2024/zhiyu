@@ -11,18 +11,29 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.43.4",
+    "@tanstack/react-query": "^5.40.0",
+    "@tanstack/react-query-persist-client": "^5.40.0",
+    "@tanstack/query-async-storage-persister": "^5.40.0",
+    "@tanstack/react-router": "^1.31.0",
+    "@zhiyu/i18n": "workspace:*",
     "@zhiyu/tokens": "workspace:*",
     "@zhiyu/ui": "workspace:*",
+    "cmdk": "^1.0.0",
+    "idb-keyval": "^6.2.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "workbox-window": "^7.1.0"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.0.0",
+    "@tanstack/react-query-devtools": "^5.40.0",
+    "@tanstack/router-devtools": "^1.31.0",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.0",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.4.5",
-    "vite": "^5.2.11"
+    "vite": "^5.2.11",
+    "vite-plugin-pwa": "^0.20.0"
   }
 }

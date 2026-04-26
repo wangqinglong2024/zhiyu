@@ -1,0 +1,13 @@
+{
+  "title": "คอร์สเรียน",
+  "subtitle": "ตั้งแต่บทสนทนาริมถนนจนถึงประชุมงาน 12 ขั้น",
+  "stage": "ขั้นที่ {n}",
+  "lessons_total": "{count, plural, other {# บทเรียน}}",
+  "minutes": "{minutes, plural, other {# นาที}}",
+  "track": {
+    "daily": "ชีวิตประจำวัน",
+    "ecommerce": "อีคอมเมิร์ซ",
+    "factory": "โรงงานและซัพพลายเชน",
+    "hsk": "เส้นทาง HSK"
+  }
+}

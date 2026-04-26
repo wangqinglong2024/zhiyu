@@ -16,7 +16,9 @@
     "prepare": "husky || true",
     "db:migrate": "pnpm --filter @zhiyu/api db:migrate",
     "db:check": "pnpm --filter @zhiyu/api db:check",
-    "seed": "pnpm --filter @zhiyu/db seed:all"
+    "seed": "pnpm --filter @zhiyu/db seed:all",
+    "i18n:lint": "pnpm --filter @zhiyu/i18n i18n:lint",
+    "i18n:coverage": "pnpm --filter @zhiyu/i18n i18n:coverage"
   },
   "devDependencies": {
     "@types/node": "^20.12.7",

@@ -1,0 +1,63 @@
+{
+  "overview": {
+    "title": "Profile",
+    "edit": "Edit profile",
+    "settings": "Settings",
+    "security": "Security",
+    "data": "Data & privacy",
+    "level_label": "Self-assessed HSK"
+  },
+  "edit": {
+    "title": "Edit profile",
+    "display_name": "Display name",
+    "username": "Username",
+    "username_hint": "3-20 chars · letters, numbers, underscore.",
+    "username_cooldown": "You can change your username again in {days, plural, one {# day} other {# days}}.",
+    "bio": "Bio",
+    "bio_hint": "{count}/200",
+    "locale": "UI language",
+    "hsk": "HSK level",
+    "goal": "Learning goal",
+    "avatar": "Avatar",
+    "save": "Save changes",
+    "saved": "Profile updated."
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "theme_light": "Light",
+    "theme_dark": "Dark",
+    "theme_system": "Follow system",
+    "notifications": "Notifications",
+    "push": "Push reminders",
+    "email": "Email digests",
+    "study_time": "Daily study reminder",
+    "saved": "Settings saved."
+  },
+  "security": {
+    "title": "Security",
+    "sessions": "Active sessions",
+    "current": "This device",
+    "revoke": "Revoke",
+    "revoke_all": "Sign out all devices",
+    "revoked": "Session revoked.",
+    "ip": "IP {ip}",
+    "ua": "{ua}"
+  },
+  "data": {
+    "title": "Data & privacy",
+    "export_section": "Export my data",
+    "export_button": "Request export",
+    "export_pending": "Pending",
+    "export_succeeded": "Ready",
+    "download": "Download",
+    "delete_section": "Delete my account",
+    "delete_button": "Delete account",
+    "delete_warning": "Deleting your account is reversible within 30 days.",
+    "delete_confirm": "I understand my data will be deleted.",
+    "delete_password": "Confirm with password",
+    "delete_done": "Account scheduled for deletion. You can cancel within 30 days.",
+    "cancel_delete": "Cancel deletion"
+  }
+}

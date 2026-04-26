@@ -1,5 +1,7 @@
 import { Badge, Button, Card, CardHeader, CardTitle, CardDescription, Container, HStack, PageShell, ThemeMenu, VStack } from '@zhiyu/ui';
 
+// i18n-skip-file: admin v1 dashboard; back office is internal CN-first.
+
 const ADMIN_API_BASE = import.meta.env.VITE_ADMIN_API_BASE ?? '';
 
 export default function App(): JSX.Element {

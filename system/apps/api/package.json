@@ -15,6 +15,7 @@
   "dependencies": {
     "@zhiyu/config": "workspace:*",
     "@zhiyu/db": "workspace:*",
+    "@zhiyu/i18n": "workspace:*",
     "@zhiyu/sdk": "workspace:*",
     "bullmq": "^5.7.0",
     "drizzle-orm": "^0.30.10",

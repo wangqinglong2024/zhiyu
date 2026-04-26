@@ -1,0 +1,18 @@
+{
+  "title": "Discover China",
+  "subtitle": "Stories, food, scenery, and a thousand years of poetry.",
+  "categories": {
+    "history": "History",
+    "cuisine": "Cuisine",
+    "scenery": "Scenery",
+    "festivals": "Festivals",
+    "arts": "Arts & heritage",
+    "music": "Music & opera",
+    "literature": "Classic literature",
+    "idioms": "Idioms",
+    "philosophy": "Philosophy",
+    "modern": "Modern China",
+    "fun": "Fun with Chinese",
+    "myth": "Myths"
+  }
+}

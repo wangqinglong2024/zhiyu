@@ -1,0 +1,63 @@
+{
+  "overview": {
+    "title": "Profil",
+    "edit": "Edit profil",
+    "settings": "Pengaturan",
+    "security": "Keamanan",
+    "data": "Data & privasi",
+    "level_label": "HSK swadaya"
+  },
+  "edit": {
+    "title": "Edit profil",
+    "display_name": "Nama tampilan",
+    "username": "Nama pengguna",
+    "username_hint": "3-20 karakter · huruf, angka, garis bawah.",
+    "username_cooldown": "Anda dapat mengubah nama pengguna lagi dalam {days, plural, other {# hari}}.",
+    "bio": "Bio",
+    "bio_hint": "{count}/200",
+    "locale": "Bahasa antarmuka",
+    "hsk": "Level HSK",
+    "goal": "Tujuan belajar",
+    "avatar": "Avatar",
+    "save": "Simpan perubahan",
+    "saved": "Profil diperbarui."
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "appearance": "Tampilan",
+    "theme": "Tema",
+    "theme_light": "Terang",
+    "theme_dark": "Gelap",
+    "theme_system": "Ikuti sistem",
+    "notifications": "Notifikasi",
+    "push": "Pengingat push",
+    "email": "Ringkasan email",
+    "study_time": "Pengingat belajar harian",
+    "saved": "Pengaturan tersimpan."
+  },
+  "security": {
+    "title": "Keamanan",
+    "sessions": "Sesi aktif",
+    "current": "Perangkat ini",
+    "revoke": "Cabut",
+    "revoke_all": "Keluar dari semua perangkat",
+    "revoked": "Sesi dicabut.",
+    "ip": "IP {ip}",
+    "ua": "{ua}"
+  },
+  "data": {
+    "title": "Data & privasi",
+    "export_section": "Ekspor data saya",
+    "export_button": "Minta ekspor",
+    "export_pending": "Diproses",
+    "export_succeeded": "Siap",
+    "download": "Unduh",
+    "delete_section": "Hapus akun",
+    "delete_button": "Hapus akun",
+    "delete_warning": "Penghapusan dapat dibatalkan dalam 30 hari.",
+    "delete_confirm": "Saya paham data saya akan dihapus.",
+    "delete_password": "Konfirmasi dengan kata sandi",
+    "delete_done": "Akun dijadwalkan untuk dihapus. Bisa dibatalkan dalam 30 hari.",
+    "cancel_delete": "Batalkan penghapusan"
+  }
+}

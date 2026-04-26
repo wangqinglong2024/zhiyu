@@ -1,0 +1,110 @@
+{
+  "brand": {
+    "name": "Zhiyu",
+    "tagline": "Định hình lại việc học tiếng Trung với chất kính."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "discover": "Khám phá",
+    "courses": "Học",
+    "games": "Chơi",
+    "novels": "Đọc",
+    "profile": "Tôi",
+    "signin": "Đăng nhập",
+    "signup": "Đăng ký",
+    "signout": "Đăng xuất",
+    "styleguide": "Bộ giao diện",
+    "language": "Ngôn ngữ",
+    "coin": "Xu Zhiyu",
+    "search": "Tìm kiếm",
+    "notifications": "Thông báo"
+  },
+  "shell": {
+    "new_version": "Đã có phiên bản mới",
+    "reload": "Tải lại",
+    "offline_title": "Bạn đang offline",
+    "offline_desc": "Chúng tôi sẽ kết nối lại khi mạng trở lại.",
+    "install_hint": "Thêm Zhiyu vào màn hình chính để có trải nghiệm như app."
+  },
+  "search": {
+    "placeholder": "Tìm bài học, từ, tiểu thuyết…",
+    "recent": "Đã tìm gần đây",
+    "empty_title": "Không có kết quả",
+    "empty_desc": "Thử từ khoá khác hoặc xem gợi ý.",
+    "hint": "⌘K",
+    "section": {
+      "course": "Khoá học",
+      "lesson": "Bài học",
+      "article": "Bài viết",
+      "novel": "Tiểu thuyết",
+      "word": "Từ vựng",
+      "setting": "Cài đặt"
+    }
+  },
+  "notifications": {
+    "title": "Thông báo",
+    "empty": "Chưa có thông báo",
+    "mark_all_read": "Đánh dấu đã đọc",
+    "filter_all": "Tất cả",
+    "filter_system": "Hệ thống",
+    "filter_learning": "Học tập",
+    "filter_order": "Đơn hàng",
+    "filter_cs": "Hỗ trợ",
+    "unread": "{count, plural, =0 {Không có chưa đọc} other {# chưa đọc}}"
+  },
+  "actions": {
+    "save": "Lưu",
+    "cancel": "Huỷ",
+    "confirm": "Xác nhận",
+    "back": "Quay lại",
+    "next": "Tiếp",
+    "submit": "Gửi",
+    "retry": "Thử lại",
+    "close": "Đóng",
+    "edit": "Sửa",
+    "delete": "Xoá",
+    "more": "Thêm"
+  },
+  "states": {
+    "loading": "Đang tải…",
+    "saving": "Đang lưu…",
+    "empty": "Chưa có nội dung",
+    "coming_soon": "Sắp ra mắt",
+    "offline": "Ngoại tuyến",
+    "online": "Trực tuyến",
+    "error_generic": "Có lỗi xảy ra. Vui lòng thử lại."
+  },
+  "errors": {
+    "unauthorized": "Bạn cần đăng nhập trước.",
+    "forbidden": "Bạn không có quyền thực hiện thao tác này.",
+    "not_found": "Không tìm thấy mục bạn cần.",
+    "validation": "Vui lòng kiểm tra lại các trường đánh dấu.",
+    "network": "Mất kết nối mạng. Hãy kiểm tra lại.",
+    "rate_limited": "Quá nhiều yêu cầu. Vui lòng chậm lại."
+  },
+  "home": {
+    "badge": "Khúc xạ vũ trụ · Glass UI",
+    "headline": "Học tiếng Trung trên trải nghiệm chất kính.",
+    "lead": "Zhiyu giúp học viên từ hơn 50 ngôn ngữ mẹ đẻ luyện chữ Hán, phiên âm và thanh điệu trong giao diện đắm chìm.",
+    "cta_start": "Bắt đầu",
+    "cta_explore": "Xem thư viện",
+    "card1_title": "Bối cảnh đắm chìm",
+    "card1_desc": "Chuỗi bài HSK 1-9 dẫn dắt bằng câu chuyện",
+    "card2_title": "Đọc song ngữ",
+    "card2_desc": "EN/TH/AR/VI/ID đối chiếu, di chuột phát âm",
+    "card3_title": "Ôn tập SRS",
+    "card3_desc": "Hàng đợi thẻ theo đường cong quên",
+    "today_count": "{count, plural, =0 {Không có thẻ hôm nay} other {Hôm nay có # thẻ}}",
+    "system_check_title": "Kiểm tra hệ thống",
+    "system_check_body": "API base {api}, Supabase {supabase}",
+    "system_check_unset": "(chưa cấu hình)"
+  },
+  "language_picker": {
+    "label": "Ngôn ngữ",
+    "current": "Ngôn ngữ hiện tại: {label}",
+    "switched": "Đã chuyển sang {label}"
+  },
+  "footer": {
+    "copyright": "© {year} Zhiyu. Mọi quyền được bảo lưu."
+  }
+}

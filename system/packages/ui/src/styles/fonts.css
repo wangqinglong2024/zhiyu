@@ -20,9 +20,16 @@
  * License files: packages/ui/LICENSES/*.txt
  */
 
+/*
+ * Self-hosted woff2 binaries are NOT shipped in this repo. Until the assets
+ * are dropped in `packages/ui/src/fonts/<family>/`, declaring @font-face with
+ * non-existent URLs causes 404s in production. We therefore use system-font
+ * stacks via the `font-family` cascade below. Re-enable individual @font-face
+ * blocks once the corresponding woff2 files exist.
+ */
 @font-face {
   font-family: 'Inter';
-  src: url('../fonts/inter/Inter-Variable.woff2') format('woff2-variations');
+  src: local('Inter'), local('Inter-Regular'), local('Helvetica Neue'), local('Arial');
   font-weight: 100 900;
   font-display: swap;
   font-style: normal;
@@ -30,39 +37,23 @@
 
 @font-face {
   font-family: 'Noto Sans SC';
-  src: url('../fonts/notosc/NotoSansSC-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-display: swap;
-  unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
-}
-
-@font-face {
-  font-family: 'Noto Sans SC';
-  src: url('../fonts/notosc/NotoSansSC-Medium.woff2') format('woff2');
-  font-weight: 500;
-  font-display: swap;
-  unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
-}
-
-@font-face {
-  font-family: 'Noto Sans SC';
-  src: url('../fonts/notosc/NotoSansSC-Bold.woff2') format('woff2');
-  font-weight: 700;
+  src: local('Noto Sans SC'), local('PingFang SC'), local('Microsoft YaHei'), local('Hiragino Sans GB');
+  font-weight: 400 700;
   font-display: swap;
   unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
 }
 
 @font-face {
   font-family: 'Noto Sans Thai';
-  src: url('../fonts/notothai/NotoSansThai-Regular.woff2') format('woff2');
-  font-weight: 400;
+  src: local('Noto Sans Thai'), local('Sarabun'), local('Tahoma');
+  font-weight: 400 700;
   font-display: swap;
   unicode-range: U+0E00-0E7F;
 }
 
 @font-face {
   font-family: 'Noto Sans Arabic';
-  src: url('../fonts/notoarabic/NotoSansArabic-Variable.woff2') format('woff2-variations');
+  src: local('Noto Sans Arabic'), local('Geeza Pro'), local('Tahoma');
   font-weight: 100 900;
   font-display: swap;
   unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF;
@@ -70,8 +61,8 @@
 
 @font-face {
   font-family: 'JetBrains Mono';
-  src: url('../fonts/jetbrains/JetBrainsMono-Regular.woff2') format('woff2');
-  font-weight: 400;
+  src: local('JetBrains Mono'), local('Menlo'), local('Consolas'), local('Courier New');
+  font-weight: 400 700;
   font-display: swap;
 }
 

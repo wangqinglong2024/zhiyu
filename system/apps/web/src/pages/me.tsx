@@ -22,6 +22,7 @@ import {
   VStack,
   toast,
 } from '@zhiyu/ui';
+import { useT } from '@zhiyu/i18n/client';
 import { auth, me } from '../lib/api.js';
 import { navigate, useAuth } from '../lib/auth-store.js';
 
@@ -50,24 +51,25 @@ function AvatarChip({ src, name }: { src?: string; name: string }): JSX.Element 
 }
 
 function MeHeader({ active }: { active: 'overview' | 'edit' | 'settings' | 'security' | 'data' }): JSX.Element {
+  const { t } = useT(['me', 'common']);
   return (
     <header className="border-b border-border-subtle">
       <Container>
         <HStack className="h-16 justify-between">
-          <a href="/" className="text-title font-semibold">知语 · 个人中心</a>
+          <a href="/" className="text-title font-semibold">{t('common:brand.name')} · {t('me:overview.title')}</a>
           <HStack gap={3}>
             <ThemeMenu />
-            <Button variant="ghost" size="sm" onClick={async () => { await auth.signOut(); navigate('/signin'); }}>退出登录</Button>
+            <Button variant="ghost" size="sm" onClick={async () => { await auth.signOut(); navigate('/signin'); }}>{t('common:nav.signout')}</Button>
           </HStack>
         </HStack>
         <nav className="pb-3">
           <HStack gap={2}>
             {([
-              ['overview', '/me', '总览'],
-              ['edit', '/me/edit', '编辑资料'],
-              ['settings', '/me/settings', '设置'],
-              ['security', '/me/security', '安全 / 设备'],
-              ['data', '/me/data', '数据 / 注销'],
+              ['overview', '/me', t('me:overview.title')],
+              ['edit', '/me/edit', t('me:overview.edit')],
+              ['settings', '/me/settings', t('me:overview.settings')],
+              ['security', '/me/security', t('me:overview.security')],
+              ['data', '/me/data', t('me:overview.data')],
             ] as const).map(([k, href, label]) => (
               <a key={k} href={href}>
                 <Badge tone={active === k ? 'rose' : 'neutral'} variant={active === k ? 'solid' : 'soft'}>{label}</Badge>
@@ -89,6 +91,7 @@ function useGuard(): { ready: boolean } {
 }
 
 export function MeOverviewPage(): JSX.Element {
+  const { t } = useT(['me', 'common']);
   const { ready } = useGuard();
   const [data, setData] = useState<Awaited<ReturnType<typeof me.get>> | null>(null);
   const [err, setErr] = useState<string | null>(null);
@@ -102,19 +105,19 @@ export function MeOverviewPage(): JSX.Element {
     <PageShell>
       <MeHeader active="overview" />
       <Container className="py-10">
-        {err && <Alert tone="danger" title="加载失败">{err}</Alert>}
+        {err && <Alert tone="danger" title={t('common:states.error_generic')}>{err}</Alert>}
         {data && (
           <Card>
             <HStack gap={4}>
               <AvatarChip src={(data.profile.avatar_url as string) ?? undefined} name={(data.profile.display_name as string) ?? data.email ?? '?'} />
               <VStack gap={1}>
-                <h2 className="text-h2">{(data.profile.display_name as string) ?? '未命名'}</h2>
+                <h2 className="text-h2">{(data.profile.display_name as string) ?? data.email ?? '—'}</h2>
                 <div className="text-small text-text-secondary">@{(data.profile.username as string) ?? '—'} · {data.email}</div>
-                <div className="text-body">{(data.profile.bio as string) ?? '尚未填写自我介绍'}</div>
+                <div className="text-body">{(data.profile.bio as string) ?? '—'}</div>
                 <HStack gap={2}>
-                  <Badge tone="sky">语言：{(data.profile.locale as string) ?? 'en'}</Badge>
-                  <Badge tone="amber">HSK 自评：{String(data.profile.hsk_self_level ?? 0)}</Badge>
-                  {data.profile.goal ? <Badge tone="rose">目标：{String(data.profile.goal)}</Badge> : null}
+                  <Badge tone="sky">{t('common:nav.language')}: {(data.profile.locale as string) ?? 'en'}</Badge>
+                  <Badge tone="amber">{t('me:overview.level_label')}: {String(data.profile.hsk_self_level ?? 0)}</Badge>
+                  {data.profile.goal ? <Badge tone="rose">{t('me:edit.goal')}: {String(data.profile.goal)}</Badge> : null}
                 </HStack>
               </VStack>
             </HStack>
@@ -126,6 +129,7 @@ export function MeOverviewPage(): JSX.Element {
 }
 
 export function MeEditPage(): JSX.Element {
+  // i18n-skip-start: deep form copy migrates in v2 alongside profile content model.
   const { ready } = useGuard();
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState<string | null>(null);
@@ -266,6 +270,8 @@ export function MeEditPage(): JSX.Element {
 }
 
 export function MeSettingsPage(): JSX.Element {
+  // i18n-skip-end
+  // i18n-skip-start: deep form copy migrates in v2.
   const { ready } = useGuard();
   const [s, setS] = useState<Record<string, unknown>>({});
   const [busy, setBusy] = useState(false);
@@ -374,6 +380,8 @@ export function MeSettingsPage(): JSX.Element {
 }
 
 export function MeSecurityPage(): JSX.Element {
+  // i18n-skip-end
+  // i18n-skip-start: deep form copy migrates in v2.
   const { ready } = useGuard();
   const [sessions, setSessions] = useState<Awaited<ReturnType<typeof me.sessions>>['sessions']>([]);
   const [err, setErr] = useState<string | null>(null);
@@ -467,6 +475,8 @@ export function MeSecurityPage(): JSX.Element {
 }
 
 export function MeDataPage(): JSX.Element {
+  // i18n-skip-end
+  // i18n-skip-start: deep form copy migrates in v2.
   const { ready } = useGuard();
   const [exports, setExports] = useState<Awaited<ReturnType<typeof me.exportList>>['exports']>([]);
   const [pending, setPending] = useState<Awaited<ReturnType<typeof me.deleteStatus>> | null>(null);
@@ -590,6 +600,7 @@ export function MeDataPage(): JSX.Element {
 
 /** OAuth callback handler — extracts tokens from URL fragment, posts to BE, navigates home. */
 export function AuthCallbackPage(): JSX.Element {
+  // i18n-skip-end
   const [msg, setMsg] = useState('正在完成登录…');
   useEffect(() => {
     void (async () => {

@@ -1,0 +1,110 @@
+{
+  "brand": {
+    "name": "Zhiyu",
+    "tagline": "Reshape Chinese learning with glass-grade craft."
+  },
+  "nav": {
+    "home": "Home",
+    "discover": "Discover",
+    "courses": "Learn",
+    "games": "Play",
+    "novels": "Read",
+    "profile": "Me",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "signout": "Sign out",
+    "styleguide": "Style guide",
+    "language": "Language",
+    "coin": "Coins",
+    "search": "Search",
+    "notifications": "Notifications"
+  },
+  "shell": {
+    "new_version": "A new version is ready",
+    "reload": "Reload",
+    "offline_title": "You are offline",
+    "offline_desc": "We will reconnect when your network is back.",
+    "install_hint": "Add Zhiyu to your home screen for the immersive app feel."
+  },
+  "search": {
+    "placeholder": "Search lessons, words, novels…",
+    "recent": "Recent searches",
+    "empty_title": "No matches",
+    "empty_desc": "Try a different keyword or browse our recommendations.",
+    "hint": "⌘K",
+    "section": {
+      "course": "Courses",
+      "lesson": "Lessons",
+      "article": "Articles",
+      "novel": "Novels",
+      "word": "Words",
+      "setting": "Settings"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "No notifications yet",
+    "mark_all_read": "Mark all as read",
+    "filter_all": "All",
+    "filter_system": "System",
+    "filter_learning": "Learning",
+    "filter_order": "Order",
+    "filter_cs": "Support",
+    "unread": "{count, plural, =0 {No unread} one {# unread} other {# unread}}"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "retry": "Retry",
+    "close": "Close",
+    "edit": "Edit",
+    "delete": "Delete",
+    "more": "More"
+  },
+  "states": {
+    "loading": "Loading…",
+    "saving": "Saving…",
+    "empty": "Nothing here yet",
+    "coming_soon": "Coming soon",
+    "offline": "Offline",
+    "online": "Online",
+    "error_generic": "Something went wrong. Please try again."
+  },
+  "errors": {
+    "unauthorized": "You need to sign in first.",
+    "forbidden": "You don't have permission to do this.",
+    "not_found": "We couldn't find that.",
+    "validation": "Please check the highlighted fields.",
+    "network": "Network unreachable. Check your connection.",
+    "rate_limited": "Too many requests. Please slow down."
+  },
+  "home": {
+    "badge": "Cosmic Refraction · Glass UI",
+    "headline": "Reshape Chinese learning with glass-grade UI.",
+    "lead": "Zhiyu lets learners from 50+ mother tongues practice hanzi, pinyin and tones inside an immersive interface. Every tap echoes light.",
+    "cta_start": "Start now",
+    "cta_explore": "Browse components",
+    "card1_title": "Immersive scenes",
+    "card1_desc": "Story-driven HSK 1-9 lessons",
+    "card2_title": "Bilingual reader",
+    "card2_desc": "EN/TH/AR/VI/ID side-by-side, hover for audio",
+    "card3_title": "SRS review",
+    "card3_desc": "Forgetting-curve card queue",
+    "today_count": "{count, plural, =0 {No cards today} one {# card today} other {# cards today}}",
+    "system_check_title": "System check",
+    "system_check_body": "API base {api}, Supabase {supabase}",
+    "system_check_unset": "(unset)"
+  },
+  "language_picker": {
+    "label": "Language",
+    "current": "Current language: {label}",
+    "switched": "Switched to {label}"
+  },
+  "footer": {
+    "copyright": "© {year} Zhiyu. All rights reserved."
+  }
+}

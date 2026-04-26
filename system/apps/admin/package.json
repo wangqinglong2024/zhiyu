@@ -10,6 +10,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@zhiyu/i18n": "workspace:*",
     "@zhiyu/tokens": "workspace:*",
     "@zhiyu/ui": "workspace:*",
     "react": "^18.3.1",
