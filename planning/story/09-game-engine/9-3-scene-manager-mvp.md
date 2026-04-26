@@ -1,18 +1,33 @@
-# ZY-09-03 · SceneManager（Loading/Game/GameOver）
+# ZY-09-03 · 场景管理器（MVP）
 
-> Epic：E09 · 估算：M · 阶段：MVP · 状态：ready-for-dev
+> Epic：E09 · 估算：M · 状态：ready-for-dev
+> 代码根：`/opt/projects/zhiyu/system/`
 > 顶层约束：[planning/00-rules.md](../../00-rules.md)
 
+## User Story
+**As a** 游戏工程师
+**I want** 标准场景接口 `Scene { enter / exit / update / render }` 与 SceneManager 切换、转场
+**So that** 12 款游戏的菜单 / 玩法 / 结算用一致流程组织。
+
+## 上下文
+- SceneManager：栈式（push/pop/replace）+ 异步过渡（fade ≤ 200ms）
+- Scene 暴露 onEnter/onExit/update(dt)/render
+- 路由层 `/games/:slug` mount Engine + 推首场景
+
 ## Acceptance Criteria
-- [ ] push / pop / replace API
-- [ ] MVP 仅 3 场景：Loading / Game（含 60s 倒计时）/ GameOver（含「再玩一局」按钮）
-- [ ] **不**实现 Victory / NextLevel（无关卡）
-- [ ] 场景切换淡入淡出 200ms
-- [ ] V1 期可补 Pause（不在本 story 范围）
+- [ ] Scene 接口 + 抽象基类 BaseScene
+- [ ] SceneManager.push/pop/replace + 转场
+- [ ] 三个示例 scene（Splash/Menu/Play）演示
+- [ ] 单测：场景生命周期顺序正确
 
 ## 测试方法
-- 单元：场景栈管理
-- demo：Loading→Game→倒计时到 0→GameOver→再玩一局
+```bash
+cd /opt/projects/zhiyu/system
+pnpm --filter @zhiyu/game test scene
+```
 
 ## DoD
-- [ ] 3 场景流畅切换
+- [ ] 三场景互转无内存泄漏
+
+## 依赖
+- 上游：ZY-09-01 / 02

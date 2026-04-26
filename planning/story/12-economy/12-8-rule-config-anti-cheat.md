@@ -1,17 +1,49 @@
-# ZY-12-08 · 后台规则配置 + 反作弊
+# ZY-12-08 · 经济规则配置 + 反作弊
 
 > Epic：E12 · 估算：M · 状态：ready-for-dev
+> 代码根：`/opt/projects/zhiyu/system/`
 > 顶层约束：[planning/00-rules.md](../../00-rules.md)
 
+## User Story
+**As a** 运营 / 风控
+**I want** 在后台修改经济规则（每条 delta / cap）和监控异常账户
+**So that** 平衡经济、扼杀刷币。
+
+## 上下文
+- 规则修改写 `zhiyu.coin_rules` + 写 audit_log；运行时 cache 60s 失效。
+- 反作弊指标：单日 ledger 行数、单 IP 多账号、单设备多账号、短时大额、订阅 vs 收益异常比。
+- 触发风控：标记 `wallets.flagged=true`，所有 earn 暂停审核。
+
+## 数据模型补充
+```sql
+alter table zhiyu.wallets add column flagged boolean default false;
+alter table zhiyu.wallets add column flag_reason text;
+
+create table zhiyu.fraud_signals (
+  id bigserial primary key,
+  user_id uuid not null,
+  type text not null,
+  severity smallint default 1,
+  meta jsonb,
+  created_at timestamptz default now()
+);
+```
+
 ## Acceptance Criteria
-- [ ] admin 配置：获得规则 / 单日上限 / 商城价格
-- [ ] 审计日志（写入 audit_logs）
-- [ ] 异常聚集检测（同 IP / 同设备 5×中位数 → 标 suspicious）
-- [ ] 自动冻结账户（`profiles.frozen_at`）+ 人工复核入口
+- [ ] admin `/admin/economy/rules` 编辑界面（接 ZY-17-08）
+- [ ] BullMQ cron 每 10 min 扫异常 → 写 fraud_signals + 阈值触发 flag
+- [ ] flagged 用户 earn 拒绝 / 提示申诉
+- [ ] 申诉接口（联客服 ZY-15）
 
 ## 测试方法
-- 集成：mock 异常聚集 → 标记冻结
-- admin UI：规则修改后立即生效
+```bash
+cd /opt/projects/zhiyu/system/docker
+docker compose exec zhiyu-worker pnpm vitest run fraud
+```
 
 ## DoD
-- [ ] 配置 + 风控双向通
+- [ ] 风控可见且可解封
+- [ ] 规则修改即时生效
+
+## 依赖
+- 上游：ZY-12-01..07 / ZY-17 / ZY-19-06

@@ -1,19 +1,40 @@
-# ZY-03-06 · 账号删除 + 数据导出（GDPR）
+# ZY-03-06 · 账号注销与数据导出（GDPR）
 
-> Epic：E03 · 估算：L · 状态：ready-for-dev
+> Epic：E03 · 估算：M · 状态：ready-for-dev
+> 代码根：`/opt/projects/zhiyu/system/`
 > 顶层约束：[planning/00-rules.md](../../00-rules.md)
 
+## User Story
+**As a** 用户
+**I want** 一键导出我的全部数据，并在我决定后销户（30 天可撤销）
+**So that** 满足 GDPR / 个保法对数据主体权利的要求。
+
+## 上下文
+- 注销分两阶段：标记 `pending_delete`（30 天宽限）→ 物理删 / 匿名化。
+- 导出：BullMQ job → 拼装 JSON / CSV → 上传 supabase-storage → 邮件 fake link 24h 有效。
+- 删除策略：profiles 物理删；学习记录匿名（user_id → 'anonymized-<hash>'）；订单 / 财务记录保留（合规）。
+
 ## Acceptance Criteria
-- [ ] `/api/v1/me/export` → 异步生成 JSON 包（profile + 学习 + 订单 + 收藏）→ 上传 supabase-storage 桶 `exports/<uid>/<ts>.json` 返回 signed URL
-- [ ] 删除流程：验证密码 → 邮件二次确认（EmailAdapter fake，console 输出确认链）→ `profiles.deleted_at = now()`
-- [ ] cron（zhiyu-worker）：每日扫 `deleted_at < now() - 30d` → 调 supabase auth admin deleteUser + cascade
-- [ ] 30 天内可访问 `/me/restore` 取消删除
+- [ ] `POST /api/v1/me/export` 入队 → 生成 zip → 返回下载 url
+- [ ] `POST /api/v1/me/delete` 标记 pending_delete + 立刻冻结登录
+- [ ] `POST /api/v1/me/delete/cancel` 30 天内可撤销
+- [ ] BullMQ cron 每日扫 pending_delete > 30d → 执行
+- [ ] FE `/me/security/data` 提供导出 / 注销入口 + 二次确认 + 阅读条款 checkbox
 
 ## 测试方法
-- MCP Puppeteer：完整跑 export → 下载 → delete → restore
-- 单元：cron 函数对边界日期处理
+```bash
+cd /opt/projects/zhiyu/system/docker
+docker compose exec zhiyu-worker pnpm vitest run me.export me.delete
+```
 
 ## DoD
-- [ ] 全链路通
-- [ ] 软删后无法登录
-- [ ] restore 后数据可用
+- [ ] 导出 zip 完整且可下载
+- [ ] 注销 30 天后 profiles 真正消失
+- [ ] 财务记录不丢失
+
+## 不做
+- 部分数据导出 / 选择性遗忘（v1.5）
+
+## 依赖
+- 上游：ZY-03-01..05 / ZY-18-04
+- 下游：合规清单 ZY-20-06

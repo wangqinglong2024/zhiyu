@@ -10,8 +10,9 @@
 **So that** 后续可直接增加业务包，不用反复处理基础脚手架
 
 ## 上下文
-- 仓库根：`/opt/projects/zhiyu`
-- 已有规划/文档目录（china/course/games/...）保留，但**不进 docker 镜像**（见 §测试 + .dockerignore）。
+- 仓库根：`/opt/projects/zhiyu`（仅规划/文档/agent 配置）
+- **代码根**：`/opt/projects/zhiyu/system`（`apps/`、`packages/`、`docker/`、`turbo.json`、`package.json`、`pnpm-workspace.yaml` 全部在此）
+- 已有规划/文档目录（china/course/games/...）保留在仓库根，但**不进 docker 镜像**（见 §测试 + `.dockerignore`）。
 - 4 个业务 app + 1 worker；4 个共享 package。
 
 ## Acceptance Criteria

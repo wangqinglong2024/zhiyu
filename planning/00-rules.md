@@ -23,6 +23,14 @@
 - 唯一服务器：腾讯云 `115.159.109.23`；外网通过 IP+端口直连（防火墙已开）。
 - 项目根目录提供 `system/docker/docker-compose.yml` 一键拉起整套环境；新人 30 分钟可跑通。
 
+### 1.1.1 唯一代码根 = `/opt/projects/zhiyu/system/`【强铁律】
+
+- **所有可执行代码（`apps/`、`packages/`、`turbo.json`、`package.json`、`pnpm-workspace.yaml`、`pnpm-lock.yaml`、`tsconfig.base.json`、`docker/` 等）必须落在 `/opt/projects/zhiyu/system/` 子目录下**。
+- **禁止**在 `/opt/projects/zhiyu/` 仓库根直接放业务代码；根目录只允许：规划与文档目录（`planning/`、`docs/`、`china/`、`course/`、`games/`、`novels/`）、agent 配置（`.github/`、`.agents/`、`.claude/`、`_bmad/`）、`env.md`、`.gitignore`、`README.md`、`system/`。
+- 在所有 spec / epic / story 内出现的 `apps/web`、`packages/ui`、`turbo.json` 等相对路径，**实际物理路径 = `/opt/projects/zhiyu/system/<相对路径>`**。
+- Docker compose `context` 一律以 `system/` 为根；任何 `cd /opt/projects/zhiyu` 后跑 `pnpm install` 的写法均视为错误，正确写法是 `cd /opt/projects/zhiyu/system && pnpm install`。
+- `.dockerignore` 与 `.gitignore` 必须位于 `system/` 内。仓库根的 `.gitignore` 仅规避 `system/node_modules`、`system/dist`、`system/.env` 等。
+
 ### 1.2 镜像构建规则
 
 - 多阶段 Dockerfile（deps / build / runtime）。

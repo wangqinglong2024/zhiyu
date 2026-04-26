@@ -86,7 +86,7 @@ x-app-env: &app-env
 
 services:
   zhiyu-app-be:
-    build: { context: ../.., dockerfile: apps/api/Dockerfile, target: dev }
+    build: { context: .., dockerfile: apps/api/Dockerfile, target: dev }
     container_name: zhiyu-app-be
     environment: { <<: *app-env, ROLE: app-api }
     ports: ["8100:8080"]
@@ -97,7 +97,7 @@ services:
       interval: 30s
 
   zhiyu-app-fe:
-    build: { context: ../.., dockerfile: apps/web/Dockerfile, target: dev }
+    build: { context: .., dockerfile: apps/web/Dockerfile, target: dev }
     container_name: zhiyu-app-fe
     environment:
       VITE_API_BASE: http://115.159.109.23:8100
@@ -108,7 +108,7 @@ services:
     depends_on: [zhiyu-app-be]
 
   zhiyu-admin-be:
-    build: { context: ../.., dockerfile: apps/admin-api/Dockerfile, target: dev }
+    build: { context: .., dockerfile: apps/admin-api/Dockerfile, target: dev }
     container_name: zhiyu-admin-be
     environment: { <<: *app-env, ROLE: admin-api }
     ports: ["9100:8080"]
@@ -116,7 +116,7 @@ services:
     depends_on: [zhiyu-redis]
 
   zhiyu-admin-fe:
-    build: { context: ../.., dockerfile: apps/admin/Dockerfile, target: dev }
+    build: { context: .., dockerfile: apps/admin/Dockerfile, target: dev }
     container_name: zhiyu-admin-fe
     environment:
       VITE_API_BASE: http://115.159.109.23:9100
@@ -127,7 +127,7 @@ services:
     depends_on: [zhiyu-admin-be]
 
   zhiyu-worker:
-    build: { context: ../.., dockerfile: apps/worker/Dockerfile, target: dev }
+    build: { context: .., dockerfile: apps/worker/Dockerfile, target: dev }
     container_name: zhiyu-worker
     environment: { <<: *app-env, ROLE: worker }
     networks: [gateway_net, zhiyu-internal]
@@ -209,7 +209,7 @@ CMD ["pnpm", "--filter=api", "dev"]
 
 ```bash
 ssh root@115.159.109.23
-cd /opt/projects/zhiyu
+cd /opt/projects/zhiyu/system
 git pull
 cd system/docker
 docker compose up -d --build
