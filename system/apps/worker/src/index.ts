@@ -3,6 +3,8 @@ import { Redis } from 'ioredis';
 import pino from 'pino';
 import { loadEnv } from '@zhiyu/config';
 import { startGdprWorkers } from './gdpr.js';
+import { startSrsCron } from './srs-cron.js';
+import { startLeaderboardCron } from './leaderboard-cron.js';
 
 const env = loadEnv();
 const logger = pino({
@@ -49,11 +51,15 @@ function startHeartbeat(): void {
 logger.info({ queue: NOOP_QUEUE, heartbeat_ms: HEARTBEAT_MS }, 'zhiyu-worker started');
 startHeartbeat();
 const gdpr = startGdprWorkers(connection.duplicate());
+const srsCron = startSrsCron(connection.duplicate(), logger);
+const leaderboardCron = startLeaderboardCron(connection.duplicate(), logger);
 
 const stop = async (sig: string) => {
   logger.info({ sig }, 'shutting_down');
   if (timer) clearInterval(timer);
   await gdpr.stop();
+  await srsCron.stop();
+  await leaderboardCron.stop();
   await worker.close();
   await events.close();
   await noopQueue.close();

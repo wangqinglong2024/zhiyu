@@ -86,3 +86,26 @@ export async function requireAdminUser(req: FastifyRequest, reply: FastifyReply)
   }
   return user;
 }
+
+/**
+ * Resolve user without sending a 401 when the token is missing/invalid.
+ * Useful for routes that work for anon users but personalise when authed.
+ */
+export async function getOptionalUser(req: FastifyRequest): Promise<AuthUser | null> {
+  const token = getAccessToken(req);
+  if (!token) return null;
+  try {
+    const { data, error } = await supaAdmin.auth.getUser(token);
+    if (error || !data.user) return null;
+    const meta = (data.user.app_metadata ?? {}) as { role?: string };
+    const role: AuthUser['role'] = meta.role === 'admin' ? 'admin' : 'user';
+    return {
+      id: data.user.id,
+      email: data.user.email ?? null,
+      sessionId: (data.user as { session_id?: string }).session_id ?? null,
+      role,
+    };
+  } catch {
+    return null;
+  }
+}

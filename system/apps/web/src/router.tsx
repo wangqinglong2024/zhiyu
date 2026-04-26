@@ -18,8 +18,16 @@ import {
 import { AppLayout } from './components/layout/AppLayout.js';
 import { auth } from './lib/api.js';
 import { DiscoverPage } from './routes/discover.js';
+import { DiscoverArticlePage } from './routes/discover-article.js';
+import { MeNotesPage } from './pages/me/notes.js';
 import { PlayPage } from './routes/play.js';
+import { GamePlaygroundRoute } from './routes/play-game.js';
 import { LearnPage } from './routes/learn.js';
+import { LessonPage } from './routes/lesson.js';
+import { SrsPage } from './routes/srs.js';
+import { WordbookPage } from './pages/wordbook.js';
+import { MistakesPage } from './pages/mistakes.js';
+import { OnboardingHskPage } from './pages/onboarding-hsk.js';
 import { CoinPage } from './routes/coin.js';
 import { StyleGuidePage, DebugSupabasePage, DebugThrowPage } from './routes/dev.js';
 import { SignInPage, SignUpPage, ResetPasswordPage } from './pages/auth.js';
@@ -55,10 +63,54 @@ const playRoute = createRoute({
   component: PlayPage,
 });
 
+const playGameRoute = createRoute({
+  getParentRoute: () => appShellLayout,
+  path: '/play/$slug',
+  component: () => {
+    const { slug } = playGameRoute.useParams();
+    return <GamePlaygroundRoute params={{ slug }} />;
+  },
+});
+
 const learnRoute = createRoute({
   getParentRoute: () => appShellLayout,
   path: '/learn',
   component: LearnPage,
+});
+
+const lessonRoute = createRoute({
+  getParentRoute: () => appShellLayout,
+  path: '/lesson/$lessonId',
+  beforeLoad: requireAuth,
+  component: LessonPage,
+});
+
+const srsRoute = createRoute({
+  getParentRoute: () => appShellLayout,
+  path: '/srs',
+  beforeLoad: requireAuth,
+  component: SrsPage,
+});
+
+const wordbookRoute = createRoute({
+  getParentRoute: () => appShellLayout,
+  path: '/me/wordbook',
+  beforeLoad: requireAuth,
+  component: WordbookPage,
+});
+
+const mistakesRoute = createRoute({
+  getParentRoute: () => appShellLayout,
+  path: '/me/mistakes',
+  beforeLoad: requireAuth,
+  component: MistakesPage,
+});
+
+const onboardingHskRoute = createRoute({
+  getParentRoute: () => appShellLayout,
+  path: '/onboarding/hsk',
+  beforeLoad: requireAuth,
+  component: OnboardingHskPage,
 });
 
 const coinRoute = createRoute({
@@ -98,18 +150,33 @@ const meEditRoute = createRoute({ getParentRoute: () => appShellLayout, path: '/
 const meSettingsRoute = createRoute({ getParentRoute: () => appShellLayout, path: '/me/settings', beforeLoad: requireAuth, component: MeSettingsPage });
 const meSecurityRoute = createRoute({ getParentRoute: () => appShellLayout, path: '/me/security', beforeLoad: requireAuth, component: MeSecurityPage });
 const meDataRoute = createRoute({ getParentRoute: () => appShellLayout, path: '/me/data', beforeLoad: requireAuth, component: MeDataPage });
+const meNotesRoute = createRoute({ getParentRoute: () => appShellLayout, path: '/me/notes', beforeLoad: requireAuth, component: MeNotesPage });
+
+const discoverArticleRoute = createRoute({
+  getParentRoute: () => appShellLayout,
+  path: '/discover/$slug',
+  component: DiscoverArticlePage,
+});
 
 const routeTree = rootRoute.addChildren([
   appShellLayout.addChildren([
     indexRoute,
     playRoute,
+    playGameRoute,
     learnRoute,
+    lessonRoute,
+    srsRoute,
     coinRoute,
+    discoverArticleRoute,
     meOverviewRoute,
     meEditRoute,
     meSettingsRoute,
     meSecurityRoute,
     meDataRoute,
+    meNotesRoute,
+    wordbookRoute,
+    mistakesRoute,
+    onboardingHskRoute,
   ]),
   plainLayout.addChildren([
     signInRoute,

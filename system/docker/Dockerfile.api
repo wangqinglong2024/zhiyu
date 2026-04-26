@@ -8,6 +8,8 @@ COPY package.json pnpm-workspace.yaml pnpm-lock.yaml* .npmrc tsconfig.base.json 
 COPY packages/config/package.json packages/config/
 COPY packages/sdk/package.json packages/sdk/
 COPY packages/db/package.json packages/db/
+COPY packages/tokens/package.json packages/tokens/
+COPY packages/game/package.json packages/game/
 COPY packages/ui/package.json packages/ui/
 COPY packages/i18n/package.json packages/i18n/
 COPY apps/api/package.json apps/api/

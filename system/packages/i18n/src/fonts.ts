@@ -47,6 +47,15 @@ export const LOCALE_FONTS: Record<UiLocale, FontFaceSpec[]> = {
   id: [
     { family: 'Inter', weights: [400, 500, 700], url: '/fonts/inter/Inter-Variable.woff2' },
   ],
+  'zh-CN': [
+    { family: 'Inter', weights: [400, 500, 700], url: '/fonts/inter/Inter-Variable.woff2' },
+    {
+      family: 'Noto Sans SC',
+      weights: [400, 500, 700],
+      url: '/fonts/notosc/NotoSansSC-Regular.woff2',
+      unicodeRange: 'U+4E00-9FFF, U+3000-303F, U+FF00-FFEF',
+    },
+  ],
 };
 
 export const CONTENT_CJK_FONT: FontFaceSpec = {

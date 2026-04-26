@@ -6,9 +6,11 @@
   "main": "./src/index.ts",
   "scripts": {
     "typecheck": "tsc --noEmit",
-    "seed:all": "tsx scripts/seed.ts"
+    "seed:all": "tsx scripts/seed.ts",
+    "seed:discover": "tsx seed/discover-china/seed.ts"
   },
   "dependencies": {
+    "@zhiyu/config": "workspace:*",
     "drizzle-orm": "^0.30.10",
     "postgres": "^3.4.4"
   },

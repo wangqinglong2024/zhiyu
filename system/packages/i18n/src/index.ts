@@ -8,10 +8,10 @@
  * server contexts where react / i18next are not present.
  */
 
-export const UI_LOCALES = ['en', 'vi', 'th', 'id'] as const;
+export const UI_LOCALES = ['en', 'vi', 'th', 'id', 'zh-CN'] as const;
 export type UiLocale = (typeof UI_LOCALES)[number];
 
-export const CONTENT_LOCALES = [...UI_LOCALES, 'zh-CN'] as const;
+export const CONTENT_LOCALES = [...UI_LOCALES] as const;
 export type ContentLocale = (typeof CONTENT_LOCALES)[number];
 
 export const DEFAULT_LOCALE: UiLocale = 'en';
@@ -37,6 +37,7 @@ export const LOCALE_TO_HTML_LANG: Record<UiLocale, string> = {
   vi: 'vi',
   th: 'th',
   id: 'id',
+  'zh-CN': 'zh-CN',
 };
 
 export const LOCALE_TO_DIR: Record<UiLocale, 'ltr' | 'rtl'> = {
@@ -44,6 +45,7 @@ export const LOCALE_TO_DIR: Record<UiLocale, 'ltr' | 'rtl'> = {
   vi: 'ltr',
   th: 'ltr',
   id: 'ltr',
+  'zh-CN': 'ltr',
 };
 
 export const LOCALE_LABEL: Record<UiLocale, string> = {
@@ -51,13 +53,15 @@ export const LOCALE_LABEL: Record<UiLocale, string> = {
   vi: 'Tiếng Việt',
   th: 'ไทย',
   id: 'Bahasa Indonesia',
+  'zh-CN': '简体中文',
 };
 
-export const LOCALE_DEFAULT_CURRENCY: Record<UiLocale, 'USD' | 'VND' | 'THB' | 'IDR'> = {
+export const LOCALE_DEFAULT_CURRENCY: Record<UiLocale, 'USD' | 'VND' | 'THB' | 'IDR' | 'CNY'> = {
   en: 'USD',
   vi: 'VND',
   th: 'THB',
   id: 'IDR',
+  'zh-CN': 'CNY',
 };
 
 export function isUiLocale(value: unknown): value is UiLocale {

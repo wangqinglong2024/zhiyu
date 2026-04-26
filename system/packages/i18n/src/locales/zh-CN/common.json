@@ -1,0 +1,110 @@
+{
+  "brand": {
+    "name": "知语",
+    "tagline": "用玻璃质感重塑中文学习。"
+  },
+  "nav": {
+    "home": "首页",
+    "discover": "发现",
+    "courses": "学习",
+    "games": "玩乐",
+    "novels": "阅读",
+    "profile": "我的",
+    "signin": "登录",
+    "signup": "注册",
+    "signout": "退出",
+    "styleguide": "样式指南",
+    "language": "语言",
+    "coin": "金币",
+    "search": "搜索",
+    "notifications": "通知"
+  },
+  "shell": {
+    "new_version": "新版本已就绪",
+    "reload": "刷新",
+    "offline_title": "你已离线",
+    "offline_desc": "网络恢复后我们会自动重连。",
+    "install_hint": "把知语添加到主屏幕，体验沉浸式应用。"
+  },
+  "search": {
+    "placeholder": "搜索课程、汉字、小说……",
+    "recent": "最近搜索",
+    "empty_title": "暂无匹配",
+    "empty_desc": "换个关键词试试，或浏览推荐。",
+    "hint": "⌘K",
+    "section": {
+      "course": "课程",
+      "lesson": "课时",
+      "article": "文章",
+      "novel": "小说",
+      "word": "生词",
+      "setting": "设置"
+    }
+  },
+  "notifications": {
+    "title": "通知",
+    "empty": "暂无通知",
+    "mark_all_read": "全部标为已读",
+    "filter_all": "全部",
+    "filter_system": "系统",
+    "filter_learning": "学习",
+    "filter_order": "订单",
+    "filter_cs": "客服",
+    "unread": "{count, plural, =0 {无未读} other {# 条未读}}"
+  },
+  "actions": {
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "back": "返回",
+    "next": "下一步",
+    "submit": "提交",
+    "retry": "重试",
+    "close": "关闭",
+    "edit": "编辑",
+    "delete": "删除",
+    "more": "更多"
+  },
+  "states": {
+    "loading": "加载中…",
+    "saving": "保存中…",
+    "empty": "这里什么都没有",
+    "coming_soon": "敬请期待",
+    "offline": "离线",
+    "online": "在线",
+    "error_generic": "出错了，请稍后再试。"
+  },
+  "errors": {
+    "unauthorized": "请先登录。",
+    "forbidden": "你没有相应权限。",
+    "not_found": "找不到内容。",
+    "validation": "请检查标红字段。",
+    "network": "网络不可达，请检查连接。",
+    "rate_limited": "请求过于频繁，请稍后再试。"
+  },
+  "home": {
+    "badge": "宇宙折射 · 玻璃 UI",
+    "headline": "用玻璃质感重塑中文学习。",
+    "lead": "知语让来自 50+ 母语的学习者在沉浸式界面中练习汉字、拼音与声调。每一次轻触都是光的回响。",
+    "cta_start": "立即开始",
+    "cta_explore": "浏览组件",
+    "card1_title": "沉浸场景",
+    "card1_desc": "故事化 HSK 1-9 课程",
+    "card2_title": "双语阅读器",
+    "card2_desc": "EN/TH/AR/VI/ID 双栏对照、悬停发音",
+    "card3_title": "SRS 复习",
+    "card3_desc": "遗忘曲线卡片队列",
+    "today_count": "{count, plural, =0 {今日无卡片} other {今日 # 张卡}}",
+    "system_check_title": "系统自检",
+    "system_check_body": "API 基址 {api}，Supabase {supabase}",
+    "system_check_unset": "（未设置）"
+  },
+  "language_picker": {
+    "label": "语言",
+    "current": "当前语言：{label}",
+    "switched": "已切换到 {label}"
+  },
+  "footer": {
+    "copyright": "© {year} 知语。保留所有权利。"
+  }
+}

@@ -15,7 +15,12 @@ import { registerSessionRoutes, registerGdprRoutes } from './routes/me-sessions.
 import { registerTranslationRoutes } from './routes/translations.js';
 import { registerNotificationRoutes } from './routes/notifications.js';
 import { registerSearchRoutes } from './routes/search.js';
+import { registerDiscoverRoutes } from './routes/discover.js';
 import { registerI18n } from './i18n-mw.js';
+import { registerLearningRoutes } from './routes/learning/index.js';
+import { registerTelemetryEventRoutes } from './routes/telemetry-events.js';
+import { registerWordpackRoutes } from './routes/wordpacks.js';
+import { registerGameRoutes } from './routes/games.js';
 
 const env = loadEnv();
 const startedAt = Date.now();
@@ -152,4 +157,15 @@ export async function registerRoutes(app: FastifyInstance): Promise<void> {
   // E05 app shell — search + notifications
   await registerSearchRoutes(app);
   await registerNotificationRoutes(app);
+
+  // E06 discover China — categories / articles / sentences / interactions / FTS
+  await registerDiscoverRoutes(app);
+
+  // E07 learning engine
+  await registerLearningRoutes(app);
+
+  // E09 game engine — telemetry events, wordpacks, runs + leaderboards
+  await registerTelemetryEventRoutes(app);
+  await registerWordpackRoutes(app);
+  await registerGameRoutes(app);
 }

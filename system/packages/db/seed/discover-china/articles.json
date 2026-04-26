@@ -1,0 +1,2414 @@
+[
+  {
+    "slug": "great-wall-origins",
+    "category": "history",
+    "hsk_level": 2,
+    "estimated_minutes": 4,
+    "i18n_title": {
+      "zh-CN": "长城的起源",
+      "en": "Origins of the Great Wall",
+      "vi": "Nguồn gốc Vạn Lý Trường Thành",
+      "th": "ต้นกำเนิดกำแพงเมืองจีน",
+      "id": "Asal-usul Tembok Besar"
+    },
+    "i18n_summary": {
+      "zh-CN": "从战国土墙到明代砖石长城。",
+      "en": "From Warring States ramparts to Ming brickwork.",
+      "vi": "Từ tường đất Chiến Quốc đến gạch đá nhà Minh.",
+      "th": "จากกำแพงดินยุคจ้านกั๋วสู่อิฐหินยุคหมิง",
+      "id": "Dari tembok tanah Negara Berperang ke batu Ming."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "长城始建于春秋时期。",
+        "pinyin": "Chángchéng shǐ jiàn yú Chūnqiū shíqī.",
+        "i18n": {
+          "en": "The Great Wall was first built in the Spring and Autumn period.",
+          "vi": "Vạn Lý Trường Thành bắt đầu xây từ thời Xuân Thu.",
+          "th": "กำแพงเมืองจีนเริ่มสร้างในยุคชุนชิว",
+          "id": "Tembok Besar mulai dibangun pada periode Musim Semi & Musim Gugur.",
+          "zh-CN": "长城始建于春秋时期。"
+        }
+      },
+      {
+        "zh": "秦始皇连接了各国旧墙。",
+        "pinyin": "Qín Shǐhuáng liánjiē le gèguó jiù qiáng.",
+        "i18n": {
+          "en": "Qin Shi Huang linked the older walls of various states.",
+          "vi": "Tần Thủy Hoàng nối liền các bức tường cũ của các nước.",
+          "th": "จิ๋นซีฮ่องเต้เชื่อมกำแพงเก่าของแคว้นต่างๆ",
+          "id": "Qin Shi Huang menyambung tembok-tembok lama berbagai negara.",
+          "zh-CN": "秦始皇连接了各国旧墙。"
+        }
+      },
+      {
+        "zh": "明朝用砖石加固了长城。",
+        "pinyin": "Míng cháo yòng zhuān shí jiāgù le Chángchéng.",
+        "i18n": {
+          "en": "The Ming dynasty reinforced the wall with brick and stone.",
+          "vi": "Triều Minh gia cố tường bằng gạch và đá.",
+          "th": "ราชวงศ์หมิงเสริมกำแพงด้วยอิฐและหิน",
+          "id": "Dinasti Ming memperkuat tembok dengan bata dan batu.",
+          "zh-CN": "明朝用砖石加固了长城。"
+        }
+      },
+      {
+        "zh": "今天它已成为世界文化遗产。",
+        "pinyin": "Jīntiān tā yǐ chéngwéi shìjiè wénhuà yíchǎn.",
+        "i18n": {
+          "en": "Today it is a UNESCO World Heritage site.",
+          "vi": "Ngày nay nó là di sản văn hóa thế giới.",
+          "th": "วันนี้กลายเป็นมรดกโลกทางวัฒนธรรม",
+          "id": "Kini ia menjadi Situs Warisan Dunia.",
+          "zh-CN": "今天它已成为世界文化遗产。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "silk-road-glance",
+    "category": "history",
+    "hsk_level": 3,
+    "estimated_minutes": 4,
+    "i18n_title": {
+      "zh-CN": "丝绸之路一瞥",
+      "en": "A Glance at the Silk Road",
+      "vi": "Thoáng nhìn Con đường Tơ lụa",
+      "th": "มองเส้นทางสายไหม",
+      "id": "Sekilas Jalur Sutra"
+    },
+    "i18n_summary": {
+      "zh-CN": "商队、骆驼与跨越大陆的故事。",
+      "en": "Caravans, camels, and a story across continents.",
+      "vi": "Đoàn thương buôn, lạc đà và câu chuyện xuyên lục địa.",
+      "th": "กองคาราวาน อูฐ และเรื่องราวข้ามทวีป",
+      "id": "Kafilah, unta, dan kisah lintas benua."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "丝绸之路连接了东西方。",
+        "pinyin": "Sīchóu zhī lù liánjiē le dōngxī fāng.",
+        "i18n": {
+          "en": "The Silk Road linked the East and the West.",
+          "vi": "Con đường Tơ lụa nối Đông và Tây.",
+          "th": "เส้นทางสายไหมเชื่อมโลกตะวันออกกับตะวันตก",
+          "id": "Jalur Sutra menghubungkan Timur dan Barat.",
+          "zh-CN": "丝绸之路连接了东西方。"
+        }
+      },
+      {
+        "zh": "骆驼商队带去了丝绸和茶叶。",
+        "pinyin": "Luòtuo shāngduì dàiqù le sīchóu hé cháyè.",
+        "i18n": {
+          "en": "Camel caravans carried silk and tea.",
+          "vi": "Đoàn lạc đà mang theo lụa và trà.",
+          "th": "กองคาราวานอูฐนำผ้าไหมและใบชาไปด้วย",
+          "id": "Kafilah unta membawa sutra dan teh.",
+          "zh-CN": "骆驼商队带去了丝绸和茶叶。"
+        }
+      },
+      {
+        "zh": "佛教也沿着这条路传入中国。",
+        "pinyin": "Fójiào yě yánzhe zhè tiáo lù chuánrù Zhōngguó.",
+        "i18n": {
+          "en": "Buddhism also reached China via this route.",
+          "vi": "Phật giáo cũng theo con đường này vào Trung Quốc.",
+          "th": "พุทธศาสนาก็เข้าสู่จีนตามเส้นทางนี้",
+          "id": "Buddhisme juga masuk ke Tiongkok melalui jalur ini.",
+          "zh-CN": "佛教也沿着这条路传入中国。"
+        }
+      },
+      {
+        "zh": "今天丝绸之路成为文化记忆。",
+        "pinyin": "Jīntiān Sīchóu zhī lù chéngwéi wénhuà jìyì.",
+        "i18n": {
+          "en": "Today the Silk Road remains a cultural memory.",
+          "vi": "Hôm nay Con đường Tơ lụa vẫn là ký ức văn hóa.",
+          "th": "ทุกวันนี้เส้นทางสายไหมเป็นความทรงจำทางวัฒนธรรม",
+          "id": "Kini Jalur Sutra menjadi memori budaya.",
+          "zh-CN": "今天丝绸之路成为文化记忆。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tang-prosperity",
+    "category": "history",
+    "hsk_level": 3,
+    "estimated_minutes": 4,
+    "i18n_title": {
+      "zh-CN": "盛唐气象",
+      "en": "The Splendor of Tang",
+      "vi": "Khí phách Đại Đường",
+      "th": "ความรุ่งโรจน์แห่งถัง",
+      "id": "Kemegahan Dinasti Tang"
+    },
+    "i18n_summary": {
+      "zh-CN": "诗歌、丝绸与开放的长安城。",
+      "en": "Poetry, silk, and the open city of Chang’an.",
+      "vi": "Thơ ca, lụa, và Trường An rộng mở.",
+      "th": "กวีนิพนธ์ ผ้าไหม และนครฉางอันที่เปิดกว้าง",
+      "id": "Puisi, sutra, dan kota Chang’an yang terbuka."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "唐朝是中国最开放的时代之一。",
+        "pinyin": "Táng cháo shì Zhōngguó zuì kāifàng de shídài zhī yī.",
+        "i18n": {
+          "en": "The Tang was one of China’s most open eras.",
+          "vi": "Đường là một trong những thời kỳ cởi mở nhất.",
+          "th": "ยุคถังเป็นหนึ่งในยุคที่เปิดกว้างที่สุดของจีน",
+          "id": "Tang adalah salah satu era paling terbuka di Tiongkok.",
+          "zh-CN": "唐朝是中国最开放的时代之一。"
+        }
+      },
+      {
+        "zh": "长安成为国际化的大都市。",
+        "pinyin": "Cháng’ān chéngwéi guójì huà de dà dūshì.",
+        "i18n": {
+          "en": "Chang’an became a cosmopolitan capital.",
+          "vi": "Trường An trở thành đô thị quốc tế.",
+          "th": "ฉางอันกลายเป็นนครนานาชาติ",
+          "id": "Chang’an menjadi metropolis internasional.",
+          "zh-CN": "长安成为国际化的大都市。"
+        }
+      },
+      {
+        "zh": "诗人李白和杜甫名扬天下。",
+        "pinyin": "Shīrén Lǐ Bái hé Dù Fǔ míng yáng tiānxià.",
+        "i18n": {
+          "en": "Poets Li Bai and Du Fu were known across the realm.",
+          "vi": "Nhà thơ Lý Bạch và Đỗ Phủ vang danh thiên hạ.",
+          "th": "กวีหลี่ไป๋และตู้ฝู่ลือชาทั่วแผ่นดิน",
+          "id": "Penyair Li Bai dan Du Fu termasyhur di mana-mana.",
+          "zh-CN": "诗人李白和杜甫名扬天下。"
+        }
+      },
+      {
+        "zh": "盛唐气象至今令人神往。",
+        "pinyin": "Shèng Táng qìxiàng zhì jīn lìng rén shén wǎng.",
+        "i18n": {
+          "en": "Tang grandeur still captivates today.",
+          "vi": "Khí phách Đường nay vẫn cuốn hút.",
+          "th": "ความรุ่งโรจน์แห่งถังยังตรึงใจมาจนถึงทุกวันนี้",
+          "id": "Keagungan Tang masih memikat hingga kini.",
+          "zh-CN": "盛唐气象至今令人神往。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "eight-cuisines",
+    "category": "cuisine",
+    "hsk_level": 2,
+    "estimated_minutes": 4,
+    "i18n_title": {
+      "zh-CN": "中华八大菜系",
+      "en": "The Eight Great Cuisines",
+      "vi": "Bát đại trường phái ẩm thực",
+      "th": "แปดสำรับใหญ่ของจีน",
+      "id": "Delapan Masakan Besar"
+    },
+    "i18n_summary": {
+      "zh-CN": "川、鲁、粤、苏、闽、浙、湘、徽。",
+      "en": "Sichuan, Shandong, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, Anhui.",
+      "vi": "Tứ Xuyên, Sơn Đông, Quảng Đông, Giang Tô, Phúc Kiến, Triết Giang, Hồ Nam, An Huy.",
+      "th": "เสฉวน ซานตง กวางตุ้ง เจียงซู ฝูเจี้ยน เจ้อเจียง หูหนาน อันฮุย",
+      "id": "Sichuan, Shandong, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, Anhui."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "中国有八大菜系。",
+        "pinyin": "Zhōngguó yǒu bā dà càixì.",
+        "i18n": {
+          "en": "China has eight major cuisines.",
+          "vi": "Trung Quốc có tám trường phái ẩm thực.",
+          "th": "จีนมีแปดสำรับใหญ่",
+          "id": "Tiongkok punya delapan masakan besar.",
+          "zh-CN": "中国有八大菜系。"
+        }
+      },
+      {
+        "zh": "川菜以麻辣闻名。",
+        "pinyin": "Chuāncài yǐ málà wénmíng.",
+        "i18n": {
+          "en": "Sichuan cuisine is famed for its numbing spice.",
+          "vi": "Tứ Xuyên nổi tiếng cay tê.",
+          "th": "อาหารเสฉวนขึ้นชื่อเรื่องเผ็ดชา",
+          "id": "Masakan Sichuan terkenal pedas mati rasa.",
+          "zh-CN": "川菜以麻辣闻名。"
+        }
+      },
+      {
+        "zh": "粤菜讲究原汁原味。",
+        "pinyin": "Yuècài jiǎngjiu yuánzhī yuánwèi.",
+        "i18n": {
+          "en": "Cantonese cuisine values original flavours.",
+          "vi": "Quảng Đông coi trọng vị nguyên bản.",
+          "th": "อาหารกวางตุ้งเน้นรสดั้งเดิม",
+          "id": "Masakan Kanton mengutamakan rasa asli.",
+          "zh-CN": "粤菜讲究原汁原味。"
+        }
+      },
+      {
+        "zh": "每个菜系都讲述地方故事。",
+        "pinyin": "Měi gè càixì dōu jiǎngshù dìfāng gùshi.",
+        "i18n": {
+          "en": "Each cuisine tells a regional story.",
+          "vi": "Mỗi trường phái kể câu chuyện địa phương.",
+          "th": "แต่ละสำรับเล่าเรื่องท้องถิ่น",
+          "id": "Setiap masakan menuturkan kisah lokal.",
+          "zh-CN": "每个菜系都讲述地方故事。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "hot-pot-night",
+    "category": "cuisine",
+    "hsk_level": 1,
+    "estimated_minutes": 4,
+    "i18n_title": {
+      "zh-CN": "火锅之夜",
+      "en": "A Hot Pot Night",
+      "vi": "Đêm lẩu",
+      "th": "ค่ำคืนหม้อไฟ",
+      "id": "Malam Hot Pot"
+    },
+    "i18n_summary": {
+      "zh-CN": "一锅汤，朋友围坐，热气腾腾。",
+      "en": "One pot of broth, friends around, steam rising.",
+      "vi": "Một nồi nước dùng, bạn bè quây quần, hơi nóng bốc lên.",
+      "th": "หม้อน้ำซุปหนึ่งใบ เพื่อนล้อมวง ควันลอย",
+      "id": "Sepanci kuah, teman mengelilingi, uap mengepul."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "我们一起吃火锅。",
+        "pinyin": "Wǒmen yìqǐ chī huǒguō.",
+        "i18n": {
+          "en": "We eat hot pot together.",
+          "vi": "Chúng tôi cùng ăn lẩu.",
+          "th": "พวกเรากินหม้อไฟด้วยกัน",
+          "id": "Kami makan hot pot bersama.",
+          "zh-CN": "我们一起吃火锅。"
+        }
+      },
+      {
+        "zh": "锅里有牛肉和蔬菜。",
+        "pinyin": "Guō lǐ yǒu niúròu hé shūcài.",
+        "i18n": {
+          "en": "There is beef and vegetables in the pot.",
+          "vi": "Trong nồi có bò và rau.",
+          "th": "ในหม้อมีเนื้อวัวและผัก",
+          "id": "Di panci ada daging sapi dan sayur.",
+          "zh-CN": "锅里有牛肉和蔬菜。"
+        }
+      },
+      {
+        "zh": "蘸料是麻酱加葱花。",
+        "pinyin": "Zhànliào shì májiàng jiā cōnghuā.",
+        "i18n": {
+          "en": "The dip is sesame paste with chopped scallion.",
+          "vi": "Nước chấm là tương vừng và hành lá.",
+          "th": "น้ำจิ้มทำจากซอสงาและต้นหอม",
+          "id": "Cocolannya pasta wijen dengan daun bawang.",
+          "zh-CN": "蘸料是麻酱加葱花。"
+        }
+      },
+      {
+        "zh": "冬天吃火锅最暖心。",
+        "pinyin": "Dōngtiān chī huǒguō zuì nuǎn xīn.",
+        "i18n": {
+          "en": "Hot pot in winter is the warmest comfort.",
+          "vi": "Mùa đông ăn lẩu ấm lòng nhất.",
+          "th": "หม้อไฟในฤดูหนาวอุ่นใจที่สุด",
+          "id": "Hot pot di musim dingin paling menghangatkan.",
+          "zh-CN": "冬天吃火锅最暖心。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tea-ceremony-basics",
+    "category": "cuisine",
+    "hsk_level": 2,
+    "estimated_minutes": 4,
+    "i18n_title": {
+      "zh-CN": "茶道入门",
+      "en": "Basics of Tea Ceremony",
+      "vi": "Nhập môn trà đạo",
+      "th": "พื้นฐานพิธีชา",
+      "id": "Dasar Upacara Teh"
+    },
+    "i18n_summary": {
+      "zh-CN": "六大茶类与一壶清香。",
+      "en": "Six tea families and one fragrant pot.",
+      "vi": "Sáu họ trà và một ấm thơm.",
+      "th": "หกตระกูลชาในหม้อหอมหนึ่งใบ",
+      "id": "Enam keluarga teh dalam satu poci harum."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "中国有六大茶类。",
+        "pinyin": "Zhōngguó yǒu liù dà chá lèi.",
+        "i18n": {
+          "en": "China has six major tea categories.",
+          "vi": "Trung Quốc có sáu họ trà chính.",
+          "th": "จีนมีชาหลักหกตระกูล",
+          "id": "Tiongkok memiliki enam jenis teh utama.",
+          "zh-CN": "中国有六大茶类。"
+        }
+      },
+      {
+        "zh": "绿茶清新，乌龙茶香醇。",
+        "pinyin": "Lǜchá qīngxīn, wūlóngchá xiāngchún.",
+        "i18n": {
+          "en": "Green tea is fresh; oolong is mellow.",
+          "vi": "Trà xanh tươi mát, ô long đậm thơm.",
+          "th": "ชาเขียวสดชื่น อูหลงหอมนวล",
+          "id": "Teh hijau segar; oolong harum lembut.",
+          "zh-CN": "绿茶清新，乌龙茶香醇。"
+        }
+      },
+      {
+        "zh": "泡茶需要适合的水温。",
+        "pinyin": "Pào chá xūyào shìhé de shuǐwēn.",
+        "i18n": {
+          "en": "Brewing tea needs the right water temperature.",
+          "vi": "Pha trà cần nhiệt độ nước phù hợp.",
+          "th": "การชงชาต้องใช้อุณหภูมิน้ำที่เหมาะสม",
+          "id": "Menyeduh teh perlu suhu air yang tepat.",
+          "zh-CN": "泡茶需要适合的水温。"
+        }
+      },
+      {
+        "zh": "一杯好茶让人心静。",
+        "pinyin": "Yī bēi hǎo chá ràng rén xīn jìng.",
+        "i18n": {
+          "en": "A good cup of tea brings a quiet mind.",
+          "vi": "Một tách trà ngon làm dịu lòng.",
+          "th": "ชาดีๆ หนึ่งถ้วยทำให้จิตใจสงบ",
+          "id": "Secangkir teh bagus menenangkan hati.",
+          "zh-CN": "一杯好茶让人心静。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "guilin-river",
+    "category": "scenic",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "桂林山水",
+      "en": "Guilin Landscape",
+      "vi": "Phong cảnh Quế Lâm",
+      "th": "ทิวทัศน์กุ้ยหลิน",
+      "id": "Pemandangan Guilin"
+    },
+    "i18n_summary": {
+      "zh-CN": "桂林山水的小故事。",
+      "en": "A short tale of Guilin Landscape.",
+      "vi": "Câu chuyện ngắn về Phong cảnh Quế Lâm.",
+      "th": "เรื่องสั้นของทิวทัศน์กุ้ยหลิน",
+      "id": "Kisah singkat Pemandangan Guilin."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "桂林山水是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "桂林山水 is part of Chinese culture.",
+          "vi": "桂林山水 là một phần văn hóa Trung Hoa.",
+          "th": "桂林山水 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "桂林山水 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "桂林山水是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "huangshan-clouds",
+    "category": "scenic",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "黄山云海",
+      "en": "Huangshan Sea of Clouds",
+      "vi": "Biển mây Hoàng Sơn",
+      "th": "ทะเลเมฆหวงซาน",
+      "id": "Lautan Awan Huangshan"
+    },
+    "i18n_summary": {
+      "zh-CN": "黄山云海的小故事。",
+      "en": "A short tale of Huangshan Sea of Clouds.",
+      "vi": "Câu chuyện ngắn về Biển mây Hoàng Sơn.",
+      "th": "เรื่องสั้นของทะเลเมฆหวงซาน",
+      "id": "Kisah singkat Lautan Awan Huangshan."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "黄山云海是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "黄山云海 is part of Chinese culture.",
+          "vi": "黄山云海 là một phần văn hóa Trung Hoa.",
+          "th": "黄山云海 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "黄山云海 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "黄山云海是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "xihu-spring",
+    "category": "scenic",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "西湖春色",
+      "en": "Spring at West Lake",
+      "vi": "Mùa xuân Tây Hồ",
+      "th": "ฤดูใบไม้ผลิ ณ ทะเลสาบซีหู",
+      "id": "Musim Semi di Danau Barat"
+    },
+    "i18n_summary": {
+      "zh-CN": "西湖春色的小故事。",
+      "en": "A short tale of Spring at West Lake.",
+      "vi": "Câu chuyện ngắn về Mùa xuân Tây Hồ.",
+      "th": "เรื่องสั้นของฤดูใบไม้ผลิ ณ ทะเลสาบซีหู",
+      "id": "Kisah singkat Musim Semi di Danau Barat."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "西湖春色是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "西湖春色 is part of Chinese culture.",
+          "vi": "西湖春色 là một phần văn hóa Trung Hoa.",
+          "th": "西湖春色 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "西湖春色 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "西湖春色是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "spring-festival",
+    "category": "festivals",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "春节团圆",
+      "en": "Spring Festival Reunion",
+      "vi": "Đoàn viên Tết Nguyên Đán",
+      "th": "รวมญาติตรุษจีน",
+      "id": "Reuni Tahun Baru Imlek"
+    },
+    "i18n_summary": {
+      "zh-CN": "春节团圆的小故事。",
+      "en": "A short tale of Spring Festival Reunion.",
+      "vi": "Câu chuyện ngắn về Đoàn viên Tết Nguyên Đán.",
+      "th": "เรื่องสั้นของรวมญาติตรุษจีน",
+      "id": "Kisah singkat Reuni Tahun Baru Imlek."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "春节团圆是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "春节团圆 is part of Chinese culture.",
+          "vi": "春节团圆 là một phần văn hóa Trung Hoa.",
+          "th": "春节团圆 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "春节团圆 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "春节团圆是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mid-autumn",
+    "category": "festivals",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "中秋月圆",
+      "en": "Mid-Autumn Moon",
+      "vi": "Trăng Trung Thu",
+      "th": "พระจันทร์ไหว้พระจันทร์",
+      "id": "Bulan Pertengahan Musim Gugur"
+    },
+    "i18n_summary": {
+      "zh-CN": "中秋月圆的小故事。",
+      "en": "A short tale of Mid-Autumn Moon.",
+      "vi": "Câu chuyện ngắn về Trăng Trung Thu.",
+      "th": "เรื่องสั้นของพระจันทร์ไหว้พระจันทร์",
+      "id": "Kisah singkat Bulan Pertengahan Musim Gugur."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "中秋月圆是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "中秋月圆 is part of Chinese culture.",
+          "vi": "中秋月圆 là một phần văn hóa Trung Hoa.",
+          "th": "中秋月圆 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "中秋月圆 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "中秋月圆是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "dragon-boat",
+    "category": "festivals",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "端午龙舟",
+      "en": "Dragon Boat Race",
+      "vi": "Đua thuyền Đoan Ngọ",
+      "th": "แข่งเรือมังกร",
+      "id": "Lomba Perahu Naga"
+    },
+    "i18n_summary": {
+      "zh-CN": "端午龙舟的小故事。",
+      "en": "A short tale of Dragon Boat Race.",
+      "vi": "Câu chuyện ngắn về Đua thuyền Đoan Ngọ.",
+      "th": "เรื่องสั้นของแข่งเรือมังกร",
+      "id": "Kisah singkat Lomba Perahu Naga."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "端午龙舟是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "端午龙舟 is part of Chinese culture.",
+          "vi": "端午龙舟 là một phần văn hóa Trung Hoa.",
+          "th": "端午龙舟 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "端午龙舟 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "端午龙舟是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "calligraphy-stroke",
+    "category": "arts",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "一笔之间",
+      "en": "Within a Stroke",
+      "vi": "Trong một nét bút",
+      "th": "ในขีดเดียว",
+      "id": "Dalam Satu Goresan"
+    },
+    "i18n_summary": {
+      "zh-CN": "一笔之间的小故事。",
+      "en": "A short tale of Within a Stroke.",
+      "vi": "Câu chuyện ngắn về Trong một nét bút.",
+      "th": "เรื่องสั้นของในขีดเดียว",
+      "id": "Kisah singkat Dalam Satu Goresan."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "一笔之间是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "一笔之间 is part of Chinese culture.",
+          "vi": "一笔之间 là một phần văn hóa Trung Hoa.",
+          "th": "一笔之间 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "一笔之间 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "一笔之间是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "porcelain-blue-white",
+    "category": "arts",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "青花瓷韵",
+      "en": "Blue and White Porcelain",
+      "vi": "Sứ xanh trắng",
+      "th": "เครื่องเคลือบขาวน้ำเงิน",
+      "id": "Porselen Biru Putih"
+    },
+    "i18n_summary": {
+      "zh-CN": "青花瓷韵的小故事。",
+      "en": "A short tale of Blue and White Porcelain.",
+      "vi": "Câu chuyện ngắn về Sứ xanh trắng.",
+      "th": "เรื่องสั้นของเครื่องเคลือบขาวน้ำเงิน",
+      "id": "Kisah singkat Porselen Biru Putih."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "青花瓷韵是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "青花瓷韵 is part of Chinese culture.",
+          "vi": "青花瓷韵 là một phần văn hóa Trung Hoa.",
+          "th": "青花瓷韵 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "青花瓷韵 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "青花瓷韵是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "silk-thread",
+    "category": "arts",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "丝线之美",
+      "en": "Beauty of Silk Thread",
+      "vi": "Vẻ đẹp sợi tơ",
+      "th": "ความงามของเส้นไหม",
+      "id": "Keindahan Benang Sutra"
+    },
+    "i18n_summary": {
+      "zh-CN": "丝线之美的小故事。",
+      "en": "A short tale of Beauty of Silk Thread.",
+      "vi": "Câu chuyện ngắn về Vẻ đẹp sợi tơ.",
+      "th": "เรื่องสั้นของความงามของเส้นไหม",
+      "id": "Kisah singkat Keindahan Benang Sutra."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "丝线之美是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "丝线之美 is part of Chinese culture.",
+          "vi": "丝线之美 là một phần văn hóa Trung Hoa.",
+          "th": "丝线之美 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "丝线之美 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "丝线之美是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "erhu-night",
+    "category": "music",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "月下二胡",
+      "en": "Erhu Under the Moon",
+      "vi": "Nhị hồ dưới trăng",
+      "th": "เอ้อหูใต้แสงจันทร์",
+      "id": "Erhu di Bawah Bulan"
+    },
+    "i18n_summary": {
+      "zh-CN": "月下二胡的小故事。",
+      "en": "A short tale of Erhu Under the Moon.",
+      "vi": "Câu chuyện ngắn về Nhị hồ dưới trăng.",
+      "th": "เรื่องสั้นของเอ้อหูใต้แสงจันทร์",
+      "id": "Kisah singkat Erhu di Bawah Bulan."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "月下二胡是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "月下二胡 is part of Chinese culture.",
+          "vi": "月下二胡 là một phần văn hóa Trung Hoa.",
+          "th": "月下二胡 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "月下二胡 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "月下二胡是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "peking-opera-faces",
+    "category": "music",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "京剧脸谱",
+      "en": "Faces of Peking Opera",
+      "vi": "Mặt nạ Kinh kịch",
+      "th": "หน้ากากงิ้วปักกิ่ง",
+      "id": "Topeng Opera Beijing"
+    },
+    "i18n_summary": {
+      "zh-CN": "京剧脸谱的小故事。",
+      "en": "A short tale of Faces of Peking Opera.",
+      "vi": "Câu chuyện ngắn về Mặt nạ Kinh kịch.",
+      "th": "เรื่องสั้นของหน้ากากงิ้วปักกิ่ง",
+      "id": "Kisah singkat Topeng Opera Beijing."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "京剧脸谱是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "京剧脸谱 is part of Chinese culture.",
+          "vi": "京剧脸谱 là một phần văn hóa Trung Hoa.",
+          "th": "京剧脸谱 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "京剧脸谱 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "京剧脸谱是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "guzheng-river",
+    "category": "music",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "古筝流水",
+      "en": "Guzheng like Flowing Water",
+      "vi": "Đàn tranh tựa dòng nước",
+      "th": "กู่เจิงดั่งสายน้ำ",
+      "id": "Guzheng Bagai Air Mengalir"
+    },
+    "i18n_summary": {
+      "zh-CN": "古筝流水的小故事。",
+      "en": "A short tale of Guzheng like Flowing Water.",
+      "vi": "Câu chuyện ngắn về Đàn tranh tựa dòng nước.",
+      "th": "เรื่องสั้นของกู่เจิงดั่งสายน้ำ",
+      "id": "Kisah singkat Guzheng Bagai Air Mengalir."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "古筝流水是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "古筝流水 is part of Chinese culture.",
+          "vi": "古筝流水 là một phần văn hóa Trung Hoa.",
+          "th": "古筝流水 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "古筝流水 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "古筝流水是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "journey-west",
+    "category": "literature",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "西游故事",
+      "en": "Tales from Journey to the West",
+      "vi": "Câu chuyện Tây Du",
+      "th": "เรื่องเล่าไซอิ๋ว",
+      "id": "Kisah Perjalanan ke Barat"
+    },
+    "i18n_summary": {
+      "zh-CN": "西游故事的小故事。",
+      "en": "A short tale of Tales from Journey to the West.",
+      "vi": "Câu chuyện ngắn về Câu chuyện Tây Du.",
+      "th": "เรื่องสั้นของเรื่องเล่าไซอิ๋ว",
+      "id": "Kisah singkat Kisah Perjalanan ke Barat."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "西游故事是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "西游故事 is part of Chinese culture.",
+          "vi": "西游故事 là một phần văn hóa Trung Hoa.",
+          "th": "西游故事 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "西游故事 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "西游故事是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "dream-red-mansions",
+    "category": "literature",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "红楼一梦",
+      "en": "A Dream of Red Mansions",
+      "vi": "Một giấc Hồng Lâu",
+      "th": "ความฝันในหอแดง",
+      "id": "Mimpi Loteng Merah"
+    },
+    "i18n_summary": {
+      "zh-CN": "红楼一梦的小故事。",
+      "en": "A short tale of A Dream of Red Mansions.",
+      "vi": "Câu chuyện ngắn về Một giấc Hồng Lâu.",
+      "th": "เรื่องสั้นของความฝันในหอแดง",
+      "id": "Kisah singkat Mimpi Loteng Merah."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "红楼一梦是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "红楼一梦 is part of Chinese culture.",
+          "vi": "红楼一梦 là một phần văn hóa Trung Hoa.",
+          "th": "红楼一梦 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "红楼一梦 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "红楼一梦是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "three-kingdoms",
+    "category": "literature",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "三国风云",
+      "en": "Winds of Three Kingdoms",
+      "vi": "Gió mây Tam Quốc",
+      "th": "ลมแห่งสามก๊ก",
+      "id": "Angin Tiga Kerajaan"
+    },
+    "i18n_summary": {
+      "zh-CN": "三国风云的小故事。",
+      "en": "A short tale of Winds of Three Kingdoms.",
+      "vi": "Câu chuyện ngắn về Gió mây Tam Quốc.",
+      "th": "เรื่องสั้นของลมแห่งสามก๊ก",
+      "id": "Kisah singkat Angin Tiga Kerajaan."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "三国风云是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "三国风云 is part of Chinese culture.",
+          "vi": "三国风云 là một phần văn hóa Trung Hoa.",
+          "th": "三国风云 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "三国风云 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "三国风云是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "draw-snake-add-feet",
+    "category": "idioms",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "画蛇添足",
+      "en": "Drawing Feet on a Snake",
+      "vi": "Vẽ rắn thêm chân",
+      "th": "วาดงูเพิ่มเท้า",
+      "id": "Menggambar Kaki pada Ular"
+    },
+    "i18n_summary": {
+      "zh-CN": "画蛇添足的小故事。",
+      "en": "A short tale of Drawing Feet on a Snake.",
+      "vi": "Câu chuyện ngắn về Vẽ rắn thêm chân.",
+      "th": "เรื่องสั้นของวาดงูเพิ่มเท้า",
+      "id": "Kisah singkat Menggambar Kaki pada Ular."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "画蛇添足是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "画蛇添足 is part of Chinese culture.",
+          "vi": "画蛇添足 là một phần văn hóa Trung Hoa.",
+          "th": "画蛇添足 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "画蛇添足 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "画蛇添足是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mountain-tiger-no",
+    "category": "idioms",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "虎落平阳",
+      "en": "A Tiger on the Plain",
+      "vi": "Hổ về đồng bằng",
+      "th": "เสือลงสู่ที่ราบ",
+      "id": "Harimau di Dataran"
+    },
+    "i18n_summary": {
+      "zh-CN": "虎落平阳的小故事。",
+      "en": "A short tale of A Tiger on the Plain.",
+      "vi": "Câu chuyện ngắn về Hổ về đồng bằng.",
+      "th": "เรื่องสั้นของเสือลงสู่ที่ราบ",
+      "id": "Kisah singkat Harimau di Dataran."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "虎落平阳是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "虎落平阳 is part of Chinese culture.",
+          "vi": "虎落平阳 là một phần văn hóa Trung Hoa.",
+          "th": "虎落平阳 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "虎落平阳 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "虎落平阳是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "old-horse-knows",
+    "category": "idioms",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "老马识途",
+      "en": "An Old Horse Knows the Way",
+      "vi": "Ngựa già biết đường",
+      "th": "ม้าแก่รู้ทาง",
+      "id": "Kuda Tua Tahu Jalan"
+    },
+    "i18n_summary": {
+      "zh-CN": "老马识途的小故事。",
+      "en": "A short tale of An Old Horse Knows the Way.",
+      "vi": "Câu chuyện ngắn về Ngựa già biết đường.",
+      "th": "เรื่องสั้นของม้าแก่รู้ทาง",
+      "id": "Kisah singkat Kuda Tua Tahu Jalan."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "老马识途是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "老马识途 is part of Chinese culture.",
+          "vi": "老马识途 là một phần văn hóa Trung Hoa.",
+          "th": "老马识途 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "老马识途 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "老马识途是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "confucius-rectify-names",
+    "category": "philosophy",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "孔子正名",
+      "en": "Confucius on the Rectification of Names",
+      "vi": "Khổng Tử và chính danh",
+      "th": "ขงจื๊อกับการตั้งชื่อให้ถูก",
+      "id": "Konfusius dan Pelurusan Nama"
+    },
+    "i18n_summary": {
+      "zh-CN": "孔子正名的小故事。",
+      "en": "A short tale of Confucius on the Rectification of Names.",
+      "vi": "Câu chuyện ngắn về Khổng Tử và chính danh.",
+      "th": "เรื่องสั้นของขงจื๊อกับการตั้งชื่อให้ถูก",
+      "id": "Kisah singkat Konfusius dan Pelurusan Nama."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "孔子正名是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "孔子正名 is part of Chinese culture.",
+          "vi": "孔子正名 là một phần văn hóa Trung Hoa.",
+          "th": "孔子正名 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "孔子正名 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "孔子正名是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "laozi-soft-water",
+    "category": "philosophy",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "柔水之力",
+      "en": "The Power of Soft Water",
+      "vi": "Sức mạnh của nước mềm",
+      "th": "พลังของน้ำที่อ่อนโยน",
+      "id": "Kekuatan Air yang Lembut"
+    },
+    "i18n_summary": {
+      "zh-CN": "柔水之力的小故事。",
+      "en": "A short tale of The Power of Soft Water.",
+      "vi": "Câu chuyện ngắn về Sức mạnh của nước mềm.",
+      "th": "เรื่องสั้นของพลังของน้ำที่อ่อนโยน",
+      "id": "Kisah singkat Kekuatan Air yang Lembut."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "柔水之力是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "柔水之力 is part of Chinese culture.",
+          "vi": "柔水之力 là một phần văn hóa Trung Hoa.",
+          "th": "柔水之力 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "柔水之力 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "柔水之力是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "zhuangzi-butterfly",
+    "category": "philosophy",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "庄周梦蝶",
+      "en": "Zhuangzi’s Butterfly Dream",
+      "vi": "Giấc mộng Trang Chu",
+      "th": "ผีเสื้อในฝันจวงจื๊อ",
+      "id": "Mimpi Kupu-kupu Zhuangzi"
+    },
+    "i18n_summary": {
+      "zh-CN": "庄周梦蝶的小故事。",
+      "en": "A short tale of Zhuangzi’s Butterfly Dream.",
+      "vi": "Câu chuyện ngắn về Giấc mộng Trang Chu.",
+      "th": "เรื่องสั้นของผีเสื้อในฝันจวงจื๊อ",
+      "id": "Kisah singkat Mimpi Kupu-kupu Zhuangzi."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "庄周梦蝶是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "庄周梦蝶 is part of Chinese culture.",
+          "vi": "庄周梦蝶 là một phần văn hóa Trung Hoa.",
+          "th": "庄周梦蝶 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "庄周梦蝶 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "庄周梦蝶是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "high-speed-rail",
+    "category": "modern",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "高铁速度",
+      "en": "Speed of High-Speed Rail",
+      "vi": "Tốc độ tàu cao tốc",
+      "th": "ความเร็วรถไฟไฮสปีด",
+      "id": "Kecepatan Kereta Cepat"
+    },
+    "i18n_summary": {
+      "zh-CN": "高铁速度的小故事。",
+      "en": "A short tale of Speed of High-Speed Rail.",
+      "vi": "Câu chuyện ngắn về Tốc độ tàu cao tốc.",
+      "th": "เรื่องสั้นของความเร็วรถไฟไฮสปีด",
+      "id": "Kisah singkat Kecepatan Kereta Cepat."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "高铁速度是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "高铁速度 is part of Chinese culture.",
+          "vi": "高铁速度 là một phần văn hóa Trung Hoa.",
+          "th": "高铁速度 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "高铁速度 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "高铁速度是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "wechat-life",
+    "category": "modern",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "微信生活",
+      "en": "Life on WeChat",
+      "vi": "Cuộc sống WeChat",
+      "th": "ชีวิตบนวีแชต",
+      "id": "Hidup di WeChat"
+    },
+    "i18n_summary": {
+      "zh-CN": "微信生活的小故事。",
+      "en": "A short tale of Life on WeChat.",
+      "vi": "Câu chuyện ngắn về Cuộc sống WeChat.",
+      "th": "เรื่องสั้นของชีวิตบนวีแชต",
+      "id": "Kisah singkat Hidup di WeChat."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "微信生活是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "微信生活 is part of Chinese culture.",
+          "vi": "微信生活 là một phần văn hóa Trung Hoa.",
+          "th": "微信生活 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "微信生活 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "微信生活是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "shenzhen-rise",
+    "category": "modern",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "深圳速度",
+      "en": "The Shenzhen Pace",
+      "vi": "Nhịp độ Thâm Quyến",
+      "th": "จังหวะเซินเจิ้น",
+      "id": "Tempo Shenzhen"
+    },
+    "i18n_summary": {
+      "zh-CN": "深圳速度的小故事。",
+      "en": "A short tale of The Shenzhen Pace.",
+      "vi": "Câu chuyện ngắn về Nhịp độ Thâm Quyến.",
+      "th": "เรื่องสั้นของจังหวะเซินเจิ้น",
+      "id": "Kisah singkat Tempo Shenzhen."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "深圳速度是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "深圳速度 is part of Chinese culture.",
+          "vi": "深圳速度 là một phần văn hóa Trung Hoa.",
+          "th": "深圳速度 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "深圳速度 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "深圳速度是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "four-tones-game",
+    "category": "fun-chinese",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "四声游戏",
+      "en": "A Four-Tone Game",
+      "vi": "Trò chơi bốn thanh",
+      "th": "เกมสี่เสียงวรรณยุกต์",
+      "id": "Permainan Empat Nada"
+    },
+    "i18n_summary": {
+      "zh-CN": "四声游戏的小故事。",
+      "en": "A short tale of A Four-Tone Game.",
+      "vi": "Câu chuyện ngắn về Trò chơi bốn thanh.",
+      "th": "เรื่องสั้นของเกมสี่เสียงวรรณยุกต์",
+      "id": "Kisah singkat Permainan Empat Nada."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "四声游戏是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "四声游戏 is part of Chinese culture.",
+          "vi": "四声游戏 là một phần văn hóa Trung Hoa.",
+          "th": "四声游戏 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "四声游戏 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "四声游戏是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "homophone-fun",
+    "category": "fun-chinese",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "谐音趣谈",
+      "en": "Fun with Homophones",
+      "vi": "Vui với chữ đồng âm",
+      "th": "สนุกกับคำพ้องเสียง",
+      "id": "Bermain Kata Senada"
+    },
+    "i18n_summary": {
+      "zh-CN": "谐音趣谈的小故事。",
+      "en": "A short tale of Fun with Homophones.",
+      "vi": "Câu chuyện ngắn về Vui với chữ đồng âm.",
+      "th": "เรื่องสั้นของสนุกกับคำพ้องเสียง",
+      "id": "Kisah singkat Bermain Kata Senada."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "谐音趣谈是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "谐音趣谈 is part of Chinese culture.",
+          "vi": "谐音趣谈 là một phần văn hóa Trung Hoa.",
+          "th": "谐音趣谈 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "谐音趣谈 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "谐音趣谈是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "net-slang-yyds",
+    "category": "fun-chinese",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "网络流行语",
+      "en": "Net Slang Today",
+      "vi": "Tiếng lóng mạng",
+      "th": "สแลงเน็ตวันนี้",
+      "id": "Slang Internet Hari Ini"
+    },
+    "i18n_summary": {
+      "zh-CN": "网络流行语的小故事。",
+      "en": "A short tale of Net Slang Today.",
+      "vi": "Câu chuyện ngắn về Tiếng lóng mạng.",
+      "th": "เรื่องสั้นของสแลงเน็ตวันนี้",
+      "id": "Kisah singkat Slang Internet Hari Ini."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "网络流行语是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "网络流行语 is part of Chinese culture.",
+          "vi": "网络流行语 là một phần văn hóa Trung Hoa.",
+          "th": "网络流行语 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "网络流行语 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "网络流行语是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nuwa-mends-sky",
+    "category": "myths",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "女娲补天",
+      "en": "Nuwa Mends the Sky",
+      "vi": "Nữ Oa vá trời",
+      "th": "หนี่วาซ่อมฟ้า",
+      "id": "Nuwa Memperbaiki Langit"
+    },
+    "i18n_summary": {
+      "zh-CN": "女娲补天的小故事。",
+      "en": "A short tale of Nuwa Mends the Sky.",
+      "vi": "Câu chuyện ngắn về Nữ Oa vá trời.",
+      "th": "เรื่องสั้นของหนี่วาซ่อมฟ้า",
+      "id": "Kisah singkat Nuwa Memperbaiki Langit."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "女娲补天是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "女娲补天 is part of Chinese culture.",
+          "vi": "女娲补天 là một phần văn hóa Trung Hoa.",
+          "th": "女娲补天 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "女娲补天 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "女娲补天是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "houyi-shoots-suns",
+    "category": "myths",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "后羿射日",
+      "en": "Houyi Shoots the Suns",
+      "vi": "Hậu Nghệ bắn mặt trời",
+      "th": "โฮ่วอี้ยิงดวงอาทิตย์",
+      "id": "Houyi Memanah Matahari"
+    },
+    "i18n_summary": {
+      "zh-CN": "后羿射日的小故事。",
+      "en": "A short tale of Houyi Shoots the Suns.",
+      "vi": "Câu chuyện ngắn về Hậu Nghệ bắn mặt trời.",
+      "th": "เรื่องสั้นของโฮ่วอี้ยิงดวงอาทิตย์",
+      "id": "Kisah singkat Houyi Memanah Matahari."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "后羿射日是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "后羿射日 is part of Chinese culture.",
+          "vi": "后羿射日 là một phần văn hóa Trung Hoa.",
+          "th": "后羿射日 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "后羿射日 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "后羿射日是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "change-flies-moon",
+    "category": "myths",
+    "hsk_level": 2,
+    "estimated_minutes": 3,
+    "i18n_title": {
+      "zh-CN": "嫦娥奔月",
+      "en": "Chang’e Flies to the Moon",
+      "vi": "Hằng Nga bay lên cung trăng",
+      "th": "ฉางเอ๋อบินสู่ดวงจันทร์",
+      "id": "Chang’e Terbang ke Bulan"
+    },
+    "i18n_summary": {
+      "zh-CN": "嫦娥奔月的小故事。",
+      "en": "A short tale of Chang’e Flies to the Moon.",
+      "vi": "Câu chuyện ngắn về Hằng Nga bay lên cung trăng.",
+      "th": "เรื่องสั้นของฉางเอ๋อบินสู่ดวงจันทร์",
+      "id": "Kisah singkat Chang’e Terbang ke Bulan."
+    },
+    "body_md": "",
+    "sentences": [
+      {
+        "zh": "嫦娥奔月是中国文化的一部分。",
+        "pinyin": "",
+        "i18n": {
+          "en": "嫦娥奔月 is part of Chinese culture.",
+          "vi": "嫦娥奔月 là một phần văn hóa Trung Hoa.",
+          "th": "嫦娥奔月 เป็นส่วนหนึ่งของวัฒนธรรมจีน",
+          "id": "嫦娥奔月 adalah bagian dari budaya Tiongkok.",
+          "zh-CN": "嫦娥奔月是中国文化的一部分。"
+        }
+      },
+      {
+        "zh": "它的故事流传了很久。",
+        "pinyin": "Tā de gùshi liúchuán le hěn jiǔ.",
+        "i18n": {
+          "en": "Its story has been told for a long time.",
+          "vi": "Câu chuyện của nó đã được kể từ lâu.",
+          "th": "เรื่องราวของมันถูกเล่ามาช้านาน",
+          "id": "Kisahnya telah dituturkan sejak lama.",
+          "zh-CN": "它的故事流传了很久。"
+        }
+      },
+      {
+        "zh": "今天我们仍然喜爱它。",
+        "pinyin": "Jīntiān wǒmen réngrán xǐ’ài tā.",
+        "i18n": {
+          "en": "Today we still cherish it.",
+          "vi": "Hôm nay chúng ta vẫn yêu thích nó.",
+          "th": "จนถึงวันนี้พวกเรายังคงรักมัน",
+          "id": "Hingga kini kita masih mencintainya.",
+          "zh-CN": "今天我们仍然喜爱它。"
+        }
+      },
+      {
+        "zh": "欢迎你来感受。",
+        "pinyin": "Huānyíng nǐ lái gǎnshòu.",
+        "i18n": {
+          "en": "You are welcome to experience it.",
+          "vi": "Mời bạn đến cảm nhận.",
+          "th": "ขอเชิญคุณมาสัมผัส",
+          "id": "Silakan datang merasakannya.",
+          "zh-CN": "欢迎你来感受。"
+        }
+      }
+    ]
+  }
+]

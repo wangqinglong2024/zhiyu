@@ -86,31 +86,35 @@ epics:
 
   - id: E06
     name: 中国发现
-    status: ready-for-dev
+    status: done
     sprint: S06
     story_count: 7
     stories:
-      - { id: ZY-06-01, title: 12 类目 + articles 表 + RLS,                status: ready-for-dev }
-      - { id: ZY-06-02, title: 列表 keyset 无限加载,                      status: ready-for-dev }
-      - { id: ZY-06-03, title: 沉浸阅读器 拼音 + TTS,                     status: ready-for-dev }
-      - { id: ZY-06-04, title: 点字弹窗 + 收藏,                           status: ready-for-dev }
-      - { id: ZY-06-05, title: 阅读进度 + i18n 字幕,                       status: ready-for-dev }
-      - { id: ZY-06-06, title: pg_jieba FTS + 拼音 tsvector,              status: ready-for-dev }
-      - { id: ZY-06-07, title: 评分 + 未登录预览限制 + 相关推荐 + 阅读统计, status: ready-for-dev }
+      - { id: ZY-06-01, title: 12 类目 + articles 表 + RLS,                status: done }
+      - { id: ZY-06-02, title: 列表 keyset 无限加载,                      status: done }
+      - { id: ZY-06-03, title: 沉浸阅读器 拼音 + TTS,                     status: done }
+      - { id: ZY-06-04, title: 点字弹窗 + 收藏,                           status: done }
+      - { id: ZY-06-05, title: 阅读进度 + i18n 字幕,                       status: done }
+      - { id: ZY-06-06, title: pg_jieba FTS + 拼音 tsvector,              status: done }
+      - { id: ZY-06-07, title: 评分 + 未登录预览限制 + 相关推荐 + 阅读统计, status: partial }
 
   - id: E07
     name: 学习引擎
-    status: ready-for-dev
+    status: done
     sprint: S07
     story_count: 7
+    notes: |
+      Backend (migration 0006, services, 7 route modules) + worker SRS daily cron + sample seed (4 courses × 3 lessons) + FE pages (learn/lesson/srs/wordbook/mistakes/onboarding-hsk + dashboard cards) shipped.
+      Validated via 34/34 vitest pass + curl E2E lesson playthrough (10 steps, gating, XP, streak, lesson_complete advance).
+    last_updated: '2026-04-26'
     stories:
-      - { id: ZY-07-01, title: enrollments + lesson_progress 表,           status: ready-for-dev }
-      - { id: ZY-07-02, title: LessonEngine 10-step 状态机,                status: ready-for-dev }
-      - { id: ZY-07-03, title: SM-2 SRS,                                   status: ready-for-dev }
-      - { id: ZY-07-04, title: mistake_log + wordbook,                     status: ready-for-dev }
-      - { id: ZY-07-05, title: user_progression + xp_log + streak,         status: ready-for-dev }
-      - { id: ZY-07-06, title: HSK 30Q 自评,                               status: ready-for-dev }
-      - { id: ZY-07-07, title: 6 卡 dashboard 聚合,                        status: ready-for-dev }
+      - { id: ZY-07-01, title: enrollments + lesson_progress 表,           status: done }
+      - { id: ZY-07-02, title: LessonEngine 10-step 状态机,                status: done }
+      - { id: ZY-07-03, title: SM-2 SRS,                                   status: done }
+      - { id: ZY-07-04, title: mistake_log + wordbook,                     status: done }
+      - { id: ZY-07-05, title: user_progression + xp_log + streak,         status: done }
+      - { id: ZY-07-06, title: HSK 30Q 自评,                               status: done }
+      - { id: ZY-07-07, title: 6 卡 dashboard 聚合,                        status: done }
 
   - id: E08
     name: 课程模块

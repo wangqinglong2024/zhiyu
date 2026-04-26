@@ -1,99 +1,71 @@
-/* @zhiyu/ui — self-hosted fonts.
+/* @zhiyu/ui — vibrant per-language font stacks (v2, 2026-04-26).
  *
- * IMPORTANT: actual woff2 binaries are NOT shipped in this repo. To enable
- * non-system fonts, drop OFL-licensed woff2 files at the paths below and
- * Vite will pick them up. Until then, font-face declarations gracefully
- * fall through to the system font stack (Inter on macOS, Segoe on Win,
- * Noto/PingFang on CJK, etc.) — visual identity is preserved.
+ * Web fonts are loaded via Google Fonts <link> in apps/web/index.html.
+ * If offline / blocked, the cascade falls back to system fonts gracefully.
  *
- * Required files (when ready):
- *   - fonts/inter/Inter-Variable.woff2          (latin / latin-ext, 100-900)
- *   - fonts/notosc/NotoSansSC-Regular.woff2     (CJK 7000 most-used subset)
- *   - fonts/notosc/NotoSansSC-Medium.woff2
- *   - fonts/notosc/NotoSansSC-Bold.woff2
- *   - fonts/notosthai/NotoSansThai-Regular.woff2
- *   - fonts/notothai/NotoSansThai-Medium.woff2
- *   - fonts/notoarabic/NotoSansArabic-Variable.woff2
- *   - fonts/jetbrains/JetBrainsMono-Regular.woff2
+ * Backup of previous self-hosted-only stack lives in `fonts.backup.css`.
  *
- * Generation script: pnpm --filter @zhiyu/ui fonts:subset
- * License files: packages/ui/LICENSES/*.txt
+ * CSS variables exposed (override per :root[lang]):
+ *   --font-body     — paragraph / list / form text
+ *   --font-display  — hero / page title
+ *   --font-button   — buttons & nav (slightly heavier, friendlier)
+ *   --font-content  — long-form reading (CJK-friendly book face)
+ *   --font-mono     — code / numerals
+ *   --font-accent   — playful display accent (Pacifico)
  */
 
-/*
- * Self-hosted woff2 binaries are NOT shipped in this repo. Until the assets
- * are dropped in `packages/ui/src/fonts/<family>/`, declaring @font-face with
- * non-existent URLs causes 404s in production. We therefore use system-font
- * stacks via the `font-family` cascade below. Re-enable individual @font-face
- * blocks once the corresponding woff2 files exist.
- */
-@font-face {
-  font-family: 'Inter';
-  src: local('Inter'), local('Inter-Regular'), local('Helvetica Neue'), local('Arial');
-  font-weight: 100 900;
-  font-display: swap;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Noto Sans SC';
-  src: local('Noto Sans SC'), local('PingFang SC'), local('Microsoft YaHei'), local('Hiragino Sans GB');
-  font-weight: 400 700;
-  font-display: swap;
-  unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
-}
-
-@font-face {
-  font-family: 'Noto Sans Thai';
-  src: local('Noto Sans Thai'), local('Sarabun'), local('Tahoma');
-  font-weight: 400 700;
-  font-display: swap;
-  unicode-range: U+0E00-0E7F;
-}
-
-@font-face {
-  font-family: 'Noto Sans Arabic';
-  src: local('Noto Sans Arabic'), local('Geeza Pro'), local('Tahoma');
-  font-weight: 100 900;
-  font-display: swap;
-  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF;
-}
-
-@font-face {
-  font-family: 'JetBrains Mono';
-  src: local('JetBrains Mono'), local('Menlo'), local('Consolas'), local('Courier New');
-  font-weight: 400 700;
-  font-display: swap;
-}
-
-/* Per-language application */
-:root,
-:root[lang^='en'],
-:root[lang^='vi'],
-:root[lang^='id'] {
-  font-family: 'Inter', 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+:root {
+  --font-body: 'Plus Jakarta Sans', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-display: 'Sora', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-button: 'Plus Jakarta Sans', 'Sora', 'Inter', system-ui, sans-serif;
+  --font-content: 'Inter', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --font-accent: 'Pacifico', 'Sora', cursive;
 }
 
 :root[lang^='zh'] {
-  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+  --font-body: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', system-ui, sans-serif;
+  --font-display: 'ZCOOL KuaiLe', 'Noto Sans SC', 'PingFang SC', system-ui, sans-serif;
+  --font-button: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+  --font-content: 'LXGW WenKai TC', 'Noto Sans SC', 'PingFang SC', 'KaiTi', serif;
+}
+
+:root[lang^='vi'] {
+  --font-body: 'Be Vietnam Pro', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-display: 'Be Vietnam Pro', 'Sora', system-ui, sans-serif;
+  --font-button: 'Be Vietnam Pro', 'Plus Jakarta Sans', system-ui, sans-serif;
 }
 
 :root[lang^='th'] {
-  font-family: 'Noto Sans Thai', 'Sarabun', system-ui, sans-serif;
+  --font-body: 'IBM Plex Sans Thai', 'Sarabun', 'Tahoma', system-ui, sans-serif;
+  --font-display: 'IBM Plex Sans Thai', 'Sora', system-ui, sans-serif;
+  --font-button: 'IBM Plex Sans Thai', 'Plus Jakarta Sans', system-ui, sans-serif;
 }
 
-:root[lang^='ar'] {
-  font-family: 'Noto Sans Arabic', 'Tahoma', system-ui, sans-serif;
+/* :root[lang^='id'], :root[lang^='en'] use defaults */
+
+html,
+body {
+  font-family: var(--font-body);
 }
 
-/* Pinyin annotation marks */
+button,
+.btn,
+[role='button'] {
+  font-family: var(--font-button);
+  letter-spacing: 0.005em;
+}
+
+h1, h2, h3, .text-display, .text-h1, .text-h2, .text-h3 {
+  font-family: var(--font-display);
+}
+
 .pinyin {
-  font-family: 'Inter', system-ui, sans-serif;
+  font-family: 'Inter', 'Plus Jakarta Sans', system-ui, sans-serif;
   font-feature-settings: 'tnum';
   letter-spacing: 0.02em;
 }
 
-/* Logical properties RTL helpers — Tailwind 4 ships native logical paddings */
 [dir='rtl'] .text-display,
 [dir='rtl'] .text-h1,
 [dir='rtl'] .text-h2,

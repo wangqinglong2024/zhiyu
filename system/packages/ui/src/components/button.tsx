@@ -27,9 +27,9 @@ const VARIANTS: Record<ButtonVariant, string> = {
 };
 
 const SIZES: Record<ButtonSize, string> = {
-  sm: 'h-8 px-3 text-small rounded-md gap-1.5',
-  md: 'h-10 px-4 text-body rounded-md gap-2',
-  lg: 'h-12 px-6 text-body-lg rounded-lg gap-2',
+  sm: 'h-8 px-3.5 text-small rounded-full gap-1.5',
+  md: 'h-10 px-5 text-body rounded-full gap-2',
+  lg: 'h-12 px-7 text-body-lg rounded-full gap-2',
 };
 
 export const Button = forwardRef<HTMLButtonElement, ButtonProps>(function Button(
@@ -38,9 +38,9 @@ export const Button = forwardRef<HTMLButtonElement, ButtonProps>(function Button
 ) {
   const Comp = asChild ? Slot : 'button';
   const classes = cn(
-    'inline-flex items-center justify-center font-medium select-none transition-colors',
+    'inline-flex items-center justify-center font-semibold tracking-tight select-none transition-all duration-150 ease-out [font-family:var(--font-button)]',
     'focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-bg-base',
-    'disabled:cursor-not-allowed disabled:opacity-50',
+    'disabled:cursor-not-allowed disabled:opacity-50 active:scale-[0.97]',
     VARIANTS[variant],
     SIZES[size],
     iconOnly && 'aspect-square px-0',

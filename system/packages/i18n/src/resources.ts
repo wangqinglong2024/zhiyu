@@ -33,6 +33,12 @@ import idMe from './locales/id/me.json' with { type: 'json' };
 import idDiscover from './locales/id/discover.json' with { type: 'json' };
 import idCourses from './locales/id/courses.json' with { type: 'json' };
 
+import zhCommon from './locales/zh-CN/common.json' with { type: 'json' };
+import zhAuth from './locales/zh-CN/auth.json' with { type: 'json' };
+import zhMe from './locales/zh-CN/me.json' with { type: 'json' };
+import zhDiscover from './locales/zh-CN/discover.json' with { type: 'json' };
+import zhCourses from './locales/zh-CN/courses.json' with { type: 'json' };
+
 export type ResourceBag = Partial<Record<Namespace, Record<string, unknown>>>;
 
 export const RESOURCES: Record<UiLocale, ResourceBag> = {
@@ -40,6 +46,7 @@ export const RESOURCES: Record<UiLocale, ResourceBag> = {
   vi: { common: viCommon, auth: viAuth, me: viMe, discover: viDiscover, courses: viCourses },
   th: { common: thCommon, auth: thAuth, me: thMe, discover: thDiscover, courses: thCourses },
   id: { common: idCommon, auth: idAuth, me: idMe, discover: idDiscover, courses: idCourses },
+  'zh-CN': { common: zhCommon, auth: zhAuth, me: zhMe, discover: zhDiscover, courses: zhCourses },
 };
 
 export const LOADED_NAMESPACES: Namespace[] = ['common', 'auth', 'me', 'discover', 'courses'];

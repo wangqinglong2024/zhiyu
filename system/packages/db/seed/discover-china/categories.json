@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "slug": "history",
+    "emoji": "🏯",
+    "sort_order": 1,
+    "i18n_name": {
+      "en": "Chinese History",
+      "vi": "Lịch sử Trung Hoa",
+      "th": "ประวัติศาสตร์จีน",
+      "id": "Sejarah Tiongkok",
+      "zh-CN": "中国历史"
+    },
+    "i18n_summary": {
+      "en": "From ancient dynasties to modern milestones.",
+      "vi": "Từ triều đại cổ đại đến cột mốc hiện đại.",
+      "th": "จากราชวงศ์โบราณสู่ยุคสมัยใหม่",
+      "id": "Dari dinasti kuno ke tonggak modern.",
+      "zh-CN": "从古代王朝到现代里程碑。"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "cuisine",
+    "emoji": "🥟",
+    "sort_order": 2,
+    "i18n_name": {
+      "en": "Chinese Cuisine",
+      "vi": "Ẩm thực Trung Hoa",
+      "th": "อาหารจีน",
+      "id": "Kuliner Tiongkok",
+      "zh-CN": "中华美食"
+    },
+    "i18n_summary": {
+      "en": "Eight cuisines and the soul behind every wok.",
+      "vi": "Tám trường phái ẩm thực và linh hồn sau mỗi chiếc chảo.",
+      "th": "แปดสำรับใหญ่และจิตวิญญาณของกระทะใบโต",
+      "id": "Delapan masakan utama dan jiwa di balik wajan.",
+      "zh-CN": "八大菜系，与每口锅的灵魂。"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "scenic",
+    "emoji": "🏞️",
+    "sort_order": 3,
+    "i18n_name": {
+      "en": "Scenic Wonders",
+      "vi": "Kỳ quan thiên nhiên",
+      "th": "สุดยอดทิวทัศน์",
+      "id": "Pesona Alam",
+      "zh-CN": "山河奇景"
+    },
+    "i18n_summary": {
+      "en": "Mountains, rivers and skylines worth a poem.",
+      "vi": "Núi, sông và đường chân trời xứng đáng một bài thơ.",
+      "th": "ขุนเขา สายน้ำ และเส้นขอบฟ้าควรค่าแก่บทกวี",
+      "id": "Gunung, sungai, dan kaki langit yang puitis.",
+      "zh-CN": "可入诗的山川与天际线。"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "festivals",
+    "emoji": "🎆",
+    "sort_order": 4,
+    "i18n_name": {
+      "en": "Festivals & Customs",
+      "vi": "Lễ hội & phong tục",
+      "th": "เทศกาลและประเพณี",
+      "id": "Festival & Adat",
+      "zh-CN": "节庆民俗"
+    },
+    "i18n_summary": {
+      "en": "Calendar of celebrations across the year.",
+      "vi": "Lịch lễ hội suốt năm.",
+      "th": "ปฏิทินงานฉลองตลอดทั้งปี",
+      "id": "Kalender perayaan sepanjang tahun.",
+      "zh-CN": "一年四时的庆典日历。"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "arts",
+    "emoji": "🎨",
+    "sort_order": 5,
+    "i18n_name": {
+      "en": "Arts & Heritage",
+      "vi": "Nghệ thuật & di sản",
+      "th": "ศิลปะและมรดก",
+      "id": "Seni & Warisan",
+      "zh-CN": "艺术遗产"
+    },
+    "i18n_summary": {
+      "en": "Calligraphy, porcelain, silk and beyond.",
+      "vi": "Thư pháp, sứ, lụa và hơn thế nữa.",
+      "th": "อักษรวิจิตร เครื่องเคลือบ ผ้าไหม และอีกมาก",
+      "id": "Kaligrafi, porselen, sutra, dan banyak lagi.",
+      "zh-CN": "书法、瓷器、丝绸与更多。"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "music",
+    "emoji": "🎵",
+    "sort_order": 6,
+    "i18n_name": {
+      "en": "Music & Opera",
+      "vi": "Âm nhạc & hí khúc",
+      "th": "ดนตรีและงิ้ว",
+      "id": "Musik & Opera",
+      "zh-CN": "音乐戏曲"
+    },
+    "i18n_summary": {
+      "en": "Strings, percussion and the painted faces of opera.",
+      "vi": "Đàn dây, gõ, và khuôn mặt vẽ của hí khúc.",
+      "th": "เครื่องสาย กลอง และใบหน้าทาสีของงิ้ว",
+      "id": "Senar, perkusi, dan wajah dicat opera.",
+      "zh-CN": "丝竹之间，戏台脸谱。"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "literature",
+    "emoji": "📖",
+    "sort_order": 7,
+    "i18n_name": {
+      "en": "Classic Literature",
+      "vi": "Văn học cổ điển",
+      "th": "วรรณกรรมคลาสสิก",
+      "id": "Sastra Klasik",
+      "zh-CN": "经典文学"
+    },
+    "i18n_summary": {
+      "en": "From the Four Books to the Four Great Novels.",
+      "vi": "Từ Tứ Thư đến Tứ Đại Kỳ Thư.",
+      "th": "จากสี่หนังสือสู่สี่นวนิยายเอก",
+      "id": "Dari Empat Kitab ke Empat Novel Agung.",
+      "zh-CN": "从四书到四大名著。"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "idioms",
+    "emoji": "🧠",
+    "sort_order": 8,
+    "i18n_name": {
+      "en": "Idioms & Allusions",
+      "vi": "Thành ngữ & điển cố",
+      "th": "สำนวนและคำพาดพิง",
+      "id": "Idiom & Kiasan",
+      "zh-CN": "成语典故"
+    },
+    "i18n_summary": {
+      "en": "Four-character wisdom forged in stories.",
+      "vi": "Trí tuệ bốn chữ được đúc từ câu chuyện.",
+      "th": "ปัญญาสี่อักษรหล่อหลอมจากตำนาน",
+      "id": "Kebijaksanaan empat aksara dari kisah.",
+      "zh-CN": "故事铸成的四字箴言。"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "philosophy",
+    "emoji": "☯️",
+    "sort_order": 9,
+    "i18n_name": {
+      "en": "Philosophy & Wisdom",
+      "vi": "Triết học & trí tuệ",
+      "th": "ปรัชญาและภูมิปัญญา",
+      "id": "Filsafat & Hikmat",
+      "zh-CN": "哲学智慧"
+    },
+    "i18n_summary": {
+      "en": "Confucius, Laozi and the questions that linger.",
+      "vi": "Khổng Tử, Lão Tử và những câu hỏi còn vương.",
+      "th": "ขงจื๊อ เหล่าจื๊อ และคำถามที่ยังคงอยู่",
+      "id": "Konfusius, Laozi, dan pertanyaan yang tersisa.",
+      "zh-CN": "孔子、老子，与未尽的追问。"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "modern",
+    "emoji": "🚄",
+    "sort_order": 10,
+    "i18n_name": {
+      "en": "Modern China",
+      "vi": "Trung Quốc hiện đại",
+      "th": "จีนยุคใหม่",
+      "id": "Tiongkok Modern",
+      "zh-CN": "现代中国"
+    },
+    "i18n_summary": {
+      "en": "High-speed rail, megacities and digital life.",
+      "vi": "Đường sắt cao tốc, siêu đô thị và đời sống số.",
+      "th": "รถไฟความเร็วสูง มหานคร และชีวิตดิจิทัล",
+      "id": "Kereta cepat, kota raksasa, dan hidup digital.",
+      "zh-CN": "高铁、超大城市与数字生活。"
+    }
+  },
+  {
+    "id": 11,
+    "slug": "fun-chinese",
+    "emoji": "✨",
+    "sort_order": 11,
+    "i18n_name": {
+      "en": "Fun with Chinese",
+      "vi": "Vui học tiếng Hoa",
+      "th": "สนุกกับภาษาจีน",
+      "id": "Bermain dengan Mandarin",
+      "zh-CN": "趣味中文"
+    },
+    "i18n_summary": {
+      "en": "Tongue twisters, puns and net slang.",
+      "vi": "Líu lưỡi, chơi chữ và tiếng lóng mạng.",
+      "th": "ลิ้นพันลิ้น เล่นคำ และสแลงโลกออนไลน์",
+      "id": "Permainan kata, pelesetan, slang internet.",
+      "zh-CN": "绕口令、谐音梗与网络流行语。"
+    }
+  },
+  {
+    "id": 12,
+    "slug": "myths",
+    "emoji": "🐉",
+    "sort_order": 12,
+    "i18n_name": {
+      "en": "Myths & Legends",
+      "vi": "Thần thoại & truyền thuyết",
+      "th": "ตำนานและเทพนิยาย",
+      "id": "Mitos & Legenda",
+      "zh-CN": "神话传说"
+    },
+    "i18n_summary": {
+      "en": "Dragons, immortals and the cosmic beginnings.",
+      "vi": "Rồng, tiên, và khởi nguyên của vũ trụ.",
+      "th": "มังกร เทพอมตะ และจุดเริ่มต้นจักรวาล",
+      "id": "Naga, dewa, dan awal mula semesta.",
+      "zh-CN": "龙、仙、与天地初开。"
+    }
+  }
+]
