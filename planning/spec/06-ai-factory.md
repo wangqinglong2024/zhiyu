@@ -1,5 +1,7 @@
 # 06 · AI 内容工厂（AI Content Factory）
 
+> ⚠️ **本期 AI 完全 mock，[00-rules.md](../00-rules.md) §4.1**：所有 LLM/TTS/ASR/Workflow 调用走 Adapter + fixture，**不集成真实模型**；本文设计的接口契约保留作未来落地参考；任何 Dify 引用应忽略；未来落地走 LangGraph + Vercel AI SDK。冲突时以 00-rules.md 为准。
+
 ## 一、目标
 
 - 60-80% 内容由 AI 生成 + 人工审校

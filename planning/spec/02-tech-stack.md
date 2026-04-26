@@ -1,210 +1,203 @@
 # 02 · 技术选型矩阵（Tech Stack）
 
+> **本文档受 [planning/00-rules.md](../00-rules.md) 强约束**：Docker-only、Supabase 全功能优先、本期 AI 为 mock。
+
+---
+
 ## 一、整体原则
 
-1. **TypeScript first**：全栈强类型
-2. **托管优先**：v1 不自建数据库 / Redis / Storage
-3. **开源生态**：避免厂商锁定（除非不可避）
-4. **东南亚低延迟**：选 Singapore Region
-5. **成本可控**：从免费 / Hobby tier 起步
+1. **TypeScript first**：全栈 strict。
+2. **Docker only**：唯一开发/部署形态，禁止托管 SaaS。
+3. **Supabase first**：数据/认证/存储/向量/实时一律走自托管 Supabase。
+4. **缺 key 不阻塞**：所有第三方走 Adapter 接口，可回落 fake。
+5. **本期 AI = mock**：未来才上 LangGraph + Vercel AI SDK；Dify 全局禁用。
+
+---
 
 ## 二、前端
 
-| 层 | 技术 | 版本 | 替代 / 备注 |
+| 层 | 技术 | 版本 | 备注 |
 |---|---|---|---|
-| 框架 | React | 19.x | Vue / Solid 不选 |
-| 构建 | Vite | 6.x | Webpack 不选 |
-| 路由 | TanStack Router | 1.x | React Router 不选（类型差） |
-| 数据 | TanStack Query | 5.x | SWR 备选 |
-| 状态 | Zustand | 5.x | Redux 太重 / Jotai 备选 |
-| 表单 | React Hook Form + Zod | 7.x / 3.x | Formik 不选 |
-| 样式 | Tailwind CSS | 4.x | CSS-in-JS 不选 |
-| UI | shadcn/ui + 自研 | latest | MUI 太重 |
-| 动效 | Framer Motion | 11.x | - |
-| i18n | i18next + react-i18next | 23.x / 14.x | - |
-| 图标 | lucide-react | latest | - |
-| 游戏 | PixiJS + Matter.js + Howler.js | 8.x / 0.20.x / 2.x | Phaser 备选 |
-| 图表 | Recharts | 2.x | Chart.js 备选 |
+| 框架 | React | 19.x | — |
+| 构建 | Vite | 6.x | — |
+| 路由 | TanStack Router | 1.x | 类型安全 |
+| 数据层 | TanStack Query + Supabase JS | 5.x / 2.x | RPC 优先 supabase rpc |
+| 状态 | Zustand | 5.x | — |
+| 表单 | React Hook Form + Zod | 7.x / 3.x | — |
+| 样式 | Tailwind CSS | 4.x | — |
+| UI | shadcn/ui + 自研 | latest | — |
+| 动效 | Framer Motion | 11.x | — |
+| i18n | i18next + react-i18next | 23.x / 14.x | — |
+| 图标 | lucide-react | latest | — |
+| 游戏 | PixiJS + Matter.js + Howler.js | 8.x / 0.20.x / 2.x | — |
+| 图表 | Recharts | 2.x | — |
 | 编辑器 | Tiptap | 2.x | 后台富文本 |
 | 表格 | TanStack Table | 8.x | 后台 |
-| 日期 | date-fns | 3.x | dayjs 备选 |
-| 测试 | Vitest + RTL + Playwright | latest | Jest 不选 |
-| Storybook | 8.x | - | 组件文档 |
+| 日期 | date-fns | 3.x | — |
+| 测试 | Vitest + RTL（容器内）| latest | E2E 见 §十二 |
+| Storybook | 8.x（可选）| — | — |
+
+---
 
 ## 三、后端
 
-| 层 | 技术 | 版本 | 替代 / 备注 |
+| 层 | 技术 | 版本 | 备注 |
 |---|---|---|---|
-| 运行时 | Node.js | 20.x LTS | Bun 备选（v2） |
-| 框架 | Express | 4.x | Fastify v1.5 评估 |
-| API 模式 | REST + tRPC | - | tRPC 仅前后端共享 |
-| 验证 | Zod | 3.x | Joi 不选 |
-| ORM | Drizzle ORM | latest | Prisma 备选（成本） |
-| 队列 | BullMQ | 5.x | Agenda 不选 |
-| 调度 | node-cron | 3.x | 简单定时 |
-| 上传 | Multer + R2 SDK | - | - |
-| 邮件 | Resend | latest | SES 备选 |
-| 推送 | OneSignal SDK | - | FCM 备选 |
-| WebSocket | ws + Socket.io | - | 客服 IM |
-| 文件存储 | @aws-sdk/client-s3 (R2) | latest | - |
-| 测试 | Vitest + Supertest | - | - |
+| 运行时 | Node.js | 20.x LTS | docker `node:20-alpine` |
+| 框架 | Express | 4.x | — |
+| API 模式 | REST（OpenAPI）| — | tRPC 仅前后端共享类型 |
+| 验证 | Zod | 3.x | 启动校验 + 入参校验 |
+| ORM | Drizzle ORM | latest | drizzle-kit 迁移 |
+| 队列 | BullMQ | 5.x | 复用现有 redis 容器 |
+| 调度 | node-cron | 3.x | 容器内 |
+| 日志 | pino | 9.x | 结构化 JSON |
+| WebSocket | Supabase Realtime | — | 不再独立 Socket.io |
+| 文件存储 | Supabase Storage SDK | latest | — |
+| 测试 | Vitest + Supertest | — | 跑在 docker compose run |
 
-## 四、AI / Workflow
+---
+
+## 四、数据 / 认证 / 存储（统一 Supabase 自托管）
 
 | 用途 | 技术 | 备注 |
 |---|---|---|
-| 编排 | LangGraph (TS) | 节点 / 状态 / 条件 |
-| 主创作 | Anthropic Claude Sonnet 4.5 | 长文 / 翻译 / 改写 |
-| 副创作 | DeepSeek V3 | 简单生成 / 审稿（成本 1/10） |
-| TTS | DeepSeek TTS / Azure | 句级音频 |
-| ASR | Whisper (api) | 跟读评分 |
-| Embedding | text-embedding-3-small | 语义检索 / 推荐 |
-| 向量库 | Supabase pgvector | 已含 |
-| 评估 | LangSmith | 链路追踪 + 评估 |
+| 关系型主库 | Supabase Postgres 16 | schema：`dev_zhiyu` / `stg_zhiyu` / `public` |
+| 用户认证 | Supabase Auth (GoTrue) | 邮箱/OAuth/Phone |
+| 后台认证 | 复用 Supabase Auth + RBAC 表 | `admin` role |
+| 文件存储 | Supabase Storage | 4 桶 |
+| 向量 | pgvector | RAG / 推荐 |
+| 全文 | Postgres FTS | v1 |
+| 实时 | Supabase Realtime | IM / 通知 |
+| 缓存/队列 | Redis（既有 docker 容器，复用）| BullMQ + cache |
+| 边缘函数 | Supabase Edge Functions | webhook 转发等 |
 
-## 五、数据库
+> **不引入**：Upstash、Cloudflare Workers KV、Pinecone、Meilisearch（v1）。
 
-| 用途 | 技术 | 版本 | 备注 |
+---
+
+## 五、AI / Workflow（本期 = mock 接口）
+
+| 用途 | 现状 | 未来方向 |
+|---|---|---|
+| 编排 | `WorkflowAdapter` 接口 + fixture | LangGraph (TS) |
+| 模型调用 | `LLMAdapter` 接口 + fixture | Vercel AI SDK 统一 |
+| 主创作模型 | （未集成）| Anthropic Claude Sonnet 4.5 |
+| 副创作模型 | （未集成）| DeepSeek V3 |
+| TTS | `TTSAdapter` mock | DeepSeek TTS / Azure |
+| ASR | `ASRAdapter` mock | Whisper |
+| Embedding | 真用 pgvector + 简易 hash 占位 | text-embedding-3-small |
+| 评估 | — | LangSmith（可选）|
+
+> **禁用**：Dify。任何文档不得新增 Dify 引用。
+
+---
+
+## 六、外部服务（全部 Adapter + 占位）
+
+| 用途 | 接口 | 本期实现 | 未来 |
 |---|---|---|---|
-| 主库 | Supabase Postgres | 16.x | SG region |
-| ORM | Drizzle | latest | 迁移 / 类型 |
-| 缓存 | Upstash Redis | 7.x | session / cache |
-| 队列 | BullMQ + Redis | - | - |
-| 全文搜索 | Postgres FTS | - | v1 简单 |
-| 高级搜索 | Meilisearch | latest | v1.5 上线 |
-| 向量 | pgvector | - | RAG 推荐 |
-| Object | Cloudflare R2 | - | S3 兼容 |
-| KV | Cloudflare Workers KV | - | Feature Flags |
+| 邮件 | `EmailAdapter` | console + 落 `outbox` 表 | Resend / SES |
+| 短信 | `SmsAdapter` | console | 腾讯云短信 |
+| 推送 | `PushAdapter` | console | OneSignal |
+| 支付 | `PaymentAdapter` | dummy（直接成功）| Paddle / 微信支付 |
+| Captcha | `CaptchaAdapter` | always-pass | Turnstile |
+| 数据查询 | `WebSearchAdapter` | **走 Tavily MCP**（agent 侧）| 同 |
 
-## 六、Auth / Security
+---
+
+## 七、可观测性（本地栈）
 
 | 用途 | 技术 | 备注 |
 |---|---|---|
-| 用户 Auth | Supabase Auth | OAuth / Email / Phone |
-| 后台 Auth | 自实现 + Supabase Auth | RBAC |
-| Session | JWT (短) + Refresh (Redis) | - |
-| 加密 | Node crypto + libsodium | E2E 部分 |
-| 密钥管理 | Doppler | 环境变量 |
-| WAF | Cloudflare | DDoS / Bot |
-| Captcha | Cloudflare Turnstile | 注册防刷 |
-| Rate Limit | upstash/ratelimit | API |
+| 日志 | pino → JSON → docker logs / `*.log` | 字段：ts/level/service/env/req_id/user_id/msg |
+| 指标 | `prom-client` 暴露 `/metrics` | 仅内网；后续接 Prometheus |
+| 错误聚合 | 自建 `error_events` 表 + 后端写入 | 前端 `/api/v1/_telemetry/error` |
+| 行为 | 自建 `events` 表 | 后台 Metabase 看板（v1.5）|
+| 健康 | `/health` `/ready` | 容器 healthcheck |
+| 状态页 | 自建（v1.5）| — |
 
-## 七、部署 / 基础设施
+> **禁用**：Sentry / PostHog / Better Stack / PagerDuty / UptimeRobot 等托管服务。
+
+---
+
+## 八、部署 / 基础设施
 
 | 层 | 技术 | 备注 |
 |---|---|---|
-| 静态站点 | Cloudflare Pages | - |
-| API | Render (SG) → v1.5 Fly.io | 多区 |
-| Worker | Render | 队列消费 |
-| Cron | Render Cron | 定时任务 |
-| CDN | Cloudflare | 全球 |
-| 媒体 CDN | Cloudflare R2 + Image Resizing | - |
-| DNS | Cloudflare | - |
-| CI/CD | GitHub Actions | PR + Deploy |
-| IaC | Terraform | (v1.5 引入) |
+| 容器编排 | docker compose | dev / stg / prod 三套 yml |
+| 反向代理 | nginx (`global-gateway` 容器) | 现有，配置在 `/opt/gateway/conf.d/` |
+| TLS | Let's Encrypt + nginx | 仅 prod 域名（域名待定）|
+| 数据库迁移 | drizzle-kit | 容器启动自检 |
+| 备份 | pg_dump cron → `/opt/backups/zhiyu/` | 30 天 |
+| 服务器 | 腾讯云 `115.159.109.23` 单台 | — |
 
-## 八、观测
+> **禁用**：Cloudflare Pages / R2 / Workers / Render / Fly.io / Vercel / Netlify。
 
-| 用途 | 技术 | 备注 |
-|---|---|---|
-| Error 上报 | Sentry | FE + BE |
-| 性能 | Sentry Performance | Tracing |
-| 日志 | Better Stack (Logtail) | - |
-| 指标 | Better Stack | 仪表板 |
-| 告警 | Better Stack + PagerDuty | - |
-| 行为分析 | PostHog (cloud) | 漏斗 / 留存 |
-| 会话回放 | PostHog | 选择性开启 |
-| 业务报表 | Metabase (自托管) | 后台 BI |
-| Uptime | UptimeRobot | 多端探测 |
+---
 
-## 九、支付 / 商业
+## 九、Auth / Security
 
 | 用途 | 技术 | 备注 |
 |---|---|---|
-| 支付主 | Paddle (MoR) | 全球结税 |
-| 支付备 | LemonSqueezy | 备份方案 |
-| 本地支付 | (按国后续) Xendit / Midtrans | v1.5 |
-| 发票 / 报税 | Paddle 内置 | - |
-| 分销跟踪 | 自实现 + Cookie | 30 天 cookie |
+| 用户 Auth | Supabase Auth | 见 §四 |
+| 后台 Auth | 同上 + RBAC 表 + TOTP | — |
+| Session | Supabase JWT + httpOnly cookie | refresh 走 supabase |
+| 加密 | Node crypto + libsodium | 关键字段加密存储 |
+| 密钥管理 | `system/docker/.env` 单文件 + Zod 校验 | 不入 git |
+| WAF | nginx 限流 + 自建中间件 | 未来再评估 Cloudflare |
+| Captcha | Adapter 占位 | — |
+| Rate Limit | `express-rate-limit` + Redis 后端 | — |
 
-## 十、第三方集成
+---
 
-| 用途 | 服务 | 备注 |
+## 十、支付 / 商业（占位）
+
+| 用途 | 本期 | 未来 |
 |---|---|---|
-| Google OAuth | Supabase Auth | - |
-| Apple OAuth | Supabase Auth | - |
-| TikTok OAuth | 自集成 | v1.5 |
-| 短信 | Twilio | 仅必要 |
-| 邮件 | Resend | 事务邮件 |
-| 推送 | OneSignal | Web Push |
-| IM 客服 | 自建 + Crisp 备 | - |
-| 翻译辅助 | Claude / DeepL | 内容工厂 |
-| 反垃圾 | Cloudflare Turnstile | - |
+| 订阅支付 | `PaymentAdapter` dummy | Paddle (MoR) |
+| 国内支付 | 同上 | 微信支付 |
+| 发票 | 落表占位 | 接通后由 PSP 提供 |
+| 分销跟踪 | 自实现 cookie | 同 |
+
+---
 
 ## 十一、开发 / 协作
 
 | 用途 | 工具 |
 |---|---|
-| Repo | GitHub |
-| Project | Linear / GitHub Projects |
-| 文档 | Markdown in repo + Docusaurus（v1.5） |
-| 设计 | Figma |
-| 任务 | Linear |
-| 沟通 | Slack |
-| 流程 | BMAD（本套） |
-| 代码评审 | GitHub PR |
-| 包管理 | pnpm | 9.x |
-| Monorepo | pnpm workspace + Turborepo | - |
-| 提交规范 | Conventional Commits + commitlint | - |
-| Hooks | Husky + lint-staged | - |
-| Lint | ESLint + Prettier + Stylelint | - |
+| Repo | GitHub（仅托管代码，**不**用其 Actions）|
+| 包管理 | pnpm 9.x |
+| Monorepo | pnpm workspace + Turborepo |
+| Hooks | husky + lint-staged |
+| Lint | ESLint + Prettier |
+| 提交 | Conventional Commits（**不强制** commitlint，可选）|
+| 文档 | 仓库内 markdown |
+| 流程 | BMAD |
 
-## 十二、版本锁定原则
+---
 
-- 主要框架锁主版本（如 react@^19.0.0）
-- 业务依赖锁次版本（^x.y.0）
-- 安全 / Bug 修复自动 patch
-- Renovate Bot 每周 PR
+## 十二、测试
 
-## 十三、替代方案存档
-
-| 选定 | 备选 | 不选理由 |
+| 层 | 工具 | 触发 |
 |---|---|---|
-| Express | Fastify | 团队熟，Fastify v1.5 评估 |
-| Drizzle | Prisma | Prisma 成本 + Generate 慢 |
-| TanStack Router | React Router | 类型安全弱 |
-| Tailwind v4 | Tailwind v3 | v4 性能 + 新特性 |
-| pnpm | npm/yarn | pnpm 快、节省磁盘 |
-| Render | Fly.io v1 | Render 简单；Fly v1.5 切换 |
-| Cloudflare R2 | AWS S3 | 出流量免费 |
-| Supabase | Self-hosted PG | 启动期省运维 |
+| 单元 | Vitest + RTL | `docker compose run --rm app-fe pnpm test` |
+| 集成 | Vitest + Supertest + Supabase（test schema）| `docker compose run --rm app-be pnpm test:int` |
+| E2E | **MCP Puppeteer**（agent 驱动）→ `http://115.159.109.23:3100` `/4100` | agent 触发 |
+| 视觉 | Storybook 截图（可选）| 容器内 |
 
-## 十四、成本预算（v1 月度）
+---
 
-| 项 | 估算 USD |
-|---|---|
-| Cloudflare | $20 |
-| Supabase Pro | $25 |
-| Upstash | $20 |
-| Render (API + Worker × 2) | $100 |
-| Anthropic Claude | $300 |
-| DeepSeek | $50 |
-| Sentry | $26 |
-| PostHog | $0 (free tier) |
-| Better Stack | $30 |
-| Resend | $20 |
-| OneSignal | $0 (free tier) |
-| Paddle / LS | 5% 流水 |
-| Doppler | $0 |
-| 域名 | $1 |
-| **合计基础设施** | **≈ $620** |
+## 十三、版本锁定原则
 
-v1.5：$3,000-5,000；v2：$15,000-25,000
+- 主框架锁主版本（`react@^19.0.0`）。
+- 业务依赖锁次版本（`^x.y.0`）。
+- 不接 Renovate Bot 自动 PR；季度人工 review。
 
-## 十五、检查清单
+---
 
-- [ ] 全部依赖确认许可证（MIT / Apache 优先）
-- [ ] 全部托管服务有 Singapore Region
-- [ ] 有付费上限告警
-- [ ] 有 SBOM
-- [ ] 关键依赖有备选方案
+## 十四、检查清单
+
+- [ ] 全部依赖许可证 MIT/Apache
+- [ ] 全部服务可在 docker compose 内启动
+- [ ] 缺 key 时所有 Adapter 走 fake，启动不阻塞
+- [ ] 不出现禁用关键词（Cloudflare/Render/Doppler/Sentry/PostHog/Better Stack/Dify）

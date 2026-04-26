@@ -1,5 +1,7 @@
 # 11 · 游戏引擎共享层（Game Engine）
 
+> ⚠️ **本文件含 PostHog 上报示例**，按 [00-rules.md](../00-rules.md) 改为：游戏内事件统一走 `events` 表（见 spec/10 §六），不引入任何外部 SaaS。其它内容（PixiJS/Matter/Howler 引擎设计）照旧。
+
 ## 一、目标
 
 - 12 款游戏共享：渲染 / 输入 / 音频 / 资源 / 排行榜

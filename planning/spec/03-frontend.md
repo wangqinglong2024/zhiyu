@@ -1,5 +1,7 @@
 # 03 · 前端架构（Frontend Architecture）
 
+> ⚠️ **本文件部分章节早于 [planning/00-rules.md](../00-rules.md) 写就，含 Cloudflare Pages / Render / Sentry / PostHog 等已禁用引用，主体技术栈仍有效；下一波次会精改。冲突时以 00-rules.md + spec/02 + spec/08 + spec/10 为准。**
+
 ## 一、Monorepo 结构
 
 ```

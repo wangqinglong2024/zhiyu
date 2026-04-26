@@ -1,5 +1,7 @@
 # 09 · 安全与合规（Security & Compliance）
 
+> ⚠️ **本文件个别章节提到 Cloudflare（WAF / DPA），按 [00-rules.md](../00-rules.md) 已禁用作为本期方案**：本期 WAF = nginx + 自建中间件 + Supabase RLS；DPA 名单也无 Cloudflare。下一波次精改。
+
 ## 一、威胁模型
 
 ### 1.1 主要威胁

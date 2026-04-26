@@ -8,9 +8,13 @@ inputDocuments:
 
 # 知语 Zhiyu · Epics 与 Stories 总目录
 
+> **顶层约束**：[planning/00-rules.md](../00-rules.md)（Docker only / Supabase first / 端口约定 / AI mock 期）。
 > 基于 PRD 15 模块 + 架构 12 文件 + UX 16 文件
-> 每 Epic 拆分约 10 个 Story（粒度：1-3 天 / 故事）
-> 使用 INVEST 原则（Independent / Negotiable / Valuable / Estimable / Small / Testable）
+> Story 数量按需出（取消硬凑 10），使用 INVEST 原则。
+>
+> **重写状态**（v2.0，2026-04-26）：
+> - ✅ E01 已按新规则重写（6 stories）
+> - ⚠️ E02-E20 为旧版（含 Cloudflare/Render/Sentry 等已禁用关键词），等待 Wave 2-3 重写
 
 ---
 
@@ -18,7 +22,7 @@ inputDocuments:
 
 | Epic # | 名称 | 模块 | 故事数 | 优先级 | 阶段 | 文件 |
 |:---:|---|---|:---:|:---:|:---:|---|
-| E01 | 平台基础设施 | spec | 12 | P0 | M0 | [01-platform-foundation.md](./01-platform-foundation.md) |
+| E01 | 平台基础设施 | spec | **6** ✅ | P0 | M0 | [01-platform-foundation.md](./01-platform-foundation.md) |
 | E02 | 设计系统与 UI 工具库 | ux | 10 | P0 | M0 | [02-design-system.md](./02-design-system.md) |
 | E03 | 用户账户体系 | 06 | 10 | P0 | M1 | [03-user-account.md](./03-user-account.md) |
 | E04 | 国际化与本地化 | 15 | 10 | P0 | M1 | [04-i18n.md](./04-i18n.md) |

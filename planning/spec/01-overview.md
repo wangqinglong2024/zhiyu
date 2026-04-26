@@ -1,233 +1,216 @@
 # 01 · 系统总览（System Overview）
 
-## 一、上下文图（C4 Level 1）
+> **顶层约束**：[planning/00-rules.md](../00-rules.md)。所有部署都在腾讯云 `115.159.109.23` 单台服务器、docker compose 编排。
+
+---
+
+## 一、上下文图（C4 Level 1，单服务器拓扑）
 
 ```
               ┌─────────────────────────────────────────┐
               │           SEA Learners (4 countries)    │
               │     Vietnam · Thailand · Indonesia · MY │
               └────┬────────────────────┬───────────────┘
-                   │ HTTPS              │ HTTPS
+                   │ HTTPS (prod) / HTTP+IP (dev/stg)   │
                    ▼                    ▼
         ┌──────────────────┐  ┌──────────────────┐
         │  Mobile PWA      │  │  Browser PWA     │
-        │  (iOS/Android)   │  │  (Chrome/Safari) │
+        │  zhiyu-app-fe    │  │  zhiyu-admin-fe  │
+        │  (3100 dev)      │  │  (4100 dev)      │
         └────────┬─────────┘  └────────┬─────────┘
-                 │                     │
+                 │ /api/v1            │ /api/v1
                  ▼                     ▼
         ┌──────────────────────────────────────┐
-        │      Cloudflare CDN + WAF            │
-        │      (R2, Workers, Images)           │
+        │  global-gateway (nginx, prod 域名)   │   ← 仅生产用
         └──────────────────┬───────────────────┘
-                           │
-                ┌──────────┼──────────────┐
-                │          │              │
-                ▼          ▼              ▼
-        ┌──────────┐ ┌──────────┐ ┌──────────────┐
-        │ App API  │ │ Admin API│ │ Public API   │
-        │ Express  │ │ Express  │ │ (i18n, share)│
-        └────┬─────┘ └────┬─────┘ └──────┬───────┘
-             │            │              │
-             └─────┬──────┴──────────────┘
-                   │
-        ┌──────────┴──────────────────────────────┐
-        │                                          │
-        ▼                                          ▼
-┌─────────────────┐                      ┌──────────────────┐
-│  Supabase       │                      │  Internal Workers│
-│  - Postgres 16  │                      │  - LangGraph     │
-│  - Auth         │                      │  - BullMQ jobs   │
-│  - Storage      │                      │  - Cron tasks    │
-└────────┬────────┘                      └────────┬─────────┘
-         │                                        │
-         └──────────────┬─────────────────────────┘
-                        │
-        ┌───────────────┼─────────────────────────┐
-        │               │                         │
-        ▼               ▼                         ▼
-┌─────────────┐  ┌──────────────┐        ┌────────────────┐
-│ Anthropic   │  │ DeepSeek     │        │ Paddle         │
-│ (Claude     │  │ (V3 / TTS)   │        │ LemonSqueezy   │
-│  Sonnet 4.5)│  │              │        │ (Payments MoR) │
-└─────────────┘  └──────────────┘        └────────────────┘
+                           │ docker network: gateway_net
+                           ▼
+        ┌────────────────────────────────────────────────────┐
+        │ Tencent Cloud single host  115.159.109.23          │
+        │                                                    │
+        │  zhiyu-app-be (8100)   zhiyu-admin-be (9100)       │
+        │  zhiyu-worker (BullMQ)                             │
+        │       │                                            │
+        │       ├──► supabase-kong (8000) ── supabase-db     │
+        │       │                       └─ supabase-auth     │
+        │       │                       └─ supabase-storage  │
+        │       │                       └─ supabase-realtime │
+        │       │                       └─ supabase-edge-fn  │
+        │       │                       └─ pgvector (in DB)  │
+        │       │                                            │
+        │       └──► zhiyu-redis (6379)                      │
+        │                                                    │
+        │  All services in docker; logs via pino → docker    │
+        │  logs / files; metrics via /metrics (内网).         │
+        └────────────────────────────────────────────────────┘
 
-┌────────────────────┐  ┌──────────────┐  ┌────────────────┐
-│ OneSignal (Push)   │  │ PostHog      │  │ Sentry / BL    │
-│                    │  │ (Analytics)  │  │ (Errors/Logs)  │
-└────────────────────┘  └──────────────┘  └────────────────┘
+  ┌─────────────────────────────────────────────────┐
+  │ Agent / dev tools (在本地 IDE / CI 工程师机器)  │
+  │  - Tavily MCP   → 数据/选题/资讯查询             │
+  │  - Puppeteer MCP → E2E 浏览器测试 (端口直连)     │
+  │  - Future LangGraph + Vercel AI SDK (本期不用)   │
+  └─────────────────────────────────────────────────┘
 ```
+
+---
 
 ## 二、子系统划分（C4 Level 2）
 
 ### 2.1 前端
-- **App PWA** (`apps/app`): React 19 SPA，TanStack Router/Query，PixiJS 游戏画布
-- **Admin Web** (`apps/admin`): React 19，TanStack，复杂表单 / 表格
-- **Marketing Site** (`apps/web`): SSG（v1.5），SEO 优先
-- **Shared UI** (`packages/ui`): 组件库 + Tokens + Storybook
-- **Shared Logic** (`packages/sdk`, `packages/i18n`)
+
+| 应用 | 目录 | 端口（dev）| 说明 |
+|---|---|---|---|
+| App PWA (C 端) | `apps/web` | 3100 | React 19 SPA + PixiJS 画布 |
+| Admin Web (B 端) | `apps/admin` | 4100 | React 19 SPA |
+| 共享 UI | `packages/ui` | — | 组件库 + Tokens（Storybook 可选）|
+| 共享 SDK | `packages/sdk`、`packages/i18n` | — | API client、Supabase wrapper、i18n |
 
 ### 2.2 后端
-- **App API** (`apps/api`): Express，REST + tRPC（内部）
-  - 用户、内容、学习、游戏、经济、分销、支付、客服
-- **Admin API**：合并到 App API，路径前缀 `/admin/v1`
-- **Workers** (`apps/worker`):
-  - LangGraph 内容工厂（Article / Chapter / Lesson / Pack）
-  - 评分 / 推荐
-  - 报表导出 / 邮件 / 推送
 
-### 2.3 数据
-- **Supabase Postgres 16**：主库
-- **Upstash Redis**：cache + session + queue (BullMQ)
-- **Cloudflare R2**：媒体（图 / 音 / 视频）
-- **Cloudflare Workers KV**：Feature Flags 缓存
+| 服务 | 目录 | 端口（dev）| 说明 |
+|---|---|---|---|
+| App API | `apps/api` | 8100 | Express，REST `/api/v1/*` |
+| Admin API | `apps/admin-api` | 9100 | Express，REST `/api/v1/admin/*`（可与 App API 复用 codebase，按入口拆容器）|
+| Worker | `apps/worker` | — | BullMQ 消费、定时任务、AI mock 编排 |
 
-### 2.4 AI 层
-- **Claude Sonnet 4.5**：内容创作 / 翻译 / 复杂改写
-- **DeepSeek V3**：审稿 / 简单生成 / 语义评分（成本低）
-- **DeepSeek TTS**：句子级 TTS
-- **Whisper / Azure**：语音识别（v1.5 跟读评分）
-- **OpenAI（备选）**：仅图像 DALL-E (v1.5)
+### 2.3 数据层（统一 Supabase 自托管）
+
+- Postgres 16（主库 + pgvector + FTS）
+- supabase-auth（用户与后台共用，role 区分）
+- supabase-storage（4 桶：images / audio / uploads / backups）
+- supabase-realtime（IM、推送）
+- supabase-edge-functions（webhook 转发等）
+- zhiyu-redis（cache + BullMQ）
+
+### 2.4 AI 层（本期占位）
+
+- `LLMAdapter`、`TTSAdapter`、`ASRAdapter`、`WorkflowAdapter`：接口契约 + fixture，缺 key 自动 fake。
+- 未来：编排 LangGraph (TS)，模型走 Vercel AI SDK，供应商占位 Anthropic Claude / DeepSeek。
+
+---
 
 ## 三、运行时拓扑
 
-| 服务 | 运行时 | 部署 | 副本 (v1) |
+| 服务 | 运行时 | 部署 | dev 副本 |
 |---|---|---|---|
-| App PWA | 静态 | Cloudflare Pages | - |
-| Admin Web | 静态 | Cloudflare Pages | - |
-| Marketing | 静态 | Cloudflare Pages | - |
-| App API | Node 20 | Render / Fly.io | 2 (HA) |
-| Worker | Node 20 | Render | 2 |
-| Postgres | 托管 | Supabase Cloud (Singapore) | Pro plan |
-| Redis | 托管 | Upstash (Singapore) | Standard |
-| R2 Storage | 托管 | Cloudflare | - |
-| LangGraph | 内嵌 Worker | - | - |
+| zhiyu-app-fe | nginx serve dist | docker compose | 1 |
+| zhiyu-admin-fe | nginx serve dist | docker compose | 1 |
+| zhiyu-app-be | Node 20 | docker compose | 1 |
+| zhiyu-admin-be | Node 20 | docker compose | 1 |
+| zhiyu-worker | Node 20 | docker compose | 1 |
+| supabase-* | 现成镜像 | 既有 docker | — |
+| zhiyu-redis | redis:7-alpine | docker compose | 1 |
+| global-gateway | nginx | 既有 docker | — |
+
+prod 副本数：v1 阶段单副本；高可用走 v1.5 评估（多容器 + 健康检查滚动更新）。
+
+---
 
 ## 四、地域与延迟
 
-### 4.1 用户分布
-- 越南 30% / 泰国 25% / 印尼 30% / 马来菲律宾新加坡 15%
+- 主区域：腾讯云广州（用户主要为东南亚 → 后续 v1.5 评估迁 SG/HK 节点）。
+- CDN：v1 不走外部 CDN；静态资源由 nginx 直接 gzip + 长 cache header。
+- 目标：API P95 < 300ms（夜间窗口可能含跨境抖动）。
 
-### 4.2 选址
-- **主区域**：Singapore（Supabase / Upstash / Render Singapore）
-- **CDN**：Cloudflare 全球（含东南亚多 PoP）
-- **目标延迟**：API < 200ms, 静态资源 < 100ms
+---
 
-### 4.3 灾备
-- v1：Supabase 自动备份 PITR 7d
-- v1.5：跨区域 Read Replica（HK 备）
-- v2：多 Region 分片
+## 五、容量规划（v1 上线）
 
-## 五、容量规划
+- DAU：1k → 10k
+- API QPS 峰值：100
+- 数据库：50GB
+- Storage 桶：500GB
+- AI 调用：本期 0（mock）
 
-### 5.1 v1 上线（M3）
-- DAU 1k → 10k
-- API QPS 峰值 100
-- 数据库存储 50GB
-- R2 存储 500GB
-- 月 AI 成本 $500
+> v1.5 / v2 容量目标见 PRD 非功能需求；本架构在 v1 阶段单台主机容量充足。
 
-### 5.2 v1.5（M9）
-- DAU 50k
-- QPS 峰值 500
-- 数据库 200GB
-- R2 2TB
-- 月 AI 成本 $5k
-
-### 5.3 v2（M15）
-- DAU 200k
-- QPS 峰值 2000
-- 数据库 1TB（开始分片评估）
-- R2 10TB
-- 月 AI 成本 $30k
+---
 
 ## 六、性能目标
 
 | 指标 | 目标 |
 |---|---|
 | API P50 | < 80ms |
-| API P95 | < 200ms |
-| API P99 | < 500ms |
-| 错误率 | < 0.5% |
-| 可用性 | 99.5% (v1) → 99.9% (v2) |
-| 应用启动 | < 2s |
+| API P95 | < 300ms |
+| API 错误率 | < 1% |
+| 应用首屏 LCP | < 2.5s |
 | 游戏加载 | < 3s |
+| 可用性 (v1) | 99.5% / 月 |
+
+---
 
 ## 七、扩展策略
 
-### 7.1 水平扩展
-- API 无状态 → 加副本
-- Worker 按队列 backlog 自动扩
-- DB 暂垂直，> 200GB 评估读写分离
+### 7.1 单机内扩展
+- API 多容器副本（compose `deploy.replicas`），nginx 负载均衡。
+- Worker 按队列堆积手动扩副本。
+- DB 暂垂直；> 200GB 评估读写分离（v2）。
 
-### 7.2 垂直扩展
-- Supabase 直接升级套餐
-- Upstash 自动 scale
+### 7.2 跨机扩展（v2+）
+- 增 1 台同 region 主机，主备 DB（supabase 提供 logical replication）。
+- 媒体走对象存储（v2 再引入，本期 supabase-storage 足够）。
 
 ### 7.3 缓存
-- API 响应 Redis（用户 / 内容）
-- CDN 静态全部
-- Browser Service Worker
+- API 响应 → Redis（用户/内容粒度）。
+- Browser Service Worker → 静态资产。
+
+---
 
 ## 八、单体 vs 微服务
 
-**v1-v1.5：单体优先**
-- 一个 API 服务（按路由分模块）
-- 一个 Worker 服务（按队列分 job）
-- 共享 Postgres
-- 团队 ≤ 20 人，单体维护成本低
+**v1 单体优先**：4 个业务容器（app-be / admin-be / worker / fe×2）共享 codebase 与 Postgres；同 monorepo 多入口。
 
-**v2：评估服务拆分**
-- 内容工厂独立服务（资源密集）
-- 客服 IM 独立服务（实时）
-- 支付独立服务（高安全）
+v2 评估拆分：内容工厂（资源密集）、IM（实时）独立服务。
 
-## 九、关键架构决策（ADR 摘要）
+---
 
-详见 ADR 索引 (00-index.md)。每个决策含：
-- 决策内容
-- 上下文（为何决策）
-- 备选方案
-- 影响 / Trade-off
+## 九、范围与不做的事
 
-ADR 文件单独管理在 `planning/spec/adr/{id}-{topic}.md`（v1.5 引入）。
+### 9.1 范围
 
-## 十、范围与不做的事
+- C 端 PWA（Web / iOS PWA / Android PWA）
+- 管理后台（Web）
+- 12 款游戏 MVP
+- 4 国本地化（vi / th / id / en）
+- 商业模型：订阅 + 一次性 + 知语币 + 分销（支付走 Adapter，本期可不通真支付）
+- 12 类目内容（中国发现、课程、小说等）
 
-### 10.1 范围
-- 应用端：Web / iOS PWA / Android PWA
-- 后台：Web
-- AI 内容工厂：自动化文章 / 课程 / 小说生成
-- 12 款游戏：浏览器 + 移动横屏
-- 4 国本地化：vi / th / id / en
-- 商业：订阅 + 一次性 + 知语币 + 分销
+### 9.2 不做（本期）
 
-### 10.2 不做
-- 原生 App（v1 用 PWA，v2+ 评估）
-- 实时多人在线（v3+ 评估）
-- 直播 / 录播大课（不在范围）
+- 真实 AI 调用（接口和数据流必须就位，模型用 mock）
+- 原生 App（PWA 即可）
+- 多人实时
 - AR / VR
-- 中国大陆运营（先海外）
-- 企业版（v2+ 评估）
+- 直播
+- 境内合规深耕（v2+）
+- 任何托管 SaaS（CI/CD/监控/部署）
 
-## 十一、Risk 列表
+---
+
+## 十、Risk 列表
 
 | Risk | 影响 | 缓解 |
 |---|---|---|
-| AI 成本超预算 | 中 | 配额监控 + DeepSeek 优先 + 缓存 |
-| Supabase 限制 | 中 | v2 评估自托管 PG |
-| Cloudflare 区域故障 | 低 | 多 PoP + 监控 |
-| iOS PWA 限制 | 中 | 游戏适配 + v1.5 原生壳 |
+| Supabase 单实例故障 | 中 | 每日 pg_dump → /opt/backups/zhiyu/，PITR 视情况开启 |
+| 服务器单点 | 中 | 关键流程降级（只读模式）；v1.5 引入备机 |
+| iOS PWA 限制 | 中 | 游戏走 PixiJS，避免不兼容 API |
 | 4 语翻译质量 | 高 | 母语审稿 + 用户反馈 |
-| 支付合规 | 高 | Paddle MoR 兜底 |
+| AI 上线后成本 | 中 | Adapter 设阶梯，本期不发生 |
+| 跨境延迟 | 中 | nginx HTTP/2 + 长 cache + gzip |
 
-## 十二、技术债策略
+---
 
-- 每 Sprint 留 10% 处理技术债
-- 重大债（架构）单独 Spike Story
-- v2 重构窗口：v1.5 上线后 1 月
+## 十一、技术债策略
 
-## 十三、Change Log
+- 每 Sprint 留 10% 处理技术债。
+- 重大债走 Spike Story。
+- AI Adapter 真实接入留作专门 epic（未来）。
 
-| 日期 | 版本 | 作者 | 变更 |
-|---|---|---|---|
-| 2026-04-25 | v1.0 | Architect | 初版 |
+---
+
+## 十二、Change Log
+
+| 日期 | 版本 | 变更 |
+|---|---|---|
+| 2026-04-25 | v1.0 | 初版（含 Cloudflare/Render/Sentry 等托管栈）|
+| 2026-04-26 | v2.0 | 全面重写：单服务器 + Docker only + Supabase 全功能 + AI mock + 端口约定 |

@@ -1,16 +1,17 @@
 ---
-stepsCompleted: ["init","context-scan","tech-stack","frontend","backend","data","ai","integrations","deployment","security","observability","factory"]
+stepsCompleted: ["init","tech-stack","frontend","backend","data","integrations","deployment","security","observability","game-engine","realtime"]
 inputDocuments:
+  - planning/00-rules.md
   - planning/prds/**
   - planning/ux/**
 ---
 
-# 知语 Zhiyu · 技术架构总目录（Solution Architecture）
+# 知语 Zhiyu · 技术架构总目录
 
-> **作者**：Architect Agent (BMAD `bmad-create-architecture`)
-> **日期**：2026-04-25
-> **依据**：`planning/prds/**` 全 15 模块 + `planning/ux/**` 16 文件
-> **目标**：为 12-15 月内交付 v1（4 国 SEA 上线）+ v1.5（功能扩展）+ v2（规模化）的完整技术方案
+> **顶层约束**：[planning/00-rules.md](../00-rules.md)（Docker only / Supabase first / AI mock 期）。
+>
+> **作者**：Architect Agent
+> **日期**：2026-04-26（v2.0，按新规则全面重写）
 
 ---
 
@@ -18,19 +19,21 @@ inputDocuments:
 
 | # | 文件 | 内容 | 状态 |
 |:---:|---|---|:---:|
-| 00 | [00-index.md](./00-index.md) | 总目录 | ✅ |
-| 01 | [01-overview.md](./01-overview.md) | 系统总览、上下文图、关键架构决策（ADR 索引） | ✅ |
-| 02 | [02-tech-stack.md](./02-tech-stack.md) | 技术选型矩阵 + 版本锁定 + 替代方案理由 | ✅ |
-| 03 | [03-frontend.md](./03-frontend.md) | 前端架构（应用 PWA + 后台 Web + 共享 packages） | ✅ |
-| 04 | [04-backend.md](./04-backend.md) | 后端架构（Node/Express/Fastify + REST/RPC + Job） | ✅ |
-| 05 | [05-data-model.md](./05-data-model.md) | 数据库 Schema 全表、RLS 策略、索引、迁移流程 | ✅ |
-| 06 | [06-ai-factory.md](./06-ai-factory.md) | LangGraph 内容工厂 + Claude/DeepSeek 编排 + 评估 | ✅ |
-| 07 | [07-integrations.md](./07-integrations.md) | Paddle / LemonSqueezy / OAuth / TTS / OneSignal 等第三方 | ✅ |
-| 08 | [08-deployment.md](./08-deployment.md) | 多环境部署、CI/CD、Cloudflare、监控、回滚 | ✅ |
-| 09 | [09-security.md](./09-security.md) | 认证授权、加密、合规、隐私、风控 | ✅ |
-| 10 | [10-observability.md](./10-observability.md) | 日志、监控、追踪、告警、SLO | ✅ |
-| 11 | [11-game-engine.md](./11-game-engine.md) | PixiJS 游戏引擎共享层 + 12 游戏插件接入 | ✅ |
-| 12 | [12-realtime-and-im.md](./12-realtime-and-im.md) | 客服 IM、实时通知、WebSocket / SSE | ✅ |
+| 00 | [00-index.md](./00-index.md) | 总目录 + ADR 索引 | ✅ |
+| 01 | [01-overview.md](./01-overview.md) | 系统总览、单服务器拓扑 | ✅ |
+| 02 | [02-tech-stack.md](./02-tech-stack.md) | 技术选型矩阵（Docker only） | ✅ |
+| 03 | [03-frontend.md](./03-frontend.md) | 前端架构（应用 + 后台 PWA） | ⚠️ 待对齐新规则 |
+| 04 | [04-backend.md](./04-backend.md) | 后端（Express，REST + Supabase） | ⚠️ 待对齐新规则 |
+| 05 | [05-data-model.md](./05-data-model.md) | Supabase Postgres schema、RLS、索引 | ✅ |
+| 06 | [06-ai-factory.md](./06-ai-factory.md) | AI 工厂接口（本期 mock） | ⚠️ 待降级为 Adapter 占位 |
+| 07 | [07-integrations.md](./07-integrations.md) | 第三方 Adapter 接口 | ⚠️ 待对齐新规则 |
+| 08 | [08-deployment.md](./08-deployment.md) | docker-compose 部署 | ✅ |
+| 09 | [09-security.md](./09-security.md) | Auth、加密、风控 | ⚠️ 小修 |
+| 10 | [10-observability.md](./10-observability.md) | 本地栈日志/指标/告警 | ✅ |
+| 11 | [11-game-engine.md](./11-game-engine.md) | PixiJS 游戏引擎 | ⚠️ 小修 |
+| 12 | [12-realtime-and-im.md](./12-realtime-and-im.md) | Supabase Realtime IM | ⚠️ 小修 |
+
+> ⚠️ 标记的文件保留主体内容，**仅替换违规段落**（Cloudflare/Render/Doppler/Sentry/PostHog/Better Stack/Dify → 对应本地等价物或 Adapter 占位）。下一波次专项处理。
 
 ---
 
@@ -38,33 +41,36 @@ inputDocuments:
 
 | ADR # | 决策 | 理由 |
 |:---:|---|---|
-| 001 | 单体 monorepo (pnpm workspace) | 团队规模 ≤ 20，复用度高 |
-| 002 | TypeScript strict 全栈 | 类型安全 + IDE 体验 |
-| 003 | Vite + React 19 + TanStack Router | 快、类型安全、SSR 可选 |
-| 004 | Tailwind v4 + shadcn/ui + 自研 packages/ui | 快速搭建 + 可控 |
-| 005 | Express + Fastify 混合（v1 Express，v1.5 评估 Fastify） | 团队熟 + 性能 |
-| 006 | Supabase Postgres 16 (托管) | RLS + Auth + Storage 一站 |
-| 007 | LangGraph + Claude Sonnet 4.5（写作）+ DeepSeek V3（审稿） | 编排 + 多模型分工 |
-| 008 | PixiJS v8 + Matter.js + Howler.js | 游戏 60fps + 物理 + 音频 |
-| 009 | Cloudflare（CDN/WAF/Workers/R2） | 全球 + 东南亚低延迟 |
-| 010 | Paddle MoR + LemonSqueezy 备份 | 全球结税 + 备份 |
+| 001 | 单体 monorepo (pnpm + Turborepo) | 团队 ≤ 20，复用度高 |
+| 002 | TypeScript strict 全栈 | 类型安全 |
+| 003 | Vite + React 19 + TanStack Router | 类型安全 + 速度 |
+| 004 | Tailwind v4 + shadcn/ui | 快速搭建 |
+| 005 | Express（v1）；Fastify v1.5 评估 | 团队熟 |
+| 006 | **Supabase 自托管**（DB+Auth+Storage+Realtime+Edge+pgvector） | 一站式，单服务器自治 |
+| 007 | **本期 AI = Adapter mock**；未来 LangGraph + Vercel AI SDK | 新规则要求 |
+| 008 | PixiJS v8 + Matter.js + Howler.js | 60fps + 物理 + 音频 |
+| 009 | **唯一编排 = docker compose**（dev/stg/prod 三 yml） | 新规则要求 |
+| 010 | **支付 Adapter 占位**；未来 Paddle / 微信 | 新规则要求 |
 | 011 | i18next 4 语 + 内容多语言独立表 | UI 与内容分离 |
-| 012 | OneSignal 推送 + Server-Sent Events | 简单 + 跨平台 |
-| 013 | Redis（Upstash 托管）作 cache + queue | 轻量 + serverless 友好 |
-| 014 | BullMQ 作业队列 | 内容工厂 / 报表生成 |
-| 015 | Sentry 错误 + PostHog 行为 + Better Stack 日志 | 三件套 |
+| 012 | **通知/推送 Adapter 占位**（本期 console）；未来 OneSignal | 新规则要求 |
+| 013 | **Redis 自托管 docker** + BullMQ | 不依赖 Upstash |
+| 014 | **可观测性本地栈**（pino + prom-client + 自建表） | 不依赖 Sentry/PostHog/Better Stack |
+| 015 | **Web 数据查询走 Tavily MCP**（agent 侧） | 新规则要求 |
+| 016 | **Dify 全局禁用** | 新规则要求 |
+
+---
 
 ## 上下游消费
 
 - **前端开发**：03 / 11 / 12
 - **后端开发**：04 / 05 / 07 / 12
-- **AI 工程师**：06
 - **DevOps**：08 / 10
 - **安全 / 合规**：09
-- **产品 / PM**：01 / 06（理解工厂能力边界）
+- **产品 / PM**：01 / 06
 
 ## Change Log
 
 | 日期 | 版本 | 作者 | 变更 |
 |---|---|---|---|
-| 2026-04-25 | v1.0 | Architect Agent | 初版完整技术架构（12 文件） |
+| 2026-04-25 | v1.0 | Architect Agent | 初版 |
+| 2026-04-26 | v2.0 | Architect Agent | 全面重写以符合 00-rules.md：移除 Cloudflare/Render/Doppler/Sentry/PostHog/Better Stack/Dify；落实 Docker-only、Supabase 全功能优先、AI mock 期。03/04/06/07/09/11/12 待下一波次精修。 |

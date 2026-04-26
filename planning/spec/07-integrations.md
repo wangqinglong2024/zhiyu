@@ -1,5 +1,7 @@
 # 07 · 第三方集成（Integrations）
 
+> ⚠️ **本文件大量章节（Cloudflare R2/Workers/Turnstile、PostHog、Sentry、Better Stack、Doppler）已被 [00-rules.md](../00-rules.md) 禁用**；保留作为未来评估底稿。本期所有第三方一律走 Adapter 接口（见 spec/02 §六）+ fake 实现；密钥走 `system/docker/.env` 单文件。下一波次会按此规则精改本文。
+
 ## 一、整体集成清单
 
 | 类别 | 服务 | 用途 | 阶段 |

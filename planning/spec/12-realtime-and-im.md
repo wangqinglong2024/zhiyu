@@ -1,5 +1,7 @@
 # 12 · 实时与 IM（Realtime & IM）
 
+> ⚠️ **按 [00-rules.md](../00-rules.md) §3，IM/通知/推送一律走 supabase-realtime**，不再独立部署 Socket.io。本文若有 Socket.io / 独立 ws 服务设计，作为备选保留；首选 Supabase Realtime channel。下一波次精改。
+
 ## 一、用途
 
 1. 客服 IM（用户 ↔ 客服）

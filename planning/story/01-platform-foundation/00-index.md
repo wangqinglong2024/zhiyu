@@ -1,20 +1,18 @@
-# E01 · 平台基础设施 · Stories 索引
+# Story Index · E01 平台基础设施
 
-> Epic：[01-platform-foundation.md](../../epics/01-platform-foundation.md)
-> Sprint：[01-platform-foundation.md](../../sprint/01-platform-foundation.md)
-> 状态：[sprint-status.yaml](../../sprint/sprint-status.yaml#epic-1)
+> **顶层约束**：[planning/00-rules.md](../../00-rules.md)。
+> Story 数量按需出（6 个），不再硬凑 10。
 
-| Story | 标题 | 估 | 状态 |
-|---|---|:-:|:-:|
-| [1.1](./1-1-init-monorepo.md) | 初始化 Monorepo | M | ready-for-dev |
-| [1.2](./1-2-typescript-strict-config.md) | TypeScript 严格配置 | S | ready-for-dev |
-| [1.3](./1-3-eslint-prettier-commitlint.md) | ESLint + Prettier + Commitlint | S | ready-for-dev |
-| [1.4](./1-4-github-actions-ci.md) | GitHub Actions CI | M | ready-for-dev |
-| [1.5](./1-5-cloudflare-pages-deploy.md) | Cloudflare Pages 部署 4 站 | M | ready-for-dev |
-| [1.6](./1-6-render-api-worker-deploy.md) | Render API + Worker 部署 | L | ready-for-dev |
-| [1.7](./1-7-doppler-secrets.md) | Doppler Secrets 管理 | S | ready-for-dev |
-| [1.8](./1-8-sentry-integration.md) | Sentry FE/BE 接入 | M | ready-for-dev |
-| [1.9](./1-9-posthog-betterstack.md) | PostHog + Better Stack 接入 | M | ready-for-dev |
-| [1.10](./1-10-supabase-init.md) | Supabase 初始化 | S | ready-for-dev |
-| [1.11](./1-11-redis-bullmq-skeleton.md) | Redis + BullMQ 骨架 | M | ready-for-dev |
-| [1.12](./1-12-storybook-docs-init.md) | Storybook + 文档站 | S | ready-for-dev |
+| ID | 标题 | 估 | 状态 |
+|---|---|---|---|
+| [ZY-01-01](./1-1-init-monorepo.md) | 初始化 Monorepo 骨架 | M | ready-for-dev |
+| [ZY-01-02](./1-2-code-style-hooks.md) | 代码风格与本地 hooks | S | ready-for-dev |
+| [ZY-01-03](./1-3-docker-compose-dev.md) | Docker Compose 一键拉起 | L | ready-for-dev |
+| [ZY-01-04](./1-4-secrets-zod.md) | Secrets 与启动校验 | S | ready-for-dev |
+| [ZY-01-05](./1-5-supabase-init.md) | Supabase 接入与 schema 初始化 | M | ready-for-dev |
+| [ZY-01-06](./1-6-redis-bullmq-health-logs.md) | Redis + BullMQ + 健康端点 + 日志 + Adapter 占位 | M | ready-for-dev |
+
+**关联文档**：
+- Epic：[../../epics/01-platform-foundation.md](../../epics/01-platform-foundation.md)
+- 部署：[../../spec/08-deployment.md](../../spec/08-deployment.md)
+- 可观测性：[../../spec/10-observability.md](../../spec/10-observability.md)

@@ -1,86 +1,187 @@
-# 08 · 部署与 CI/CD（Deployment）
+# 08 · 部署（Docker Only）
 
-## 一、环境
+> **本文档受 [planning/00-rules.md](../00-rules.md) 强约束**：唯一编排=docker compose；唯一服务器=`115.159.109.23`；禁用任何托管 CI/CD/部署 SaaS。
 
-| 环境 | 用途 | 触发 | 域名 |
+---
+
+## 一、环境矩阵
+
+| 环境 | 触发方式 | Compose 文件 | 域名/访问 |
 |---|---|---|---|
-| local | 本地开发 | `pnpm dev` | localhost |
-| dev | 持续集成 | PR push | dev.zhiyu.io |
-| staging | 预发 | main merge | staging.zhiyu.io |
-| prod | 生产 | tag release | app.zhiyu.io / admin.zhiyu.io / api.zhiyu.io |
+| local（开发机）| `docker compose up` | `system/docker/docker-compose.dev.yml` | `localhost:3100/8100/4100/9100` |
+| dev（服务器）| 手动 SSH | 同上 | `http://115.159.109.23:3100/8100/4100/9100` |
+| staging | 手动 SSH | `docker-compose.stg.yml` | `http://115.159.109.23:3200/8200/4200/9200` |
+| prod | 手动 SSH | `docker-compose.prod.yml` | `https://<待定域名>` |
 
-## 二、域名规划
+> 仅 prod 走域名 + TLS；dev/staging 始终 IP+端口。
+
+---
+
+## 二、端口与容器（统一约束）
+
+| 角色 | 容器名 | dev | staging | prod |
+|---|---|---|---|---|
+| 应用前端 | `zhiyu-app-fe` | 3100 | 3200 | 80/443（域名）|
+| 应用后端 | `zhiyu-app-be` | 8100 | 8200 | 80/443（域名）|
+| 管理前端 | `zhiyu-admin-fe` | 4100 | 4200 | 80/443（域名）|
+| 管理后端 | `zhiyu-admin-be` | 9100 | 9200 | 80/443（域名）|
+| Worker | `zhiyu-worker` | 仅内网 | 仅内网 | 仅内网 |
+
+防火墙：dev/staging 端口在腾讯云安全组与 ufw 已放行。
+
+---
+
+## 三、网络与依赖
 
 ```
-zhiyu.io                  # 营销站
-app.zhiyu.io              # 应用 PWA
-admin.zhiyu.io            # 管理后台
-api.zhiyu.io              # API 主域
-ws.zhiyu.io               # WebSocket（IM）
-cdn.zhiyu.io              # 静态资源（R2 自定义）
-audio.zhiyu.io            # 音频 CDN
-images.zhiyu.io           # 图片 CDN
-status.zhiyu.io           # 状态页
-storybook.zhiyu.io        # Storybook
-docs.zhiyu.io             # 开发文档
+┌────────────────────────────────────────────┐
+│ Docker host (115.159.109.23)               │
+│                                            │
+│  network: gateway_net                      │
+│   ├─ global-gateway (nginx) ── prod 域名   │
+│   ├─ supabase-kong (8000) ── 数据/Auth    │
+│   ├─ supabase-studio (3000)                │
+│   └─ zhiyu-* 业务容器                      │
+│                                            │
+│  network: zhiyu-internal                   │
+│   ├─ zhiyu-app-be ── redis ── supabase-kong│
+│   ├─ zhiyu-admin-be                        │
+│   └─ zhiyu-worker                          │
+└────────────────────────────────────────────┘
 ```
 
-## 三、部署目标
+- 所有 zhiyu 业务容器同时加入 `gateway_net`（对外 + 访问 supabase）与 `zhiyu-internal`（内部互通）。
+- Redis：复用既有 `redis-tcm` 容器或新建 `zhiyu-redis`（dev 阶段 docker-compose.dev.yml 内自带）。
+- DB：复用 `supabase-db`，schema 隔离 `dev_zhiyu` / `stg_zhiyu` / `public`。
 
-| 服务 | 平台 | 配置 |
-|---|---|---|
-| App PWA | Cloudflare Pages | Vite SPA |
-| Admin | Cloudflare Pages | Vite SPA |
-| Marketing | Cloudflare Pages | Vite SSG |
-| API | Render (SG) | Node 20 Docker |
-| Worker | Render (SG) | Node 20 Docker |
-| Cron | Render Cron | - |
-| Postgres | Supabase Cloud SG | Pro plan |
-| Redis | Upstash SG | Standard |
-| Storage | Cloudflare R2 | - |
-| Storybook | Cloudflare Pages | - |
+---
 
-## 四、Cloudflare 配置
+## 四、Compose 结构
 
-### 4.1 Pages 项目
-- 4 个 Project（app / admin / marketing / storybook）
-- Build 命令：`pnpm turbo build --filter=...`
-- Output：`apps/<name>/dist`
-- 环境变量按环境
-- Preview URL 每 PR 自动
+```
+system/docker/
+├── docker-compose.dev.yml        # 主用
+├── docker-compose.stg.yml
+├── docker-compose.prod.yml
+├── .env.example
+├── .env                          # gitignored
+└── nginx/
+    └── prod/                     # 生产域名 vhost（待定域名）
+```
 
-### 4.2 DNS
-- 主区 zhiyu.io
-- 子域 CNAME → Pages / Render
+`docker-compose.dev.yml`（草案）：
 
-### 4.3 WAF Rules
-- Bot 防护
-- Rate Limit 全站 (10k/IP/hour)
-- 关键端点限速
-- 国家允许列表（可选）
+```yaml
+name: zhiyu-dev
 
-### 4.4 Page Rules / Cache
-- 静态资源 `/assets/*` → Cache Everything 1y
-- HTML → no-cache
-- API 透传
+networks:
+  gateway_net:
+    external: true
+  zhiyu-internal:
+    driver: bridge
 
-### 4.5 Workers
-- 边缘函数（v1.5）
-- 地理路由
-- A/B 测试
+x-app-env: &app-env
+  APP_ENV: dev
+  PROJECT_NAME: zhiyu
+  SUPABASE_URL: http://supabase-kong:8000
+  SUPABASE_ANON_KEY: ${SUPABASE_ANON_KEY}
+  SUPABASE_SERVICE_ROLE_KEY: ${SUPABASE_SERVICE_ROLE_KEY}
+  DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD}@supabase-db:5432/postgres?search_path=dev_zhiyu
+  REDIS_URL: redis://zhiyu-redis:6379/0
 
-### 4.6 R2
-- 4 桶（images / audio / uploads / backups）
-- Custom domain CDN
-- Lifecycle policy（自动归档旧文件）
+services:
+  zhiyu-app-be:
+    build: { context: ../.., dockerfile: apps/api/Dockerfile, target: dev }
+    container_name: zhiyu-app-be
+    environment: { <<: *app-env, ROLE: app-api }
+    ports: ["8100:8080"]
+    networks: [gateway_net, zhiyu-internal]
+    depends_on: [zhiyu-redis]
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8080/health"]
+      interval: 30s
 
-## 五、Docker
+  zhiyu-app-fe:
+    build: { context: ../.., dockerfile: apps/web/Dockerfile, target: dev }
+    container_name: zhiyu-app-fe
+    environment:
+      VITE_API_BASE: http://115.159.109.23:8100
+      VITE_SUPABASE_URL: http://115.159.109.23:8000
+      VITE_SUPABASE_ANON_KEY: ${SUPABASE_ANON_KEY}
+    ports: ["3100:80"]
+    networks: [gateway_net, zhiyu-internal]
+    depends_on: [zhiyu-app-be]
 
-### 5.1 API Dockerfile
+  zhiyu-admin-be:
+    build: { context: ../.., dockerfile: apps/admin-api/Dockerfile, target: dev }
+    container_name: zhiyu-admin-be
+    environment: { <<: *app-env, ROLE: admin-api }
+    ports: ["9100:8080"]
+    networks: [gateway_net, zhiyu-internal]
+    depends_on: [zhiyu-redis]
+
+  zhiyu-admin-fe:
+    build: { context: ../.., dockerfile: apps/admin/Dockerfile, target: dev }
+    container_name: zhiyu-admin-fe
+    environment:
+      VITE_API_BASE: http://115.159.109.23:9100
+      VITE_SUPABASE_URL: http://115.159.109.23:8000
+      VITE_SUPABASE_ANON_KEY: ${SUPABASE_ANON_KEY}
+    ports: ["4100:80"]
+    networks: [gateway_net, zhiyu-internal]
+    depends_on: [zhiyu-admin-be]
+
+  zhiyu-worker:
+    build: { context: ../.., dockerfile: apps/worker/Dockerfile, target: dev }
+    container_name: zhiyu-worker
+    environment: { <<: *app-env, ROLE: worker }
+    networks: [gateway_net, zhiyu-internal]
+    depends_on: [zhiyu-redis]
+
+  zhiyu-redis:
+    image: redis:7-alpine
+    container_name: zhiyu-redis
+    networks: [zhiyu-internal]
+    volumes: [zhiyu-redis-data:/data]
+
+volumes:
+  zhiyu-redis-data:
+```
+
+---
+
+## 五、Dockerfile 规范
+
+- 多阶段：`deps` → `build` → `runtime`，可选 `dev` target（启动 vite/tsx watch）。
+- 基础镜像：`node:20-alpine`。
+- runtime 阶段以非 root `node` 用户运行。
+- `.dockerignore` 必含：
+
+```
+.git
+.github
+.agents
+.claude
+_bmad
+planning
+docs
+china
+course
+games
+novels
+research
+**/node_modules
+**/.env
+**/.env.*
+!**/.env.example
+```
+
+示例（apps/api/Dockerfile）：
+
 ```dockerfile
 FROM node:20-alpine AS deps
 WORKDIR /app
-COPY package.json pnpm-lock.yaml turbo.json ./
+COPY package.json pnpm-lock.yaml turbo.json pnpm-workspace.yaml ./
 COPY apps/api/package.json apps/api/
 COPY packages/ ./packages/
 RUN corepack enable && pnpm i --frozen-lockfile
@@ -91,198 +192,107 @@ RUN pnpm turbo build --filter=api
 
 FROM node:20-alpine AS runtime
 WORKDIR /app
+RUN addgroup -S app && adduser -S app -G app
+USER app
 COPY --from=build /app/apps/api/dist ./dist
 COPY --from=build /app/node_modules ./node_modules
-EXPOSE 3000
+ENV NODE_ENV=production
+EXPOSE 8080
+HEALTHCHECK --interval=30s CMD wget -qO- http://localhost:8080/health || exit 1
 CMD ["node", "dist/server.js"]
+
+FROM deps AS dev
+COPY . .
+ENV NODE_ENV=development
+EXPOSE 8080
+CMD ["pnpm", "--filter=api", "dev"]
 ```
 
-### 5.2 Worker Dockerfile
-- 类似，CMD 指向 worker entry
+---
 
-## 六、CI/CD (GitHub Actions)
+## 六、部署流程（人工 SSH，不接托管 CI）
 
-### 6.1 PR Workflow
-```yaml
-name: ci
-on: [pull_request]
-jobs:
-  lint-test-build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v3
-      - uses: actions/setup-node@v4
-        with: { node-version: 20, cache: pnpm }
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm turbo lint typecheck test build --cache-dir=.turbo
-      - uses: actions/upload-artifact@v4
-        with: { name: build, path: apps/*/dist }
+```bash
+# 1) 拉取最新代码
+ssh root@115.159.109.23
+cd /opt/projects/zhiyu
+git pull
+
+# 2) 构建并重启
+cd system/docker
+docker compose -f docker-compose.dev.yml up -d --build
+
+# 3) 等健康检查 OK
+docker compose -f docker-compose.dev.yml ps
+
+# 4) 跑迁移（已在 BE 容器启动时自动跑；如需手动）
+docker compose -f docker-compose.dev.yml run --rm zhiyu-app-be pnpm db:migrate
+
+# 5) 烟雾测试
+curl -fsS http://115.159.109.23:8100/health
+curl -fsS http://115.159.109.23:9100/health
 ```
 
-### 6.2 Preview Deploy
-- PR 自动部署到 Cloudflare Pages preview
-- API preview 部署（Render preview env）
-- Bot 评论预览 URL
+> 任何 staging / prod 部署等同流程，仅 compose 文件和 .env 不同。
 
-### 6.3 Main Merge → Staging
-```yaml
-on: { push: { branches: [main] } }
-jobs:
-  deploy-staging:
-    steps:
-      - deploy-pages (staging)
-      - deploy-render (staging)
-      - run-e2e (Playwright against staging)
-      - notify-slack
-```
-
-### 6.4 Tag Release → Prod
-```yaml
-on: { push: { tags: ['v*.*.*'] } }
-jobs:
-  deploy-prod:
-    environment: production  # GitHub manual approval
-    steps:
-      - deploy-pages (prod)
-      - deploy-render (prod, blue-green)
-      - smoke-tests
-      - notify-slack
-```
-
-### 6.5 必备 Action
-- Lint + Typecheck + Test
-- Build with cache (Turborepo + remote cache)
-- Bundle size check
-- Lighthouse CI
-- Sentry release
-- Slack notify
+---
 
 ## 七、数据库迁移
 
-### 7.1 流程
-```
-1. 开发本地 drizzle generate
-2. PR 包含 migration SQL
-3. CI 验证（dryrun against shadow DB）
-4. main merge → staging 自动 apply
-5. 验证
-6. tag release → prod 手动 apply（受控窗口）
-```
+- 工具：`drizzle-kit`。
+- 文件：`apps/api/drizzle/migrations/*.sql`（入 git）。
+- 时机：BE 容器启动时执行 `pnpm db:migrate`；失败则容器健康检查不通过。
+- 安全：破坏性改动分两步（add → backfill → drop column），单 PR 不混合。
+- Shadow DB：本地用 `pg_temp` schema 预演；CI 不强制。
 
-### 7.2 安全
-- 破坏性迁移分两步（add column → backfill → drop）
-- 大表迁移分批（pgrm）
-- 回滚脚本必备
-
-### 7.3 工具
-- Drizzle Kit
-- Supabase CLI
-- 备份在迁移前自动触发
+---
 
 ## 八、Secrets
 
-- Doppler 集中管理
-- 各环境独立
-- GitHub Actions 通过 Doppler CLI 注入
-- 应用启动 Zod 校验
+- 文件：`system/docker/.env`，模板 `system/docker/.env.example`。
+- 启动时后端用 Zod 校验：必填项（DB URL / Supabase keys / JWT secret）缺失 → 启动失败；可选项（外部 API key）缺失 → fallback 到 fake adapter + WARN 日志。
+- 禁止：把 secrets 写入 dockerfile / compose 内联 / 入 git。
 
-## 九、发布策略
+---
 
-### 9.1 Blue-Green
-- API 双副本，新版本上线后切流
-- Render 自带支持
-- 失败回滚
+## 九、备份与恢复
 
-### 9.2 灰度
-- Cloudflare Workers 边缘灰度
-- 按用户 ID hash → 1% → 10% → 100%
+| 对象 | 工具 | 频率 | 保留 | 路径 |
+|---|---|---|---|---|
+| Supabase 主库 | `pg_dump -Fc` cron | 每日 02:00 | 30 天 | `/opt/backups/zhiyu/<ts>/full.dump` |
+| 关键 schema | `pg_dump --schema=dev_zhiyu` | 每日 | 30 天 | `/opt/backups/zhiyu/<ts>/schema-*.sql` |
+| Supabase Storage | rsync 桶目录 | 每日 | 30 天 | `/opt/backups/zhiyu-storage/` |
+| Redis | RDB | 每小时 | 24 小时 | `zhiyu-redis-data` volume |
 
-### 9.3 Feature Flag
-- 重大功能 Flag 控制
-- Flag 默认 off
-- 灰度开启
+恢复脚本：仓库 `system/scripts/restore.sh`（从 `/opt/backups/zhiyu/<ts>/` 还原）。
 
-## 十、监控部署
+> 灾难演练：每季度 1 次，文档化 RTO=4h / RPO=24h。
 
-### 10.1 Sentry Release
-- 自动上报 release version
-- 关联 commit / PR
-- Source map 上传
+---
 
-### 10.2 部署事件
-- 通过 PostHog 标注 release
-- 帮助识别回归
+## 十、回滚
 
-### 10.3 健康检查
-- /health endpoint
-- /ready endpoint
-- /metrics (Prometheus 格式)
+- 应用：保留上一稳定镜像 tag；`docker compose up -d --no-build` 切回。
+- 数据库：迁移脚本必带 `down`；对破坏性回滚走 PITR / 从最近 dump 还原。
 
-## 十一、备份与恢复
+---
 
-### 11.1 数据库
-- Supabase PITR 7 天
-- 每日 logical backup → R2
-- 30 天保留
+## 十一、健康检查
 
-### 11.2 R2
-- Versioning 启用关键桶
-- 跨区复制（v1.5）
+每个服务必须暴露：
+- `GET /health` → 200 + `{"status":"ok","version":"<git sha>","uptime":<sec>}`
+- `GET /ready` → 检查 DB / Redis / Supabase 连通；任一失败 → 503
+- `GET /metrics` → Prometheus 文本（仅内网访问，nginx 拦外部）
 
-### 11.3 灾难恢复
-- RTO: 4 小时
-- RPO: 1 小时
-- 演练每季度
+---
 
-## 十二、回滚
+## 十二、检查清单
 
-### 12.1 应用
-- Cloudflare Pages 一键回滚到上一 deployment
-- Render Docker tag 回滚
-
-### 12.2 数据库
-- 迁移回滚脚本
-- PITR 恢复
-- 业务数据可逆操作（软删 / 事件溯源）
-
-### 12.3 全链路回滚演练
-- 每季度
-- 文档化 runbook
-
-## 十三、容量监控
-
-### 13.1 指标
-- DB CPU / RAM / IOPS / 连接数
-- API CPU / RAM / 请求数
-- Worker 队列深度
-- Redis 内存
-
-### 13.2 告警
-- > 70% 警告
-- > 90% 紧急
-- 自动扩缩 (Render)
-
-## 十四、跨区域（v2）
-
-### 14.1 阶段
-- v1 单区（SG）
-- v1.5 评估 HK 备
-- v2 多区主动
-
-### 14.2 数据
-- DB read replica
-- 写入主区
-- 跨区 sync (Supabase)
-
-## 十五、检查清单
-
-- [ ] 4 环境完整
-- [ ] PR 自动 preview
-- [ ] main → staging 自动
-- [ ] tag → prod 手动审批
-- [ ] 数据库迁移自动 + 手动审
-- [ ] Secrets 集中
-- [ ] 备份自动 + 演练
-- [ ] 回滚可一键
-- [ ] 健康检查 + 监控
+- [ ] dev compose 一条命令拉起整套
+- [ ] 4 个对外端口（3100/8100/4100/9100）从 `115.159.109.23` 可访问
+- [ ] supabase 连通 OK（schema `dev_zhiyu` 已创建）
+- [ ] 所有镜像 < 300MB
+- [ ] `.dockerignore` 排除 agent 工具与 planning 资产
+- [ ] 缺第三方 key 时启动不阻塞
+- [ ] 备份 cron 在跑
+- [ ] 不引用任何禁用的托管 SaaS

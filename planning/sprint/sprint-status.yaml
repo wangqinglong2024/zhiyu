@@ -35,27 +35,28 @@
 # - Dev moves story to 'review', then runs code-review (fresh context, different LLM recommended)
 
 generated: 2026-04-25
-last_updated: 2026-04-26  # E07/E08/E09/E16/E17/E18 stories created
-project: ideas_ai
+last_updated: 2026-04-26  # WAVE 1 rewrite: E01 重写为 6 story (Docker-only)；E02-E20 为旧版，待 Wave 2-3 重写
+project: zhiyu
 project_key: ZY
 tracking_system: file-system
 story_location: planning/story
+top_constraint: planning/00-rules.md
+notes: |
+  - Wave 1 (本次)：00-rules / spec/00-01-02-08-10 / E01 完成重写。
+  - Wave 2-3：E02-E20 epic + story + sprint 待按 00-rules 重写
+    （移除 Cloudflare/Render/Doppler/Sentry/PostHog/Better Stack/Dify 等关键词，
+     story 数量按需出而非硬凑 10）。
+  - 旧 E02-E20 条目保留作变更基准；正式开发前必须替换。
 
 development_status:
-  # ===== E01 Platform Foundation (M0) =====
+  # ===== E01 Platform Foundation (M0) — WAVE 1 已重写 =====
   epic-1: in-progress
   1-1-init-monorepo: ready-for-dev
-  1-2-typescript-strict-config: ready-for-dev
-  1-3-eslint-prettier-commitlint: ready-for-dev
-  1-4-github-actions-ci: ready-for-dev
-  1-5-cloudflare-pages-deploy: ready-for-dev
-  1-6-render-api-worker-deploy: ready-for-dev
-  1-7-doppler-secrets: ready-for-dev
-  1-8-sentry-integration: ready-for-dev
-  1-9-posthog-betterstack: ready-for-dev
-  1-10-supabase-init: ready-for-dev
-  1-11-redis-bullmq-skeleton: ready-for-dev
-  1-12-storybook-docs-init: ready-for-dev
+  1-2-code-style-hooks: ready-for-dev
+  1-3-docker-compose-dev: ready-for-dev
+  1-4-secrets-zod: ready-for-dev
+  1-5-supabase-init: ready-for-dev
+  1-6-redis-bullmq-health-logs: ready-for-dev
   epic-1-retrospective: optional
 
   # ===== E02 Design System (M0) =====

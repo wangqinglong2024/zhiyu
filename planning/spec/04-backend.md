@@ -1,5 +1,7 @@
 # 04 · 后端架构（Backend Architecture）
 
+> ⚠️ **本文件部分章节含 Sentry / Better Stack / Upstash 引用（已禁用），主体（Express + Drizzle + BullMQ + Supabase）仍有效；下一波次会精改。冲突时以 [00-rules.md](../00-rules.md) + spec/02 + spec/08 + spec/10 为准。**
+
 ## 一、apps/api 结构
 
 ```
