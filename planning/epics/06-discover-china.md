@@ -73,3 +73,5 @@
 - [ ] 4 语翻译完整
 - [ ] 阅读体验 60fps（zhiyu-app-fe 容器 + Chrome DevTools 在 IP+3100 上验）
 - [ ] FTS 搜索命中、容器内 jieba 安装成功
+- [ ] **种子数据（§11.1 DC）**：总篇数 ≥ 36（12 类各 ≥ 3 篇），JSON 置于 `system/packages/db/seed/discover-china/articles.json`，提供 4 语 `i18n` + `seed://` 封面路径；幂等重跑
+- [ ] **ZY-06-07** 已完成（评分 / 未登录预览 / 相关推荐 / 阅读统计 4 项 PRD FR）

@@ -66,3 +66,4 @@ OWASP Top 10、加密、合规（GDPR / PDPA）、审计、风控、隐私政策
 - [ ] OWASP Top 10 自查通过（清单）
 - [ ] 合规文件 4+1 语占位齐
 - [ ] 不引用 Cloudflare / Turnstile / Recaptcha 真实接入
+- [ ] **ZY-18-09** 已完成：OWASP A04/A08/A10 专项补丁（SSRF 防护 + Webhook HMAC + 不安全设计 checklist），使 Top 10 覆盖拼图闭环；同时确保**种子数据**导入路径仅本地资产、禁止外部 URL fetch

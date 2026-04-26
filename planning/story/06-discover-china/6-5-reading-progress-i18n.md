@@ -6,7 +6,7 @@
 
 ## User Story
 **As a** 用户
-**I want** 阅读自动保存进度，下次打开继续；并可在英 / 西 / 中 / 阿 4 语之间切换显示
+**I want** 阅读自动保存进度，下次打开继续；并可在 en / vi / th / id 4 语之间切换字幕显示
 **So that** 多设备无缝继续，新手也能借助母语理解中文原文。
 
 ## 上下文
@@ -18,8 +18,8 @@
 - [ ] `PUT /api/v1/me/reading-progress` upsert
 - [ ] 重新打开自动 scroll 到 last_position
 - [ ] 顶部进度条显示 percent
-- [ ] 段落字幕切 lng 即时换内容（同行）
-- [ ] 阅读到 100% 触发学习事件 → 经验值（接 ZY-07-05）
+- [ ] 段落字幕切 lng（en/vi/th/id）即时换内容（同行），由 ZY-04-04 翻译表提供
+- [ ] 阅读到 100% 触发学习事件：`POST /api/v1/me/xp/add` body `{source:"reading", ref_type:"article", ref_id, amount:5}`，幂等键 `read:{user}:{article}:complete`（接 ZY-07-05）
 
 ## 测试方法
 ```bash

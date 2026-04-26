@@ -161,3 +161,70 @@
 - [ ] 测试方法明确（见 §5）
 - [ ] 可在 docker compose 内验证
 - [ ] 缺 key 不阻塞启动（见 §1.2）
+- [ ] 涉及内容模块的 story 必须含「种子数据」AC（见 §11）
+
+---
+
+## 11. 内容种子数据（Seed Data）规则【强铁律】
+
+> 适用模块：发现中国（DC）/ 系统课程（CR，含课程内容 + 考试题）/ 游戏专区（GM，含 12 款游戏的字包/关卡）/ 小说专区（NV）。
+> 这些模块的「正式内容」由用户后续让 AI 按规定格式批量灌库，**开发期不依赖真实大规模内容也必须可端到端跑通**。
+
+### 11.1 必须做什么
+
+每个内容模块在交付时**必须随 epic 提供 SQL/JSON 种子文件**，并通过 `drizzle-kit migrate` + `pnpm seed:<module>` 一键灌入 dev 数据库（schema `zhiyu`），数量与覆盖度如下：
+
+| 模块 | 最小种子量 | 覆盖度要求 |
+|---|---|---|
+| 发现中国 (DC) | 12 类目 × 每类 ≥ 3 篇 = **≥ 36 篇 articles** | 12 类目全覆盖；每篇含标题/正文(≥ 300 字含拼音可标注)/封面图占位/4 语 i18n 标题；至少 6 篇带 TTS 占位音频 URL |
+| 系统课程 (CR) | **4 个课程系列**（HSK / 日常 / 商务 / 工厂）× 每系列 ≥ 2 stage × 每 stage ≥ 3 lessons = **≥ 24 lessons**；每 lesson ≥ 5 题（含 ≥ 3 种题型） | 覆盖 PRD `03-courses/03-question-types.md` 中 ≥ 6 种题型；含至少 1 套阶段考试（≥ 10 题） |
+| 游戏专区 (GM) | 12 款游戏每款 ≥ 1 关卡 + ≥ 1 WordPack（≥ 30 词条） | 覆盖 E10 全部 12 款；WordPack 至少含 HSK1-2 高频词；leaderboard 至少 5 条假成绩 |
+| 小说专区 (NV) | **≥ 6 部小说**（覆盖 `novels/00-index.md` 12 类目中 ≥ 6 类）× 每部 ≥ 3 章 = **≥ 18 chapters** | 至少 2 部带「VIP/付费章」标记用于 paywall 联调 |
+| 经济/商城 (EC) | shop_items ≥ 12 条（5 类 × 至少 1 条）、签到奖励配置 7 天 | 覆盖免费/ZC/VIP 三种解锁路径 |
+| 用户/账户 (UA) | **种子用户 ≥ 5 个**：admin、normal、vip、referrer、blocked 各 1 | 覆盖 RBAC + 风控状态 |
+
+### 11.2 文件位置与命名
+
+- 种子源文件：`system/packages/db/seed/<module>/*.json`（结构化数据）+ `system/packages/db/seed/<module>/*.sql`（必要时）。
+- 种子图片/音频占位：`system/packages/db/seed/_assets/<module>/`，体积 ≤ 5 MB，`drizzle-kit migrate` 后由 `seed:<module>` 上传至 `supabase-storage` 的 `images` / `audio` 桶。
+- 种子脚本入口：`system/packages/db/scripts/seed.ts`，支持 `pnpm seed:all` 与 `pnpm seed:<module>`，**幂等**（重复执行不报错、不重复插入，按 `slug` upsert）。
+
+### 11.3 数据格式契约（AI 灌库通用 JSON Schema）
+
+所有内容模块的种子 JSON 必须符合下面的统一字段约束，方便后续 AI 按格式批量产出：
+
+```json
+{
+  "$schema_version": "1.0",
+  "module": "discover-china | courses | games | novels | economy | user",
+  "items": [
+    {
+      "slug": "kebab-case-unique-id",        // 必填，幂等键
+      "i18n": {                                // 必填，至少 zh-CN；其它 en/ja/ko 可缺省，缺省时由后台标记 needs_translation=true
+        "zh-CN": { "title": "...", "summary": "...", "body": "..." },
+        "en":    { "title": "...", "summary": "...", "body": "..." }
+      },
+      "tags": ["..."],                         // 选填
+      "media": {                               // 选填
+        "cover":  "seed://images/<module>/<slug>.webp",
+        "audio":  "seed://audio/<module>/<slug>.mp3"
+      },
+      "module_specific": { ... }               // 模块自定义字段：lessons.steps[]、game.wordpack[]、novel.chapters[]、shop.price 等
+    }
+  ]
+}
+```
+
+后端必须实现 `seed://` 协议解析：开发期把它解析为 `system/packages/db/seed/_assets/...` 本地相对路径，上传后替换为 `supabase-storage` 的 `public_url`。
+
+### 11.4 验收（DoD 增量条款）
+
+下列模块的 epic「Definition of Done」必须包含以下两条，否则 epic 视为未完成：
+
+1. `pnpm seed:<module>` 在干净的 dev 数据库上**一次性**跑通，零报错；
+2. 跑完后通过 MCP Puppeteer 直连 `http://115.159.109.23:3100` 能在对应模块页面看到 **≥ §11.1 表格规定的最小条目数**，并能完整完成「列表 → 详情 → 关键交互（学习/游戏/解锁/购买/阅读）」一条主链路。
+
+### 11.5 与「AI 内容工厂」(E16) 的关系
+
+- E16 的 `LLMFakeAdapter` 必须能消费 §11.3 的 JSON Schema，把外部输入按 `module` 分发并 upsert，与 `seed:<module>` 命令共用同一套 upsert 逻辑（`packages/db/src/seed/upsert.ts`）。
+- 上线后用户提供 AI 生成的批量 JSON 时，可直接调用 `pnpm seed:from-file <path.json>` 完成灌库，无需写新代码。

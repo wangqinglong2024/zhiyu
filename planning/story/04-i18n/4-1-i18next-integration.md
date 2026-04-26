@@ -3,10 +3,11 @@
 > Epic：E04 · 估算：M · 状态：ready-for-dev
 > 代码根：`/opt/projects/zhiyu/system/`
 > 顶层约束：[planning/00-rules.md](../../00-rules.md)
+> 语言定义以 PRD `prds/04-i18n` 为准：**en（默认） / vi（越南语） / th（泰语） / id（印尼语）**；zh-CN 仅为内容原文，不作为 UI 语言之一。
 
 ## User Story
 **As a** 多语言用户
-**I want** 应用界面支持 en / es / zh / ar 四语并按需懒加载
+**I want** 应用界面支持 en / vi / th / id 四语并按需懒加载
 **So that** 首屏体积不被未用语言拖累。
 
 ## 上下文

@@ -73,3 +73,4 @@
 - [ ] 获得 / 消耗全场景跑通
 - [ ] 流水准确无差（容器内 SQL 校验）
 - [ ] 商城可购买（fake 支付 + ZC 扣减）
+- [ ] **种子数据（§11.1 EC）**：`shop_items` 预置 ≥ 12 件（复习券 / 头像框 / VIP 体验 / 课程解锁券），JSON 置于 `system/packages/db/seed/economy/shop_items.json`；7 日签到与货币获取规则也以种子表位于 `seed/economy/coin_rules.json`

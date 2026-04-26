@@ -66,3 +66,5 @@
 - [ ] 4 轨道各 ≥ 1 阶段可学（fixture 内容）
 - [ ] 节学习流畅；付费墙弹出可用 fake PaymentAdapter 完成
 - [ ] MCP Puppeteer：从课程列表点入完成 1 节并升级
+- [ ] **种子数据（§11.1 CR）**：总 lesson ≥ 24（4 轨道 × stage1 × ≥ 6 lesson），含 1 个阶段考题库，JSON 置于 `system/packages/db/seed/courses/lessons.json` 与 `seed/courses/quizzes.json`
+- [ ] **ZY-08-07** 已完成（拼音入门 3 模块 + 阶段考题型 P1-P3 + 75% 通过线）

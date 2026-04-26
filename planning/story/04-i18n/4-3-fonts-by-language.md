@@ -6,12 +6,12 @@
 
 ## User Story
 **As a** 用户
-**I want** 切换到 zh / ar 时才加载对应字体
+**I want** 切换到 vi / th / id 时才加载对应字体（含变音符 / 泰文 / 拉丁扩展子集），而 en 直接走默认
 **So that** 我的语言不需要的字体不浪费带宽。
 
 ## 上下文
 - ZY-02-04 已自托管字体；本故事补"按 lng 决定 link rel=preload"逻辑。
-- Vite 动态 import font css chunk；CSS `@font-face` 拆分到 `<lang>.css`。
+- Vite 动态 import font css chunk；CSS `@font-face` 拆分到 `<lang>.css`，覆盖 en/vi/th/id 4 个 chunk + zh-CN（用于内容渲染）。
 - chunk 加载 race condition：先 fallback 系统字体，字体到位后立即 swap。
 
 ## Acceptance Criteria
@@ -29,7 +29,8 @@ docker compose exec zhiyu-app-fe pnpm --filter @zhiyu/web build
 
 ## DoD
 - [ ] CLS 达标
-- [ ] zh→en 不重复加载
+- [ ] vi/th/id 之间切换不重复加载已下载 chunk
+- [ ] zh-CN 字体仅在渲染中文内容（文章/课程/小说）时按需加载
 
 ## 依赖
 - 上游：ZY-02-04 / ZY-04-01

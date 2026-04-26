@@ -149,3 +149,4 @@
 - [ ] 60fps 中端 Android 验证通过
 - [ ] 排行榜 / 三星 / 教学 / IAP / 分享 / 奖励 等 100% 迁入 `99-post-mvp-backlog.md`
 - [ ] retrospective 完成
+- [ ] **种子数据（§11.1 GM）**：12 款游戏各绑定 1 个 WordPack，单 WordPack 词量 ≥ 30，全部 12 个 JSON 置于 `system/packages/db/seed/games/wordpacks/` 下，幂等灬入

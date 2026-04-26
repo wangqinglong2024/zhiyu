@@ -8,11 +8,12 @@
 # top_constraint: planning/00-rules.md
 
 generated: 2026-04-25
-last_updated: 2026-04-26
-total_stories: 146
+last_updated: 2026-04-27
+total_stories: 151
 notes: |
   - 全部 20 个 epic 的 story 已展开为 ready-for-dev（含 SQL DDL / API 契约 / Docker 验收命令）。
   - sprint 文件统一改写为编年格式，对齐 story 编号。
+  - 2026-04-27 补齐：新增 5 个 story 以覆盖 PRD P0 缺口：ZY-06-07（评分/预览/推荐/统计）、ZY-08-07（拼音入门+阶段考）、ZY-11-06a（章末快测）、ZY-17-11（种子导入工具）、ZY-18-09（SSRF/不安全设计）。
   - 下一阶段：E03 dev (bmad-dev-story) → code-review → MCP 浏览器测试 + retrospective。
 
 epics:
@@ -86,7 +87,7 @@ epics:
     name: 中国发现
     status: ready-for-dev
     sprint: S06
-    story_count: 6
+    story_count: 7
     stories:
       - { id: ZY-06-01, title: 12 类目 + articles 表 + RLS,                status: ready-for-dev }
       - { id: ZY-06-02, title: 列表 keyset 无限加载,                      status: ready-for-dev }
@@ -94,6 +95,7 @@ epics:
       - { id: ZY-06-04, title: 点字弹窗 + 收藏,                           status: ready-for-dev }
       - { id: ZY-06-05, title: 阅读进度 + i18n 字幕,                       status: ready-for-dev }
       - { id: ZY-06-06, title: pg_jieba FTS + 拼音 tsvector,              status: ready-for-dev }
+      - { id: ZY-06-07, title: 评分 + 未登录预览限制 + 相关推荐 + 阅读统计, status: ready-for-dev }
 
   - id: E07
     name: 学习引擎
@@ -113,7 +115,7 @@ epics:
     name: 课程模块
     status: ready-for-dev
     sprint: S08
-    story_count: 6
+    story_count: 7
     stories:
       - { id: ZY-08-01, title: courses+lessons schema + steps zod,         status: ready-for-dev }
       - { id: ZY-08-02, title: REST API + openapi,                         status: ready-for-dev }
@@ -121,6 +123,7 @@ epics:
       - { id: ZY-08-04, title: 课时学习页 离线 + 批量回传,                 status: ready-for-dev }
       - { id: ZY-08-05, title: 10 step 组件 + hanzi-writer,                status: ready-for-dev }
       - { id: ZY-08-06, title: 完成庆祝 + paywall 三路径,                  status: ready-for-dev }
+      - { id: ZY-08-07, title: 拼音入门 3 模块 + 阶段考,                   status: ready-for-dev }
 
   - id: E09
     name: 游戏引擎共享层
@@ -151,14 +154,15 @@ epics:
     name: 小说阅读
     status: ready-for-dev
     sprint: S11
-    story_count: 6
+    story_count: 7
     stories:
-      - { id: ZY-11-01, title: novels+chapters schema + API,               status: ready-for-dev }
-      - { id: ZY-11-02, title: 列表 / 类型筛选,                            status: ready-for-dev }
-      - { id: ZY-11-03, title: 详情 + 目录,                                status: ready-for-dev }
-      - { id: ZY-11-04, title: 沉浸式 reader,                              status: ready-for-dev }
-      - { id: ZY-11-05, title: ZC/VIP/自动订阅 三路径解锁,                 status: ready-for-dev }
-      - { id: ZY-11-06, title: 书架 + TTS + 推荐,                          status: ready-for-dev }
+      - { id: ZY-11-01,  title: novels+chapters schema + API,               status: ready-for-dev }
+      - { id: ZY-11-02,  title: 列表 / 类型筛选,                            status: ready-for-dev }
+      - { id: ZY-11-03,  title: 详情 + 目录,                                status: ready-for-dev }
+      - { id: ZY-11-04,  title: 沉浸式 reader,                              status: ready-for-dev }
+      - { id: ZY-11-05,  title: ZC/VIP/自动订阅 三路径解锁,                 status: ready-for-dev }
+      - { id: ZY-11-06,  title: 书架 + TTS + 推荐,                          status: ready-for-dev }
+      - { id: ZY-11-06a, title: 章末快测 5 题 + 错题入 SRS,                 status: ready-for-dev }
 
   - id: E12
     name: 知语币与商城
@@ -232,7 +236,7 @@ epics:
     name: 管理后台
     status: ready-for-dev
     sprint: S17
-    story_count: 10
+    story_count: 11
     stories:
       - { id: ZY-17-01, title: admin schema + RBAC 表,                      status: ready-for-dev }
       - { id: ZY-17-02, title: admin login + TOTP,                          status: ready-for-dev }
@@ -244,12 +248,13 @@ epics:
       - { id: ZY-17-08, title: 发布控制台,                                  status: ready-for-dev }
       - { id: ZY-17-09, title: 订单 / 退款 / 推荐,                          status: ready-for-dev }
       - { id: ZY-17-10, title: 报表 / 风控 / 审计,                          status: ready-for-dev }
+      - { id: ZY-17-11, title: 种子数据导入工具页（共享 E16 upsert）,        status: ready-for-dev }
 
   - id: E18
     name: 安全与合规
     status: ready-for-dev
     sprint: S18
-    story_count: 8
+    story_count: 9
     stories:
       - { id: ZY-18-01, title: argon2id + token rotate,                     status: ready-for-dev }
       - { id: ZY-18-02, title: zod + redis-lua ratelimit,                   status: ready-for-dev }
@@ -259,6 +264,7 @@ epics:
       - { id: ZY-18-06, title: GDPR 导出 / 删除（执行实现归 E03 已做）,    status: ready-for-dev }
       - { id: ZY-18-07, title: 漏洞扫描,                                    status: ready-for-dev }
       - { id: ZY-18-08, title: WAF 替代 + 4 runbook,                        status: ready-for-dev }
+      - { id: ZY-18-09, title: SSRF 防护 + 不安全设计补丁（A04/A08/A10）, status: ready-for-dev }
 
   - id: E19
     name: 可观测与运维

@@ -74,3 +74,4 @@
 - [ ] 缺 Google/Apple OAuth key 时 FE 自动隐藏按钮、不报错
 - [ ] 不引用 Resend / Sendgrid / Twilio 等 SaaS（统一通过 Adapter）
 - [ ] supabase Studio 能看到对应 user 与 profile
+- [ ] **种子数据（§11.1 UA）**：预置 ≥ 5 个种子用户（admin / cs / 3 个普通）从 `system/packages/db/seed/users/users.json` 幂等灬入；RLS 验证仅本人可读
