@@ -1,9 +1,60 @@
 {
   "name": "@zhiyu/ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "main": "./src/index.ts",
-  "scripts": { "typecheck": "tsc --noEmit" },
-  "devDependencies": { "typescript": "^5.4.5" }
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./styles/global.css": "./src/styles/global.css",
+    "./styles/glass.css": "./src/styles/glass.css",
+    "./styles/fonts.css": "./src/styles/fonts.css",
+    "./styles/typography.css": "./src/styles/typography.css",
+    "./theme": "./src/theme/index.ts",
+    "./theme/script": "./src/theme/theme-script.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --passWithNoTests",
+    "storybook": "storybook dev -p 6100 -h 0.0.0.0 --no-open --ci",
+    "storybook:build": "storybook build -o storybook-static",
+    "storybook:smoke": "pnpm storybook:build && grep -q 'iframe.html' storybook-static/index.html && echo 'storybook:smoke ok'"
+  },
+  "dependencies": {
+    "@radix-ui/react-avatar": "^1.1.0",
+    "@radix-ui/react-checkbox": "^1.1.1",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@radix-ui/react-dropdown-menu": "^2.1.1",
+    "@radix-ui/react-popover": "^1.1.1",
+    "@radix-ui/react-radio-group": "^1.2.0",
+    "@radix-ui/react-select": "^2.1.1",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-switch": "^1.1.0",
+    "@radix-ui/react-tabs": "^1.1.0",
+    "@radix-ui/react-tooltip": "^1.1.2",
+    "@zhiyu/tokens": "workspace:*",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.378.0",
+    "sonner": "^1.5.0",
+    "tailwind-merge": "^2.5.2"
+  },
+  "peerDependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.0.0",
+    "@types/node": "^20.12.7",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "jest-axe": "^9.0.0",
+    "jsdom": "^24.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
 }
+

@@ -1,0 +1,98 @@
+/* @zhiyu/ui — single global stylesheet imported by every FE app.
+ * Order matters: tailwind base → tokens (CSS vars) → preset (@theme) →
+ * fonts → typography → glass utilities → app overrides. */
+
+@import 'tailwindcss';
+
+@import '@zhiyu/tokens/tokens.css';
+@import '@zhiyu/tokens/preset.css';
+@import '@zhiyu/tokens/glass.css';
+
+@import './fonts.css';
+@import './typography.css';
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg-base);
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    accent-color: var(--brand-rose-600);
+  }
+
+  body {
+    min-height: 100dvh;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--brand-rose-500) 35%, transparent);
+    color: var(--text-primary);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--brand-sky-500);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+  }
+
+  a {
+    color: var(--brand-sky-600);
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+  button {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid var(--border-default);
+  }
+
+  img,
+  svg,
+  video,
+  canvas {
+    display: block;
+    max-width: 100%;
+  }
+
+  /* Mesh decoration layer: any page can `<body class="mesh-bg">` */
+  body.mesh-bg::before {
+    position: fixed;
+    inset: -10%;
+    z-index: -10;
+  }
+}
+
+/* Container queries on by default in Tailwind v4 */
+@layer utilities {
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}

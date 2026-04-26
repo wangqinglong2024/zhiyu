@@ -10,13 +10,17 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@zhiyu/tokens": "workspace:*",
+    "@zhiyu/ui": "workspace:*",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.0",
+    "tailwindcss": "^4.0.0",
     "typescript": "^5.4.5",
     "vite": "^5.2.11"
   }

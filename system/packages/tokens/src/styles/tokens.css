@@ -1,0 +1,184 @@
+/* @zhiyu/tokens — runtime CSS variables for both themes.
+ * Loaded synchronously by every app entry. Theme is selected by
+ * `data-theme="light|dark"` attribute on <html>.
+ *
+ * Source of truth: packages/tokens/src/colors.ts */
+
+:root,
+:root[data-theme='light'] {
+  color-scheme: light;
+
+  /* Brand triad */
+  --brand-rose-50: #fff1f2;
+  --brand-rose-100: #ffe4e6;
+  --brand-rose-300: #fda4af;
+  --brand-rose-500: #f43f5e;
+  --brand-rose-600: #e11d48;
+  --brand-rose-700: #be123c;
+  --brand-rose-900: #881337;
+  --brand-sky-50: #f0f9ff;
+  --brand-sky-100: #e0f2fe;
+  --brand-sky-300: #7dd3fc;
+  --brand-sky-500: #0ea5e9;
+  --brand-sky-600: #0284c7;
+  --brand-sky-700: #0369a1;
+  --brand-sky-900: #0c4a6e;
+  --brand-amber-50: #fffbeb;
+  --brand-amber-100: #fef3c7;
+  --brand-amber-300: #fcd34d;
+  --brand-amber-500: #f59e0b;
+  --brand-amber-600: #d97706;
+  --brand-amber-700: #b45309;
+  --brand-amber-900: #78350f;
+
+  /* Surface / text / border / shadow */
+  --bg-base: #fafafa;
+  --bg-surface: #ffffff;
+  --bg-elevated: #ffffff;
+  --bg-overlay: rgba(250, 250, 250, 0.85);
+  --text-primary: #0a0a0a;
+  --text-secondary: #525252;
+  --text-tertiary: #737373;
+  --text-disabled: #d4d4d4;
+  --text-inverse: #fafafa;
+  --border-default: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.16);
+  --zy-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --zy-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --zy-shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.1);
+  --zy-shadow-xl: 0 24px 48px rgba(0, 0, 0, 0.14);
+  --zy-shadow-card: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --zy-shadow-elevated: 0 12px 32px rgba(0, 0, 0, 0.1);
+  --zy-shadow-glow: 0 0 24px rgba(225, 29, 72, 0.4);
+
+  /* Semantic */
+  --zy-success: #16a34a;
+  --zy-warning: #d97706;
+  --zy-danger: #dc2626;
+  --zy-info: #0284c7;
+
+  /* Tone (pinyin / pronunciation) */
+  --tone-1: #0284c7;
+  --tone-2: #16a34a;
+  --tone-3: #d97706;
+  --tone-4: #dc2626;
+  --tone-0: #737373;
+  --coin-gold: #eab308;
+
+  /* Glass */
+  --glass-bg: rgba(255, 255, 255, 0.45);
+  --glass-bg-elevated: rgba(255, 255, 255, 0.65);
+  --glass-bg-floating: rgba(255, 255, 255, 0.75);
+  --glass-bg-overlay: rgba(255, 255, 255, 0.85);
+  --glass-border: rgba(255, 255, 255, 0.6);
+  --glass-border-strong: rgba(255, 255, 255, 0.8);
+  --glass-inset: inset 0 1px 0 0 rgba(255, 255, 255, 0.7);
+  --glass-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  --glass-blur: 16px;
+  --glass-saturate: 180%;
+
+  /* Mesh gradient blobs */
+  --mesh-1: #fda4af;
+  --mesh-2: #7dd3fc;
+  --mesh-3: #fcd34d;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-2xl: 24px;
+  --radius-3xl: 32px;
+  --radius-full: 9999px;
+
+  /* Motion */
+  --duration-fast: 150ms;
+  --duration-base: 200ms;
+  --duration-medium: 300ms;
+  --duration-slow: 500ms;
+  --duration-celebrate: 800ms;
+  --duration-ambient: 8000ms;
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* Layout chrome */
+  --tabbar-height: 64px;
+  --header-height: 56px;
+  --safe-top: env(safe-area-inset-top, 0);
+  --safe-right: env(safe-area-inset-right, 0);
+  --safe-bottom: env(safe-area-inset-bottom, 0);
+  --safe-left: env(safe-area-inset-left, 0);
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --bg-base: #0a0a0a;
+  --bg-surface: #171717;
+  --bg-elevated: #262626;
+  --bg-overlay: rgba(10, 10, 10, 0.85);
+  --text-primary: #fafafa;
+  --text-secondary: #a3a3a3;
+  --text-tertiary: #737373;
+  --text-disabled: #404040;
+  --text-inverse: #0a0a0a;
+  --border-default: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.16);
+  --zy-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --zy-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --zy-shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.5);
+  --zy-shadow-xl: 0 24px 48px rgba(0, 0, 0, 0.6);
+  --zy-shadow-card: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --zy-shadow-elevated: 0 12px 32px rgba(0, 0, 0, 0.5);
+  --zy-shadow-glow: 0 0 24px rgba(244, 63, 94, 0.6);
+
+  --zy-success: #22c55e;
+  --zy-warning: #f59e0b;
+  --zy-danger: #ef4444;
+  --zy-info: #0ea5e9;
+
+  --tone-1: #7dd3fc;
+  --tone-2: #4ade80;
+  --tone-3: #fbbf24;
+  --tone-4: #f87171;
+  --tone-0: #a3a3a3;
+  --coin-gold: #facc15;
+
+  --glass-bg: rgba(23, 23, 23, 0.55);
+  --glass-bg-elevated: rgba(23, 23, 23, 0.7);
+  --glass-bg-floating: rgba(23, 23, 23, 0.8);
+  --glass-bg-overlay: rgba(10, 10, 10, 0.9);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --glass-border-strong: rgba(255, 255, 255, 0.18);
+  --glass-inset: inset 0 1px 0 0 rgba(255, 255, 255, 0.06);
+  --glass-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  --glass-blur: 20px;
+  --glass-saturate: 150%;
+
+  --mesh-1: #881337;
+  --mesh-2: #0c4a6e;
+  --mesh-3: #78350f;
+}
+
+/* Smooth color/background transitions when toggling theme */
+.theme-transition,
+.theme-transition * {
+  transition:
+    background-color 300ms var(--ease-in-out),
+    color 300ms var(--ease-in-out),
+    border-color 300ms var(--ease-in-out),
+    box-shadow 300ms var(--ease-in-out) !important;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

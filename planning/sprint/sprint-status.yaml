@@ -33,17 +33,17 @@ epics:
 
   - id: E02
     name: 设计系统与 UI 工具库
-    status: ready-for-dev
+    status: done
     sprint: S02
     story_count: 7
     stories:
-      - { id: ZY-02-01, title: design-tokens 包,                          status: ready-for-dev }
-      - { id: ZY-02-02, title: Tailwind v4 玻璃化 preset,                 status: ready-for-dev }
-      - { id: ZY-02-03, title: 主题切换无 FOUC,                           status: ready-for-dev }
-      - { id: ZY-02-04, title: 自托管字体子集,                            status: ready-for-dev }
-      - { id: ZY-02-05, title: 核心组件,                                  status: ready-for-dev }
-      - { id: ZY-02-06, title: 反馈与布局组件,                            status: ready-for-dev }
-      - { id: ZY-02-07, title: Storybook 内部站,                          status: ready-for-dev }
+      - { id: ZY-02-01, title: design-tokens 包,                          status: done }
+      - { id: ZY-02-02, title: Tailwind v4 玻璃化 preset,                 status: done }
+      - { id: ZY-02-03, title: 主题切换无 FOUC,                           status: done }
+      - { id: ZY-02-04, title: 自托管字体子集,                            status: done }
+      - { id: ZY-02-05, title: 核心组件,                                  status: done }
+      - { id: ZY-02-06, title: 反馈与布局组件,                            status: done }
+      - { id: ZY-02-07, title: Storybook 内部站,                          status: deferred }
 
   - id: E03
     name: 用户账户体系

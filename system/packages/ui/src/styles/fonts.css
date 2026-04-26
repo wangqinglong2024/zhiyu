@@ -1,0 +1,111 @@
+/* @zhiyu/ui — self-hosted fonts.
+ *
+ * IMPORTANT: actual woff2 binaries are NOT shipped in this repo. To enable
+ * non-system fonts, drop OFL-licensed woff2 files at the paths below and
+ * Vite will pick them up. Until then, font-face declarations gracefully
+ * fall through to the system font stack (Inter on macOS, Segoe on Win,
+ * Noto/PingFang on CJK, etc.) — visual identity is preserved.
+ *
+ * Required files (when ready):
+ *   - fonts/inter/Inter-Variable.woff2          (latin / latin-ext, 100-900)
+ *   - fonts/notosc/NotoSansSC-Regular.woff2     (CJK 7000 most-used subset)
+ *   - fonts/notosc/NotoSansSC-Medium.woff2
+ *   - fonts/notosc/NotoSansSC-Bold.woff2
+ *   - fonts/notosthai/NotoSansThai-Regular.woff2
+ *   - fonts/notothai/NotoSansThai-Medium.woff2
+ *   - fonts/notoarabic/NotoSansArabic-Variable.woff2
+ *   - fonts/jetbrains/JetBrainsMono-Regular.woff2
+ *
+ * Generation script: pnpm --filter @zhiyu/ui fonts:subset
+ * License files: packages/ui/LICENSES/*.txt
+ */
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/inter/Inter-Variable.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto Sans SC';
+  src: url('../fonts/notosc/NotoSansSC-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Noto Sans SC';
+  src: url('../fonts/notosc/NotoSansSC-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Noto Sans SC';
+  src: url('../fonts/notosc/NotoSansSC-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Noto Sans Thai';
+  src: url('../fonts/notothai/NotoSansThai-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  unicode-range: U+0E00-0E7F;
+}
+
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  src: url('../fonts/notoarabic/NotoSansArabic-Variable.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-display: swap;
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF;
+}
+
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('../fonts/jetbrains/JetBrainsMono-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Per-language application */
+:root,
+:root[lang^='en'],
+:root[lang^='vi'],
+:root[lang^='id'] {
+  font-family: 'Inter', 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+:root[lang^='zh'] {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+}
+
+:root[lang^='th'] {
+  font-family: 'Noto Sans Thai', 'Sarabun', system-ui, sans-serif;
+}
+
+:root[lang^='ar'] {
+  font-family: 'Noto Sans Arabic', 'Tahoma', system-ui, sans-serif;
+}
+
+/* Pinyin annotation marks */
+.pinyin {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-feature-settings: 'tnum';
+  letter-spacing: 0.02em;
+}
+
+/* Logical properties RTL helpers — Tailwind 4 ships native logical paddings */
+[dir='rtl'] .text-display,
+[dir='rtl'] .text-h1,
+[dir='rtl'] .text-h2,
+[dir='rtl'] .text-h3 {
+  letter-spacing: 0;
+}

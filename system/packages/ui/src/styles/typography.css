@@ -1,0 +1,86 @@
+/* @zhiyu/ui — typography utility scale (matches packages/tokens/typography.ts) */
+
+@layer components {
+  .text-display {
+    font-family: var(--font-display, 'Inter Display', 'Inter', system-ui, sans-serif);
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .text-h1 {
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .text-h2 {
+    font-size: 30px;
+    line-height: 38px;
+    font-weight: 600;
+  }
+  .text-h3 {
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 600;
+  }
+  .text-title {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+  }
+  .text-body-lg {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+  }
+  .text-body {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  .text-small {
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 400;
+  }
+  .text-micro {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .text-caption {
+    font-size: 11px;
+    line-height: 14px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  /* Chinese learning content scale */
+  .text-zh-base {
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    font-family: 'Noto Sans SC', 'PingFang SC', system-ui, sans-serif;
+  }
+  .text-zh-lg {
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    font-family: 'Noto Sans SC', 'PingFang SC', system-ui, sans-serif;
+  }
+  .text-zh-xl {
+    font-size: 28px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    font-family: 'Noto Sans SC', 'PingFang SC', system-ui, sans-serif;
+  }
+  .text-zh-hero {
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    font-family: 'Noto Sans SC', 'PingFang SC', system-ui, sans-serif;
+    font-weight: 700;
+  }
+}

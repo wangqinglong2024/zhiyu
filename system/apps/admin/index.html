@@ -2,8 +2,20 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>知语 Admin</title>
+    <script>
+      (function(){try{
+        var k='zhiyu:theme';
+        var s=localStorage.getItem(k);
+        var m=(s==='light'||s==='dark'||s==='system')?s:'system';
+        var d=m==='dark'||(m==='system'&&window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches);
+        var r=document.documentElement;
+        r.setAttribute('data-theme',d?'dark':'light');
+        if(d)r.classList.add('dark');
+        r.style.colorScheme=d?'dark':'light';
+      }catch(_){}})();
+    </script>
   </head>
   <body>
     <div id="root"></div>
