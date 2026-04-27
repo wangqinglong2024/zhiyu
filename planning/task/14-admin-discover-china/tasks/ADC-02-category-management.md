@@ -20,7 +20,7 @@
 
 ## 技术假设
 
-- 类目封面上传到 Supabase Storage images 桶。
+- 类目封面上传到自托管 Supabase Storage `images` 桶；该 Supabase 实例必须由 Docker compose 管理，不允许接外部托管 Storage/CDN。
 
 ## 最终验收清单
 
@@ -28,3 +28,5 @@
 - [ ] 前 3 类目的匿名开放标识可见但默认不可误关。
 - [ ] 隐藏类目前需二次确认。
 - [ ] 修改写审计。
+- [ ] 后台不允许新增第 13 个 DC 类目；如内容目录未更新，保存会被拒绝。
+- [ ] 封面上传、预览、替换均在 Docker 自托管 Storage 内完成。

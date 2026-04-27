@@ -13,6 +13,9 @@
 - API：`GET /api/discover/articles/:slug`。
 - 数据表：`content_articles`、`content_sentences`。
 - 状态逻辑：权限由文章所属类目决定；阅读页隐藏 TabBar，保留沉浸 Header。
+- 路由解析：页面必须使用 `category_slug + article_slug` 定位文章，避免 `content_articles` 仅类目内唯一 slug 时误读。
+- 元信息：类目、HSK 难度、字数、阅读时长、收藏数、评分均按 PRD 显示。
+- 内容：句子级中文、拼音、母语翻译、音频按钮、文末 3-5 条关键点与跨模块 CTA 完整显示。
 
 ## 不明确 / 风险
 
@@ -25,7 +28,8 @@
 
 ## 最终验收清单
 
-- [ ] 标题、元信息、封面、句子、关键点、CTA 完整显示。
+- [ ] 标题（中/母语）、元信息、封面、句子、关键点、CTA 完整显示。
 - [ ] 句子顺序稳定，缺音频时显示文字模式。
 - [ ] 第 4-12 类目文章未登录不可读，登录可读。
+- [ ] 未登录受限文章 API 返回 401 + `code=discover_category_login_required`，不得返回句子正文或音频 URL。
 - [ ] 文末跨模块入口不少于 1 个。

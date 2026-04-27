@@ -8,7 +8,7 @@
 | 序号 | 文件夹 | 覆盖范围 | 主要来源 |
 |---:|---|---|---|
 | 01 | `01-foundation-platform/` | 工程铁律、Docker、Supabase、monorepo、前后端骨架、部署、观测、发布门禁 | `planning/rules.md`、`planning/spec/01~10`、`planning/prds/01-overall/**` |
-| 02 | `02-ux-design-system/` | 毛玻璃设计系统、主题、组件、响应式、应用端/后台/游戏 UX、可访问性、性能质量 | `planning/ux/**` |
+| 02 | `02-ux-design-system/` | 松烟雅瓷设计系统、瓷釉毛玻璃、主题、组件、响应式、应用端/后台/游戏 UX、可访问性、性能质量 | `planning/ux/**` |
 | 03 | `03-user-account/` | 注册、登录、OAuth、邮箱验证、偏好、会话、导出、销户、匿名访问 | `planning/prds/06-user-account/**` |
 | 04 | `04-discover-china/` | 发现中国页面、句子级阅读、搜索、分享、内容规则、后台规则、种子数据 | `planning/prds/02-discover-china/**`、`content/china/**` |
 | 05 | `05-courses/` | 4 轨课程、拼音入门、题型、测验、进度、付费墙、内容规则、种子数据 | `planning/prds/03-courses/**`、`content/course/**` |
@@ -19,7 +19,7 @@
 | 10 | `10-referral/` | 二级分销、分享链接、绑定、佣金、反作弊、看板 | `planning/prds/09-referral/**` |
 | 11 | `11-payment/` | 订单、订阅、退款、解锁、PaymentAdapter mock、fake webhook | `planning/prds/10-payment/**`、`planning/rules.md` |
 | 12 | `12-customer-service/` | 客服入口、IM、路由、Supabase Realtime、后台工作台、评分 | `planning/prds/11-customer-service/**`、`planning/spec/12-realtime-and-im.md` |
-| 13 | `13-admin/` | 后台登录、KPI、用户/订单/通用内容壳/审校/客服/分销/flags/审计/导出 | `planning/prds/12-admin/**`、`planning/ux/11-screens-admin.md` |
+| 13 | `13-admin/` | 后台登录、KPI、用户/订单/通用内容壳/审校/客服/分销/flags/审计/导出/安全合规控制台 | `planning/prds/12-admin/**`、`planning/ux/11-screens-admin.md` |
 | 14 | `14-admin-discover-china/` | 发现中国后台：类目、文章、句子、审校、发布、seed、访问模型 | `planning/prds/12-admin/**`、`planning/prds/02-discover-china/**`、`content/china/**` |
 | 15 | `15-admin-courses/` | 系统课程后台：4 轨树形、题库、免费前 3 章、跨级购买、游戏词包权限 | `planning/prds/12-admin/**`、`planning/prds/03-courses/**`、`content/course/**` |
 | 16 | `16-admin-games/` | 游戏后台：12 游戏配置、统一设置、课程权限词包、SRS、MVP 禁用项 | `planning/prds/12-admin/**`、`planning/prds/04-games/**`、`content/games/**` |

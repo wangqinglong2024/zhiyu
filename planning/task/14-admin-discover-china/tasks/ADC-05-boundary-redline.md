@@ -10,8 +10,10 @@
 - 页面：文章编辑器、发布确认弹窗。
 - 组件：CategoryBoundaryPanel、RedlineCheckPanel。
 - API：`POST /admin/api/content/discover/articles/:id/redline-check`。
-- 数据表：`content_review_workflow`、可选 `content_policy_rules`。
+- 数据表：`content_review_workflow`、`admin_audit_logs`、可选 `content_policy_rules`。
 - 状态逻辑：未通过红线校验不可发布；边界提示随类目变化。
+- 引擎：后台必须提供红线规则版本、命中字段、命中语种、严重级别、建议处理动作，并支持保存草稿时预检、提交审校时复检、发布前终检。
+- 语种：中文原文与 en/vi/th/id 翻译均需要有校验结果或审校确认。
 
 ## 不明确 / 风险
 
@@ -28,3 +30,5 @@
 - [ ] 发布前必须有校验结果。
 - [ ] 红线失败无法发布。
 - [ ] 打回原因进入审校记录。
+- [ ] 红线校验与人工确认动作写入 `admin_audit_logs`。
+- [ ] 保存、导入、提交审校、发布调用同一红线检测服务，阻断级命中不可被普通 editor 绕过。

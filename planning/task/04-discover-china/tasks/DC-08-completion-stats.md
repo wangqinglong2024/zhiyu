@@ -12,6 +12,8 @@
 - API：`POST /api/discover/articles/:id/progress`、`GET /api/me/stats`。
 - 数据表：`learning_reading_progress`、`content_articles`。
 - 状态逻辑：只有登录用户计入跨设备统计；未登录完读只上报匿名事件。
+- 完读阈值：必须同时满足 `progress_pct >= 95`、末尾句子进入视口、停留 > 30s；重复完读不重复累计已读数。
+- 统计口径：已读文章数和累计字数来自 `learning_reading_progress` 的 completed article；收藏数来自 `user_favorites`。
 
 ## 不明确 / 风险
 

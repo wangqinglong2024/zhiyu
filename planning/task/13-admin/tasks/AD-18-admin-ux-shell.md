@@ -2,7 +2,8 @@
 
 ## PRD 原文引用
 
-- `planning/prds/12-admin/01-functional-requirements.md`：“简洁数据驱动 UI（参考 Linear / Stripe Dashboard）；暗色 / 亮色主题；桌面优先，移动响应。”
+- `planning/ux/11-screens-admin.md`：“后台是运营和内容团队的工作台：密度优先、审计优先、批量操作优先。”
+- `planning/ux/02-design-tokens.md` 定义“松烟雅瓷”token，后台复用但保持高密度。
 - `planning/ux/11-screens-admin.md` 定义登录、Dashboard、内容管理、用户、订单、客服等后台屏幕。
 
 ## 需求落实
@@ -21,6 +22,7 @@
 ## 技术假设
 
 - 与应用端共享 design tokens，但后台布局更高密度。
+- 不以外部产品风格为验收标准；以知语 token、一致导航、可扫描表格和审计优先为准。
 
 ## 最终验收清单
 

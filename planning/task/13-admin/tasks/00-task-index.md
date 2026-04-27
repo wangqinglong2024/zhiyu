@@ -21,3 +21,4 @@
 | AD-17 | [AD-17-announcements.md](./AD-17-announcements.md) | 通知公告 |
 | AD-18 | [AD-18-admin-ux-shell.md](./AD-18-admin-ux-shell.md) | 后台 UX 壳 |
 | AD-19 | [AD-19-admin-api-contract.md](./AD-19-admin-api-contract.md) | `/admin/api` 契约 |
+| AD-20 | [AD-20-security-compliance-console.md](./AD-20-security-compliance-console.md) | 安全事件 / blocklist / 合规 |

@@ -12,6 +12,8 @@
 - API：seed 后所有前台/后台列表可查询。
 - 数据表：`content_categories`、`content_articles`、`content_sentences`。
 - 状态逻辑：seed 可重复执行，按 slug upsert；不重复插入。
+- 范围边界：本任务只满足 Docker dev 联调最小数据，不替代 DC-26 的 W0 600 篇内容上线门槛。
+- 验证命令：必须在 Docker dev 环境内运行 `pnpm seed:discover-china`，不得要求主机直接 `pnpm dev`。
 
 ## 不明确 / 风险
 
@@ -28,3 +30,4 @@
 - [ ] 12 类目全覆盖，每类至少 3 篇。
 - [ ] 至少 6 篇包含 TTS 占位 URL。
 - [ ] 前台能完成列表到详情链路。
+- [ ] seed 数据包含前 3 开放类目与第 4 受限类目的门禁测试样本。

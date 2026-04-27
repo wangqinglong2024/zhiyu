@@ -1,60 +1,20 @@
-# UX-06 · 实现应用端四 Tab 导航
+# UX-06 · 应用端 TabBar 与路由守卫
 
-## 原文引用
+## 来源
 
-- `planning/ux/06-navigation-routing.md`：“发现 `/discover`、课程 `/courses`、游戏 `/games`、我的 `/profile`。”
-- `planning/ux/06-navigation-routing.md`：“未登录可见：所有 4 个 Tab 始终显示。”
-
-## 需求落实
-
-- 页面：`/discover`、`/courses`、`/games`、`/profile`。
-- 组件：TabBar、TabItem、Badge。
-- API：无。
-- 数据表：无。
-- 状态逻辑：点击切路由并保留滚动位置；双击回顶部；长按显示提示/快捷。
-
-## 技术假设
-
-- 使用 lucide-react 图标 Compass、BookOpen、Gamepad2、User。
-- 未登录限制由业务页面和 UA 模块处理。
-
-## 不明确 / 风险
-
-- 风险：课程路由 PRD 使用 `/learn`，UX 使用 `/courses`。
-- 处理：路由层可保留 alias，但导航按 UX `/courses`。
-
-## 最终验收清单
-
-- [ ] 四个 Tab 未登录可见。
-- [ ] 激活态 rose + dot。
-- [ ] 游戏画布和沉浸页隐藏 TabBar。
-# UX-06 · 实现应用端四 Tab 导航
-
-## 原文引用
-
-- `planning/ux/06-navigation-routing.md`：“发现 `/discover`、课程 `/courses`、游戏 `/games`、我的 `/profile`。”
-- `planning/ux/06-navigation-routing.md`：“未登录可见：所有 4 个 Tab 始终显示。”
+- `planning/ux/06-navigation-routing.md`
+- `content/china/00-index.md`
 
 ## 需求落实
 
-- 页面：`/discover`、`/courses`、`/games`、`/profile`。
-- 组件：TabBar、TabItem、Badge。
-- API：无。
-- 数据表：无。
-- 状态逻辑：点击切路由并保留滚动位置；双击回顶部；长按显示提示/快捷。
+- 实现发现、课程、游戏、我的 4 Tab。
+- 激活态使用 jade/印点，不使用旧 rose。
+- 路由支持 en/vi/th/id 前缀。
+- 实现 LocaleGuard、AuthGuard、PaidGuard、ContentGate、GameAccessGuard。
 
-## 技术假设
+## 验收清单
 
-- 使用 lucide-react 图标 Compass、BookOpen、Gamepad2、User。
-- 未登录限制由业务页面和 UA 模块处理。
-
-## 不明确 / 风险
-
-- 风险：课程路由 PRD 使用 `/learn`，UX 使用 `/courses`。
-- 处理：路由层可保留 alias，但导航按 UX `/courses`。
-
-## 最终验收清单
-
-- [ ] 四个 Tab 未登录可见。
-- [ ] 激活态 rose + dot。
-- [ ] 游戏画布和沉浸页隐藏 TabBar。
+- [ ] 4 Tab 未登录可见。
+- [ ] 发现中国前 3 类目访客可读，其余需登录。
+- [ ] 游戏详情可见，登录后 12 款可玩。
+- [ ] 深链与语言切换正确。

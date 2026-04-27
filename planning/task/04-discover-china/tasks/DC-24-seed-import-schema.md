@@ -13,6 +13,9 @@
 - API：可选后台手动导入入口；CLI `pnpm seed:discover-china`。
 - 数据表：所有 DC 内容表与 Storage 桶 `images` / `audio`。
 - 状态逻辑：JSON Schema 校验通过后才 upsert；`seed://` 上传替换为 public_url。
+- CLI：统一支持 `pnpm seed:discover-china`、`pnpm seed:from-file <path.json>`，与后台导入共用 `packages/db/src/seed/upsert.ts`。
+- JSONB：写入 translations、summary、key_points、audio 时必须使用项目已验证 raw postgres-json 方案，避免 Drizzle/postgres-js 双重编码。
+- 校验：导入完成后抽查 `jsonb_typeof`、slug 幂等、`seed://` 资源替换、句子顺序和父级约束。
 
 ## 不明确 / 风险
 
@@ -29,3 +32,5 @@
 - [ ] 重复执行 seed 不产生重复数据。
 - [ ] `seed://images/...` 和 `seed://audio/...` 被正确解析上传。
 - [ ] 后台导入与 CLI 导入共用同一套 upsert 逻辑。
+- [ ] JSONB 字段入库后保持 object/array 类型，不允许落成 JSON 字符串。
+- [ ] `pnpm seed:from-file <path.json>` 可导入正式内容包并复用同一校验报告。

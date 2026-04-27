@@ -1,60 +1,19 @@
-# UX-16 · 实现游戏输入控制映射
+# UX-16 · 游戏输入控件
 
-## 原文引用
+## 来源
 
-- `planning/ux/10-game-ux.md` 包含“通用键位”和“虚拟控件”。
-- `planning/ux/10-game-ux.md` 要求浏览器 + 手机触控可玩。
-
-## 需求落实
-
-- 页面：所有游戏 play 页。
-- 组件：InputOverlay、VirtualJoystick/Buttons、KeyboardHint。
-- API：无。
-- 数据表：无。
-- 状态逻辑：桌面键鼠和移动触控映射到统一 GameInput events。
-
-## 技术假设
-
-- 具体游戏可声明需要的输入类型。
-- 控件不放进装饰卡片，叠加在画布 safe area 内。
-
-## 不明确 / 风险
-
-- 风险：12 款游戏输入差异大。
-- 处理：统一抽象 action events，如 move/confirm/cancel/select/drag。
-
-## 最终验收清单
-
-- [ ] 桌面键盘可操作游戏。
-- [ ] 手机触控可操作游戏。
-- [ ] 控件不遮挡核心玩法区域。
-# UX-16 · 实现游戏输入控制映射
-
-## 原文引用
-
-- `planning/ux/10-game-ux.md` 包含“通用键位”和“虚拟控件”。
-- `planning/ux/10-game-ux.md` 要求浏览器 + 手机触控可玩。
+- `planning/ux/10-game-ux.md`
 
 ## 需求落实
 
-- 页面：所有游戏 play 页。
-- 组件：InputOverlay、VirtualJoystick/Buttons、KeyboardHint。
-- API：无。
-- 数据表：无。
-- 状态逻辑：桌面键鼠和移动触控映射到统一 GameInput events。
+- 桌面支持方向键/WASD、Space、Enter、Esc、R、M。
+- 移动支持虚拟方向键、拼音键盘、声调数字按钮、点击/拖拽控件。
+- 控件命中区 ≥ 44dp。
+- 色弱模式下声调用数字/形状辅助。
 
-## 技术假设
+## 验收清单
 
-- 具体游戏可声明需要的输入类型。
-- 控件不放进装饰卡片，叠加在画布 safe area 内。
-
-## 不明确 / 风险
-
-- 风险：12 款游戏输入差异大。
-- 处理：统一抽象 action events，如 move/confirm/cancel/select/drag。
-
-## 最终验收清单
-
-- [ ] 桌面键盘可操作游戏。
-- [ ] 手机触控可操作游戏。
-- [ ] 控件不遮挡核心玩法区域。
+- [ ] 12 游戏都有输入映射表。
+- [ ] 桌面键盘可玩。
+- [ ] 移动控件不遮挡核心画布。
+- [ ] 色弱与减弱动效偏好生效。

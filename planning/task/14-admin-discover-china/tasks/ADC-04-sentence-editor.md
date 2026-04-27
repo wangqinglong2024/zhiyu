@@ -12,6 +12,8 @@
 - API：`PATCH /admin/api/content/discover/articles/:id/sentences`。
 - 数据表：`content_sentences`、admin_audit_logs。
 - 状态逻辑：句子顺序可拖拽；保存时重算 sequence_number。
+- 语种：v1 只存 zh 原文 + en/vi/th/id 四种翻译；UX 中“5 种语言”按“中文原文 + 4 语翻译”解释。
+- 校验：每句必须有 `zh`、`pinyin`、`translations`；缺 pinyin_tones 或 audio 时标记待补，不阻塞草稿但阻塞 W0 内容上线门槛。
 
 ## 不明确 / 风险
 
@@ -28,3 +30,4 @@
 - [ ] 每句含 zh、pinyin、pinyin_tones、translations、audio。
 - [ ] 缺翻译句子标记 needs_translation。
 - [ ] 保存后前台顺序一致。
+- [ ] 句子保存、删除、排序、批量导入均写入 `admin_audit_logs`。

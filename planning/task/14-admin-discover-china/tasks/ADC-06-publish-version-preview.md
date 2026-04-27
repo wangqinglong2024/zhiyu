@@ -12,6 +12,9 @@
 - API：publish/unpublish/duplicate/version endpoints。
 - 数据表：`content_articles`、`content_sentences`、content_versions、admin_audit_logs。
 - 状态逻辑：发布只允许 approved 或 admin override；撤回后前台不可见。
+- 副作用：发布/撤回/恢复版本必须刷新本地缓存版本、sitemap、搜索索引和推荐候选。
+- 预览：未发布预览只能后台鉴权或短期 token 访问；token 过期后返回 401，不得被搜索引擎收录。
+- Token：预览 token 默认 TTL 15 分钟，单次内容版本绑定，可手动撤销；发布/撤回/版本恢复时旧 token 立即失效。
 
 ## 不明确 / 风险
 
@@ -28,3 +31,6 @@
 - [ ] 复制生成 draft 且 slug 需重新确认。
 - [ ] 版本历史可查看并恢复。
 - [ ] 未发布预览不能被匿名访问。
+- [ ] 撤回后前台、搜索、sitemap、缓存、推荐均不可再访问该正文。
+- [ ] 发布、撤回、复制、版本恢复全部写审计。
+- [ ] 预览 token 过期、撤销、版本变更、匿名访问四种场景均返回不可读。

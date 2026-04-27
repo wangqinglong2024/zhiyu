@@ -12,6 +12,8 @@
 - API：`POST/PATCH /admin/api/content/discover/articles`。
 - 数据表：`content_articles`、content_versions、admin_audit_logs。
 - 状态逻辑：自动保存 draft；发布必须走校验/审校。
+- 字段：标题 zh + en/vi/th/id、摘要 en/vi/th/id、类目、HSK、封面、标签、key_points、status、published_at。
+- 预览：右侧预览只能使用后台鉴权上下文，不生成匿名可访问未发布 URL。
 
 ## 不明确 / 风险
 
@@ -28,3 +30,4 @@
 - [ ] 自动保存每 30s。
 - [ ] 右侧预览接近前台阅读页。
 - [ ] 保存/发布写审计。
+- [ ] JSONB 字段保存后仍为 object/array，不被写成字符串。

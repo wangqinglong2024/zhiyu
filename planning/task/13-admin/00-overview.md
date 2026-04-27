@@ -9,13 +9,14 @@
 ## 来源覆盖
 
 - PRD：`planning/prds/12-admin/01-functional-requirements.md`、`02-data-model-api.md`。
-- UX：`planning/ux/11-screens-admin.md`。
+- UX：`planning/ux/11-screens-admin.md`、`planning/ux/02-design-tokens.md`。
 - 技术规范：`planning/spec/04-backend.md`、`planning/spec/09-security.md`、`planning/spec/10-observability.md`。
 
 ## 产品裁决
 
 - `AD-FR-006` 的“内容管理（4 模块）”不得只放在 13-admin 总任务中，必须分别形成发现中国、课程、游戏、小说四个后台闭环目录。
 - 13-admin 只覆盖后台基础能力、RBAC、导航、审计、通用工作台；具体内容 CRUD 细节以 14-17 为准。
+- 后台视觉以“松烟雅瓷”token 的高密度工作台形态落地，不再引用外部产品风格作为验收标准。
 
 ## 任务清单
 
@@ -36,8 +37,9 @@
 - [ ] AD-15 所有后台写操作写 `admin_audit_logs`，含 actor/action/resource/before/after/ip/ua/timestamp，7 年保留。来源句：`AD-FR-012`。
 - [ ] AD-16 实现导出：用户列表、订单、收益 CSV/Excel，大批量异步。来源句：`AD-FR-013`。
 - [ ] AD-17 实现通知/公告：多语 banner、邮件群发给订阅用户、推送 v1.5 占位。来源句：`AD-FR-014`。
-- [ ] AD-18 后台 UX 按 Linear/Stripe 风格、桌面优先、亮/暗主题、移动响应。来源句：`planning/prds/12-admin/01-functional-requirements.md` “UX”章节。
+- [ ] AD-18 后台 UX 按 `planning/ux/11-screens-admin.md` 的高密度工作台规范落地，桌面优先、亮/暗主题、移动响应。
 - [ ] AD-19 API 前缀统一 `/admin/api`，中间件按 role claim 拦截。来源句：`planning/prds/12-admin/02-data-model-api.md` “API（管理后台专属，路径前缀 /admin/api）”与“鉴权”。
+- [ ] AD-20 实现安全与合规控制台：security_events、blocked_entities、HMAC nonce 异常、红线词规则、Cookie/法务文档状态，并与 AD-15 审计联动。来源句：`planning/task/18-security-compliance/00-overview.md` SC-01、SC-16、SC-17、SC-19。
 
 ## 内容后台拆分映射
 
@@ -51,3 +53,4 @@
 - [ ] AD-T01 admin 登录后可访问全部；viewer 只读；cs 只能客服与用户基本信息。来源句：角色权限表。
 - [ ] AD-T02 任一写操作都产生审计日志，可按 actor/resource 查询。来源句：`AD-FR-012`。
 - [ ] AD-T03 列表 P95 <500ms、详情 <800ms、操作 <1s。来源句：`planning/prds/12-admin/02-data-model-api.md` “性能”。
+- [ ] AD-T04 安全事件列表和 blocklist 操作仅 admin 可写，所有变更写审计。

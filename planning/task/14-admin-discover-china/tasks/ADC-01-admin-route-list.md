@@ -12,6 +12,8 @@
 - API：`GET /admin/api/content/discover/articles`。
 - 数据表：`content_articles`、`content_categories`、`admin_audit_logs`。
 - 状态逻辑：支持 draft/review/published/archived；editor/admin 可写，viewer 只读。
+- 权限：reviewer 可进入审校入口但不能从列表直接修改源内容；viewer 不显示写操作按钮。
+- 筛选：类目、状态、HSK、作者、更新时间、审校状态、匿名开放状态。
 
 ## 不明确 / 风险
 
@@ -26,5 +28,6 @@
 
 - [ ] 列表分页、搜索、筛选可用。
 - [ ] editor/admin 可进入编辑，viewer 只读。
+- [ ] reviewer 只能进入审校流转，不能编辑源内容。
 - [ ] 列表展示类目、状态、HSK、作者、更新时间。
 - [ ] API P95 < 500ms。

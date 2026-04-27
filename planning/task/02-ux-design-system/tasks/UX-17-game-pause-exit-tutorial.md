@@ -1,58 +1,19 @@
-# UX-17 · 实现游戏暂停、退出与首玩教学
+# UX-17 · 游戏暂停、退出与教程
 
-## 原文引用
+## 来源
 
-- `planning/ux/10-game-ux.md`：“自动暂停：失去焦点。”
-- `planning/ux/10-game-ux.md`：“强制小教学（30s 内）。”
-
-## 需求落实
-
-- 页面：游戏 play 页、pause overlay、exit confirm、tutorial overlay。
-- 组件：PauseMenu、ExitConfirm、TutorialOverlay、FocusPauseHandler。
-- API：session pause/resume 可由 GM 模块接入。
-- 数据表：game_sessions 可记录 paused/ended 状态。
-- 状态逻辑：失焦暂停；退出需二次确认；首玩显示短教学。
-
-## 技术假设
-
-- 首玩状态可存在 localStorage 或用户偏好中，GM 模块决定持久化。
-
-## 不明确 / 风险
-
-- 风险：教学超过 30s 打断 60s 回合。
-- 处理：教学在正式计时前完成或覆盖暂停状态。
-
-## 最终验收清单
-
-- [ ] 失焦自动暂停。
-- [ ] 退出游戏二次确认。
-- [ ] 每款游戏首次进入有 30s 内教学。
-# UX-17 · 实现游戏暂停、退出与首玩教学
-
-## 原文引用
-
-- `planning/ux/10-game-ux.md`：“自动暂停：失去焦点。”
-- `planning/ux/10-game-ux.md`：“强制小教学（30s 内）。”
+- `planning/ux/10-game-ux.md`
 
 ## 需求落实
 
-- 页面：游戏 play 页、pause overlay、exit confirm、tutorial overlay。
-- 组件：PauseMenu、ExitConfirm、TutorialOverlay、FocusPauseHandler。
-- API：session pause/resume 可由 GM 模块接入。
-- 数据表：game_sessions 可记录 paused/ended 状态。
-- 状态逻辑：失焦暂停；退出需二次确认；首玩显示短教学。
+- 失焦/切 App/来电自动暂停。
+- 暂停面板提供继续、重新开始、音效、音乐、退出。
+- 退出需确认当前单局结束。
+- 首玩提供 30 秒内小教学，已完成后可跳过，可在详情页重看。
 
-## 技术假设
+## 验收清单
 
-- 首玩状态可存在 localStorage 或用户偏好中，GM 模块决定持久化。
-
-## 不明确 / 风险
-
-- 风险：教学超过 30s 打断 60s 回合。
-- 处理：教学在正式计时前完成或覆盖暂停状态。
-
-## 最终验收清单
-
-- [ ] 失焦自动暂停。
-- [ ] 退出游戏二次确认。
-- [ ] 每款游戏首次进入有 30s 内教学。
+- [ ] 失焦自动暂停，恢复有倒计时。
+- [ ] 退出确认可键盘操作。
+- [ ] 教程不超过 30 秒。
+- [ ] 教程状态可持久化。

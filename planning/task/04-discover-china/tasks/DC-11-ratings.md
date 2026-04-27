@@ -12,6 +12,7 @@
 - API：`POST /api/discover/articles/:id/rating`。
 - 数据表：`content_ratings`、`content_articles.rating_avg`、`rating_count`。
 - 状态逻辑：登录后可评分；重复评分更新本人评分并重算平均值。
+- 计票口径：同用户同文章永远只占 1 票；重复提交不得增加 `rating_count`。
 
 ## 不明确 / 风险
 
@@ -28,3 +29,4 @@
 - [ ] 同用户同文章只有 1 票。
 - [ ] 列表/详情评分平均值一致。
 - [ ] 未登录评分弹登录引导。
+- [ ] 重复评分只更新本人评分或提示已评分，不会重复计票。

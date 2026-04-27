@@ -13,6 +13,7 @@
 - API：`GET /api/discover/categories`、`GET/PATCH /admin/api/content/discover/categories`。
 - 数据表：`content_categories`，`module='discover'`。
 - 状态逻辑：12 类目按 `display_order` 固定排序；status 支持 active/hidden；前 3 类目标记 anonymous_visible=true。
+- 类目口径：slug/code 固定为 `history`、`cuisine`、`scenic-wonders`、`festivals-customs`、`arts-heritage`、`music-opera`、`classic-literature`、`idioms-allusions`、`philosophy-wisdom`、`modern-china`、`fun-with-chinese`、`myths-legends`。
 
 ## 不明确 / 风险
 
@@ -27,6 +28,7 @@
 ## 最终验收清单
 
 - [ ] 12 个 discover 类目全部入库且 slug 唯一。
+- [ ] 类目名称、顺序、slug/code 与 `content/china/00-index.md` 一致，PRD 旧名称仅作为展示别名或迁移备注。
 - [ ] 前 3 类目为匿名开放：中国历史、中国美食、名胜风光。
 - [ ] `/api/discover/categories` 返回 12 类目、文章数、封面、主题色、多语名称。
 - [ ] 后台可调整封面、描述、排序、状态。

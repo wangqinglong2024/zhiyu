@@ -12,6 +12,7 @@
 - API：`POST /api/discover/articles/:id/favorite`，句子收藏复用通用收藏 API。
 - 数据表：`user_favorites`。
 - 状态逻辑：登录后可收藏；未登录点击收藏弹登录引导。
+- 个人中心：`/me/favorites` 必须能按文章/句子类型筛选，并显示来源类目与文章标题。
 
 ## 不明确 / 风险
 
@@ -28,3 +29,4 @@
 - [ ] 句子收藏写入 `target_type=sentence`。
 - [ ] 个人中心能看到文章与句子收藏。
 - [ ] 重复收藏受唯一约束保护。
+- [ ] 收藏/取消收藏事件写入 `events`。

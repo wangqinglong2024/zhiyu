@@ -14,6 +14,9 @@
 - API：`GET /sitemap.xml` 或构建/运行时 sitemap 生成。
 - 数据表：`content_articles`、`content_categories`。
 - 状态逻辑：只收录 published 且可公开访问的 URL；受限类目也可收录登录落地页但不得泄露正文。
+- Meta：每篇已发布文章必须有 4 语 title、description、og 图、canonical、hreflang。
+- JSON-LD：开放类目可输出 Article schema；受限类目不得输出 articleBody 或句子正文，只能输出安全 metadata 与登录引导。
+- CSR 风险：如果全局前端为 CSR，必须由服务端或预渲染管线输出可抓取 meta/JSON-LD。
 
 ## 不明确 / 风险
 
@@ -30,3 +33,5 @@
 - [ ] 4 语 meta 正确。
 - [ ] JSON-LD Article 校验通过。
 - [ ] sitemap 只包含已发布内容。
+- [ ] 受限类目的 SEO、sitemap、og、JSON-LD 不泄露正文、句子、音频 URL。
+- [ ] `/vi/`、`/th/`、`/id/`、`/en/` hreflang 互链正确。

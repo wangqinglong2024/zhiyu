@@ -13,6 +13,8 @@
 - API：`/admin/api/content/discover/*`。
 - 数据表：`content_categories`、`content_articles`、`content_sentences`、`admin_audit_logs`。
 - 状态逻辑：前台只读 published；后台 draft/review/published/archived 全部可管理。
+- 内容流：后台编辑/导入 → 红线校验 → TTS 占位/生成 → 母语审校 → 发布 → 缓存版本更新 → sitemap 增量更新。
+- 权限：后台预览和 draft/review 内容必须后台鉴权或短期 token，匿名不可读。
 
 ## 不明确 / 风险
 
@@ -29,3 +31,4 @@
 - [ ] 句子级编辑支持拼音、翻译、音频。
 - [ ] 前台能看到后台发布内容。
 - [ ] 所有写操作有审计日志。
+- [ ] 发布和撤回会同步触发缓存与 sitemap 更新。
