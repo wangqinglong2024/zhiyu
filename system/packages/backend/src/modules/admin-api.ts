@@ -8,6 +8,8 @@ import { createBaseApp, installErrorHandler } from '../runtime/base-app.js';
 import { audit, now, persistDiscoverContent, publicUser, refreshDiscoverContent, state } from '../runtime/state.js';
 import { created, failure, ok, pageMeta } from '../runtime/response.js';
 import type { DiscoverArticleRecord, DiscoverSentenceRecord } from '../runtime/state.js';
+import { courseCatalogRows } from '../runtime/courses.js';
+import { registerCourseAdminRoutes } from './course-admin-api.js';
 
 const writeRoles = ['admin', 'editor'] as const;
 const adminLimiter = rateLimit({ windowMs: 60_000, limit: 10, standardHeaders: true, legacyHeaders: false, handler: (_req, res) => failure(res, 429, 'RATE_LIMITED', 'Too many requests') });
@@ -78,6 +80,7 @@ export function createAdminApi() {
 
   app.post('/admin/api/auth/totp/verify', (_req, res) => ok(res, { verified: _req.body?.totp === '123456' }));
   api.use(requireAuth(env, 'admin'));
+  registerCourseAdminRoutes(api, adminAudit);
 
   api.get('/dashboard/summary', (_req, res) => ok(res, { dau: 128, wau: 860, mau: 2400, orders: state.orders.length, gmv: 16, churn: 0.04, nps: null, csPending: 3, alerts: state.securityEvents.length }));
   api.get('/dashboard/trends', (_req, res) => ok(res, [7, 30, 90].map((days) => ({ days, registrations: days * 12, orders: days, errors: Math.max(1, Math.round(days / 10)) }))));
@@ -376,7 +379,7 @@ function changeCoins(req: express.Request, res: express.Response, delta: number,
 
 function contentRows(moduleName: string) {
   if (moduleName === 'articles') return state.articles.map((item) => ({ id: item.id, slug: item.slug, title: item.titleZh, status: item.status, category: item.categorySlug, hskLevel: item.hskLevel, sentences: item.sentences.length, access: state.categories.find((category) => category.slug === item.categorySlug)?.public ? 'anonymous' : 'login', updatedAt: item.updatedAt }));
-  if (moduleName === 'courses') return ['daily', 'ecommerce', 'factory', 'hsk'].map((track) => ({ id: track, title: track, status: 'draft', children: '12 stages' }));
+  if (moduleName === 'courses') return courseCatalogRows();
   if (moduleName === 'games') return ['hanzi-ninja', 'pinyin-shooter', 'tone-bubbles'].map((slug) => ({ id: slug, title: slug, status: 'active', wordpacks: 1 }));
   if (moduleName === 'novels') return [{ id: 'ancient-romance-demo', title: 'Ancient Romance Demo', status: 'draft', chapters: 3 }];
   return [];

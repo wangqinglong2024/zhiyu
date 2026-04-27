@@ -8,4 +8,13 @@ describe('foundation schema table coverage', () => {
     expect(migrationTables).toContain('admin_users');
     expect(migrationTables).toContain('admin_audit_logs');
   });
+
+  it('covers course PRD tables', () => {
+    expect(migrationTables).toContain('content_tracks');
+    expect(migrationTables).toContain('content_knowledge_points');
+    expect(migrationTables).toContain('content_quizzes');
+    expect(migrationTables).toContain('learning_progress');
+    expect(migrationTables).toContain('learning_wrong_set');
+    expect(migrationTables).toContain('user_stage_purchases');
+  });
 });

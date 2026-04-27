@@ -9,6 +9,8 @@
     "lint": "tsc -p tsconfig.json --noEmit",
     "migrate": "tsx scripts/migrate.ts",
     "seed:all": "tsx scripts/seed.ts all",
+    "seed:courses": "tsx scripts/seed.ts courses",
+    "seed:from-file": "tsx scripts/seed.ts from-file",
     "seed:discover-china": "tsx scripts/seed.ts discover-china",
     "seed:user": "tsx scripts/seed.ts user",
     "test": "vitest run"

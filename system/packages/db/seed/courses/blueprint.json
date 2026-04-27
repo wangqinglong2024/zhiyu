@@ -1,0 +1,41 @@
+{
+  "$schema_version": "1.0",
+  "module": "courses",
+  "seedProtocol": "seed://images/courses/<slug>.webp and seed://audio/courses/<slug>.mp3 resolve under packages/db/seed/_assets/courses/",
+  "requirements": {
+    "tracks": ["ec", "factory", "hsk", "daily"],
+    "minimumStagesPerTrack": 2,
+    "minimumLessonsPerStage": 3,
+    "minimumQuestionsPerLesson": 5,
+    "minimumQuestionTypesCovered": 6,
+    "stageExamMinimumQuestions": 10,
+    "freeTrial": "Stage 1 chapters 1-3 only"
+  },
+  "items": [
+    { "slug": "ec-s01-c01-l01", "i18n": { "zh-CN": { "title": "电商 S1 问候 1", "summary": "基础问候", "body": "单行知识点课程" }, "en": { "title": "EC S1 Greeting 1", "summary": "Greeting", "body": "Compact lesson" } }, "tags": ["ec", "stage-1"], "media": { "cover": "seed://images/courses/ec-s01-c01-l01.webp", "audio": "seed://audio/courses/ec-s01-c01-l01.mp3" }, "module_specific": { "track": "ec", "stage": 1, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "P1", "P2"] } },
+    { "slug": "ec-s01-c01-l02", "i18n": { "zh-CN": { "title": "电商 S1 问候 2", "summary": "数字与价格", "body": "单行知识点课程" } }, "tags": ["ec", "stage-1"], "module_specific": { "track": "ec", "stage": 1, "chapter": 1, "lesson": 2, "questionTypes": ["Q4", "Q5", "Q6", "Q7", "Q8"] } },
+    { "slug": "ec-s01-c01-l03", "i18n": { "zh-CN": { "title": "电商 S1 问候 3", "summary": "发货短句", "body": "单行知识点课程" } }, "tags": ["ec", "stage-1"], "module_specific": { "track": "ec", "stage": 1, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q5", "Q9", "Q10", "P3"] } },
+    { "slug": "ec-s02-c01-l01", "i18n": { "zh-CN": { "title": "电商 S2 1688 1", "summary": "平台词汇", "body": "单行知识点课程" } }, "tags": ["ec", "stage-2"], "module_specific": { "track": "ec", "stage": 2, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "Q4", "Q5"] } },
+    { "slug": "ec-s02-c01-l02", "i18n": { "zh-CN": { "title": "电商 S2 1688 2", "summary": "搜索下单", "body": "单行知识点课程" } }, "tags": ["ec", "stage-2"], "module_specific": { "track": "ec", "stage": 2, "chapter": 1, "lesson": 2, "questionTypes": ["Q5", "Q6", "Q7", "Q8", "Q9"] } },
+    { "slug": "ec-s02-c01-l03", "i18n": { "zh-CN": { "title": "电商 S2 1688 3", "summary": "客服对话", "body": "单行知识点课程" } }, "tags": ["ec", "stage-2"], "module_specific": { "track": "ec", "stage": 2, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q4", "Q6", "Q8", "Q10"] } },
+    { "slug": "factory-s01-c01-l01", "i18n": { "zh-CN": { "title": "工厂 S1 入门 1", "summary": "自我介绍", "body": "单行知识点课程" } }, "tags": ["factory", "stage-1"], "module_specific": { "track": "factory", "stage": 1, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "P1", "P2"] } },
+    { "slug": "factory-s01-c01-l02", "i18n": { "zh-CN": { "title": "工厂 S1 入门 2", "summary": "工具名称", "body": "单行知识点课程" } }, "tags": ["factory", "stage-1"], "module_specific": { "track": "factory", "stage": 1, "chapter": 1, "lesson": 2, "questionTypes": ["Q4", "Q5", "Q6", "Q7", "Q8"] } },
+    { "slug": "factory-s01-c01-l03", "i18n": { "zh-CN": { "title": "工厂 S1 入门 3", "summary": "安全短句", "body": "单行知识点课程" } }, "tags": ["factory", "stage-1"], "module_specific": { "track": "factory", "stage": 1, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q5", "Q9", "Q10", "P3"] } },
+    { "slug": "factory-s02-c01-l01", "i18n": { "zh-CN": { "title": "工厂 S2 指令 1", "summary": "操作指令", "body": "单行知识点课程" } }, "tags": ["factory", "stage-2"], "module_specific": { "track": "factory", "stage": 2, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "Q4", "Q5"] } },
+    { "slug": "factory-s02-c01-l02", "i18n": { "zh-CN": { "title": "工厂 S2 指令 2", "summary": "班组沟通", "body": "单行知识点课程" } }, "tags": ["factory", "stage-2"], "module_specific": { "track": "factory", "stage": 2, "chapter": 1, "lesson": 2, "questionTypes": ["Q5", "Q6", "Q7", "Q8", "Q9"] } },
+    { "slug": "factory-s02-c01-l03", "i18n": { "zh-CN": { "title": "工厂 S2 指令 3", "summary": "工具复习", "body": "单行知识点课程" } }, "tags": ["factory", "stage-2"], "module_specific": { "track": "factory", "stage": 2, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q4", "Q6", "Q8", "Q10"] } },
+    { "slug": "hsk-s01-c01-l01", "i18n": { "zh-CN": { "title": "HSK S1 你好 1", "summary": "HSK1 词汇", "body": "单行知识点课程" } }, "tags": ["hsk", "stage-1"], "module_specific": { "track": "hsk", "stage": 1, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "P1", "P2"] } },
+    { "slug": "hsk-s01-c01-l02", "i18n": { "zh-CN": { "title": "HSK S1 你好 2", "summary": "数字时间", "body": "单行知识点课程" } }, "tags": ["hsk", "stage-1"], "module_specific": { "track": "hsk", "stage": 1, "chapter": 1, "lesson": 2, "questionTypes": ["Q4", "Q5", "Q6", "Q7", "Q8"] } },
+    { "slug": "hsk-s01-c01-l03", "i18n": { "zh-CN": { "title": "HSK S1 你好 3", "summary": "自我介绍", "body": "单行知识点课程" } }, "tags": ["hsk", "stage-1"], "module_specific": { "track": "hsk", "stage": 1, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q5", "Q9", "Q10", "P3"] } },
+    { "slug": "hsk-s02-c01-l01", "i18n": { "zh-CN": { "title": "HSK S2 词汇 1", "summary": "HSK2 高频词", "body": "单行知识点课程" } }, "tags": ["hsk", "stage-2"], "module_specific": { "track": "hsk", "stage": 2, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "Q4", "Q5"] } },
+    { "slug": "hsk-s02-c01-l02", "i18n": { "zh-CN": { "title": "HSK S2 词汇 2", "summary": "句型", "body": "单行知识点课程" } }, "tags": ["hsk", "stage-2"], "module_specific": { "track": "hsk", "stage": 2, "chapter": 1, "lesson": 2, "questionTypes": ["Q5", "Q6", "Q7", "Q8", "Q9"] } },
+    { "slug": "hsk-s02-c01-l03", "i18n": { "zh-CN": { "title": "HSK S2 词汇 3", "summary": "听读复习", "body": "单行知识点课程" } }, "tags": ["hsk", "stage-2"], "module_specific": { "track": "hsk", "stage": 2, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q4", "Q6", "Q8", "Q10"] } },
+    { "slug": "daily-s01-c01-l01", "i18n": { "zh-CN": { "title": "日常 S1 问候 1", "summary": "打招呼", "body": "单行知识点课程" } }, "tags": ["daily", "stage-1"], "module_specific": { "track": "daily", "stage": 1, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "P1", "P2"] } },
+    { "slug": "daily-s01-c01-l02", "i18n": { "zh-CN": { "title": "日常 S1 问候 2", "summary": "点餐短句", "body": "单行知识点课程" } }, "tags": ["daily", "stage-1"], "module_specific": { "track": "daily", "stage": 1, "chapter": 1, "lesson": 2, "questionTypes": ["Q4", "Q5", "Q6", "Q7", "Q8"] } },
+    { "slug": "daily-s01-c01-l03", "i18n": { "zh-CN": { "title": "日常 S1 问候 3", "summary": "出行问路", "body": "单行知识点课程" } }, "tags": ["daily", "stage-1"], "module_specific": { "track": "daily", "stage": 1, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q5", "Q9", "Q10", "P3"] } },
+    { "slug": "daily-s02-c01-l01", "i18n": { "zh-CN": { "title": "日常 S2 时间 1", "summary": "数字时间", "body": "单行知识点课程" } }, "tags": ["daily", "stage-2"], "module_specific": { "track": "daily", "stage": 2, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "Q4", "Q5"] } },
+    { "slug": "daily-s02-c01-l02", "i18n": { "zh-CN": { "title": "日常 S2 时间 2", "summary": "日期预约", "body": "单行知识点课程" } }, "tags": ["daily", "stage-2"], "module_specific": { "track": "daily", "stage": 2, "chapter": 1, "lesson": 2, "questionTypes": ["Q5", "Q6", "Q7", "Q8", "Q9"] } },
+    { "slug": "daily-s02-c01-l03", "i18n": { "zh-CN": { "title": "日常 S2 时间 3", "summary": "复习", "body": "单行知识点课程" } }, "tags": ["daily", "stage-2"], "module_specific": { "track": "daily", "stage": 2, "chapter": 1, "lesson": 3, "questionTypes": ["Q1", "Q4", "Q6", "Q8", "Q10"] } }
+  ],
+  "stage_exam": { "track": "hsk", "stage": 1, "questionCount": 10, "questionTypes": ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6"] }
+}

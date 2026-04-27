@@ -4,7 +4,8 @@ import { Button, Card, IconButton, Toast } from '@zhiyu/ui';
 import { localeFromPath, localeLabels, locales, stripLocale, t, type Locale } from '@zhiyu/i18n';
 import { navItems } from './data';
 import { AuthPages, OnboardingPage, ProfilePage } from './pages/AuthPages';
-import { CoursePage, GamePage } from './pages/LearningPages';
+import { GamePage } from './pages/LearningPages';
+import { CoursePage } from './pages/CoursePages';
 import { DiscoverPage, ArticlePage, CategoryPage, DiscoverSearchPage } from './pages/DiscoverPages';
 
 type RouteState = { locale: Locale; route: string };
@@ -72,7 +73,7 @@ function renderPage(route: string, locale: Locale, navigate: (path: string) => v
   if (route.startsWith('/auth')) return <AuthPages route={route} navigate={navigate} />;
   if (route.startsWith('/onboarding')) return <OnboardingPage navigate={navigate} />;
   if (route.startsWith('/profile')) return <ProfilePage navigate={navigate} locale={locale} changeLocale={changeLocale} />;
-  if (route.startsWith('/courses')) return <CoursePage route={route} navigate={navigate} loggedIn={loggedIn} />;
+  if (route.startsWith('/learn') || route.startsWith('/courses')) return <CoursePage route={route} navigate={navigate} loggedIn={loggedIn} />;
   if (route.startsWith('/games')) return <GamePage route={route} navigate={navigate} loggedIn={loggedIn} />;
   if (route.startsWith('/discover/') && route.split('/').length >= 4) return <ArticlePage route={route} locale={locale} loggedIn={loggedIn} navigate={navigate} />;
   if (route.startsWith('/discover/') && route !== '/discover/search') return <CategoryPage route={route} locale={locale} loggedIn={loggedIn} navigate={navigate} />;

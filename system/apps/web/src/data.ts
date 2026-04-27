@@ -2,7 +2,7 @@ import { BookOpen, Compass, Gamepad2, Landmark, User } from 'lucide-react';
 
 export const navItems = [
   { path: '/discover', key: 'discover', icon: Compass },
-  { path: '/courses', key: 'courses', icon: BookOpen },
+  { path: '/learn', key: 'courses', icon: BookOpen },
   { path: '/games', key: 'games', icon: Gamepad2 },
   { path: '/profile', key: 'profile', icon: User }
 ];
@@ -18,7 +18,7 @@ export const categoryMotifs = categoryRows.map(([slug, title, motif], index) => 
 
 export const games = ['hanzi-ninja', 'pinyin-shooter', 'tone-bubbles', 'hanzi-tetris', 'whack-hanzi', 'hanzi-match3', 'hanzi-snake', 'hanzi-rhythm', 'hanzi-runner', 'pinyin-defense', 'memory-match', 'hanzi-slingshot'];
 
-export const tracks = ['daily', 'ecommerce', 'factory', 'hsk'];
+export const tracks = ['daily', 'ec', 'factory', 'hsk'];
 
 export function titleCase(value: string) {
   return value.split('-').map((part) => `${part.charAt(0).toUpperCase()}${part.slice(1)}`).join(' ');

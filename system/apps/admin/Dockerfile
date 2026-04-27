@@ -3,6 +3,7 @@ WORKDIR /app
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml turbo.json tsconfig.base.json ./
 COPY apps/admin/package.json apps/admin/package.json
 COPY packages/types/package.json packages/types/package.json
+COPY packages/i18n/package.json packages/i18n/package.json
 COPY packages/ui/package.json packages/ui/package.json
 RUN corepack enable && pnpm install --frozen-lockfile
 

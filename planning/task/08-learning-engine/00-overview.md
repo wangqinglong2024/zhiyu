@@ -3,7 +3,7 @@
 ## 来源覆盖
 
 - PRD：`planning/prds/07-learning-engine/01-functional-requirements.md`、`02-data-model-api.md`。
-- 关联：课程、游戏、小说错题来源，经济模块 streak freeze 与奖励。
+- 关联：课程、游戏错题来源，经济模块 streak freeze 与奖励。
 
 ## 任务清单
 

@@ -9,6 +9,7 @@ import { createBaseApp, installErrorHandler } from '../runtime/base-app.js';
 import { audit, defaultPreferences, now, publicUser, refreshDiscoverContent, state } from '../runtime/state.js';
 import { created, failure, ok, pageMeta } from '../runtime/response.js';
 import type { DiscoverArticleRecord } from '../runtime/state.js';
+import { registerCourseAppRoutes } from './course-api.js';
 
 const rateLimitHandler = (_req: express.Request, res: express.Response) => failure(res, 429, 'RATE_LIMITED', 'Too many requests');
 const authLimiter = rateLimit({ windowMs: 60_000, limit: 10, standardHeaders: true, legacyHeaders: false, handler: rateLimitHandler });
@@ -377,6 +378,7 @@ export function createAppApi() {
   const meRouter = express.Router();
   registerAuthRoutes(authRouter, env);
   registerMeRoutes(meRouter, env);
+  registerCourseAppRoutes(app, env);
 
   app.post('/api/v1/_telemetry/error', (req, res) => {
     const event = { id: randomUUID(), ts: now(), service: 'app-fe', ...req.body };
@@ -511,7 +513,6 @@ export function createAppApi() {
     const favoriteRows = state.favorites.filter((item) => item.userId === req.auth?.userId && item.targetType === 'article');
     return ok(res, { readArticles: completed.length, readWords: completed.reduce((sum, item) => sum + (state.articles.find((article) => article.id === item.targetId)?.wordCount ?? 0), 0), favorites: favoriteRows.length, notes: state.notes.filter((item) => item.userId === req.auth?.userId).length, favoriteArticles: favoriteRows.map((favorite) => state.articles.find((article) => article.id === favorite.targetId)).filter(Boolean).map((article) => article ? articleListItem(article) : null).filter(Boolean), notesList: state.notes.filter((item) => item.userId === req.auth?.userId) });
   }));
-  app.get('/api/v1/courses/map', (_req, res) => ok(res, ['daily', 'ecommerce', 'factory', 'hsk'].map((track) => ({ track, stages: 12, chaptersPerStage: 12, free: 'stage-1 chapters 1-3' }))));
   app.get('/api/v1/games', (_req, res) => ok(res, ['hanzi-ninja', 'pinyin-shooter', 'tone-bubbles', 'hanzi-tetris', 'whack-hanzi', 'hanzi-match3', 'hanzi-snake', 'hanzi-rhythm', 'hanzi-runner', 'pinyin-defense', 'memory-match', 'hanzi-slingshot'].map((slug, index) => ({ slug, title: slug.replaceAll('-', ' '), active: true, seconds: 60, recommendedHsk: [(index % 3) + 1] }))));
   app.get('/api/v1/games/:slug/wordpacks', (_req, res) => ok(res, [{ track: 'hsk', stage: 1, available: true }, { track: 'ecommerce', stage: 9, available: Boolean(_req.headers.authorization) }]));
   app.get('/api/v1/novels/preview', (_req, res) => ok(res, [{ slug: 'ancient-romance-demo', freeChapter: 1, loginUnlocksAll: true }]));

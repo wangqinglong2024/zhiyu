@@ -10,6 +10,7 @@ type Sentence = { id: string; sequenceNumber: number; zh: string; pinyin: string
 type Article = { id: string; slug: string; titleZh: string; categorySlug: string; status: string; length: string; sentences: Sentence[]; keyPoints?: Partial<Record<Locale, string[]>>; updatedAt: string };
 
 const SENTENCES_PAGE_SIZE = 10;
+const DEFAULT_LOCALE: Locale = 'en';
 
 function emptyTranslations(): Partial<Record<Locale, string>> {
   return locales.reduce<Partial<Record<Locale, string>>>((acc, lang) => { acc[lang] = ''; return acc; }, {});
@@ -41,7 +42,7 @@ export function DiscoverChinaAdmin() {
     const summary = locales.reduce<Partial<Record<Locale, string>>>((acc, lang) => { acc[lang] = ''; return acc; }, {});
     const result = await adminRequest<Article>('/admin/api/content/articles', { method: 'POST', body: JSON.stringify({ categorySlug, titleZh: '新发现中国文章', slug, titleTranslations, summary, status: 'draft' }) });
     if (result.error) {
-      setMessage(`新建失败: ${result.error.message ?? result.error.code ?? '未知错误'}`);
+      setMessage(`新建失败: ${result.error.message ?? '未知错误'}`);
       return;
     }
     setMessage('Article created and audited');
@@ -92,7 +93,7 @@ function EditorPanel({ article, categories, updateArticle, addSentence, runActio
   const [titleI18n, setTitleI18n] = useState<Partial<Record<Locale, string>>>(emptyTranslations());
   const [categorySlug, setCategorySlug] = useState('history');
   const [status, setStatus] = useState('draft');
-  const [activeLang, setActiveLang] = useState<Locale>(locales[0]);
+  const [activeLang, setActiveLang] = useState<Locale>(locales[0] ?? DEFAULT_LOCALE);
   useEffect(() => {
     setTitle(article?.titleZh ?? '');
     setTitleI18n((article as { titleTranslations?: Partial<Record<Locale, string>> } | null)?.titleTranslations ?? emptyTranslations());
@@ -136,7 +137,7 @@ function SentenceEdit({ articleId, sentence, onChanged, setMessage }: { articleI
   const [pinyin, setPinyin] = useState(sentence.pinyin);
   const [pinyinTones, setPinyinTones] = useState(sentence.pinyinTones);
   const [translations, setTranslations] = useState<Partial<Record<Locale, string>>>(() => ({ ...emptyTranslations(), ...sentence.translations }));
-  const [activeLang, setActiveLang] = useState<Locale>(locales[0]);
+  const [activeLang, setActiveLang] = useState<Locale>(locales[0] ?? DEFAULT_LOCALE);
   async function save() {
     const result = await adminRequest<Sentence>(`/admin/api/content/articles/${articleId}/sentences/${sentence.id}`, { method: 'PATCH', body: JSON.stringify({ zh, pinyin, pinyinTones, translations }) });
     setMessage(result.error?.message ?? 'Sentence saved and audited');

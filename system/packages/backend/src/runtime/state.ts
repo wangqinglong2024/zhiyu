@@ -71,7 +71,7 @@ const adminUsers: AdminRecord[] = [
 ];
 
 function translations(en: string, vi: string, th: string, id: string): LocalizedText {
-  return { en, vi, th, id };
+  return { en, vi, th, id, 'zh-CN': en };
 }
 
 const categoryDefinitions = [
@@ -155,7 +155,8 @@ const articles: DiscoverArticleRecord[] = categories.flatMap((category, category
         en: [source.boundary, 'Use the CTA to continue into courses, games, novels, or related categories.'],
         vi: [source.boundary, 'Tiếp tục qua khóa học, trò chơi, truyện hoặc chủ đề liên quan.'],
         th: [source.boundary, 'ไปต่อด้วยคอร์ส เกม นิยาย หรือหมวดที่เกี่ยวข้อง'],
-        id: [source.boundary, 'Lanjutkan ke kursus, game, novel, atau kategori terkait.']
+        id: [source.boundary, 'Lanjutkan ke kursus, game, novel, atau kategori terkait.'],
+        'zh-CN': [source.boundary, '继续进入课程、游戏、小说或相关分类。']
       },
       status: 'published',
       publishedAt: now(),

@@ -15,10 +15,8 @@ export function createBaseApp(serviceName: string) {
   const logger = pino({ level: env.LOG_LEVEL, base: { service: serviceName, env: env.APP_ENV } });
   const registry = new client.Registry();
   client.collectDefaultMetrics({ register: registry, prefix: 'zhiyu_' });
-  const httpTotal = new client.Counter({ name: 'http_request_total', help: 'HTTP requests', labelNames: ['method', 'route', 'status'] });
-  const httpDuration = new client.Histogram({ name: 'http_request_duration_seconds', help: 'HTTP latency', labelNames: ['method', 'route'] });
-  registry.registerMetric(httpTotal);
-  registry.registerMetric(httpDuration);
+  const httpTotal = new client.Counter({ name: 'http_request_total', help: 'HTTP requests', labelNames: ['method', 'route', 'status'], registers: [registry] });
+  const httpDuration = new client.Histogram({ name: 'http_request_duration_seconds', help: 'HTTP latency', labelNames: ['method', 'route'], registers: [registry] });
 
   app.disable('x-powered-by');
   const allowedOrigins = new Set(env.CORS_ORIGINS.split(',').map((item) => item.trim()).filter(Boolean));

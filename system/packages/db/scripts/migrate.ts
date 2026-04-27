@@ -1,4 +1,4 @@
-import { readFile } from 'node:fs/promises';
+import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import postgres from 'postgres';
 
@@ -16,9 +16,13 @@ if (!databaseUrl) {
 const sql = postgres(databaseUrl, { max: 1 });
 
 try {
-  const migration = await readFile(join(process.cwd(), 'migrations/0001_foundation_user_admin.sql'), 'utf8');
-  await sql.unsafe(migration);
-  console.log(JSON.stringify({ status: 'ok', migration: '0001_foundation_user_admin' }));
+  const dir = join(process.cwd(), 'migrations');
+  const migrations = (await readdir(dir)).filter((file) => file.endsWith('.sql')).sort();
+  for (const file of migrations) {
+    const migration = await readFile(join(dir, file), 'utf8');
+    await sql.unsafe(migration);
+    console.log(JSON.stringify({ status: 'ok', migration: file.replace(/\.sql$/, '') }));
+  }
 } catch (error) {
   throw error;
 } finally {

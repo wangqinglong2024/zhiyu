@@ -5,6 +5,7 @@ import { Badge, Button, Card, DataTable, IconButton, Input, SearchInput, Toast }
 import { adminRequest } from './api';
 import { nav, titleFromRoute } from './data';
 import { DiscoverChinaAdmin } from './DiscoverChinaAdmin';
+import { CoursesAdmin } from './CoursesAdmin';
 
 type Row = Record<string, unknown>;
 
@@ -36,6 +37,7 @@ function AdminLogin({ onLogin }: { onLogin: (token: string) => void }) {
 
 function renderRoute(route: string, navigate: (path: string) => void) {
   if (route.includes('/content/articles')) return <DiscoverChinaAdmin />;
+  if (route.includes('/content/courses')) return <CoursesAdmin />;
   if (route.includes('/content/factory')) return <FactoryPage />;
   if (route.includes('/content/review')) return <ReviewPage />;
   if (route.includes('/content/')) return <ContentPage moduleName={route.split('/').pop() ?? 'articles'} />;
