@@ -41,7 +41,7 @@
 6. **Supabase 本地自托管**：**不使用 supabase.com 云服务**。
 7. **Adapter + Mock**：缺 API Key（参考 `env.md`）一律走 mock 适配器；支付（Paddle）、邮件、Google 登录本期全部 mock。
 8. **端口固定**：应用端 fe=3100 / be=8100；管理后台 fe=4100 / be=9100；占用即强制释放。**dev 直接 `IP:端口` 访问，无反向代理**；HTTPS / Nginx 由用户在生产自行处理。
-9. **AI 工作流**：复杂场景 LangGraph（TS，接受 beta）；简单 prompt/流式 Vercel AI SDK；向量走 Supabase pgvector。
+9. **AI 工作流**：复杂场景 LangGraph（TS，接受 beta）；简单 prompt/流式 Vercel AI SDK；**仅 AI 向量检索场景**按需启用 Supabase pgvector 插件，非 AI 业务严禁使用 vector 类型。
 10. **响应式 + i18n**：5 语言（zh/en/vi/th/id）×（PC + 移动）全场景；i18n 文案 AI 自动翻译占位 + 后续人工校对。
 11. **第三方登录**：仅 Google + 邮箱，本期均 mock。
 12. **字体**：自托管（Supabase 也是本地化），优先选好看的字体；**禁止走 Google Fonts CDN**。

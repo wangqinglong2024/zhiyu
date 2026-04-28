@@ -1,47 +1,105 @@
 name: zhiyu
 
 # =====================================================================
-# 知语 dev 环境（Docker only） — 复用主机已部署的开源 Supabase 自托管栈
+# 知语唯一 dev 环境（Docker only）
 #
-# 主机 Supabase 栈位于 supabase_default 外部网络，提供：
-#   - supabase-db (supabase/postgres:15.x，含 auth/storage/realtime schemas)
-#   - supabase-kong:8000 (统一网关；外部 :8000)
-#   - supabase-auth / supabase-rest / supabase-storage / supabase-realtime
-#   - supabase-studio / supabase-meta / supabase-edge-functions
-#
-# 本 compose 不再启动任何 supabase-* 容器，只启动：
-#   - redis（zhiyu 专用）
-#   - db-migrate（一次性，将 zhiyu schema 迁移到主机 supabase-db）
-#   - api-app / api-admin / web-app / web-admin
-#
-# 数据库隔离：所有业务表都在 zhiyu schema 下，与 foryou 等其他项目隔离。
-# 向量/AI：pgvector 由主机 supabase/postgres 镜像内置，但仅在确实需要 AI 向量
-#   检索的迁移里 `create extension if not exists vector;`，本基线不启用。
+# 启动顺序：
+#   supabase-db → supabase-auth + supabase-rest →
+#   supabase-gateway → db-migrate(oneshot) →
+#   api-app + api-admin → web-app + web-admin
 # =====================================================================
-
-networks:
-  default:
-    name: zhiyu_default
-  supabase:
-    name: supabase_default
-    external: true
 
 services:
 
-  redis:
-    image: redis:7-alpine
-    container_name: zhiyu-redis
+  supabase-db:
+    image: postgres:16-alpine
+    container_name: zhiyu-supabase-db
     restart: unless-stopped
-    networks: [default]
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
     ports:
-      - "6379:6379"
+      - "5432:5432"
+    volumes:
+      - supabase-db-data:/var/lib/postgresql/data
+      - ../docker/postgres/init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 30
+
+  supabase-auth:
+    image: supabase/gotrue:v2.185.0
+    container_name: zhiyu-supabase-auth
+    restart: unless-stopped
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    environment:
+      GOTRUE_API_HOST: 0.0.0.0
+      PORT: 9999
+      API_EXTERNAL_URL: http://localhost:8000
+      GOTRUE_DB_DRIVER: postgres
+      GOTRUE_DB_DATABASE_URL: postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@supabase-db:5432/${POSTGRES_DB}?sslmode=disable&search_path=auth
+      GOTRUE_SITE_URL: ${GOTRUE_SITE_URL}
+      GOTRUE_URI_ALLOW_LIST: ${GOTRUE_URI_ALLOW_LIST}
+      GOTRUE_DISABLE_SIGNUP: ${GOTRUE_DISABLE_SIGNUP}
+      GOTRUE_JWT_SECRET: ${SUPABASE_JWT_SECRET}
+      GOTRUE_JWT_EXP: ${GOTRUE_JWT_EXP}
+      GOTRUE_JWT_ADMIN_ROLES: ${GOTRUE_JWT_ADMIN_ROLES}
+      GOTRUE_JWT_AUD: ${GOTRUE_JWT_AUD}
+      GOTRUE_JWT_DEFAULT_GROUP_NAME: ${GOTRUE_JWT_DEFAULT_GROUP_NAME}
+      GOTRUE_EXTERNAL_EMAIL_ENABLED: ${GOTRUE_EXTERNAL_EMAIL_ENABLED}
+      GOTRUE_MAILER_AUTOCONFIRM: ${GOTRUE_MAILER_AUTOCONFIRM}
+      GOTRUE_LOG_LEVEL: info
+    expose: ["9999"]
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:9999/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
+
+  supabase-rest:
+    image: postgrest/postgrest:v14.3
+    container_name: zhiyu-supabase-rest
+    restart: unless-stopped
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+    environment:
+      PGRST_DB_URI: postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@supabase-db:5432/${POSTGRES_DB}
+      PGRST_DB_SCHEMAS: public,zhiyu
+      PGRST_DB_ANON_ROLE: anon
+      PGRST_JWT_SECRET: ${SUPABASE_JWT_SECRET}
+      PGRST_DB_USE_LEGACY_GUCS: "false"
+    expose: ["3000"]
+
+  supabase-gateway:
+    image: nginx:alpine
+    container_name: zhiyu-supabase-gateway
+    restart: unless-stopped
+    depends_on:
+      supabase-auth:
+        condition: service_started
+      supabase-rest:
+        condition: service_started
+    volumes:
+      - ../docker/nginx/gateway.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "8200:8000"
 
   db-migrate:
     image: postgres:16-alpine
     container_name: zhiyu-db-migrate
-    networks: [supabase]
+    depends_on:
+      supabase-db:
+        condition: service_healthy
+      supabase-auth:
+        condition: service_healthy   # 等 GoTrue 把 auth schema 建好
     environment:
-      DATABASE_URL: ${DATABASE_URL}
+      DATABASE_URL: postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@supabase-db:5432/${POSTGRES_DB}
       SUPER_ADMIN_EMAIL: ${SUPER_ADMIN_EMAIL}
       SUPER_ADMIN_PASSWORD: ${SUPER_ADMIN_PASSWORD}
     volumes:
@@ -52,7 +110,7 @@ services:
     command:
       - |
         set -e
-        echo "[migrate] target = $$DATABASE_URL"
+        echo "[migrate] applying SQL files in order"
         for f in /work/supabase/migrations/*.sql; do
           echo "[migrate] -> $$f"; psql "$$DATABASE_URL" -v ON_ERROR_STOP=1 -f "$$f"
         done
@@ -63,6 +121,13 @@ services:
           -f /work/supabase/seed.sql
         echo "[migrate] done."
     restart: "no"
+
+  redis:
+    image: redis:7-alpine
+    container_name: zhiyu-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
 
   api-app:
     build:
@@ -75,14 +140,15 @@ services:
     depends_on:
       db-migrate:
         condition: service_completed_successfully
+      supabase-gateway:
+        condition: service_started
       redis:
         condition: service_started
-    networks: [default, supabase]
     environment:
       APP_ENV: ${APP_ENV}
       LOG_LEVEL: ${LOG_LEVEL}
       API_APP_PORT: ${API_APP_PORT}
-      SUPABASE_URL: ${SUPABASE_URL}
+      SUPABASE_URL: http://supabase-gateway:8000
       SUPABASE_ANON_KEY: ${SUPABASE_ANON_KEY}
       SUPABASE_SERVICE_ROLE_KEY: ${SUPABASE_SERVICE_ROLE_KEY}
       SUPABASE_JWT_SECRET: ${SUPABASE_JWT_SECRET}
@@ -111,11 +177,12 @@ services:
     depends_on:
       db-migrate:
         condition: service_completed_successfully
-    networks: [default, supabase]
+      supabase-gateway:
+        condition: service_started
     environment:
       APP_ENV: ${APP_ENV}
       API_ADMIN_PORT: ${API_ADMIN_PORT}
-      SUPABASE_URL: ${SUPABASE_URL}
+      SUPABASE_URL: http://supabase-gateway:8000
       SUPABASE_ANON_KEY: ${SUPABASE_ANON_KEY}
       SUPABASE_SERVICE_ROLE_KEY: ${SUPABASE_SERVICE_ROLE_KEY}
       SUPABASE_JWT_SECRET: ${SUPABASE_JWT_SECRET}
@@ -137,7 +204,6 @@ services:
         APP_NAME: web-app
     container_name: zhiyu-web-app
     restart: unless-stopped
-    networks: [default]
     environment:
       VITE_API_BASE_APP: ${VITE_API_BASE_APP}
       VITE_SUPABASE_URL: ${VITE_SUPABASE_URL}
@@ -159,7 +225,6 @@ services:
         APP_NAME: web-admin
     container_name: zhiyu-web-admin
     restart: unless-stopped
-    networks: [default]
     environment:
       VITE_API_BASE_ADMIN: ${VITE_API_BASE_ADMIN}
     volumes:
@@ -170,3 +235,6 @@ services:
       - ../apps/web-admin/index.html:/repo/apps/web-admin/index.html
     ports:
       - "${WEB_ADMIN_PORT}:4100"
+
+volumes:
+  supabase-db-data:
