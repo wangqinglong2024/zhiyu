@@ -1,0 +1,31 @@
+{
+  "name": "zhiyu",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.12.0",
+  "engines": {
+    "node": ">=20.11.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "dev": "bash scripts/dev/free-ports.sh && docker compose -f docker/compose.yaml --env-file docker/env/.env.dev up --build",
+    "dev:detach": "bash scripts/dev/free-ports.sh && docker compose -f docker/compose.yaml --env-file docker/env/.env.dev up -d --build",
+    "down": "docker compose -f docker/compose.yaml --env-file docker/env/.env.dev down",
+    "down:clean": "docker compose -f docker/compose.yaml --env-file docker/env/.env.dev down -v",
+    "logs": "docker compose -f docker/compose.yaml --env-file docker/env/.env.dev logs -f",
+    "ps": "docker compose -f docker/compose.yaml --env-file docker/env/.env.dev ps",
+    "build": "pnpm -r --parallel build",
+    "typecheck": "pnpm -r --parallel typecheck",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "test": "pnpm -r --parallel test"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "eslint": "9.10.0",
+    "prettier": "3.3.3",
+    "tsx": "4.19.2",
+    "typescript": "5.6.3"
+  }
+}

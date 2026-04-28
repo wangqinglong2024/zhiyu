@@ -1,0 +1,40 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Deps
+node_modules/
+.pnpm-store/
+
+# Build
+dist/
+build/
+.vite/
+.tsc-build/
+*.tsbuildinfo
+
+# Env
+.env
+.env.local
+.env.*.local
+docker/env/.env.local
+
+# Logs
+*.log
+logs/
+
+# Test
+coverage/
+.nyc_output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Supabase local
+supabase/.branches/
+supabase/.temp/
+
+# Mock mailbox
+.dev/

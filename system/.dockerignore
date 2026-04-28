@@ -1,0 +1,44 @@
+# Docs/rules (never bake into images)
+../grules/
+../prds/
+../content/
+../prompt/
+../template/
+../backup/
+../env.md
+
+# Agent / IDE tooling (per zhiyu-docker-policy)
+**/.github/
+**/.agents/
+**/.claude/
+**/_bmad/
+**/.vscode/
+**/.idea/
+
+# Node
+**/node_modules/
+**/.pnpm-store/
+
+# Build output
+**/dist/
+**/build/
+**/.vite/
+**/*.tsbuildinfo
+
+# Env / secrets
+**/.env
+**/.env.local
+**/.env.*.local
+docker/env/.env.local
+
+# Logs/Test artifacts
+**/*.log
+**/coverage/
+**/.nyc_output/
+
+# Supabase local state
+supabase/.branches/
+supabase/.temp/
+
+# Dev mailbox / scratch
+**/.dev/

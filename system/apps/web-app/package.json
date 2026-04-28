@@ -1,0 +1,32 @@
+{
+  "name": "@zhiyu/web-app",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3100",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 3100",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "5.59.16",
+    "@tanstack/react-router": "1.81.5",
+    "@zhiyu/shared-config": "workspace:*",
+    "@zhiyu/shared-i18n": "workspace:*",
+    "@zhiyu/shared-schemas": "workspace:*",
+    "@zhiyu/ui-kit": "workspace:*",
+    "i18next": "23.16.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-i18next": "15.1.1",
+    "zustand": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
+    "@vitejs/plugin-react": "4.3.3",
+    "typescript": "5.6.3",
+    "vite": "6.0.0"
+  }
+}

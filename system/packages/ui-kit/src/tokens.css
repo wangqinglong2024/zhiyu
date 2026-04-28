@@ -1,0 +1,128 @@
+/* G2 设计 Token：黑 + 白 + 小红书红，玻璃态全局；light 默认 / dark 可切。 */
+:root {
+  /* Brand */
+  --zy-brand: #ff2442;
+  --zy-brand-soft: rgba(255, 36, 66, 0.12);
+  --zy-brand-strong: #ff0a30;
+
+  /* Surfaces (light) */
+  --zy-bg: #ffffff;
+  --zy-bg-elev: #fafafa;
+  --zy-bg-glass: rgba(255, 255, 255, 0.72);
+  --zy-fg: #111111;
+  --zy-fg-soft: #4b4b4b;
+  --zy-fg-mute: #8a8a8a;
+  --zy-border: rgba(17, 17, 17, 0.08);
+  --zy-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+
+  /* Glass */
+  --zy-glass-blur: 18px;
+  --zy-glass-saturate: 160%;
+
+  /* Radius */
+  --zy-radius-sm: 6px;
+  --zy-radius-md: 10px;
+  --zy-radius-lg: 16px;
+  --zy-radius-xl: 24px;
+
+  /* Spacing scale (4px) */
+  --zy-space-1: 4px;
+  --zy-space-2: 8px;
+  --zy-space-3: 12px;
+  --zy-space-4: 16px;
+  --zy-space-6: 24px;
+  --zy-space-8: 32px;
+
+  /* Type */
+  --zy-font-sans: 'Inter', 'PingFang SC', 'Noto Sans SC', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+[data-theme='dark'] {
+  --zy-brand: #ff3b5c;
+  --zy-brand-soft: rgba(255, 59, 92, 0.18);
+  --zy-brand-strong: #ff5876;
+  --zy-bg: #0b0b0d;
+  --zy-bg-elev: #141418;
+  --zy-bg-glass: rgba(20, 20, 24, 0.6);
+  --zy-fg: #fafafa;
+  --zy-fg-soft: #c9c9c9;
+  --zy-fg-mute: #8a8a8a;
+  --zy-border: rgba(255, 255, 255, 0.08);
+  --zy-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+}
+
+/* Glass utility */
+.zy-glass {
+  background: var(--zy-bg-glass);
+  border: 1px solid var(--zy-border);
+  backdrop-filter: blur(var(--zy-glass-blur)) saturate(var(--zy-glass-saturate));
+  -webkit-backdrop-filter: blur(var(--zy-glass-blur)) saturate(var(--zy-glass-saturate));
+  box-shadow: var(--zy-shadow);
+}
+@supports not (backdrop-filter: blur(2px)) {
+  .zy-glass {
+    background: var(--zy-bg-elev);
+  }
+}
+
+/* Layout: top nav both ends, full-width */
+.zy-topnav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  width: 100%;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--zy-space-6);
+}
+.zy-page {
+  width: 100%;
+  min-height: calc(100vh - 56px);
+  background: var(--zy-bg);
+  color: var(--zy-fg);
+}
+
+/* Buttons */
+.zy-btn {
+  font-family: var(--zy-font-sans);
+  font-weight: 500;
+  border-radius: var(--zy-radius-md);
+  padding: 0 var(--zy-space-4);
+  height: 40px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: transform 0.05s ease, background 0.15s ease, border-color 0.15s ease;
+}
+.zy-btn:active { transform: translateY(1px); }
+.zy-btn-primary { background: var(--zy-brand); color: #fff; }
+.zy-btn-primary:hover { background: var(--zy-brand-strong); }
+.zy-btn-ghost { background: transparent; color: var(--zy-fg); border-color: var(--zy-border); }
+.zy-btn-ghost:hover { background: var(--zy-bg-elev); }
+.zy-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* Input */
+.zy-input {
+  width: 100%;
+  height: 40px;
+  padding: 0 var(--zy-space-3);
+  border-radius: var(--zy-radius-md);
+  border: 1px solid var(--zy-border);
+  background: var(--zy-bg);
+  color: var(--zy-fg);
+  font-family: var(--zy-font-sans);
+}
+.zy-input:focus { outline: 2px solid var(--zy-brand-soft); outline-offset: 1px; border-color: var(--zy-brand); }
+
+.zy-card {
+  border-radius: var(--zy-radius-lg);
+  padding: var(--zy-space-6);
+  background: var(--zy-bg-elev);
+  border: 1px solid var(--zy-border);
+}
+
+* { box-sizing: border-box; }
+html, body, #root { margin: 0; padding: 0; }
+body { font-family: var(--zy-font-sans); background: var(--zy-bg); color: var(--zy-fg); }
+a { color: inherit; text-decoration: none; }

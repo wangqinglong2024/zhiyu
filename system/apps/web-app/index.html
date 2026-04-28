@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- 反爬虫：禁止业务数据预注入。仅静态品牌/版本/语言键。 -->
+    <title>知语 · Zhiyu</title>
+    <script>
+      // 在样式加载前应用主题，避免闪烁
+      try {
+        var t = localStorage.getItem('zhiyu-theme') || 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) { document.documentElement.setAttribute('data-theme', 'light'); }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
