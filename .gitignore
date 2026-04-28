@@ -1,5 +1,5 @@
-env.md
-.agent/
-.github/
-.claude/
-_bmad/
+/env.md
+/.agents/
+/.github/
+/.claude/
+/_bmad/
