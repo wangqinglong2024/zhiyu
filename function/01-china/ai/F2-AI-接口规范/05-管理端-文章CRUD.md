@@ -20,8 +20,8 @@
 | `page` | query | int | ❌ | 默认 1 |
 | `page_size` | query | int | ❌ | 默认 20，上限 100 |
 | `status` | query | string | ❌ | `draft` / `published` / `all`（默认） |
-| `q` | query | string | ❌ | 模糊搜索：`title_i18n.zh` 或 `code` |
-| `sort` | query | string | ❌ | 默认 `-updated_at`；白名单 `updated_at`、`created_at`、`published_at` |
+| `q` | query | string | ❌ | 模糊搜索：`ILIKE %q%` 匹配文章 `code` **OR** `title_pinyin` **OR** `title_i18n.{zh,en,vi,th,id}` 5 语言全部 **OR** 句子 `pinyin/content_{zh,en,vi,th,id}` 5 语言（PM 答 F3-Q1：管理端搜全 5 语言）；长度 1–60，空串忽略 |
+| `sort` | query | string | ❌ | 默认 `-updated_at`；白名单 `updated_at`、`created_at`、`published_at`；越界返 40002 |
 
 **成功响应 200**：
 

@@ -16,7 +16,7 @@
 | `title_i18n` | `jsonb` | ✅ | — | — | 文章名称（多语言） | 必含 `zh,en,vi,th,id` 全部 5 个 key；每个值长度 1–40 |
 | `status` | `text` | ✅ | `'draft'` | `idx_china_articles_status` | 文章状态 | CHECK in (`'draft'`,`'published'`) |
 | `published_at` | `timestamptz` | ❌ | `null` | `idx_china_articles_published_at` | — | `status='published'` 时必须非空；下架时清空 |
-| `created_by` | `uuid` | ✅ | — | `idx_china_articles_created_by` | — | 外键 → `auth.users.id`，`ON DELETE SET NULL`（弱引用） |
+| `created_by` | `uuid` | ❌ | — | `idx_china_articles_created_by` | — | 外键 → `auth.users.id`，`ON DELETE SET NULL`（弱引用，账号注销后保留审计行但失主） |
 | `updated_by` | `uuid` | ❌ | — | — | — | 同上 |
 | `created_at` | `timestamptz` | ✅ | `now()` | — | — | — |
 | `updated_at` | `timestamptz` | ✅ | `now()` | — | — | 触发器维护 |

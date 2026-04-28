@@ -20,7 +20,8 @@
 | `id` | path | uuid | ✅ | 文章 UUID |
 | `page` | query | int | ❌ | 默认 1 |
 | `page_size` | query | int | ❌ | 默认 20，上限 100 |
-| `sort` | query | string | ❌ | 默认 `seq_no`（升序）；只允许 `seq_no` / `-seq_no` |
+| `q` | query | string | ❌ | 模糊搜索：`ILIKE %q%` 匹配 `pinyin` **OR** `content_{zh,en,vi,th,id}` 5 语言（PM 答 F3-Q1）；长度 1–60，空串忽略 |
+| `sort` | query | string | ❌ | 默认 `seq_no`（升序）；只允许 `seq_no` / `-seq_no`；越界返 40002 |
 
 **成功响应 200**：
 
@@ -36,8 +37,7 @@
       "status": "published"
     },
     "summary": {
-      "total_sentences": 3,
-      "page_zh_char_count": 42
+      "total_sentences": 3
     },
     "items": [
       {
@@ -66,8 +66,7 @@
 }
 ```
 
-> `summary.total_sentences`：满足"文章列表页要显示当前类目的文章总数"的语义在 A2；这里给的是当前文章句子总数。
-> `summary.page_zh_char_count`：当前页所有 `content_zh` 字符数总和（满足 F2 §一·管理端「句子列表页要展示当前页面中文句子的总数」中"句子数 + 字数"的需求）。
+> `summary.total_sentences`：当前文章句子总数（PM 答 F3-Q3：是句子条数/卡片数，不是字符数）。
 
 ---
 
@@ -112,6 +111,9 @@
    - `after` → 在指定 seq 后插入。
 2. 立即调用 `fn_resequence_sentences(article_id)` 重排，使 seq_no 连续。
 3. 受影响句子（包括新插入的）`audio_status` 全部归零为 `pending`，`audio_url_zh` 清空（音频缓存键随 seq 变化失效，PM 答 Q8）。
+4. **进度副作用**（PM 答 F3-Q4/Q12）：
+   - `position='end'` → **不清** 进度（末尾追加不影响已读 seq_no）。
+   - `position='start' | 'after'` → 调用 `fn_clear_progress_by_article(article_id)` 清空所有用户对该文章的 `learning_progress`（因为已有句子 seq_no 全部位移）。
 
 **成功响应 201**：返回新插入的句子（含分配后的最终 `seq_no`）+ `affected_sentence_ids`（受重排影响的所有句子 id 列表，前端据此刷新音频按钮态）。
 
@@ -178,6 +180,7 @@
 **实现**：
 1. `UPDATE china_sentences SET deleted_at=now() WHERE id=:id`。
 2. 调用 `fn_resequence_sentences(article_id)`，剩余句子 seq_no 从 1 起重排，全部 `audio_status='pending'`、`audio_url_zh=null`（PM 答 Q8）。
+3. 调用 `fn_clear_progress_by_article(article_id)` 清空所有用户对该文章的 `learning_progress`（PM 答 F3-Q4/Q12：删除导致重排，进度需重置）。
 
 **成功响应 200**：
 
@@ -216,7 +219,7 @@
 }
 ```
 
-**实现**：调用 `fn_reorder_sentences(article_id, ordered_ids[])`，按数组顺序重写 `seq_no=1..N`，**所有句子音频缓存清空**（同 A13 副作用）。
+**实现**：调用 `fn_reorder_sentences(article_id, ordered_ids[])`，按数组顺序重写 `seq_no=1..N`，**所有句子音频缓存清空**（同 A13 副作用）；**并调用 `fn_clear_progress_by_article(article_id)` 清空所有用户对该文章的 `learning_progress`**（PM 答 F3-Q4/Q12）。
 
 **成功响应 200**：
 
