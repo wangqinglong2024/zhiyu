@@ -2,7 +2,6 @@
 -- 由 db-migrate 容器在所有迁移末尾执行。
 grant usage on schema zhiyu to anon, authenticated, service_role;
 
-grant select on zhiyu.discover_topics to anon, authenticated;
 grant select, insert, update on zhiyu.profiles to authenticated;
 grant select on zhiyu.profiles to anon;
 grant select on zhiyu.user_sessions to authenticated;
