@@ -17,6 +17,10 @@ export default {
     success: 'Berhasil',
     failure: 'Gagal',
   },
+  home: {
+    title_suffix: 'Discover China',
+    tagline: 'Belajar Mandarin · Main game · Baca novel · Jelajahi budaya Tionghoa — platform lengkap untuk diaspora Tionghoa dan pembelajar Mandarin.',
+  },
   nav: {
     home: 'Beranda',
     discover: 'Jelajahi Tiongkok',

@@ -8,10 +8,10 @@ export function HomePage() {
     <div style={{ display: 'grid', gap: 24, maxWidth: 920, margin: '40px auto' }}>
       <GlassCard data-testid="home-hero">
         <h1 style={{ marginTop: 0, fontSize: 36 }}>
-          {t('common.app_name')} <span style={{ color: 'var(--zy-brand)' }}>·</span> Discover China
+          {t('common.app_name')} <span style={{ color: 'var(--zy-brand)' }}>·</span> {t('home.title_suffix')}
         </h1>
         <p style={{ color: 'var(--zy-fg-soft)' }}>
-          学中文 · 玩游戏 · 看小说 · 探索中国文化 — 给海外华裔与中文学习者的一站式平台。
+          {t('home.tagline')}
         </p>
         <div style={{ display: 'flex', gap: 12, marginTop: 16 }}>
           <Link to="/discover"><Button data-testid="cta-discover">{t('nav.discover')}</Button></Link>

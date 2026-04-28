@@ -16,6 +16,10 @@ export default {
     success: '操作成功',
     failure: '操作失败',
   },
+  home: {
+    title_suffix: 'Discover China',
+    tagline: '学中文 · 玩游戏 · 看小说 · 探索中国文化 — 给海外华裔与中文学习者的一站式平台。',
+  },
   nav: {
     home: '首页',
     discover: '发现中国',

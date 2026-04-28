@@ -97,6 +97,7 @@ app.get('/admin/v1/users', async (c) => {
   const { data, error, count } = await sb
     .from('profiles')
     .select('id,email,role,display_name,is_active,locale,created_at', { count: 'exact' })
+    .eq('role', 'user') // G3-01：管理端「用户管理」仅管理普通用户，不展示任何管理员账号
     .order('created_at', { ascending: false })
     .range(from, to);
   if (error) return c.json({ code: 50000, message: error.message }, 500);

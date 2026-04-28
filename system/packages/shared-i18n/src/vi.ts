@@ -17,6 +17,10 @@ export default {
     success: 'Thành công',
     failure: 'Thất bại',
   },
+  home: {
+    title_suffix: 'Discover China',
+    tagline: 'Học tiếng Trung · Chơi game · Đọc tiểu thuyết · Khám phá văn hóa Trung Hoa — nền tảng toàn diện cho cộng đồng người Hoa hải ngoại và người học tiếng Trung.',
+  },
   nav: {
     home: 'Trang chủ',
     discover: 'Khám phá Trung Quốc',

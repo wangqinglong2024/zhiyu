@@ -16,6 +16,10 @@ export default {
     success: 'Success',
     failure: 'Failed',
   },
+  home: {
+    title_suffix: 'Discover China',
+    tagline: 'Learn Chinese · Play games · Read novels · Explore Chinese culture — a one-stop hub for overseas Chinese and Mandarin learners.',
+  },
   nav: {
     home: 'Home',
     discover: 'Discover China',
