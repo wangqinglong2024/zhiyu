@@ -1,2 +1,5 @@
 env.md
-.omc/
+.agent/
+.github/
+.claude/
+_bmad/
