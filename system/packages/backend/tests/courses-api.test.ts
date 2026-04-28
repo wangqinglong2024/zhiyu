@@ -20,7 +20,13 @@ describe('course app api PRD path', () => {
     const stage = await request(app).get('/api/v1/learn/stages/cr-hsk-s01').set('authorization', `Bearer ${token}`);
     expect(stage.body.data.chapters).toHaveLength(12);
     expect(stage.body.data.chapters[0].hasAccess).toBe(true);
-    expect(stage.body.data.chapters[3].hasAccess).toBe(false);
+    expect(stage.body.data.chapters[11].hasAccess).toBe(true);
+
+    const freeStageThree = await request(app).get('/api/v1/learn/permissions?track_code=hsk&stage_no=3&chapter_no=12').set('authorization', `Bearer ${token}`);
+    expect(freeStageThree.body.data.hasAccess).toBe(true);
+
+    const lockedStageFour = await request(app).get('/api/v1/learn/permissions?track_code=hsk&stage_no=4&chapter_no=1').set('authorization', `Bearer ${token}`);
+    expect(lockedStageFour.body.data.hasAccess).toBe(false);
 
     const invalidStage = await request(app).get('/api/v1/learn/stages/cr-hsk-s99').set('authorization', `Bearer ${token}`);
     expect(invalidStage.status).toBe(404);
@@ -56,10 +62,10 @@ describe('course app api PRD path', () => {
     const after = await request(app).get('/api/v1/learn/permissions?track_code=ec&stage_no=9&chapter_no=1').set('authorization', `Bearer ${token}`);
     expect(after.body.data.hasAccess).toBe(true);
 
+    const beforePack = await request(app).get('/api/v1/learn/permissions?track_code=factory&stage_no=4&chapter_no=1').set('authorization', `Bearer ${token}`);
+    expect(beforePack.body.data.hasAccess).toBe(false);
     const pack = await request(app).post('/api/v1/learn/checkout/dummy').set('authorization', `Bearer ${token}`).send({ trackCode: 'factory', stageNo: 4, purchaseType: 'stage_nine_pack' });
     expect(pack.status).toBe(201);
-    const beforePack = await request(app).get('/api/v1/learn/permissions?track_code=factory&stage_no=3&chapter_no=1').set('authorization', `Bearer ${token}`);
-    expect(beforePack.body.data.hasAccess).toBe(false);
     const endOfPack = await request(app).get('/api/v1/learn/permissions?track_code=factory&stage_no=12&chapter_no=1').set('authorization', `Bearer ${token}`);
     expect(endOfPack.body.data.hasAccess).toBe(true);
   });

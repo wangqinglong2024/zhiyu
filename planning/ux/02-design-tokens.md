@@ -6,19 +6,24 @@
 
 ### 1.1 品牌色
 
+> 2025-Q1 重写：从「暖宣纸」转向「冷瓷釉 + 极光雾带」。整体更现代大气；东方意象保留在朱砂/玉/金三色与字体上。
+
 | Token | Light | Dark | 用途 |
 |---|---:|---:|---|
-| `paper` | `#F7F1E4` | `#151617` | 页面底色，暖白/深墨 |
-| `paper-muted` | `#EEE7DA` | `#1D2021` | 次级底色、分区 |
-| `ink` | `#1F2421` | `#F4EFE4` | 正文主文字 |
-| `ink-muted` | `#5E6661` | `#B9B2A5` | 次级文字 |
-| `cinnabar` | `#B64032` | `#EF7768` | 主 CTA、重点、危险小面积 |
-| `jade` | `#2F6F5E` | `#7CC3A7` | 链接、导航激活、focus ring |
-| `celadon` | `#6F9F8D` | `#9BCDB8` | 成功、学习进度 |
-| `porcelain` | `#DCE8E2` | `#243B36` | 玻璃高光、卡片表面 |
-| `mist-blue` | `#AEBFCC` | `#617789` | 信息、背景雾带 |
-| `obsidian` | `#20262A` | `#E9EEF0` | 深玻璃文字与边界 |
-| `aged-gold` | `#A37A32` | `#D1AE63` | 成就、徽章、金币细节 |
+| `paper` | `#F4F6F7` | `#0C1014` | 页面底，冷瓷釉/午夜墨 |
+| `paper-muted` | `#E9ECEF` | `#131820` | 次级底色、分区 |
+| `ink` | `#14181B` | `#EEF2F5` | 正文主文字 |
+| `ink-muted` | `#5B6770` | `#AAB4BE` | 次级文字 |
+| `ink-soft` | `#8A96A0` | `#6F7A85` | 占位、辅助 |
+| `cinnabar` | `#D24A3C` | `#FF7A6B` | 主 CTA、重点、危险小面积 |
+| `cinnabar-soft` | `#EC7565` | `#FF9A8E` | 印章高光、CTA 渐变上 |
+| `jade` | `#1F7A66` | `#6DD3B1` | 链接、导航激活、focus ring |
+| `jade-soft` | `#4EA58D` | `#97E1C5` | 进度条尾色、成功玻璃染色 |
+| `celadon` | `#74B8A1` | `#A8E0C9` | 成功强化色 |
+| `mist-blue` | `#7A96AD` | `#6E8AA3` | 信息、背景雾带 |
+| `mist-violet` | `#8D8EC0` | `#9D9FD6` | 极光雾带紫调 |
+| `aged-gold` | `#B3873A` | `#E0BB6B` | 拼音/声调金、成就 |
+| `obsidian` | `#14181B` | `#EEF2F5` | 深玻璃文字 |
 
 ### 1.2 语义色
 
@@ -61,25 +66,47 @@
 
 ```css
 :root {
-  --surface-paper: #F7F1E4;
-  --surface-paper-muted: #EFE4D0;
-  --text-ink: #1F2421;
-  --text-ink-muted: #5F655F;
-  --brand-cinnabar: #B64032;
-  --brand-jade: #2F6F5E;
-  --brand-celadon: #6F9F8D;
-  --brand-porcelain: #DCE8E2;
-  --brand-aged-gold: #A37A32;
-  --glass-subtle: rgba(247, 241, 228, .58);
-  --glass-panel: rgba(247, 241, 228, .74);
-  --glass-elevated: rgba(255, 252, 244, .84);
-  --glass-strong: rgba(244, 239, 228, .92);
-  --glass-ink: rgba(31, 36, 33, .42);
-  --line-glass: rgba(31, 36, 33, .16);
-  --highlight-glass: rgba(255,255,255,.58);
-  --shadow-glass-sm: 0 8px 24px rgba(31,36,33,.10);
-  --shadow-glass-md: 0 16px 44px rgba(31,36,33,.14);
-  --shadow-glass-lg: 0 28px 80px rgba(31,36,33,.18);
+  /* 表面 */
+  --surface-paper: #F4F6F7;
+  --surface-paper-muted: #E9ECEF;
+  --text-ink: #14181B;
+  --text-ink-muted: #5B6770;
+  --text-ink-soft: #8A96A0;
+
+  /* 品牌 */
+  --brand-cinnabar: #D24A3C;
+  --brand-cinnabar-soft: #EC7565;
+  --brand-jade: #1F7A66;
+  --brand-jade-soft: #4EA58D;
+  --brand-mist-violet: #8D8EC0;
+  --brand-aged-gold: #B3873A;
+
+  /* 玻璃层级（透明度递进） */
+  --glass-subtle:    rgba(255, 255, 255, .42);
+  --glass-panel:     rgba(255, 255, 255, .58);
+  --glass-elevated:  rgba(255, 255, 255, .72);
+  --glass-strong:    rgba(255, 255, 255, .86);
+  --glass-ink:       rgba(20, 24, 27, .46);
+  --glass-tint-jade: rgba(31, 122, 102, .10);
+  --glass-tint-cina: rgba(210, 74, 60, .10);
+  --glass-highlight: rgba(255, 255, 255, .78);
+  --glass-edge:      rgba(255, 255, 255, .92);
+  --glass-rim:       rgba(255, 255, 255, .55);
+
+  /* 线条 */
+  --line-glass:  rgba(20, 24, 27, .10);
+  --line-hair:   rgba(20, 24, 27, .08);
+  --line-strong: rgba(20, 24, 27, .18);
+
+  /* 阴影：双层 ambient + key + 微色相 */
+  --shadow-glass-sm: 0 1px 2px rgba(20,24,27,.06), 0 8px 22px -10px rgba(20,24,27,.14);
+  --shadow-glass-md: 0 2px 4px rgba(20,24,27,.06), 0 22px 48px -18px rgba(20,24,27,.22);
+  --shadow-glass-lg: 0 4px 8px rgba(20,24,27,.08), 0 40px 80px -28px rgba(20,24,27,.34);
+  --shadow-seal: 0 4px 10px rgba(210,74,60,.18), 0 22px 44px -16px rgba(210,74,60,.42);
+  --shadow-jade: 0 4px 10px rgba(31,122,102,.18), 0 22px 44px -16px rgba(31,122,102,.42);
+
+  /* 焦点 */
+  --focus-ring: 0 0 0 3px rgba(31,122,102,.28);
 }
 ```
 
@@ -116,8 +143,10 @@
 | 类别 | Token |
 |---|---|
 | 间距 | `4, 8, 12, 16, 20, 24, 32, 40, 48, 64` |
-| 圆角 | `4, 6, 8, 12, 16, full`；普通卡片默认 8，表格/后台 6-8，浮层可 12 |
-| 阴影 | `shadow-glass-sm`, `shadow-glass-md`, `shadow-glass-lg`, `shadow-seal` |
+| 圆角 | `radius-xs:6 / radius-sm:10 / radius:14 / radius-lg:20 / radius-xl:28 / radius-full:999`。卡片/输入默认 14，按钮/输入小尺寸 10，主题选择卡 20，浮层/底栏 28。 |
+| 阴影 | `shadow-glass-sm`, `shadow-glass-md`, `shadow-glass-lg`, `shadow-seal`（朱砂染色）, `shadow-jade`（玉色染色） |
+| 模糊 | 玻璃 `backdrop-filter: blur(14-36px) saturate(140-180%)`：subtle 14、panel 20-28、elevated 36；ink 28 |
+| 缓动 | `ease-ink` 标准、`ease-brush` 长动画、`ease-spring` 弹性按压 |
 
 后台卡片/表格使用 6-8px 圆角；应用端底部导航、FAB 可 full。
 

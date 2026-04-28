@@ -152,10 +152,10 @@ const trackOrder: TrackCode[] = ['ec', 'factory', 'hsk', 'daily'];
 const trackAliases: Record<string, TrackCode> = { ec: 'ec', ecommerce: 'ec', factory: 'factory', fc: 'factory', hsk: 'hsk', daily: 'daily', dl: 'daily' };
 
 const trackMeta: Record<TrackCode, { nameZh: string; en: string; vi: string; th: string; id: string; desc: string; stages: string[] }> = {
-  ec: { nameZh: '电商轨道', en: 'E-commerce Chinese', vi: 'Tiếng Trung thương mại điện tử', th: 'ภาษาจีนอีคอมเมิร์ซ', id: 'Mandarin e-commerce', desc: '1688, logistics, negotiation, customer service and cross-border trade.', stages: ['拼音 + 基础问候 + 数字', '1688 / 阿里巴巴入门词汇', '询价 / 砍价基础', '物流 / 国际运输', '商品描述 / 规格', '售后 / 投诉 / 退款', '合同 / 付款条件', '展会 / 工厂参观', '商务谈判进阶', '跨境政策 / 海关', '营销文案 / 直播话术', '行业深度 / 案例'] },
-  factory: { nameZh: '工厂轨道', en: 'Factory Chinese', vi: 'Tiếng Trung nhà máy', th: 'ภาษาจีนโรงงาน', id: 'Mandarin pabrik', desc: 'Operations, safety, overtime, wages, shift handover and line leadership.', stages: ['拼音 + 自我介绍 + 工厂术语入门', '操作指令 / 工具名称', '安全规范 / 紧急情况', '加班 / 请假 / 工资', '设备故障 / 维修', '班组沟通 / 交接班', '质量检验 / SOP', '培训 / 升职', '组长管理', '行业术语（机械 / 电子 / 服装）', '5S / 6 西格玛 / 精益生产', '跨厂沟通 / 高级管理'] },
-  hsk: { nameZh: 'HSK 轨道', en: 'HSK Chinese', vi: 'Tiếng Trung HSK', th: 'ภาษาจีน HSK', id: 'Mandarin HSK', desc: 'HSK 1 through 9, integrated review, mock tests and exam explanation.', stages: ['HSK 1（150 词）', 'HSK 2（300 词）', 'HSK 3（600 词）', 'HSK 4（1200 词）', 'HSK 5（2500 词）', 'HSK 6（5000 词）', 'HSK 7（高阶）', 'HSK 8（高阶）', 'HSK 9（专业）', 'HSK 综合（1-6 复习）', '模考（HSK 4 / 6 / 9 各 1 套）', '真题精讲（近 5 年）'] },
-  daily: { nameZh: '日常轨道', en: 'Daily Life Chinese', vi: 'Tiếng Trung đời sống', th: 'ภาษาจีนชีวิตประจำวัน', id: 'Mandarin sehari-hari', desc: 'Food, travel, social life, culture, shopping, health and modern expression.', stages: ['拼音 + 问候 + 自我介绍', '数字 / 时间 / 日期', '吃喝（点餐 / 外卖 / 烹饪）', '交通 / 出行（打车 / 地铁 / 高铁）', '购物 / 砍价（淘宝 / 实体）', '健康 / 看病（医院 / 药店）', '社交 / 朋友（微信 / 朋友圈）', '文化 / 节日（春节 / 中秋）', '流行 / 娱乐（短视频 / 综艺）', '旅游 / 景点（热门城市）', '工作 / 职场（简历 / 面试）', '高级表达 / 成语 / 俗语'] }
+  ec: { nameZh: '电商主题', en: 'E-commerce Chinese', vi: 'Tiếng Trung thương mại điện tử', th: 'ภาษาจีนอีคอมเมิร์ซ', id: 'Mandarin e-commerce', desc: '1688, logistics, negotiation, customer service and cross-border trade.', stages: ['拼音 + 基础问候 + 数字', '1688 / 阿里巴巴入门词汇', '询价 / 砍价基础', '物流 / 国际运输', '商品描述 / 规格', '售后 / 投诉 / 退款', '合同 / 付款条件', '展会 / 工厂参观', '商务谈判进阶', '跨境政策 / 海关', '营销文案 / 直播话术', '行业深度 / 案例'] },
+  factory: { nameZh: '工厂主题', en: 'Factory Chinese', vi: 'Tiếng Trung nhà máy', th: 'ภาษาจีนโรงงาน', id: 'Mandarin pabrik', desc: 'Operations, safety, overtime, wages, shift handover and line leadership.', stages: ['拼音 + 自我介绍 + 工厂术语入门', '操作指令 / 工具名称', '安全规范 / 紧急情况', '加班 / 请假 / 工资', '设备故障 / 维修', '班组沟通 / 交接班', '质量检验 / SOP', '培训 / 升职', '组长管理', '行业术语（机械 / 电子 / 服装）', '5S / 6 西格玛 / 精益生产', '跨厂沟通 / 高级管理'] },
+  hsk: { nameZh: 'HSK 主题', en: 'HSK Chinese', vi: 'Tiếng Trung HSK', th: 'ภาษาจีน HSK', id: 'Mandarin HSK', desc: 'HSK 1 through 9, integrated review, mock tests and exam explanation.', stages: ['HSK 1（150 词）', 'HSK 2（300 词）', 'HSK 3（600 词）', 'HSK 4（1200 词）', 'HSK 5（2500 词）', 'HSK 6（5000 词）', 'HSK 7（高阶）', 'HSK 8（高阶）', 'HSK 9（专业）', 'HSK 综合（1-6 复习）', '模考（HSK 4 / 6 / 9 各 1 套）', '真题精讲（近 5 年）'] },
+  daily: { nameZh: '日常主题', en: 'Daily Life Chinese', vi: 'Tiếng Trung đời sống', th: 'ภาษาจีนชีวิตประจำวัน', id: 'Mandarin sehari-hari', desc: 'Food, travel, social life, culture, shopping, health and modern expression.', stages: ['拼音 + 问候 + 自我介绍', '数字 / 时间 / 日期', '吃喝（点餐 / 外卖 / 烹饪）', '交通 / 出行（打车 / 地铁 / 高铁）', '购物 / 砍价（淘宝 / 实体）', '健康 / 看病（医院 / 药店）', '社交 / 朋友（微信 / 朋友圈）', '文化 / 节日（春节 / 中秋）', '流行 / 娱乐（短视频 / 综艺）', '旅游 / 景点（热门城市）', '工作 / 职场（简历 / 面试）', '高级表达 / 成语 / 俗语'] }
 };
 
 export const courseStore = {
@@ -215,12 +215,12 @@ function hskRange(stageNo: number) {
 
 export function makeStage(trackCode: TrackCode, stageNo: number): CourseStage {
   const nameZh = title(trackCode, stageNo);
-  return { id: courseIds(trackCode, stageNo), trackCode, stageNo, nameZh, nameTranslations: text(trackMeta[trackCode].stages[stageNo - 1] ?? nameZh, nameZh), description: text(`Stage ${stageNo} covers ${trackMeta[trackCode].desc}`, `${nameZh}：围绕 ${trackMeta[trackCode].desc}`), hskLevelRange: hskRange(stageNo), prerequisiteStage: stageNo > 1 ? stageNo - 1 : null, isFree: false, status: 'published' };
+  return { id: courseIds(trackCode, stageNo), trackCode, stageNo, nameZh, nameTranslations: text(trackMeta[trackCode].stages[stageNo - 1] ?? nameZh, nameZh), description: text(`Stage ${stageNo} covers ${trackMeta[trackCode].desc}`, `${nameZh}：围绕 ${trackMeta[trackCode].desc}`), hskLevelRange: hskRange(stageNo), prerequisiteStage: stageNo > 1 ? stageNo - 1 : null, isFree: stageNo <= 3, status: 'published' };
 }
 
 export function makeChapter(trackCode: TrackCode, stageNo: number, chapterNo: number, userId?: string | null): CourseChapter {
   const access = permissionFor(userId ?? null, trackCode, stageNo, chapterNo);
-  return { id: courseIds(trackCode, stageNo, chapterNo), trackCode, stageNo, chapterNo, nameZh: title(trackCode, stageNo, chapterNo), nameTranslations: text(`Chapter ${chapterNo}: ${trackMeta[trackCode].stages[stageNo - 1]}`, title(trackCode, stageNo, chapterNo)), description: text(`A 12 lesson chapter with a 36 question chapter test.`, `12 节闭环学习，章末 36 题章测。`), isFree: stageNo === 1 && chapterNo <= 3, freeReason: stageNo === 1 && chapterNo <= 3 ? 'login_trial' : null, status: 'published', hasAccess: access.hasAccess, accessReason: access.reason };
+  return { id: courseIds(trackCode, stageNo, chapterNo), trackCode, stageNo, chapterNo, nameZh: title(trackCode, stageNo, chapterNo), nameTranslations: text(`Chapter ${chapterNo}: ${trackMeta[trackCode].stages[stageNo - 1]}`, title(trackCode, stageNo, chapterNo)), description: text(`A 12 lesson chapter with a 36 question chapter test.`, `12 节闭环学习，章末 36 题章测。`), isFree: stageNo <= 3, freeReason: stageNo <= 3 ? 'login_trial' : null, status: 'published', hasAccess: access.hasAccess, accessReason: access.reason };
 }
 
 export function makeLesson(trackCode: TrackCode, stageNo: number, chapterNo: number, lessonNo: number): CourseLesson {
@@ -287,12 +287,12 @@ function makePinyinQuiz(moduleId: string): CourseQuiz {
 }
 
 export function listTracks(userId?: string | null): CourseTrack[] {
-  return trackOrder.map((code, index) => ({ id: `track-${code}`, code, aliases: Object.entries(trackAliases).filter(([, value]) => value === code).map(([key]) => key), nameZh: trackMeta[code].nameZh, nameTranslations: { en: trackMeta[code].en, vi: trackMeta[code].vi, th: trackMeta[code].th, id: trackMeta[code].id, 'zh-CN': trackMeta[code].nameZh }, description: text(trackMeta[code].desc, trackMeta[code].desc), displayOrder: index + 1, status: 'active', sourceRequirement: 'planning/prds/03-courses/01-structure-content.md：4 轨道与每轨 12 阶段。', stages: Array.from({ length: 12 }, (_, stageIndex) => ({ ...makeStage(code, stageIndex + 1), chapters: Array.from({ length: 12 }, (__, chapterIndex) => makeChapter(code, stageIndex + 1, chapterIndex + 1, userId)) })) }));
+  return trackOrder.map((code, index) => ({ id: `track-${code}`, code, aliases: Object.entries(trackAliases).filter(([, value]) => value === code).map(([key]) => key), nameZh: trackMeta[code].nameZh, nameTranslations: { en: trackMeta[code].en, vi: trackMeta[code].vi, th: trackMeta[code].th, id: trackMeta[code].id, 'zh-CN': trackMeta[code].nameZh }, description: text(trackMeta[code].desc, trackMeta[code].desc), displayOrder: index + 1, status: 'active', sourceRequirement: 'planning/prds/03-courses/01-structure-content.md：4 主题与每主题 12 阶段。', stages: Array.from({ length: 12 }, (_, stageIndex) => ({ ...makeStage(code, stageIndex + 1), chapters: Array.from({ length: 12 }, (__, chapterIndex) => makeChapter(code, stageIndex + 1, chapterIndex + 1, userId)) })) }));
 }
 
 export function permissionFor(userId: string | null, trackCode: TrackCode, stageNo: number, chapterNo?: number) {
   if (!userId) return { hasAccess: false, reason: 'login_required', completionCounted: false };
-  if (stageNo === 1 && chapterNo !== undefined && chapterNo <= 3) return { hasAccess: true, reason: 'free_chapter', completionCounted: true };
+  if (stageNo <= 3) return { hasAccess: true, reason: 'free_stage', completionCounted: true };
   const purchase = courseStore.purchases.find((item) => item.userId === userId && item.status === 'active' && !isExpired(item.expiresAt) && (isMembership(item.purchaseType) || (item.trackCode === trackCode && ((isSingleStage(item.purchaseType) || item.purchaseType === 'manual_grant') ? item.stageNo === stageNo : isNinePack(item.purchaseType) && stageNo >= item.stageNo && stageNo < item.stageNo + 9))));
   if (purchase) return { hasAccess: true, reason: purchase.purchaseType, completionCounted: purchase.purchaseType !== 'manual_grant' ? true : false, expiresAt: purchase.expiresAt };
   return { hasAccess: false, reason: 'paywall', completionCounted: false };
@@ -465,5 +465,5 @@ export function validateCourseSeed(payload: unknown, dryRun: boolean) {
 }
 
 export function courseCatalogRows() {
-  return listTracks().map((track) => ({ id: track.code, title: track.nameZh, status: 'published', stages: 12, chapters: 144, lessons: 1728, freeTrial: 'Stage 1 Chapter 1-3', source: 'AD-FR-006 / CR-FR-003' }));
+  return listTracks().map((track) => ({ id: track.code, title: track.nameZh, status: 'published', stages: 12, chapters: 144, lessons: 1728, freeTrial: 'Stage 1-3 all chapters', source: 'AD-FR-006 / CR-FR-003' }));
 }

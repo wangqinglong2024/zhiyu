@@ -19,7 +19,7 @@
 
 ## 字段细则
 
-- `content_chapters.is_free=TRUE` 仅每轨 Stage 1 第 1-3 章；其余 FALSE。
+- `content_chapters.is_free=TRUE` 覆盖每条主题轨（电商/日常/工厂/HSK）下 Stage 1、Stage 2、Stage 3 全部 12 章；Stage 4 起 FALSE。
 - `content_chapters.free_reason ∈ {'login_trial','manual','promo'}`。
 - `content_knowledge_points.translations` 为 JSONB，覆盖已启用 4 语；缺失语种 `needs_translation=true` 标志保留在 `translations.<lang>.status`。
 - `content_questions.options` JSONB 数组；`correct_answer` JSONB（index / array / text）。

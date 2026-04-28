@@ -8,81 +8,90 @@
 
 | 层级 | 类名 | 背景 | Blur | 用途 |
 |---|---|---|---:|---|
-| L0 | `.surface-atmosphere` | 低对比动态玻璃背景 | 0 | 页面底、全局 Shell |
-| L1 | `.zy-glass-subtle` | 轻玻璃 | 8-12 | Button secondary、Input、Badge、Tab |
-| L2 | `.zy-glass-panel` | 标准玻璃 | 14-18 | Card、Sidebar、Header、Table、List |
-| L3 | `.zy-glass-elevated` | 高亮玻璃 + 大阴影 | 18-24 | Dialog、Sheet、Popover、Toast |
-| L4 | `.zy-glass-strong` | 高不透明玻璃 | 8-12 | 正文、句子、表格密集数据、表单 |
-| L5 | `.zy-glass-ink` | 深色玻璃 | 16-22 | Cover、HUD、游戏外壳、图像上按钮 |
-| L6 | `.seal-accent` | 朱砂动作层 | 0-8 | 主 CTA、危险、小面积强调 |
+| L0 | `.surface-atmosphere` / `.surface-wash` | 冷瓷釉 + 三点极光雾带＋微颗粒 | 80（装饰层） | 页面底、全局 Shell |
+| L1 | `.zy-glass-subtle` | 轻玻璃 | 14 | Button secondary、Input small、Badge、Tab |
+| L2 | `.zy-glass-panel` | 标准玻璃 + 双层内高光 | 24-28 | Card、Sidebar、Header、Table、主题/话题选择卡 |
+| L3 | `.zy-glass-elevated` | 高亮玻璃 + 大阴影 | 36 | Dialog、Sheet、Popover、Toast、底部 TabBar |
+| L4 | `.zy-glass-strong` | 高不透明玻璃 | 16 | 正文、句子、表格密集数据、表单 |
+| L5 | `.zy-glass-ink` | 深色玻璃 | 28 | Cover、HUD、游戏外壳、图像上按钮 |
+| L6 | `.seal-accent` | 朱砂渐变动作层 | 0 | 主 CTA、危险、小面积强调 |
 
-同屏可见 backdrop blur 元素建议不超过 16 个；阅读/表格密集页允许使用 `.zy-glass-strong` 降低透明度。低端设备通过 `prefers-reduced-transparency` 或运行时性能检测将 blur 降为 0，但仍保留玻璃边框、阴影和高光。
+同屏可见 backdrop blur 组件建议不超过 16 个；阅读/表格密集页使用 `.zy-glass-strong` 降低透明度。低端设备通过 `prefers-reduced-transparency` 或运行时性能检测将 blur 降为 0，但仍保留玻璃边框、阴影和高光。
 
 ## 二点五、Stitch 式交互参照
 
 用户指定 `https://stitch.withgoogle.com/` 作为交互参考：按钮、卡片、输入框、分段控件、浮层和顶部/底部导航需要具备清晰的毛玻璃材质、边缘高光、按压缩放、hover 抬升与动态图层反馈。但知语不得照搬 Stitch 的紫蓝黑色调，必须使用现代东方玻璃体系，并以 shadcn/ui 输出可复用组件。
 
 落地规则：
-- 背景允许动态“流光/水墨雾带”，使用大面积柔和光带和 CSS animation，不使用离散彩色 blob、粒子、bokeh。
-- 交互组件使用半透明玻璃、边缘高光、内阴影和 backdrop blur；正文、句子、表格密集内容使用 `.zy-glass-strong`，不是普通实底。
+- 背景使用三点极光雾带（玉/雾紫/朱砂）加 80px blur 加 noise overlay，不使用离散彩色 blob、粒子、bokeh。
+- 交互组件使用多层玻璃：`linear-gradient(180deg,var(--glass-highlight),transparent 50%) + var(--glass-panel)`，可见边缘 + 内顶高光 + rim 双重 inset border + ambient/key 双层阴影。
 - IconButton 必须有 tooltip/aria-label，模式切换使用 segmented control，二元设置用 toggle/checkbox，数字设置用 slider/select/input。
-- 卡片默认 8px 圆角；只有 Modal/BottomSheet/FAB 等浮层允许 12px 或 full。
+- 卡片默认 14px 圆角；主题选择卡 / Hero / 底栏 Dock 20-28px；IconButton/Badge/胶囊按钮 full。
+- 按压使用 `transform: scale(.96-.97)`，hover 抬起 1-3px 并走 shimmer sweep（`zy-shimmer` keyframe）。focus 使用 `box-shadow: var(--focus-ring)`。
 
 ## 三、CSS 参考
 
 ```css
-.surface-paper {
-  background: var(--surface-paper);
-  color: var(--text-ink);
-}
-
-.surface-wash {
+.surface-wash, .surface-atmosphere {
   position: relative;
   isolation: isolate;
   background:
-    linear-gradient(120deg, rgba(111,159,141,.16), transparent 28%, rgba(174,191,204,.16) 58%, transparent 78%),
-    radial-gradient(ellipse at 18% 8%, rgba(247,241,228,.24), transparent 34%),
-    radial-gradient(ellipse at 82% 18%, rgba(111,159,141,.13), transparent 32%),
+    radial-gradient(ellipse 80% 50% at 12% -8%,  color-mix(in srgb, var(--brand-jade) 22%, transparent), transparent 60%),
+    radial-gradient(ellipse 70% 50% at 92% 4%,   color-mix(in srgb, var(--brand-mist-violet) 20%, transparent), transparent 60%),
+    radial-gradient(ellipse 90% 60% at 50% 110%, color-mix(in srgb, var(--brand-cinnabar) 14%, transparent), transparent 65%),
     linear-gradient(180deg, var(--surface-paper), var(--surface-paper-muted));
 }
-
 .surface-wash::before {
   content: '';
-  position: fixed;
-  inset: -22% -18%;
-  pointer-events: none;
+  position: fixed; inset: -20%; z-index: -1; pointer-events: none;
   background:
-    linear-gradient(100deg, transparent 8%, rgba(255,248,236,.18) 24%, rgba(111,159,141,.20) 38%, transparent 56%),
-    linear-gradient(280deg, transparent 16%, rgba(174,191,204,.18) 46%, rgba(182,64,50,.08) 60%, transparent 78%);
-  filter: blur(32px) saturate(118%);
-  animation: zy-ink-flow 18s var(--ease-brush) infinite alternate;
+    radial-gradient(ellipse 50% 40% at 20% 30%, color-mix(in srgb, var(--brand-jade) 26%, transparent), transparent 70%),
+    radial-gradient(ellipse 45% 35% at 78% 22%, color-mix(in srgb, var(--brand-mist-violet) 22%, transparent), transparent 70%);
+  filter: blur(80px) saturate(120%);
+  animation: zy-aurora 26s var(--ease-brush) infinite alternate;
+}
+.surface-wash::after {
+  /* 微颗粒叠加，提高玻璃质感 */
+  content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background-image: radial-gradient(rgba(255,255,255,.04) 1px, transparent 1px);
+  background-size: 3px 3px; mix-blend-mode: overlay; opacity: .55;
 }
 
 .zy-glass-panel {
-  background: var(--glass-panel);
-  backdrop-filter: blur(14px) saturate(118%);
+  background:
+    linear-gradient(180deg, var(--glass-highlight), transparent 55%),
+    var(--glass-panel);
+  backdrop-filter: blur(24px) saturate(170%);
   border: 1px solid var(--line-glass);
-  box-shadow: inset 0 1px 0 var(--highlight-glass), var(--shadow-glass-md);
+  box-shadow:
+    inset 0 1px 0 var(--glass-edge),
+    inset 0 0 0 1px var(--glass-rim),
+    var(--shadow-glass-md);
 }
 
 .zy-glass-elevated {
-  background: var(--glass-elevated);
-  backdrop-filter: blur(22px) saturate(125%);
+  background:
+    linear-gradient(180deg, var(--glass-highlight), transparent 50%),
+    var(--glass-elevated);
+  backdrop-filter: blur(36px) saturate(180%);
   border: 1px solid var(--line-glass);
-  box-shadow: inset 0 1px 0 var(--highlight-glass), var(--shadow-glass-lg);
+  box-shadow:
+    inset 0 1px 0 var(--glass-edge),
+    inset 0 0 0 1px var(--glass-rim),
+    var(--shadow-glass-lg);
 }
 
 .zy-glass-ink {
-  background: rgba(31,36,33,.36);
-  backdrop-filter: blur(16px) saturate(110%);
-  border: 1px solid rgba(244,239,228,.18);
-  color: #F4EFE4;
+  background: var(--glass-ink);
+  backdrop-filter: blur(28px) saturate(150%);
+  border: 1px solid var(--line-strong);
+  color: #F4F6F7;
 }
 
 .seal-accent {
-  background: var(--brand-cinnabar);
-  color: #FFF8EC;
-  box-shadow: 0 8px 20px rgba(182,64,50,.22);
+  background: linear-gradient(135deg, var(--brand-cinnabar-soft), var(--brand-cinnabar));
+  color: #FFFAF6;
+  box-shadow: var(--shadow-seal);
 }
 ```
 

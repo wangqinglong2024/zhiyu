@@ -21,7 +21,7 @@
 | 12 | `12-customer-service/` | 客服入口、IM、路由、Supabase Realtime、后台工作台、评分 | `planning/prds/11-customer-service/**`、`planning/spec/12-realtime-and-im.md` |
 | 13 | `13-admin/` | 后台登录、KPI、用户/订单/通用内容壳/审校/客服/分销/flags/审计/导出/安全合规控制台 | `planning/prds/12-admin/**`、`planning/ux/11-screens-admin.md` |
 | 14 | `14-admin-discover-china/` | 发现中国后台：类目、文章、句子、审校、发布、seed、访问模型 | `planning/prds/12-admin/**`、`planning/prds/02-discover-china/**`、`content/china/**` |
-| 15 | `15-admin-courses/` | 系统课程后台：4 轨树形、题库、免费前 3 章、跨级购买、游戏词包权限 | `planning/prds/12-admin/**`、`planning/prds/03-courses/**`、`content/course/**` |
+| 15 | `15-admin-courses/` | 系统课程后台：4 轨树形、题库、免费前 3 阶段全部章、跨级购买、游戏词包权限 | `planning/prds/12-admin/**`、`planning/prds/03-courses/**`、`content/course/**` |
 | 16 | `16-admin-games/` | 游戏后台：12 游戏配置、统一设置、课程权限词包、SRS、MVP 禁用项 | `planning/prds/12-admin/**`、`planning/prds/04-games/**`、`content/games/**` |
 | 17 | `17-admin-novels/` | 小说后台：类目、小说、章节、句子、首章预览、登录全读、合规 | `planning/prds/12-admin/**`、`planning/prds/05-novels/**`、`content/novels/**` |
 | 18 | `18-security-compliance/` | 认证安全、HMAC、匿名 JWT、签名音频、水印、红线、合规、日志审计 | `planning/prds/13-security/**`、`planning/spec/09-security.md` |

@@ -9,7 +9,7 @@
     "minimumQuestionsPerLesson": 5,
     "minimumQuestionTypesCovered": 6,
     "stageExamMinimumQuestions": 10,
-    "freeTrial": "Stage 1 chapters 1-3 only"
+    "freeTrial": "Stage 1-3 all chapters"
   },
   "items": [
     { "slug": "ec-s01-c01-l01", "i18n": { "zh-CN": { "title": "电商 S1 问候 1", "summary": "基础问候", "body": "单行知识点课程" }, "en": { "title": "EC S1 Greeting 1", "summary": "Greeting", "body": "Compact lesson" } }, "tags": ["ec", "stage-1"], "media": { "cover": "seed://images/courses/ec-s01-c01-l01.webp", "audio": "seed://audio/courses/ec-s01-c01-l01.mp3" }, "module_specific": { "track": "ec", "stage": 1, "chapter": 1, "lesson": 1, "questionTypes": ["Q1", "Q2", "Q3", "P1", "P2"] } },

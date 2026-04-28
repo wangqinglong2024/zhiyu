@@ -256,6 +256,19 @@ export function createAdminApi() {
     return ok(res, sentence);
   }));
 
+  api.delete('/content/articles/:id/sentences/:sentenceId', requireRole([...writeRoles]), asyncRoute(async (req, res) => {
+    const article = findDiscoverArticle(param(req, 'id'));
+    const sentenceIndex = article?.sentences.findIndex((item) => item.id === param(req, 'sentenceId')) ?? -1;
+    if (!article || sentenceIndex < 0) return failure(res, 404, 'SENTENCE_NOT_FOUND', 'Discover China sentence not found');
+    const [deleted] = article.sentences.splice(sentenceIndex, 1);
+    if (!deleted) return failure(res, 404, 'SENTENCE_NOT_FOUND', 'Discover China sentence not found');
+    article.sentences.forEach((sentence, index) => { sentence.sequenceNumber = index + 1; });
+    article.updatedAt = now();
+    adminAudit(req, 'discover.sentence.delete', 'content_sentence', deleted.id, deleted, { articleId: article.id, remaining: article.sentences.length });
+    await persistDiscoverContent();
+    return ok(res, { deleted: true, id: deleted.id, remaining: article.sentences.length });
+  }));
+
   api.post('/content/articles/:id/redline', requireRole(['admin', 'editor', 'reviewer']), (req, res) => {
     const article = findDiscoverArticle(param(req, 'id'));
     if (!article) return failure(res, 404, 'ARTICLE_NOT_FOUND', 'Discover China article not found');

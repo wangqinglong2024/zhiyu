@@ -198,5 +198,5 @@ export function registerCourseAppRoutes(app: express.Express, env: Env) {
 
   app.use('/api/learn', router);
   app.use('/api/v1/learn', router);
-  app.get('/api/v1/courses/map', (_req, res) => ok(res, listTracks().map((track) => ({ track: track.code, stages: 12, chaptersPerStage: 12, free: 'stage-1 chapters 1-3' }))));
+  app.get('/api/v1/courses/map', (_req, res) => ok(res, listTracks().map((track) => ({ theme: track.code, stages: 12, chaptersPerStage: 12, free: 'stage-1-3 all chapters' }))));
 }

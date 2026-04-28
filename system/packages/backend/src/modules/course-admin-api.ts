@@ -56,9 +56,9 @@ export function registerCourseAdminRoutes(api: express.Router, adminAudit: Audit
   api.post('/content/courses/chapters/bulk-free-trial', requireRole(['admin']), (req, res) => {
     const track = trackBody(req);
     if (!track) return failure(res, 404, 'TRACK_NOT_FOUND', 'Course track not found');
-    const result = { trackCode: track, stageNo: 1, freeChapters: [1, 2, 3], reason: req.body?.reason ?? 'login_trial', cacheInvalidated: true };
+    const result = { trackCode: track, freeStages: [1, 2, 3], chaptersPerStage: 12, reason: req.body?.reason ?? 'login_trial', cacheInvalidated: true };
     adminAudit(req, 'course.chapter.bulk_free_trial', 'content_chapter', track, null, result);
-    return ok(res, result, { source: 'ACR-03 / CR-FR-010 free trial only Stage 1 Chapter 1-3' });
+    return ok(res, result, { source: 'ACR-03 / CR-FR-010 free trial Stage 1-3 all chapters' });
   });
 
   api.get('/content/courses/lessons/:lessonId', (req, res) => {
