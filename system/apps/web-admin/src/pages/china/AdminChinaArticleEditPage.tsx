@@ -22,8 +22,8 @@ function StatusTag({ status }: { status: AudioStatus }) {
 }
 
 export function AdminChinaArticleEditPage() {
-  const params = useParams({ strict: false }) as { code?: string };
-  const code = params.code ?? '';
+  const params = useParams({ strict: false }) as { id?: string };
+  const id = params.id ?? '';
   const nav = useNavigate();
   const toast = useToast();
 
@@ -34,9 +34,9 @@ export function AdminChinaArticleEditPage() {
   });
 
   const article = useQuery({
-    queryKey: ['admin-china-article', code],
-    queryFn: () => adminApi<AdminArticle>(`/china/articles/${code}`),
-    enabled: !!code,
+    queryKey: ['admin-china-article', id],
+    queryFn: () => adminApi<AdminArticle>(`/china/articles/${id}`),
+    enabled: !!id,
   });
 
   const [categoryId, setCategoryId] = useState('');
@@ -57,18 +57,17 @@ export function AdminChinaArticleEditPage() {
   const [confirmArticle, setConfirmArticle] = useState<'publish' | 'unpublish' | 'delete' | null>(null);
 
   const sentences = useQuery({
-    queryKey: ['admin-china-sentences', article.data?.id, page, pageSize],
-    queryFn: () => adminApi<{
-      items: AdminSentence[];
-      pagination: { page: number; page_size: number; total: number };
-    }>(`/china/sentences?article_id=${article.data!.id}&page=${page}&page_size=${pageSize}`),
+    queryKey: ['admin-china-sentences', article.data?.id],
+    queryFn: () => adminApi<{ items: AdminSentence[] }>(
+      `/china/sentences?article_id=${article.data!.id}`
+    ),
     enabled: !!article.data?.id,
   });
 
   // hydrate baseline
   useEffect(() => {
     if (article.data) {
-      setCategoryId(article.data.category_id);
+      setCategoryId(article.data.category.id);
       setTitlePinyin(article.data.title_pinyin);
       setTitleI18n(article.data.title_i18n);
     }
@@ -76,7 +75,7 @@ export function AdminChinaArticleEditPage() {
 
   const metaDirty = useMemo(() => {
     if (!article.data) return false;
-    if (categoryId !== article.data.category_id) return true;
+    if (categoryId !== article.data.category.id) return true;
     if (titlePinyin !== article.data.title_pinyin) return true;
     return LOCALES.some((l) => titleI18n[l] !== article.data!.title_i18n[l]);
   }, [article.data, categoryId, titlePinyin, titleI18n]);
@@ -98,7 +97,7 @@ export function AdminChinaArticleEditPage() {
     setSavingMeta(true); setMetaErr(null);
     try {
       await adminApi(`/china/articles/${article.data.id}`, {
-        method: 'PUT',
+        method: 'PATCH',
         body: JSON.stringify({
           category_id: categoryId,
           title_pinyin: titlePinyin.trim(),
@@ -129,7 +128,7 @@ export function AdminChinaArticleEditPage() {
       await adminApi(`/china/articles/${article.data.id}`, { method: 'DELETE' });
       toast.success('已删除');
       setConfirmArticle(null);
-      nav({ to: '/china/categories/$code', params: { code: cats.data?.items.find((c) => c.id === article.data!.category_id)?.code ?? '01' } });
+      nav({ to: '/china/categories/$code', params: { code: article.data!.category.code } });
     }
   }
 
@@ -143,9 +142,13 @@ export function AdminChinaArticleEditPage() {
   }
 
   async function regenAudio(s: AdminSentence) {
-    await adminApi(`/china/sentences/${s.id}/regenerate-audio`, { method: 'POST' });
-    toast.info('已加入语音生成队列');
-    await sentences.refetch();
+    try {
+      await adminApi(`/china/sentences/${s.id}/regenerate-audio`, { method: 'POST' });
+      toast.info('已加入语音生成队列');
+      await sentences.refetch();
+    } catch (e) {
+      toast.error((e as Error).message || '语音生成不可用');
+    }
   }
 
   if (article.isLoading) return <div style={{ padding: 24 }}><SkeletonCard height={180} /></div>;
@@ -158,7 +161,9 @@ export function AdminChinaArticleEditPage() {
   );
 
   const a = article.data;
-  const total = sentences.data?.pagination.total ?? 0;
+  const allSentences = sentences.data?.items ?? [];
+  const total = allSentences.length;
+  const pageItems = allSentences.slice((page - 1) * pageSize, page * pageSize);
 
   return (
     <div style={{ padding: 24, paddingBottom: 96 }} data-testid="article-edit">
@@ -167,7 +172,7 @@ export function AdminChinaArticleEditPage() {
           variant="ghost"
           data-testid="back-to-list"
           onClick={() => guardedNav(() =>
-            nav({ to: '/china/categories/$code', params: { code: cats.data?.items.find((c) => c.id === a.category_id)?.code ?? '01' } }),
+            nav({ to: '/china/categories/$code', params: { code: a.category.code } }),
           )}
         >← 返回列表</Button>
         <h2 style={{ margin: 0, fontSize: 18 }}>编辑文章</h2>
@@ -247,7 +252,7 @@ export function AdminChinaArticleEditPage() {
       )}
 
       <div style={{ display: 'grid', gap: 8 }} data-testid="sentence-list">
-        {sentences.data?.items.map((s) => (
+        {pageItems.map((s) => (
           <GlassCard key={s.id} data-testid={`sentence-${s.seq_no}`} className="zy-sentence-card">
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 12 }}>
               <div style={{ flex: 1, minWidth: 0 }}>

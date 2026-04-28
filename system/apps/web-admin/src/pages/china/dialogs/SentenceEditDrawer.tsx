@@ -44,7 +44,7 @@ export function SentenceEditDrawer({ open, sentence, onClose, onSaved }: Props) 
     setBusy(true); setErr(null);
     try {
       await adminApi(`/china/sentences/${sentence.id}`, {
-        method: 'PUT',
+        method: 'PATCH',
         body: JSON.stringify({
           pinyin: form.pinyin.trim(),
           content_zh: form.content.zh, content_en: form.content.en,

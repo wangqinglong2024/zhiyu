@@ -110,8 +110,8 @@ export function AdminChinaSearchPage() {
                     data-testid={`hit-article-${a.code}`}
                     role="button"
                     tabIndex={0}
-                    onClick={() => nav({ to: '/china/articles/$code', params: { code: a.code } })}
-                    onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav({ to: '/china/articles/$code', params: { code: a.code } }); } }}
+                    onClick={() => nav({ to: '/china/articles/$id', params: { id: a.id } })}
+                    onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav({ to: '/china/articles/$id', params: { id: a.id } }); } }}
                   >
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
                       <div style={{ flex: 1, minWidth: 0 }}>
@@ -121,10 +121,10 @@ export function AdminChinaSearchPage() {
                           {a.status === 'published' ? <Tag variant="success">已发布</Tag> : <Tag>草稿</Tag>}
                         </div>
                         <div className="zy-em" style={{ fontWeight: 600, fontSize: 15 }}
-                             dangerouslySetInnerHTML={{ __html: sanitizeEm(a.title_i18n_html.zh) }} />
+                             dangerouslySetInnerHTML={{ __html: sanitizeEm((a.highlights?.find((h) => h.field === 'title_zh')?.snippet) || a.title_i18n?.zh || a.title_i18n_html?.zh || '') }} />
                         <div style={{ color: 'var(--zy-fg-soft)', fontSize: 12 }}>{a.title_pinyin}</div>
                       </div>
-                      <span style={{ fontSize: 11, color: 'var(--zy-fg-mute)' }}>命中：{a.matched_field}</span>
+                      <span style={{ fontSize: 11, color: 'var(--zy-fg-mute)' }}>命中：{a.highlights?.[0]?.field || a.matched_field || ''}</span>
                     </div>
                   </GlassCard>
                 ))}
@@ -142,17 +142,17 @@ export function AdminChinaSearchPage() {
                     data-testid={`hit-sentence-${s.id}`}
                     role="button"
                     tabIndex={0}
-                    onClick={() => nav({ to: '/china/articles/$code', params: { code: s.article.code } })}
-                    onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav({ to: '/china/articles/$code', params: { code: s.article.code } }); } }}
+                    onClick={() => nav({ to: '/china/articles/$id', params: { id: s.article.id } })}
+                    onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav({ to: '/china/articles/$id', params: { id: s.article.id } }); } }}
                   >
                     <div style={{ display: 'flex', justifyContent: 'space-between', gap: 8, flexWrap: 'wrap' }}>
                       <div style={{ flex: 1, minWidth: 0 }}>
                         <div style={{ fontSize: 12, color: 'var(--zy-fg-soft)', marginBottom: 4 }}>
                           {s.article.title_i18n.zh} · 第 {s.seq_no} 句
                         </div>
-                        <div className="zy-em" dangerouslySetInnerHTML={{ __html: sanitizeEm(s.content_html) }} />
+                        <div className="zy-em" dangerouslySetInnerHTML={{ __html: sanitizeEm(s.highlights?.[0]?.snippet || s.content_html || '') }} />
                       </div>
-                      <span style={{ fontSize: 11, color: 'var(--zy-fg-mute)' }}>命中：{s.matched_field}</span>
+                      <span style={{ fontSize: 11, color: 'var(--zy-fg-mute)' }}>命中：{s.highlights?.[0]?.field || s.matched_field || ''}</span>
                     </div>
                   </GlassCard>
                 ))}
@@ -167,15 +167,21 @@ export function AdminChinaSearchPage() {
             </div>
           )}
 
-          {res.data.pagination.total > pageSize && (
-            <div style={{ marginTop: 16 }}>
-              <Pagination
-                page={page}
-                pageSize={pageSize}
-                total={res.data.pagination.total}
-                onChange={(p) => nav({ to: '/china/search', search: { q: debouncedQ, type, page: p } as never, replace: true })}
-                testId="search-pagination"
-              />
+          {(res.data.pagination?.has_next || page > 1) && (
+            <div style={{ marginTop: 16, display: 'flex', gap: 8 }}>
+              <Button
+                variant="ghost"
+                disabled={page <= 1}
+                onClick={() => nav({ to: '/china/search', search: { q: debouncedQ, type, page: page - 1 } as never, replace: true })}
+                data-testid="search-prev"
+              >上一页</Button>
+              <span style={{ alignSelf: 'center', fontSize: 12, color: 'var(--zy-fg-soft)' }}>第 {page} 页</span>
+              <Button
+                variant="ghost"
+                disabled={!res.data.pagination?.has_next}
+                onClick={() => nav({ to: '/china/search', search: { q: debouncedQ, type, page: page + 1 } as never, replace: true })}
+                data-testid="search-next"
+              >下一页</Button>
             </div>
           )}
         </>

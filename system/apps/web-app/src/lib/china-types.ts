@@ -58,6 +58,8 @@ export type ChinaSentence = {
   content_vi: string;
   content_th: string;
   content_id: string;
+  // API may return either flat content_* fields or nested content: {zh, ...}
+  content?: { zh: string; en: string; vi: string; th: string; id: string };
   audio?: SentenceAudio;
   audio_status?: SentenceAudio['status'];
   audio_url?: string | null;

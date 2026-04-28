@@ -23,7 +23,7 @@ const usersRoute = createRoute({ getParentRoute: () => rootRoute, path: '/users'
 const chinaIdx = createRoute({ getParentRoute: () => rootRoute, path: '/china', component: AdminChinaCategoryCardsPage });
 const chinaSearch = createRoute({ getParentRoute: () => rootRoute, path: '/china/search', component: AdminChinaSearchPage });
 const chinaCat = createRoute({ getParentRoute: () => rootRoute, path: '/china/categories/$code', component: AdminChinaArticleListPage });
-const chinaArt = createRoute({ getParentRoute: () => rootRoute, path: '/china/articles/$code', component: AdminChinaArticleEditPage });
+const chinaArt = createRoute({ getParentRoute: () => rootRoute, path: '/china/articles/$id', component: AdminChinaArticleEditPage });
 
 const routeTree = rootRoute.addChildren([
   indexRoute, loginRoute, usersRoute,

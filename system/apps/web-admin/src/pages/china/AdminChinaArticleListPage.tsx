@@ -143,7 +143,7 @@ export function AdminChinaArticleListPage() {
                 <div style={{ color: 'var(--zy-fg-soft)', fontSize: 12 }}>{a.title_pinyin}</div>
               </div>
               <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
-                <Button variant="ghost" data-testid={`edit-${a.code}`} onClick={() => nav({ to: '/china/articles/$code', params: { code: a.code } })}>编辑</Button>
+                <Button variant="ghost" data-testid={`edit-${a.code}`} onClick={() => nav({ to: '/china/articles/$id', params: { id: a.id } })}>编辑</Button>
                 {a.status === 'draft'
                   ? <Button data-testid={`publish-${a.code}`} disabled={a.sentence_count === 0} onClick={() => setConfirm({ kind: 'publish', row: a })}>发布</Button>
                   : <Button variant="ghost" data-testid={`unpublish-${a.code}`} onClick={() => setConfirm({ kind: 'unpublish', row: a })}>下架</Button>}
@@ -164,7 +164,7 @@ export function AdminChinaArticleListPage() {
         open={showNew}
         initialCategoryCode={code}
         onClose={() => setShowNew(false)}
-        onCreated={(a) => { setShowNew(false); nav({ to: '/china/articles/$code', params: { code: a.code } }); }}
+          onCreated={(a) => { setShowNew(false); nav({ to: '/china/articles/$id', params: { id: a.id } }); }}
       />
 
       {confirm && (

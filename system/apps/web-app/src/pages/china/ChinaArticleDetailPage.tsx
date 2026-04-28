@@ -39,6 +39,11 @@ export function ChinaArticleDetailPage() {
     queryFn: () => api<DetailResp>(`/china/articles/${encodeURIComponent(code)}`),
   });
 
+  const sentencesQ = useQuery({
+    queryKey: ['china-article-sentences', code],
+    queryFn: () => api<{ items: ChinaSentence[] }>(`/china/articles/${encodeURIComponent(code)}/sentences`),
+  });
+
   const progress = useQuery({
     queryKey: ['china-progress', code, authed],
     queryFn: () => api<ProgressResp>(`/china/me/articles/${encodeURIComponent(code)}/progress`),
@@ -48,8 +53,23 @@ export function ChinaArticleDetailPage() {
   // 句子状态镜像（音频状态前端可即时变更，避免再调 C5）
   const [sentences, setSentences] = useState<ChinaSentence[]>([]);
   useEffect(() => {
-    if (detail.data?.sentences) setSentences(detail.data.sentences);
-  }, [detail.data]);
+    const raw = sentencesQ.data?.items ?? detail.data?.sentences;
+    if (!raw) return;
+    const normalized = raw.map((s) => {
+      if (s.content && !s.content_zh) {
+        return {
+          ...s,
+          content_zh: s.content.zh,
+          content_en: s.content.en,
+          content_vi: s.content.vi,
+          content_th: s.content.th,
+          content_id: s.content.id,
+        };
+      }
+      return s;
+    });
+    setSentences(normalized);
+  }, [detail.data, sentencesQ.data]);
 
   // 进度回填提示（C3-14）
   useEffect(() => {

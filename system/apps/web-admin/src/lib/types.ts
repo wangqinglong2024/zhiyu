@@ -20,8 +20,7 @@ export type AdminCategory = {
 export type AdminArticle = {
   id: string;
   code: string;
-  category_id: string;
-  category?: { id: string; code: string; name_i18n: I18nMap };
+  category: { id: string; code: string; name_i18n: I18nMap };
   title_pinyin: string;
   title_i18n: I18nMap;
   status: 'draft' | 'published';
@@ -57,19 +56,30 @@ export type AdminSentence = {
 };
 
 export type AdminSearchResp = {
-  summary: { articles_total: number; sentences_total: number };
+  summary: { articles_total: number; sentences_total: number; scope?: string };
   articles: Array<{
     id: string; code: string; category: { code: string; name_i18n: I18nMap };
-    status: string; sentence_count: number;
-    title_pinyin: string; title_i18n_html: I18nMap;
-    matched_field: string; updated_at: string; updated_by_name?: string | null;
+    status: string; sentence_count?: number;
+    title_pinyin: string;
+    title_i18n?: I18nMap;
+    title_i18n_html?: I18nMap;
+    matched_field?: string;
+    highlights?: Array<{ field: string; snippet: string }>;
+    updated_at?: string; updated_by_name?: string | null;
   }>;
   sentences: Array<{
     id: string; seq_no: number; seq_label: string;
     article: { id: string; code: string; title_i18n: I18nMap };
-    content_html: string; matched_field: string;
+    content_html?: string;
+    matched_field?: string;
+    highlights?: Array<{ field: string; snippet: string }>;
   }>;
-  pagination: { page: number; page_size: number; total: number };
+  pagination: {
+    page: number; page_size: number;
+    total?: number;
+    articles_pages?: number; sentences_pages?: number;
+    has_next?: boolean;
+  };
 };
 
 export function pickI18n(map: I18nMap | undefined, lang: Locale = 'zh'): string {
