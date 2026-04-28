@@ -27,7 +27,7 @@
 
 1. **认证后端 = 自托管 Supabase Auth（GoTrue）**：与 G1 决策一致；Hono API 不自建 JWT 签发器，全部委托 Supabase Auth。
 2. **角色仅两种**：`super_admin`（默认仅 1 个，但**技术上允许多个**，管理端不提供创建入口，必要时手动在 DB 添加）+ `user`（应用端用户）。**不引入多角色 / RBAC 矩阵**。
-3. **登录方式**：邮箱 + 密码、Google OAuth；**应用端**两者均可，**管理端**仅邮箱密码，且本期即开启 **TOTP 二步验证**（PM 决策）。
+3. **登录方式**：邮箱 + 密码、Google OAuth；**应用端**两者均可，**管理端**仅邮箱密码；本期**不上 TOTP / 2FA**（列入后续安全升级）。
 4. **Token 协议**：Supabase 颐发的 JWT（HS256，签名密钥来自 Supabase 实例的 `JWT_SECRET`），Access Token 1h，Refresh Token 30d 滚动。
 5. **多设备策略**：同一账号最多 **3 个活跃会话**（硬编码）；第 4 次登录踢掉最早的会话（自建 `user_sessions` 表 + Supabase Admin API revoke）。**不提供「我的设备」页**，有问题重新登录即可。
 6. **不自动登出**：除非用户主动登出 / 被踢 / Refresh Token 过期 30d；浏览器端 Refresh Token 通过 supabase-js 自动续期。
