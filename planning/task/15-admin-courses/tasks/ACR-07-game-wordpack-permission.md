@@ -13,7 +13,7 @@
 
 ## 状态逻辑
 
-- accessible_stages 含：免费试学章所属 stage（限 chapter 1-3 子集）+ 已购 stage + 会员覆盖。
+- accessible_stages 含：每主题 Stage 1-3 免费范围 + 已购 stage + 会员覆盖。
 - 缓存：与 CR-17 共用 5min TTL。
 
 ## 不明确 / 风险
@@ -24,7 +24,7 @@
 ## 技术假设
 
 - API 输出 JSON 紧凑，便于游戏后台快速消费。
-- 后台预览面板按 track 分行显示。
+- 后台预览面板按主题分行显示，内部 JSON 可保留 `tracks` 字段供游戏服务兼容。
 
 ## 最终验收清单
 

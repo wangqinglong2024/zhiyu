@@ -38,7 +38,7 @@
 - 支付裁决：保留订单、权限、退款、分销反向逻辑，外部支付以 `PaymentAdapter` dummy/fake 落地。来源句：`planning/spec/02-tech-stack.md` 写明“支付 | PaymentAdapter | dummy（直接成功）| Paddle / 微信支付。”
 - 实时裁决：客服 IM / 通知优先走 Supabase Realtime。来源句：`planning/rules.md` 写明“实时通道 | supabase-realtime | 客服 IM / 通知推送，不再独立 Socket.io。”
 - 内容种子裁决：DC/CR/GM/NV/EC/UA 均必须有可端到端验证的 seed。来源句：`planning/rules.md` 写明“这些模块的正式内容由用户后续让 AI 按规定格式批量灌库，开发期不依赖真实大规模内容也必须可端到端跑通。”
-- 内容访问裁决：未登录 DC 只能浏览前 3 个类目（中国历史、中国美食、名胜风光），登录后可看全部 DC、全部 NV、玩全部 GM；CR 登录后每轨 Stage 1 前 3 章免费试学，课程允许跨级购买任意阶段；GM 词包可选范围由 CR 权限决定。来源句：`UA-FR-013` 与 `content/china/00-index.md`、`content/games/shared/01-unified-settings.md`。
+- 内容访问裁决：未登录 DC 只能浏览前 3 个类目（中国历史、中国美食、名胜风光），登录后可看全部 DC、全部 NV、玩全部 GM；CR 登录后每个主题 Stage 1-3 全部章节免费试学，课程允许跨级购买任意阶段；GM 词包可选范围由 CR 权限决定。来源句：`UA-FR-013` 与 `content/china/00-index.md`、`content/games/shared/01-unified-settings.md`。
 
 ## 覆盖校验方式
 

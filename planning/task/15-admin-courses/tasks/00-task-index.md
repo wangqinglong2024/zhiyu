@@ -2,8 +2,8 @@
 
 | ID | 任务 | 文件 |
 |---:|---|---|
-| ACR-01 | 课程后台路由与树形壳 | [ACR-01-route-tree-shell.md](./ACR-01-route-tree-shell.md) |
-| ACR-02 | 4 轨道与 12 阶段元信息管理 | [ACR-02-tracks-stages-admin.md](./ACR-02-tracks-stages-admin.md) |
+| ACR-01 | 课程后台分层路由与主题壳 | [ACR-01-route-tree-shell.md](./ACR-01-route-tree-shell.md) |
+| ACR-02 | 4 主题与 12 阶段元信息管理 | [ACR-02-tracks-stages-admin.md](./ACR-02-tracks-stages-admin.md) |
 | ACR-03 | 章节管理与免费试学范围 | [ACR-03-chapter-free-trial.md](./ACR-03-chapter-free-trial.md) |
 | ACR-04 | 节与知识点管理 | [ACR-04-lesson-knowledge-point.md](./ACR-04-lesson-knowledge-point.md) |
 | ACR-05 | 题库与测验管理 | [ACR-05-question-quiz-admin.md](./ACR-05-question-quiz-admin.md) |

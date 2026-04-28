@@ -5,7 +5,7 @@
 | # | 图标 | 名称 | 路由 | 说明 |
 |---:|---|---|---|---|
 | 1 | Compass | 发现 | `/discover` | 发现中国 + 小说入口 |
-| 2 | BookOpen | 课程 | `/courses` | 4 轨道学习 |
+| 2 | BookOpen | 课程 | `/courses` | 4 主题学习 |
 | 3 | Gamepad2 | 游戏 | `/games` | 12 款 MVP 游戏 |
 | 4 | User | 我的 | `/profile` | 账户、偏好、权益 |
 
@@ -21,10 +21,10 @@
   /search                搜索结果
 
 /courses
-  /                      4 轨道首页
-  /:track                轨道详情
-  /:track/:stage         阶段详情
-  /:track/:stage/:chapter/:lesson  沉浸学习
+  /                      4 主题首页
+  /:theme                主题详情
+  /:theme/:stage         阶段详情
+  /:theme/:stage/:chapter/:lesson  沉浸学习
 
 /games
   /                      12 游戏列表
@@ -79,13 +79,30 @@ Sidebar：
 
 TopBar：折叠按钮、面包屑、全局搜索、通知、用户菜单。后台所有深层页面必须显示面包屑。
 
+内容管理深层路由：
+```text
+/content/discover
+  /                      12 主题
+  /:topic                文章列表
+  /:topic/:article       句子列表与句子编辑
+
+/content/courses
+  /                      选择主题：电商/日常/工厂/HSK
+  /:theme                左侧 12 阶段，右侧当前阶段 12 章
+  /:theme/stages/:stage  阶段编辑 + 12 章
+  /:theme/stages/:stage/chapters/:chapter
+                         章编辑子页面：左侧 12 节，右侧当前节 12 知识点
+```
+
+后台路由显示文案使用“主题”，内部参数可继续叫 `track_code` 以兼容数据模型。
+
 ## 六、守卫
 
 | 守卫 | 说明 |
 |---|---|
 | `LocaleGuard` | 只允许 en/vi/th/id |
 | `AuthGuard` | 需登录功能 |
-| `PaidGuard` | 课程免费范围外权限 |
+| `PaidGuard` | 课程每主题前 3 阶段之外权限 |
 | `RoleGuard` | 后台 RBAC |
 | `ContentGate` | 发现中国前 3 类目访客可读，其余需登录 |
 | `GameAccessGuard` | 登录后可玩 12 款，词包范围按课程权限 |

@@ -18,14 +18,15 @@ CREATE TABLE srs_cards (
   lapses INT DEFAULT 0,
   last_review TIMESTAMPTZ,
   -- 业务字段
-  source TEXT NOT NULL,                -- 'lesson_quiz','chapter_test','game','novel_quiz','manual'
+  source TEXT NOT NULL,                -- 'lesson_quiz','chapter_test','stage_exam','game','manual_course'
   is_resolved BOOLEAN DEFAULT FALSE,
   created_at TIMESTAMPTZ DEFAULT NOW(),
   updated_at TIMESTAMPTZ DEFAULT NOW(),
   UNIQUE(user_id, question_id)
 );
 
-CREATE INDEX idx_srs_due ON srs_cards(user_id, due) WHERE state != 'new' OR due <= NOW();
+CREATE INDEX idx_srs_due ON srs_cards(user_id, due, state);
+CREATE INDEX idx_srs_source_due ON srs_cards(user_id, source, due);
 CREATE INDEX idx_srs_unresolved ON srs_cards(user_id, is_resolved, last_review DESC);
 
 CREATE TABLE srs_reviews (
@@ -78,9 +79,9 @@ CREATE POLICY rlsp_self ON srs_reviews USING (user_id = auth.uid());
 - `GET /api/le/review/preview` — `{due_today, due_overdue, new_available}`
 
 ### 错题
-- `GET /api/le/wrong-set?source=&hsk=&page=` — 错题列表
+- `GET /api/le/wrong-set?source=&hsk=&page=` — 错题列表；source 仅允许 all/course/game
 - `POST /api/le/cards/:id/resolve` — 手动标记已解决
-- `POST /api/le/cards/manual-add` — `{question_id}` 手动加入
+- `POST /api/le/cards/manual-add` — `{question_id}` 手动加入；仅允许学习系统题库问题
 
 ### 仪表板
 - `GET /api/le/dashboard` — 返回 streak + 今日 / 周 / 累计统计 + 掌握度热力图

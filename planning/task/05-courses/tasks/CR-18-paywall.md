@@ -2,7 +2,7 @@
 
 ## PRD 原文引用
 
-- `CR-FR-010`：“触发：访问免费试学范围外内容（默认每轨 Stage 1 第 4 章起，或任意未购阶段）。弹窗内容：标题、4 选项（单段 $4 / 9 段全包 $36 / 月会员 $4 / 年 $40）、限时促销 banner（半年 $12）、推荐高亮（默认半年）、‘继续免费试看’按钮。行为：选项点击 → PaymentAdapter dummy/fake checkout（本期不接真实支付）；单段购买支持跨级；试看仅免费试学范围内计完成。”
+- `CR-FR-010`：“触发：访问免费试学范围外内容（默认每个主题 Stage 4 起，或任意未购阶段）。弹窗内容：标题、4 选项（单段 $4 / 9 段全包 $36 / 月会员 $4 / 年 $40）、限时促销 banner（半年 $12）、推荐高亮（默认半年）、‘继续免费试看’按钮。行为：选项点击 → PaymentAdapter dummy/fake checkout（本期不接真实支付）；单段购买支持跨级；试看仅免费试学范围内计完成。”
 - `planning/rules.md` §4.3：“支付 | 同上 PaymentAdapter；未来接 Paddle / 微信支付 | 占位。”
 
 ## 需求落实
@@ -16,7 +16,7 @@
 ## 状态逻辑
 
 - 4 选项 SKU：`stage_single`、`stage_nine_pack`、`membership_monthly`、`membership_yearly`；额外 `membership_half_year` 促销。
-- “继续试看”按钮回到当前轨道 Stage 1 前 3 章 dashboard。
+- “继续试看”按钮回到当前主题 Stage 1-3 免费范围 dashboard。
 - Dummy checkout 立即返回成功；真实 PaymentAdapter 上线时切换。
 - 订单写入 `orders` 表（PY 模块）+ `user_stage_purchases`（CR-03）。
 
@@ -32,8 +32,8 @@
 
 ## 最终验收清单
 
-- [ ] HSK Stage 1 Chapter 4 触发付费墙弹窗。
+- [ ] HSK Stage 4 触发付费墙弹窗。
 - [ ] 4 选项 + 半年促销 banner 显示正确。
 - [ ] Dummy checkout 完成后 `user_stage_purchases` 写入并立即可访问。
-- [ ] “继续试看”跳回 Stage 1 前 3 章。
+- [ ] “继续试看”跳回当前主题 Stage 1-3 免费范围。
 - [ ] 跨级购买 Stage 9 后该 stage 全部章解锁。

@@ -3,12 +3,12 @@
 ## PRD 原文引用
 
 - `planning/prds/03-courses/04-data-model-api.md` §1.3：`content_chapters.is_free` `free_reason`。
-- `01-structure-content.md` §4.1：“登录用户：每条轨道 Stage 1 前 3 章完全免费试学。”
-- 用户裁决：W0 首发生产范围 ≠ 免费权限范围。
+- `01-structure-content.md` §4.1：“登录用户：每个主题 Stage 1-3 的全部章节完全免费试学。”
+- 用户裁决：产品 UI 称“主题”；每个主题 Stage 1-3 全部章节免费。
 
 ## 需求落实
 
-- 页面：`/admin/content/courses/chapters/:id`。
+- 页面：`/admin/content/courses/:theme/stages/:stage/chapters/:chapter`。
 - 组件：ChapterEditForm、IsFreeToggle（带说明）、FreeReasonPicker、ChapterPositionInput、PrerequisiteWarning。
 - API：
   - `GET/PATCH /admin/api/content/courses/chapters/:id`
@@ -17,7 +17,7 @@
 
 ## 状态逻辑
 
-- 默认每轨 Stage 1 Chapter 1-3 `is_free=TRUE` `free_reason='login_trial'`。
+- 默认每个主题 Stage 1-3 下全部 chapter `is_free=TRUE` 或由 `stage_no <= 3` 权限算法放行，`free_reason='login_trial'`。
 - 后台手动 `is_free=TRUE` 时强制选 `free_reason ∈ {'manual','promo'}`。
 - 切换 `is_free` 立即失效相关用户的权限缓存（CR-17）。
 - 校验：发布前必须保证 chapter 下 12 lessons 均存在且 published。
@@ -33,8 +33,8 @@
 
 ## 最终验收清单
 
-- [ ] 默认状态下每轨 Stage 1 Chapter 1-3 显示绿色“免费试学”。
-- [ ] 手动改 Chapter 4 为免费需选 reason。
+- [ ] 默认状态下每个主题 Stage 1-3 全部章显示“免费试学”。
+- [ ] 手动改 Stage 4+ 的 Chapter 为免费需选 reason。
 - [ ] 改动 5s 内权限缓存失效，前台立即解锁。
 - [ ] 章未填满 12 lessons 时发布按钮 disabled。
 - [ ] 写操作 audit_logs。

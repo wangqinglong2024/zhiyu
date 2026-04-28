@@ -32,7 +32,7 @@ CREATE TABLE content_stages (
   description JSONB,
   hsk_level_range INT[],               -- e.g. [4,5]
   prerequisite_stage INT,
-  is_free BOOLEAN DEFAULT FALSE,       -- 仅用于整阶段促销/人工免费；W0 免费试学按 chapter.is_free 控制
+  is_free BOOLEAN DEFAULT FALSE,       -- TRUE for Stage 1-3 in each theme by default; manual/promo overrides must be audited
   status TEXT DEFAULT 'draft',
   published_at TIMESTAMPTZ,
   created_at TIMESTAMPTZ DEFAULT NOW(),
@@ -50,7 +50,7 @@ CREATE TABLE content_chapters (
   name_zh TEXT NOT NULL,
   name_translations JSONB NOT NULL,
   description JSONB,
-  is_free BOOLEAN DEFAULT FALSE,       -- TRUE for Stage 1 chapters 1-3 in each track
+  is_free BOOLEAN DEFAULT FALSE,       -- TRUE for all chapters under Stage 1-3 in each theme
   free_reason TEXT,                    -- login_trial/manual/promo
   status TEXT DEFAULT 'draft',
   published_at TIMESTAMPTZ,
@@ -224,7 +224,7 @@ CREATE INDEX idx_purchases_user ON user_stage_purchases(user_id, status);
 ### 2.1 公开 API（结构信息，无内容）
 
 #### GET `/api/learn/tracks`
-- 返回 4 轨道 + 每轨道 12 阶段 元信息
+- 返回 4 主题 + 每主题 12 阶段 元信息
 - 缓存：CDN 1h
 
 ### 2.2 已登录 API
@@ -235,7 +235,7 @@ CREATE INDEX idx_purchases_user ON user_stage_purchases(user_id, status);
 
 #### GET `/api/learn/stages/:stage_id`
 - 返回阶段详情 + 12 章 + 每章进度
-- 检查权限：返回每章 `has_access`，免费章 or 已购阶段 or 会员 or 人工授权
+- 检查权限：返回每章 `has_access`，前三阶段免费章 or 已购阶段 or 会员 or 人工授权
 
 #### GET `/api/learn/chapters/:chapter_id`
 - 返回章详情 + 12 节
@@ -294,7 +294,8 @@ async function canAccessCourseNode(userId: string, input: CourseNode): Promise<A
   const stage = await getStage(input.stageId);
   const chapter = input.chapterId ? await getChapter(input.chapterId) : null;
 
-  // 免费试学章：每轨 Stage 1 chapters 1-3
+  // 免费试学：每个主题 Stage 1-3 全部章节
+  if (stage.stage_no <= 3) return { allowed: true, reason: 'free_stage' };
   if (chapter?.is_free) return { allowed: true, reason: 'free_chapter' };
 
   // 检查活跃订阅会员

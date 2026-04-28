@@ -3,13 +3,13 @@
 ## PRD 原文引用
 
 - `04-data-model-api.md` §3：权限算法；备注“购买不检查 prerequisite_stage”。
-- `01-structure-content.md` §4.2：“允许跨级购买任意轨道任意阶段。”
+- `01-structure-content.md` §4.2：“允许跨级购买任意轨道任意阶段。”（UI 展示统一称“主题”）
 - `AD-FR-003`：“操作：冻结 / 解冻 / 重置密码 / 强制下线 / 加币 / 扣币 / 模拟登录”。
 
 ## 需求落实
 
 - 页面：`/admin/users/:id/courses-permissions`（用户详情子页）。
-- 组件：UserPermissionMatrix（4 × 12 矩阵）、ManualGrantModal、GrantReasonInput、SubscriptionInfoCard、PurchaseHistoryTable。
+- 组件：UserPermissionMatrix（4 主题 × 12 阶段矩阵）、ManualGrantModal、GrantReasonInput、SubscriptionInfoCard、PurchaseHistoryTable。
 - API：
   - `GET /admin/api/users/:id/course-permissions` 返回完整 4 × 12 矩阵 + 来源 reason。
   - `POST /admin/api/users/:id/course-permissions/grant` Body `{stage_id, reason, expires_at?}` 写 `user_stage_purchases` purchase_type=`manual_grant`。
@@ -29,7 +29,7 @@
 
 ## 技术假设
 
-- 矩阵列出 4 轨 × 12 阶段共 48 单元，移动端折叠为列表。
+- 矩阵列出 4 主题 × 12 阶段共 48 单元，移动端折叠为列表。
 
 ## 最终验收清单
 
