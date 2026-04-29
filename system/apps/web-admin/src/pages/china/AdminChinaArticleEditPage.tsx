@@ -266,7 +266,7 @@ export function AdminChinaArticleEditPage() {
       <div style={{ display: 'grid', gap: 8 }} data-testid="sentence-list">
         {pageItems.map((s) => (
           <GlassCard key={s.id} data-testid={`sentence-${s.seq_no}`} className="zy-sentence-card">
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 12 }}>
+            <div className="zy-sentence-card-body">
               <div style={{ flex: 1, minWidth: 0 }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>
                   <span style={{ fontFamily: 'monospace', color: 'var(--zy-fg-mute)' }}>#{fourDigit(s.seq_no)}</span>
@@ -275,21 +275,17 @@ export function AdminChinaArticleEditPage() {
                 </div>
                 <div className="zy-pinyin" style={{ fontSize: 13 }}>{s.pinyin}</div>
                 <div className="zy-zh" style={{ fontSize: 16, fontWeight: 500 }}>{s.content_zh}</div>
-                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px,1fr))', gap: 4, marginTop: 6, fontSize: 12, color: 'var(--zy-fg-soft)' }}>
+                <div className="zy-sentence-trans">
                   <span>EN: {s.content_en}</span>
                   <span>VI: {s.content_vi}</span>
                   <span>TH: {s.content_th}</span>
                   <span>ID: {s.content_id}</span>
                 </div>
               </div>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 6, alignItems: 'flex-end' }}>
-                <div style={{ display: 'flex', gap: 4 }}>
-                  <Button variant="ghost" data-testid={`sentence-edit-${s.seq_no}`} disabled={readonly} onClick={() => setEditingSentence(s)}>编辑</Button>
-                  <Button variant="ghost" data-testid={`sentence-insert-${s.seq_no}`} disabled={readonly} onClick={() => setCreatePos({ mode: 'after', afterSeqNo: s.seq_no })}>↓ 插入</Button>
-                </div>
-                <div style={{ display: 'flex', gap: 4 }}>
-                  <Button variant="ghost" data-testid={`sentence-delete-${s.seq_no}`} disabled={readonly} onClick={() => setDelTarget(s)}>删除</Button>
-                </div>
+              <div className="zy-sentence-card-actions">
+                <Button variant="ghost" data-testid={`sentence-edit-${s.seq_no}`} disabled={readonly} onClick={() => setEditingSentence(s)}>编辑</Button>
+                <Button variant="ghost" data-testid={`sentence-insert-${s.seq_no}`} disabled={readonly} onClick={() => setCreatePos({ mode: 'after', afterSeqNo: s.seq_no })}>↓ 插入</Button>
+                <Button variant="ghost" data-testid={`sentence-delete-${s.seq_no}`} disabled={readonly} onClick={() => setDelTarget(s)}>删除</Button>
               </div>
             </div>
           </GlassCard>

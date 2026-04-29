@@ -261,6 +261,16 @@ a { color: inherit; text-decoration: none; }
 /* Sentence card */
 .zy-sentence-card { padding: 16px 18px; border-radius: var(--zy-radius-md); border: 1px solid var(--zy-border); background: var(--zy-bg-elev); display: grid; gap: 6px; position: relative; }
 .zy-sentence-card.zy-focus-flash { animation: zy-flash 1.5s ease-in-out 1; }
+/* Sentence card body: content + action buttons */
+.zy-sentence-card-body { display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.zy-sentence-card-actions { display: flex; flex-direction: row; gap: 4px; flex-shrink: 0; align-items: flex-start; }
+/* Translations: 2 columns on desktop, 1 on mobile */
+.zy-sentence-trans { display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px 16px; margin-top: 6px; font-size: 12px; color: var(--zy-fg-soft); }
+@media (max-width: 600px) {
+  .zy-sentence-card-body { flex-direction: column; }
+  .zy-sentence-card-actions { margin-top: 8px; }
+  .zy-sentence-trans { grid-template-columns: 1fr; }
+}
 @keyframes zy-flash { 0%,100% { box-shadow: 0 0 0 0 var(--zy-brand-soft); } 30% { box-shadow: 0 0 0 6px var(--zy-brand-soft); } }
 .zy-seq { font-family: ui-monospace, SFMono-Regular, monospace; color: var(--zy-fg-mute); font-size: 12px; }
 .zy-icon-btn {
