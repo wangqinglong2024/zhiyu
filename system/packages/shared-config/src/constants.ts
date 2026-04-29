@@ -21,3 +21,13 @@ export const JWT_TTL = {
   ACCESS_SEC: 3600,
   REFRESH_SEC: 60 * 60 * 24 * 30,
 } as const;
+
+/**
+ * 会话 Cookie 滚动有效期（30 天）。
+ * 行为：
+ * - 登录时 access/refresh/csrf cookie 的 maxAge 全部设为 30 天
+ * - 每次 GET /auth/session 命中时，重写这三个 cookie 续期 30 天（rolling）
+ * - 30 天内未访问 → cookie 过期 → 前端拿不到 session → 跳登录页
+ * - JWT 本身仍然 1 小时过期；session 接口在拿到过期 JWT 时会用 refresh_token 静默换新
+ */
+export const SESSION_ROLLING_SEC = 60 * 60 * 24 * 30;

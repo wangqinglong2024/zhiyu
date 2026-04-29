@@ -1,10 +1,12 @@
 import { useState } from 'react';
 import { useRouter } from '@tanstack/react-router';
+import { useQueryClient } from '@tanstack/react-query';
 import { Button, GlassCard, Input } from '@zhiyu/ui-kit';
 import { adminApi } from '../lib/http.ts';
 
 export function LoginPage() {
   const router = useRouter();
+  const qc = useQueryClient();
   const [email, setEmail] = useState('admin@zhiyu.local');
   const [password, setPassword] = useState('Admin@123456');
   const [err, setErr] = useState<string | null>(null);
@@ -20,6 +22,9 @@ export function LoginPage() {
               setBusy(true); setErr(null);
               try {
                 await adminApi('/auth/login', { method: 'POST', body: JSON.stringify({ email, password }) });
+                // 登录成功后，刷新顶栏会话状态（Layout 用 admin-header-session）+ HomePage 用 admin-session
+                await qc.invalidateQueries({ queryKey: ['admin-header-session'] });
+                await qc.invalidateQueries({ queryKey: ['admin-session'] });
                 await router.navigate({ to: '/' });
               } catch (e2) { setErr((e2 as Error).message); }
               finally { setBusy(false); }

@@ -9,12 +9,26 @@ import {
   ResetPasswordOtpReq,
   GoogleLoginReq,
 } from '@zhiyu/shared-schemas';
-import { COOKIE, JWT_TTL, MAX_ACTIVE_SESSIONS } from '@zhiyu/shared-config';
+import { COOKIE, SESSION_ROLLING_SEC, MAX_ACTIVE_SESSIONS } from '@zhiyu/shared-config';
 import { randomToken, randomDeviceId } from '@zhiyu/shared-utils';
 import { sb } from '../lib/supabase.ts';
 import { AppError } from '../middlewares/error.ts';
 import { sendEmailOtp, consumeEmailOtp } from '../lib/email-otp.ts';
+import type { Context } from 'hono';
 import type { Env } from '../env.ts';
+
+/** 写 access/refresh/csrf cookie，maxAge 统一 30 天（滚动）。 */
+function writeAuthCookies(c: Context, accessToken: string, refreshToken: string, csrf: string) {
+  setCookie(c, COOKIE.ACCESS_TOKEN, accessToken, {
+    httpOnly: true, sameSite: 'Lax', secure: false, path: '/', maxAge: SESSION_ROLLING_SEC,
+  });
+  setCookie(c, COOKIE.REFRESH_TOKEN, refreshToken, {
+    httpOnly: true, sameSite: 'Lax', secure: false, path: '/', maxAge: SESSION_ROLLING_SEC,
+  });
+  setCookie(c, COOKIE.CSRF, csrf, {
+    httpOnly: false, sameSite: 'Lax', secure: false, path: '/', maxAge: SESSION_ROLLING_SEC,
+  });
+}
 
 export function authRoutes(env: Env) {
   const r = new Hono();
@@ -94,17 +108,9 @@ export function authRoutes(env: Env) {
         .eq('id', exists.id);
     }
 
-    // 写 httpOnly Cookie + CSRF Double-Submit
+    // 写 httpOnly Cookie + CSRF Double-Submit（滚动 30 天）
     const csrf = randomToken(24);
-    setCookie(c, COOKIE.ACCESS_TOKEN, data.session.access_token, {
-      httpOnly: true, sameSite: 'Lax', secure: false, path: '/', maxAge: JWT_TTL.ACCESS_SEC,
-    });
-    setCookie(c, COOKIE.REFRESH_TOKEN, data.session.refresh_token, {
-      httpOnly: true, sameSite: 'Lax', secure: false, path: '/', maxAge: JWT_TTL.REFRESH_SEC,
-    });
-    setCookie(c, COOKIE.CSRF, csrf, {
-      httpOnly: false, sameSite: 'Lax', secure: false, path: '/', maxAge: JWT_TTL.ACCESS_SEC,
-    });
+    writeAuthCookies(c, data.session.access_token, data.session.refresh_token, csrf);
 
     return c.json({
       code: 0,
@@ -124,13 +130,39 @@ export function authRoutes(env: Env) {
     return c.json({ code: 0, data: { logged_out: true } });
   });
 
-  // ---- 当前会话校验（用于前端 boot）----
+  // ---- 当前会话校验（用于前端 boot，同时是 Cookie 滚动续期点）----
   r.get('/session', async (c) => {
     const at = getCookie(c, COOKIE.ACCESS_TOKEN);
-    if (!at) return c.json({ code: 0, data: { authenticated: false } });
-    const { data, error } = await sb(env).auth.getUser(at);
-    if (error || !data.user) return c.json({ code: 0, data: { authenticated: false } });
-    const { data: profile } = await sb(env).from('profiles').select('*').eq('id', data.user.id).single();
+    const rt = getCookie(c, COOKIE.REFRESH_TOKEN);
+    const existingCsrf = getCookie(c, COOKIE.CSRF);
+
+    let userId: string | null = null;
+    let accessToken = at;
+    let refreshToken = rt;
+
+    if (at) {
+      const { data, error } = await sb(env).auth.getUser(at);
+      if (!error && data.user) userId = data.user.id;
+    }
+    // access 失效但 refresh 还在 → 静默换一对新 token
+    if (!userId && rt) {
+      const { data, error } = await sb(env).auth.refreshSession({ refresh_token: rt });
+      if (!error && data.session && data.user) {
+        userId = data.user.id;
+        accessToken = data.session.access_token;
+        refreshToken = data.session.refresh_token;
+      }
+    }
+    if (!userId || !accessToken || !refreshToken) {
+      return c.json({ code: 0, data: { authenticated: false } });
+    }
+
+    const { data: profile } = await sb(env).from('profiles').select('*').eq('id', userId).single();
+
+    // 滚动续期：重写 cookie，maxAge 重新计 30 天
+    const csrf = existingCsrf ?? randomToken(24);
+    writeAuthCookies(c, accessToken, refreshToken, csrf);
+
     return c.json({
       code: 0,
       data: {
@@ -238,15 +270,7 @@ export function authRoutes(env: Env) {
 
     const { data: profileFinal } = await sb(env).from('profiles').select('*').eq('id', userId).single();
     const csrf = randomToken(24);
-    setCookie(c, COOKIE.ACCESS_TOKEN, signin.session.access_token, {
-      httpOnly: true, sameSite: 'Lax', secure: false, path: '/', maxAge: JWT_TTL.ACCESS_SEC,
-    });
-    setCookie(c, COOKIE.REFRESH_TOKEN, signin.session.refresh_token, {
-      httpOnly: true, sameSite: 'Lax', secure: false, path: '/', maxAge: JWT_TTL.REFRESH_SEC,
-    });
-    setCookie(c, COOKIE.CSRF, csrf, {
-      httpOnly: false, sameSite: 'Lax', secure: false, path: '/', maxAge: JWT_TTL.ACCESS_SEC,
-    });
+    writeAuthCookies(c, signin.session.access_token, signin.session.refresh_token, csrf);
     // 写一条 session
     await sb(env).from('user_sessions').insert({
       user_id: userId,

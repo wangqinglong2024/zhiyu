@@ -19,8 +19,8 @@ export function HomePage() {
         <h2 style={{ marginTop: 0 }}>欢迎，{q.data.user?.email}</h2>
         <p>角色：<b>{q.data.user?.role}</b></p>
         <div style={{ display: 'flex', gap: 8 }}>
-          <Link to="/users"><Button>用户管理</Button></Link>
           <Link to="/china"><Button>发现中国</Button></Link>
+          <Link to="/users"><Button>用户管理</Button></Link>
         </div>
       </GlassCard>
     </div>

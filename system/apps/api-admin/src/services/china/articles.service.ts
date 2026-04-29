@@ -72,6 +72,11 @@ export async function listArticlesAdmin(
       `title_i18n->>th.ilike.%${escLike(term)}%`,
       `title_i18n->>id.ilike.%${escLike(term)}%`,
     ];
+    // 同时匹配句子内容：先在 china_sentences 里找到命中的 article_id，再 OR 进 articles 过滤
+    const sentArticleIds = await findArticleIdsBySentenceMatch(sb, term);
+    if (sentArticleIds.length > 0) {
+      ors.push(`id.in.(${sentArticleIds.join(',')})`);
+    }
     query = query.or(ors.join(','));
   }
 
@@ -252,4 +257,31 @@ async function fetchSentenceCounts(
 
 function escLike(s: string): string {
   return s.replace(/[\\%_,]/g, (m) => '\\' + m);
+}
+
+// 在 china_sentences 中按 pinyin/content_{zh,en,vi,th,id} ilike 命中关键字，
+// 返回去重后的 article_id 列表。封顶 500 条防止 OR 列表爆炸。
+async function findArticleIdsBySentenceMatch(
+  sb: SupabaseClient,
+  term: string,
+): Promise<string[]> {
+  const t = escLike(term);
+  const ors = [
+    `pinyin.ilike.%${t}%`,
+    `content_zh.ilike.%${t}%`,
+    `content_en.ilike.%${t}%`,
+    `content_vi.ilike.%${t}%`,
+    `content_th.ilike.%${t}%`,
+    `content_id.ilike.%${t}%`,
+  ].join(',');
+  const { data, error } = await sb
+    .from('china_sentences')
+    .select('article_id')
+    .is('deleted_at', null)
+    .or(ors)
+    .limit(500);
+  if (error) return [];
+  const set = new Set<string>();
+  for (const r of (data ?? []) as Array<{ article_id: string }>) set.add(r.article_id);
+  return Array.from(set);
 }
