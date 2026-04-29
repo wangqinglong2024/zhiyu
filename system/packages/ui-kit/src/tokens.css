@@ -284,9 +284,11 @@ a { color: inherit; text-decoration: none; }
   transition: color 0.15s, background 0.15s; white-space: nowrap;
 }
 .zy-topnav-link:hover { color: var(--zy-fg); background: var(--zy-brand-soft); }
-.zy-nav-active {
-  color: var(--zy-brand) !important; font-weight: 700 !important;
-  background: var(--zy-brand-soft) !important; border-radius: var(--zy-radius-sm);
+/* TanStack Router sets class="active" and data-status="active" on the active link */
+.zy-topnav-link.active,
+.zy-topnav-link[data-status='active'] {
+  color: var(--zy-brand); font-weight: 700;
+  background: var(--zy-brand-soft); border-radius: var(--zy-radius-sm);
 }
 
 /* Admin mobile responsive */

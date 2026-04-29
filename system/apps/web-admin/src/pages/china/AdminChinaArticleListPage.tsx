@@ -70,9 +70,9 @@ export function AdminChinaArticleListPage() {
 
   return (
     <div style={{ padding: 24 }} data-testid="admin-article-list">
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12, flexWrap: 'wrap' }}>
         <Button variant="ghost" data-testid="back-to-cats" onClick={() => nav({ to: '/china' })}>← 返回类目</Button>
-        <h2 style={{ margin: 0, fontSize: 20 }}>
+        <h2 style={{ margin: 0, fontSize: 20, whiteSpace: 'nowrap' }}>
           {cat ? `#${cat.code} ${cat.name_i18n.zh}` : `类目 ${code}`}
         </h2>
         {cat && (
@@ -123,7 +123,7 @@ export function AdminChinaArticleListPage() {
           <GlassCard key={a.id} data-testid={`article-row-${a.code}`}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 16, flexWrap: 'wrap' }}>
               <div style={{ minWidth: 0, flex: 1 }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 4 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 2, flexWrap: 'wrap' }}>
                   <code
                     style={{ background: 'var(--zy-card-2)', padding: '2px 6px', borderRadius: 6, cursor: 'pointer', fontSize: 12 }}
                     title="点击复制"
@@ -135,9 +135,10 @@ export function AdminChinaArticleListPage() {
                   {a.status === 'published'
                     ? <Tag variant="success" testId={`article-status-${a.code}`}>已发布</Tag>
                     : <Tag variant="default" testId={`article-status-${a.code}`}>草稿</Tag>}
-                  <span style={{ color: 'var(--zy-fg-soft)', fontSize: 12 }}>
-                    {a.sentence_count} 句 · 更新 {new Date(a.updated_at).toLocaleString()} {a.updated_by_name ? `· ${a.updated_by_name}` : ''}
-                  </span>
+                  <span style={{ color: 'var(--zy-fg-soft)', fontSize: 12, whiteSpace: 'nowrap' }}>{a.sentence_count} 句</span>
+                </div>
+                <div style={{ color: 'var(--zy-fg-soft)', fontSize: 12, marginBottom: 4 }}>
+                  更新 {new Date(a.updated_at).toLocaleString()}{a.updated_by_name ? ` · ${a.updated_by_name}` : ''}
                 </div>
                 <div style={{ fontWeight: 600, fontSize: 15, marginBottom: 2 }}>{a.title_i18n.zh}</div>
                 <div style={{ color: 'var(--zy-fg-soft)', fontSize: 12 }}>{a.title_pinyin}</div>

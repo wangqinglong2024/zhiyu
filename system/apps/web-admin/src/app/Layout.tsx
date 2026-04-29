@@ -38,8 +38,8 @@ export function AdminLayout({ children }: { children: ReactNode }) {
             </Link>
             {authed && (
               <>
-                <Link to="/china" className="zy-topnav-link" activeClass="zy-nav-active" data-testid="nav-china">发现中国</Link>
-                <Link to="/users" className="zy-topnav-link" activeClass="zy-nav-active" data-testid="nav-users">用户管理</Link>
+                <Link to="/china" className="zy-topnav-link" data-testid="nav-china">发现中国</Link>
+                <Link to="/users" className="zy-topnav-link" data-testid="nav-users">用户管理</Link>
               </>
             )}
           </>

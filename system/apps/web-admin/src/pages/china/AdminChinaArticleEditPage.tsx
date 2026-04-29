@@ -179,7 +179,7 @@ export function AdminChinaArticleEditPage() {
 
   return (
     <div style={{ padding: 24, paddingBottom: 96 }} data-testid="article-edit">
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12, flexWrap: 'wrap' }}>
         <Button
           variant="ghost"
           data-testid="back-to-list"
@@ -187,7 +187,7 @@ export function AdminChinaArticleEditPage() {
             nav({ to: '/china/categories/$code', params: { code: a.category.code } }),
           )}
         >← 返回列表</Button>
-        <h2 style={{ margin: 0, fontSize: 18 }}>编辑文章</h2>
+        <h2 style={{ margin: 0, fontSize: 18, whiteSpace: 'nowrap' }}>编辑文章</h2>
         <code style={{ background: 'var(--zy-card-2)', padding: '2px 6px', borderRadius: 6, fontSize: 12 }} data-testid="article-code">{a.code}</code>
         {a.status === 'published' ? <Tag variant="success">已发布</Tag> : <Tag>草稿</Tag>}
         <span style={{ color: 'var(--zy-fg-soft)', fontSize: 12 }}>{a.sentence_count} 句</span>
