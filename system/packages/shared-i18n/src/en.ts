@@ -52,6 +52,13 @@ export default {
     'password.too_long': 'Password is too long',
     'password.need_letter': 'Password must contain a letter',
     'password.need_digit': 'Password must contain a digit',
+    register_subtitle: 'Sign up with email OTP — no link to click',
+    'otp.send': 'Send code',
+    'otp.sent': 'Code sent to your inbox, valid for 5 minutes',
+    'otp.code': 'Verification code',
+    'otp.verify': 'Verify and complete sign-up',
+    'otp.dev_hint': 'Dev OTP (visible in dev only): ',
+    'otp.back': '← Back',
   },
   theme: { light: 'Light', dark: 'Dark', toggle: 'Toggle theme' },
   errors: {
@@ -106,5 +113,6 @@ export default {
     or: 'or',
     sign_up_now: 'Create an account',
     no_account_q: "Don't have an account?",
+    google: 'Continue with Google',
   },
 } as const;

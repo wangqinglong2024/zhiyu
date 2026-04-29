@@ -62,6 +62,21 @@ export function ChinaArticleListPage() {
 
   const empty = useMemo(() => !list.isLoading && items.length === 0, [list.isLoading, items.length]);
 
+  function escHtml(s: string): string {
+    return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' } as Record<string, string>)[c]);
+  }
+  function highlight(text: string, term: string): { __html: string } {
+    if (!term) return { __html: escHtml(text) };
+    const idx = text.toLowerCase().indexOf(term.toLowerCase());
+    if (idx < 0) return { __html: escHtml(text) };
+    return { __html: `${escHtml(text.slice(0, idx))}<em>${escHtml(text.slice(idx, idx + term.length))}</em>${escHtml(text.slice(idx + term.length))}` };
+  }
+  function sanitizeEm(html: string): string {
+    if (!html) return '';
+    const escaped = html.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' } as Record<string, string>)[c]);
+    return escaped.replace(/&lt;(\/)?(em)&gt;/gi, (_m, slash) => `<${slash ? '/' : ''}em>`);
+  }
+
   return (
     <div className="zy-container" data-testid="china-article-list">
       <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
@@ -111,26 +126,36 @@ export function ChinaArticleListPage() {
 
       {!list.isLoading && !list.error && items.length > 0 && (
         <div className="zy-stack">
-          {items.map((a) => (
-            <GlassCard
-              key={a.id}
-              data-testid={`article-row-${a.code}`}
-              role="button"
-              tabIndex={0}
-              onClick={() => nav({ to: '/china/articles/$code', params: { code: a.code } })}
-              onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav({ to: '/china/articles/$code', params: { code: a.code } }); } }}
-              style={{ cursor: 'pointer' }}
-            >
-              <div className="zy-pinyin">{a.title_pinyin}</div>
-              <div className="zy-zh">{pickI18n(a.title_i18n, 'zh')}</div>
-              {lang !== 'zh' && <div className="zy-trans">{pickI18n(a.title_i18n, lang, ['en'])}</div>}
-              <div className="zy-china-card-meta">
-                <span>{a.sentence_count} {t('china.sentences_unit', { defaultValue: '句' })}</span>
-                {a.published_at && <span>· {a.published_at.slice(0, 10)}</span>}
-                <span style={{ marginLeft: 'auto' }}>→</span>
-              </div>
-            </GlassCard>
-          ))}
+          {items.map((a) => {
+            const sentenceHit = a.highlights?.find((h) => h.field.startsWith('content_') || h.field === 'pinyin');
+            return (
+              <GlassCard
+                key={a.id}
+                data-testid={`article-row-${a.code}`}
+                role="button"
+                tabIndex={0}
+                onClick={() => nav({ to: '/china/articles/$code', params: { code: a.code } })}
+                onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav({ to: '/china/articles/$code', params: { code: a.code } }); } }}
+                style={{ cursor: 'pointer' }}
+              >
+                <div className="zy-pinyin">{a.title_pinyin}</div>
+                <div className="zy-zh zy-em" dangerouslySetInnerHTML={highlight(pickI18n(a.title_i18n, 'zh'), qDebounced)} />
+                {lang !== 'zh' && (
+                  <div className="zy-trans zy-em" dangerouslySetInnerHTML={highlight(pickI18n(a.title_i18n, lang, ['en']), qDebounced)} />
+                )}
+                {sentenceHit && (
+                  <div className="zy-em" style={{ marginTop: 6, fontSize: 13, color: 'var(--zy-fg-soft)', lineHeight: 1.55 }}
+                       data-testid={`article-snippet-${a.code}`}
+                       dangerouslySetInnerHTML={{ __html: sanitizeEm(sentenceHit.snippet) }} />
+                )}
+                <div className="zy-china-card-meta">
+                  <span>{a.sentence_count} {t('china.sentences_unit', { defaultValue: '句' })}</span>
+                  {a.published_at && <span>· {a.published_at.slice(0, 10)}</span>}
+                  <span style={{ marginLeft: 'auto' }}>→</span>
+                </div>
+              </GlassCard>
+            );
+          })}
         </div>
       )}
 

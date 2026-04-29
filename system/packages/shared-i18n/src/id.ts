@@ -53,6 +53,13 @@ export default {
     'password.too_long': 'Terlalu panjang',
     'password.need_letter': 'Harus mengandung huruf',
     'password.need_digit': 'Harus mengandung angka',
+    register_subtitle: 'Daftar dengan kode OTP via email, tanpa klik tautan',
+    'otp.send': 'Kirim kode',
+    'otp.sent': 'Kode telah dikirim ke email, berlaku 5 menit',
+    'otp.code': 'Kode verifikasi',
+    'otp.verify': 'Verifikasi & selesaikan pendaftaran',
+    'otp.dev_hint': 'Kode OTP env dev (hanya terlihat di dev)：',
+    'otp.back': '← Kembali',
   },
   theme: { light: 'Terang', dark: 'Gelap', toggle: 'Ganti tema' },
   errors: {
@@ -107,5 +114,6 @@ export default {
     or: 'atau',
     sign_up_now: 'Buat akun',
     no_account_q: 'Belum punya akun?',
+    google: 'Lanjutkan dengan Google',
   },
 } as const;

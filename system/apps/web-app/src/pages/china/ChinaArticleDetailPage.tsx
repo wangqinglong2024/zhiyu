@@ -1,15 +1,14 @@
-// 应用端文章详情：句子卡片 + 单句 TTS + 全文朗读 + 进度记忆
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+// 应用端文章详情：句子卡片 + 单句 TTS + 全文朗读
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { useNavigate, useParams } from '@tanstack/react-router';
 import { useQuery } from '@tanstack/react-query';
 import { useTranslation } from 'react-i18next';
-import { Button, GlassCard, Modal, SkeletonCard, Spinner, useToast } from '@zhiyu/ui-kit';
+import { Button, GlassCard, SkeletonCard, Spinner, useToast } from '@zhiyu/ui-kit';
 import { api } from '../../lib/http.ts';
 import type { ChinaArticleDetail, ChinaSentence, Locale, SentenceAudio } from '../../lib/china-types.ts';
 import { pickI18n } from '../../lib/china-types.ts';
 
 type DetailResp = ChinaArticleDetail;
-type ProgressResp = { last_seq_no: number; completed: boolean; updated_at?: string };
 
 const PIN_KEY = 'china_pinyin_visible';
 
@@ -27,13 +26,6 @@ export function ChinaArticleDetailPage() {
   });
   useEffect(() => { try { localStorage.setItem(PIN_KEY, String(pinyinVisible)); } catch { /* noop */ } }, [pinyinVisible]);
 
-  const session = useQuery({
-    queryKey: ['session'],
-    queryFn: () => api<{ authenticated: boolean }>('/auth/session'),
-    staleTime: 30_000,
-  });
-  const authed = session.data?.authenticated === true;
-
   const detail = useQuery({
     queryKey: ['china-article', code],
     queryFn: () => api<DetailResp>(`/china/articles/${encodeURIComponent(code)}`),
@@ -42,12 +34,6 @@ export function ChinaArticleDetailPage() {
   const sentencesQ = useQuery({
     queryKey: ['china-article-sentences', code],
     queryFn: () => api<{ items: ChinaSentence[] }>(`/china/articles/${encodeURIComponent(code)}/sentences`),
-  });
-
-  const progress = useQuery({
-    queryKey: ['china-progress', code, authed],
-    queryFn: () => api<ProgressResp>(`/china/me/articles/${encodeURIComponent(code)}/progress`),
-    enabled: authed,
   });
 
   // 句子状态镜像（音频状态前端可即时变更，避免再调 C5）
@@ -71,30 +57,6 @@ export function ChinaArticleDetailPage() {
     setSentences(normalized);
   }, [detail.data, sentencesQ.data]);
 
-  // 进度回填提示（C3-14）
-  useEffect(() => {
-    if (!authed || !progress.data) return;
-    if (progress.data.last_seq_no === 0) {
-      const localKey = `china_local_seq_${code}`;
-      try {
-        const local = Number(localStorage.getItem(localKey) ?? '0');
-        if (local > 0) {
-          toast.info(t('china.progress_reset', { defaultValue: '文章已更新，阅读进度已重置' }));
-        }
-        localStorage.removeItem(localKey);
-      } catch { /* noop */ }
-    } else {
-      try { localStorage.setItem(`china_local_seq_${code}`, String(progress.data.last_seq_no)); } catch { /* noop */ }
-    }
-  }, [authed, progress.data, code, toast, t]);
-
-  // 自动滚动到 last_seq_no
-  useEffect(() => {
-    if (!progress.data || progress.data.last_seq_no <= 0) return;
-    const el = document.querySelector(`[data-seq="${progress.data.last_seq_no}"]`);
-    if (el && 'scrollIntoView' in el) (el as HTMLElement).scrollIntoView({ behavior: 'smooth', block: 'center' });
-  }, [progress.data]);
-
   // 在线/离线
   const [online, setOnline] = useState<boolean>(navigator.onLine);
   useEffect(() => {
@@ -111,8 +73,6 @@ export function ChinaArticleDetailPage() {
   const fullPlayRef = useRef<{ playing: boolean; index: number; paused: boolean }>({ playing: false, index: 0, paused: false });
   const [fullPlayState, setFullPlayState] = useState<'idle' | 'playing' | 'paused'>('idle');
   const [activeSeq, setActiveSeq] = useState<number>(0);
-
-  const reportProgress = useDebouncedReporter(authed, code);
 
   const requestTts = useCallback(async (s: ChinaSentence): Promise<SentenceAudio> => {
     if (inflightRef.current.has(s.id)) return s.audio ?? { status: s.audio_status ?? 'pending' };
@@ -178,16 +138,11 @@ export function ChinaArticleDetailPage() {
     return new Promise<void>((resolve) => {
       const onEnd = () => {
         a.removeEventListener('ended', onEnd);
-        // 进度上报（C3-09）
-        if (authed) {
-          try { localStorage.setItem(`china_local_seq_${code}`, String(s.seq_no)); } catch { /* noop */ }
-          reportProgress(s.seq_no, s.seq_no >= sentences.length);
-        }
         resolve();
       };
       a.addEventListener('ended', onEnd);
     });
-  }, [requestTts, pollUntilReady, toast, t, authed, code, sentences.length, reportProgress]);
+  }, [requestTts, pollUntilReady, toast, t]);
 
   // 全文朗读
   const fullPlay = useCallback(async () => {
@@ -230,25 +185,16 @@ export function ChinaArticleDetailPage() {
     }
   }, [online, fullPlayState, toast, t]);
 
-  // 重新开始
-  const [confirmRestart, setConfirmRestart] = useState(false);
-  async function doRestart() {
-    setConfirmRestart(false);
+  // 重新开始：仅重置本地播放状态（按钮已下线，函数保留以便日后恢复）
+  function doRestart() {
     fullPlayRef.current = { playing: false, index: 0, paused: false };
     audioRef.current?.pause();
     setFullPlayState('idle');
     setActiveSeq(0);
-    if (authed) {
-      try {
-        await api(`/china/me/articles/${encodeURIComponent(code)}/progress`, {
-          method: 'PUT', body: JSON.stringify({ last_seq_no: 0, completed: false }),
-        });
-      } catch { /* ignore */ }
-      try { localStorage.removeItem(`china_local_seq_${code}`); } catch { /* noop */ }
-    }
     const first = document.querySelector('[data-seq="1"]');
     if (first && 'scrollIntoView' in first) (first as HTMLElement).scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
+  void doRestart;
 
   if (detail.isLoading) {
     return (
@@ -275,7 +221,6 @@ export function ChinaArticleDetailPage() {
 
   const article = detail.data!;
   const total = sentences.length;
-  const lastSeq = progress.data?.last_seq_no ?? 0;
 
   return (
     <div className="zy-container" data-testid="china-article-detail">
@@ -298,17 +243,11 @@ export function ChinaArticleDetailPage() {
             ? t('china.full_pause', { defaultValue: '暂停朗读' })
             : t('china.full_play', { defaultValue: '全文朗读' })}
         </Button>
-        <Button variant="ghost" data-testid="restart" onClick={() => setConfirmRestart(true)}>↻ {t('china.restart', { defaultValue: '重新开始' })}</Button>
         <label className="zy-switch" data-testid="pinyin-switch" style={{ marginLeft: 'auto' }}>
           <input type="checkbox" checked={pinyinVisible} onChange={(e) => setPinyinVisible(e.target.checked)} />
           <span className="zy-switch-track" />
           <span>{t('china.show_pinyin', { defaultValue: '显示拼音' })}</span>
         </label>
-        <span style={{ color: 'var(--zy-fg-soft)', fontSize: 13 }} data-testid="progress-text">
-          {authed
-            ? `${t('china.progress', { defaultValue: '阅读进度' })}：${lastSeq} / ${total}`
-            : t('china.progress_guest', { defaultValue: '未登录不保存进度' })}
-        </span>
       </div>
 
       {total === 0 && (
@@ -337,28 +276,19 @@ export function ChinaArticleDetailPage() {
           data-testid="prev-article"
           disabled={!article.prev}
           onClick={() => article.prev && nav({ to: '/china/articles/$code', params: { code: article.prev.code } })}
-        >‹ {article.prev ? pickI18n(article.prev.title_i18n, 'zh') : t('china.no_prev', { defaultValue: '已是首篇' })}</Button>
+          title={article.prev ? pickI18n(article.prev.title_i18n, lang) : ''}
+          style={{ maxWidth: '45%', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}
+        >‹ {article.prev ? pickI18n(article.prev.title_i18n, lang) : t('china.no_prev', { defaultValue: '已是首篇' })}</Button>
         <Button
           variant="ghost"
           data-testid="next-article"
           disabled={!article.next}
           onClick={() => article.next && nav({ to: '/china/articles/$code', params: { code: article.next.code } })}
-        >{article.next ? pickI18n(article.next.title_i18n, 'zh') : t('china.no_next', { defaultValue: '已是末篇' })} ›</Button>
+          title={article.next ? pickI18n(article.next.title_i18n, lang) : ''}
+          style={{ maxWidth: '45%', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}
+        >{article.next ? pickI18n(article.next.title_i18n, lang) : t('china.no_next', { defaultValue: '已是末篇' })} ›</Button>
       </div>
 
-      <Modal
-        open={confirmRestart}
-        onClose={() => setConfirmRestart(false)}
-        width={380}
-        title={t('china.confirm_restart_title', { defaultValue: '确定重新开始？' })}
-        testId="confirm-restart"
-        footer={<>
-          <Button variant="ghost" onClick={() => setConfirmRestart(false)} data-testid="confirm-cancel">{t('common.cancel')}</Button>
-          <Button onClick={doRestart} data-testid="confirm-ok">{t('common.confirm')}</Button>
-        </>}
-      >
-        <p style={{ margin: 0 }}>{t('china.confirm_restart_body', { defaultValue: '阅读进度将重置（不可恢复）。' })}</p>
-      </Modal>
     </div>
   );
 }
@@ -388,28 +318,25 @@ function SentenceCard({ sentence: s, lang, pinyinVisible, active, onPlay }: {
           data-testid={`play-${s.seq_no}`}
           onClick={onPlay}
           disabled={status === 'processing'}
-          title={status}
+          aria-label="播放此句"
+          title={status === 'failed' ? '播放失败，点击重试' : '播放此句'}
         >
-          {status === 'processing' ? <Spinner size={14} /> : status === 'failed' ? '!' : '🔊'}
+          {status === 'processing' ? (
+            <Spinner size={14} />
+          ) : status === 'failed' ? (
+            <span style={{ fontSize: 16 }}>⚠</span>
+          ) : (
+            // 简洁喇叭图标（SVG，跨平台一致），含声波线
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <polygon points="3 10 3 14 7 14 12 18 12 6 7 10 3 10" fill="currentColor" stroke="none" />
+              <path d="M16 8c1.5 1 2.5 2.5 2.5 4S17.5 15 16 16" />
+              <path d="M19 5c2.5 1.5 4 4 4 7s-1.5 5.5-4 7" />
+            </svg>
+          )}
         </button>
       </div>
     </GlassCard>
   );
 }
 
-function useDebouncedReporter(authed: boolean, code: string) {
-  const timer = useRef<number | null>(null);
-  const lastSent = useRef<number>(-1);
-  return useCallback((seq: number, completed: boolean) => {
-    if (!authed) return;
-    if (timer.current) window.clearTimeout(timer.current);
-    timer.current = window.setTimeout(() => {
-      if (seq <= lastSent.current && !completed) return;
-      lastSent.current = seq;
-      api(`/china/me/articles/${encodeURIComponent(code)}/progress`, {
-        method: 'PUT',
-        body: JSON.stringify({ last_seq_no: seq, completed }),
-      }).catch(() => undefined);
-    }, 1000);
-  }, [authed, code]);
-}
+

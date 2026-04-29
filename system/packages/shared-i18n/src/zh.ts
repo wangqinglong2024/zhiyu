@@ -42,6 +42,7 @@ export default {
     have_account: '已有账号？',
     google: '使用 Google 登录',
     register_email_sent: '验证邮件已发送，请前往邮箱完成验证。',
+    register_subtitle: '邮箱验证码注册，无需点击链接',
     invalid_credentials: '邮箱或密码不正确',
     account_disabled: '账号已被禁用',
     account_locked: '尝试次数过多，请稍后再试',
@@ -52,6 +53,12 @@ export default {
     'password.too_long': '密码过长',
     'password.need_letter': '密码需包含字母',
     'password.need_digit': '密码需包含数字',
+    'otp.send': '发送验证码',
+    'otp.sent': '验证码已发送到邮箱，5 分钟内有效',
+    'otp.code': '验证码',
+    'otp.verify': '验证并完成注册',
+    'otp.dev_hint': '开发环境验证码（仅 dev 可见）：',
+    'otp.back': '返回上一步',
   },
   theme: {
     light: '浅色',
@@ -110,5 +117,6 @@ export default {
     or: '或',
     sign_up_now: '立即注册',
     no_account_q: '还没有账号？',
+    google: '使用 Google 登录',
   },
 } as const;

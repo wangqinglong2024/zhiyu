@@ -33,6 +33,8 @@ export type ChinaArticleSummary = {
   published_at?: string | null;
   updated_at?: string;
   updated_by_name?: string | null;
+  /** 搜索结果命中片段（带 <em>...</em>），仅 q 非空时下发 */
+  highlights?: Array<{ field: string; snippet: string }>;
 };
 
 export type ChinaArticleDetail = ChinaArticleSummary & {

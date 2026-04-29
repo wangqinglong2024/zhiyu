@@ -53,6 +53,13 @@ export default {
     'password.too_long': 'Mật khẩu quá dài',
     'password.need_letter': 'Cần có chữ cái',
     'password.need_digit': 'Cần có chữ số',
+    register_subtitle: 'Đăng ký bằng mã OTP qua email, không cần nhấp liên kết',
+    'otp.send': 'Gửi mã xác minh',
+    'otp.sent': 'Đã gửi mã đến email, có hiệu lực trong 5 phút',
+    'otp.code': 'Mã xác minh',
+    'otp.verify': 'Xác minh và hoàn tất đăng ký',
+    'otp.dev_hint': 'Mã OTP môi trường dev (chỉ hiển thị dev): ',
+    'otp.back': '← Bước trước',
   },
   theme: { light: 'Sáng', dark: 'Tối', toggle: 'Chuyển giao diện' },
   errors: {
@@ -107,5 +114,6 @@ export default {
     or: 'hoặc',
     sign_up_now: 'Tạo tài khoản',
     no_account_q: 'Chưa có tài khoản?',
+    google: 'Tiếp tục với Google',
   },
 } as const;

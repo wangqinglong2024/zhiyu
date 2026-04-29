@@ -53,6 +53,13 @@ export default {
     'password.too_long': 'รหัสผ่านยาวเกินไป',
     'password.need_letter': 'ต้องมีตัวอักษร',
     'password.need_digit': 'ต้องมีตัวเลข',
+    register_subtitle: 'สมัครสมาชิกด้วยรหัส OTP ทางอีเมล ไม่ต้องคลิกลิงก์',
+    'otp.send': 'ส่งรหัสยืนยัน',
+    'otp.sent': 'ส่งรหัสไปยังอีเมลของคุณแล้ว มีอายุ 5 นาที',
+    'otp.code': 'รหัสยืนยัน',
+    'otp.verify': 'ยืนยันและสมัครให้เสร็จ',
+    'otp.dev_hint': 'รหัส OTP สำหรับ dev (เห็นเฉพาะใน dev)：',
+    'otp.back': '← ย้อนกลับ',
   },
   theme: { light: 'สว่าง', dark: 'มืด', toggle: 'สลับธีม' },
   errors: {
@@ -107,5 +114,6 @@ export default {
     or: 'หรือ',
     sign_up_now: 'สร้างบัญชี',
     no_account_q: 'ยังไม่มีบัญชี?',
+    google: 'ดำเนินการต่อด้วย Google',
   },
 } as const;

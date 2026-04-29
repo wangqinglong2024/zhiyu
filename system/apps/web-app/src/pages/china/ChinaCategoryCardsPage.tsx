@@ -1,10 +1,10 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from '@tanstack/react-router';
 import { useQuery } from '@tanstack/react-query';
 import { useTranslation } from 'react-i18next';
-import { GlassCard, SkeletonCard, Modal, Button } from '@zhiyu/ui-kit';
+import { GlassCard, SkeletonCard, Modal, Button, Input } from '@zhiyu/ui-kit';
 import { api } from '../../lib/http.ts';
-import type { ChinaCategory, Locale } from '../../lib/china-types.ts';
+import type { ChinaArticleSummary, ChinaCategory, Locale } from '../../lib/china-types.ts';
 import { pickI18n } from '../../lib/china-types.ts';
 
 type Resp = { items: ChinaCategory[] };
@@ -35,6 +35,42 @@ export function ChinaCategoryCardsPage() {
 
   const [lockTip, setLockTip] = useState<{ open: boolean; code: string }>({ open: false, code: '' });
 
+  // 全局搜索（跨类目）
+  const [qInput, setQInput] = useState('');
+  const [qDeb, setQDeb] = useState('');
+  useEffect(() => {
+    const tm = window.setTimeout(() => setQDeb(qInput.trim()), 300);
+    return () => window.clearTimeout(tm);
+  }, [qInput]);
+
+  const searchQ = useQuery({
+    queryKey: ['china-global-search', qDeb],
+    queryFn: () => api<{ items: ChinaArticleSummary[]; pagination: { total: number } }>(
+      `/china/articles?q=${encodeURIComponent(qDeb)}&page=1&page_size=20&sort=published_at`,
+    ),
+    enabled: qDeb.length > 0,
+    placeholderData: (prev) => prev,
+  });
+
+  function highlight(text: string, term: string): { __html: string } {
+    if (!term) return { __html: escHtml(text) };
+    const idx = text.toLowerCase().indexOf(term.toLowerCase());
+    if (idx < 0) return { __html: escHtml(text) };
+    const before = escHtml(text.slice(0, idx));
+    const match = escHtml(text.slice(idx, idx + term.length));
+    const after = escHtml(text.slice(idx + term.length));
+    return { __html: `${before}<em>${match}</em>${after}` };
+  }
+  function escHtml(s: string): string {
+    return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' } as Record<string, string>)[c]);
+  }
+  // 服务端已生成 <em> 片段；纵深防御：仅放行 <em>/</em>，其余转义
+  function sanitizeEm(html: string): string {
+    if (!html) return '';
+    const escaped = html.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' } as Record<string, string>)[c]);
+    return escaped.replace(/&lt;(\/)?(em)&gt;/gi, (_m, slash) => `<${slash ? '/' : ''}em>`);
+  }
+
   const items = useMemo(() => (q.data?.items ?? []).slice().sort((a, b) => a.sort_order - b.sort_order), [q.data]);
 
   function clickCard(c: ChinaCategory) {
@@ -48,11 +84,66 @@ export function ChinaCategoryCardsPage() {
 
   return (
     <div className="zy-container" data-testid="china-cards">
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12, marginBottom: 12, flexWrap: 'wrap' }}>
         <h1 style={{ margin: 0, fontSize: 24 }}>{t('china.title', { defaultValue: '发现中国' })}</h1>
+        <Input
+          data-testid="china-global-search"
+          placeholder={t('china.search_articles', { defaultValue: '🔍 搜索：标题/句子内容' })}
+          value={qInput}
+          onChange={(e) => setQInput(e.target.value)}
+          style={{ minWidth: 260, maxWidth: 400, flex: 1 }}
+        />
       </div>
 
-      {q.isLoading && (
+      {qDeb && (
+        <section style={{ marginBottom: 16 }} data-testid="china-search-results">
+          {searchQ.isLoading && (
+            <div className="zy-stack">{Array.from({ length: 3 }).map((_, i) => <SkeletonCard key={i} height={84} />)}</div>
+          )}
+          {searchQ.data && searchQ.data.items.length === 0 && (
+            <div className="zy-state" data-testid="china-search-empty">
+              <div className="zy-state-icon">😶</div>
+              <div>{t('china.no_search', { defaultValue: '没有找到匹配的文章，试试其他关键词？' })}</div>
+            </div>
+          )}
+          {searchQ.data && searchQ.data.items.length > 0 && (
+            <div className="zy-stack">
+              <div style={{ color: 'var(--zy-fg-soft)', fontSize: 12 }}>共 {searchQ.data.pagination.total} 条</div>
+              {searchQ.data.items.map((a) => {
+                const sentenceHit = a.highlights?.find((h) => h.field.startsWith('content_') || h.field === 'pinyin');
+                return (
+                  <GlassCard
+                    key={a.id}
+                    data-testid={`search-hit-${a.code}`}
+                    role="button"
+                    tabIndex={0}
+                    onClick={() => nav({ to: '/china/articles/$code', params: { code: a.code } })}
+                    onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav({ to: '/china/articles/$code', params: { code: a.code } }); } }}
+                    style={{ cursor: 'pointer' }}
+                  >
+                    <div className="zy-pinyin">{a.title_pinyin}</div>
+                    <div className="zy-zh zy-em" dangerouslySetInnerHTML={highlight(pickI18n(a.title_i18n, 'zh'), qDeb)} />
+                    {lang !== 'zh' && (
+                      <div className="zy-trans zy-em" dangerouslySetInnerHTML={highlight(pickI18n(a.title_i18n, lang, ['en']), qDeb)} />
+                    )}
+                    {sentenceHit && (
+                      <div className="zy-em" style={{ marginTop: 6, fontSize: 13, color: 'var(--zy-fg-soft)', lineHeight: 1.55 }}
+                           data-testid={`search-snippet-${a.code}`}
+                           dangerouslySetInnerHTML={{ __html: sanitizeEm(sentenceHit.snippet) }} />
+                    )}
+                    <div className="zy-china-card-meta">
+                      <span>#{a.category?.code} {pickI18n(a.category?.name_i18n, lang)}</span>
+                      <span>· {a.sentence_count} {t('china.sentences_unit', { defaultValue: '句' })}</span>
+                    </div>
+                  </GlassCard>
+                );
+              })}
+            </div>
+          )}
+        </section>
+      )}
+
+      {q.isLoading && !qDeb && (
         <div className="zy-grid-12">
           {Array.from({ length: 12 }).map((_, i) => <SkeletonCard key={i} height={140} />)}
         </div>
