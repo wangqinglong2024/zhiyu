@@ -43,7 +43,7 @@
         ],
         "media": { "audio_url": null, "image_url": null }
       }
-      /* ... 通常 8–12 题 */
+      /* ... 固定 5 题，与 [temp/01 §1.5](../../../temp/01-课程目录骨架.md) 一致 */
     ],
     "pass_score": 80
   }

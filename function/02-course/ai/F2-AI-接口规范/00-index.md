@@ -101,7 +101,7 @@
 ## 全局约定（本功能内）
 
 - 路径中 `:lesson_id / :kp_id / :id` 一律 UUID；学员侧若使用 `lesson_code` 入口，由前端先调 C3 学习地图取 id
-- 多语言：响应中 `_i18n` 字段下发完整 4 key（`vi/th/id/en`）；中文字段独立列（`title_zh / word_zh / sentence_zh`），不进 `_i18n`
+- 多语言：响应中 `_i18n` 字段下发完整 5 key（`zh/vi/th/id/en`，[F1-12-Q10](../F1-AI-数据模型规范/12-待确认问题清单.md) 封板，与 china 域 + [grules/G1-03 §八](../../../grules/G1-架构与技术规范/03-数据库规范.md) 一致）；学习目标本体的中文原文额外暴露独立列 `title_zh / word_zh / sentence_zh`（不可变）；`_i18n.zh` 是 UI 文案（可改）
 - 分页：所有列表统一 `page` / `page_size`（默认 20，上限 100）
 - 排序：`sort` 仅接受白名单字段，违规返 `40002 SORT_FIELD_NOT_ALLOWED`
 - 时间：ISO-8601 +08:00
@@ -109,7 +109,10 @@
 - 管理端写侧：必须 `Authorization: Bearer <admin_token>`，由 `apps/api-admin` 中间件校验角色
 - 编辑冲突：以最后保存为准 + 提示（详见 [10-并发与冲突处理.md](./10-并发与冲突处理.md)）
 - **统一响应封装**（[grules/G1-04 §3](../../../grules/G1-架构与技术规范/04-API接口规范.md)）：所有响应注入 `request_id` + `server_time`，本文件示例省略
-- **限流**（G1-04 §六）：默认 IP 60/分、用户 120/分；C9 提交答案 用户 600/分；A17 创建 AI Job 用户 30/分；A24 全局搜索 用户 30/分
+- **限流**（G1-04 §六 + [12-Q11](./12-待确认问题清单.md) 封板）：
+  - **学员端**：默认 IP 60/分、用户 120/分；C9 提交答案 用户 600/分；C11 SRS 队列 单日上限 50；A24 全局搜索 用户 30/分
+  - **管理端**：业务不限流（仅 admin token 鉴权；nginx 层默认 600/分作 DDoS 兜底）
+  - A17 创建 AI Job 如从管理端发起 不限流；仅后端 worker 调 LLM 时受产品侧 token 限额控制
 
 ---
 

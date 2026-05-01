@@ -32,14 +32,14 @@
 
 - **schema**：`zhiyu`（与 china 共用同一物理库；逻辑域用表名前缀隔离）
 - **表名前缀**：`course_`（隔离课程学习域，与 china 等其它域并列）
-- **多语言列**：统一字段后缀 `_i18n`，jsonb 结构 `{vi,th,id,en}`
-  - **注意**：不含 `zh`，因为中文是学习目标本身（KP 主标题用独立列 `title_zh`）
+- **多语言列**：统一字段后缀 `_i18n`，jsonb 5 key `{zh, vi, th, id, en}`（与 [grules/G1-03 §四 / §八](../../../grules/G1-架构与技术规范/03-数据库规范.md) + china 域对齐，[12-Q10](./12-待确认问题清单.md) 已封板）
+  - 中文是平台主语言；学员端按 `ui_lang` 取对应 key，缺失回退 `en` → `zh`
+  - 学习目标本体的中文原文额外存独立列 `title_zh / word_zh / sentence_zh`（**不可变**，与翻译解耦）；`_i18n.zh` 是管理员可改的 UI 文案
 - **赛道码**：固定 5 个 `ec / fc / hk / dl / share`，写死不允许动态新增（[详见 01 §course_tracks](./01-表定义-课程目录.md)）
 - **节级编码**（`course_lessons.code`）：`<track>-<stage>-<chapter>-<lesson>`，如 `ec-2-3-1`、`share-0-1-1`
 - **内容编码**：`kp_<track>_<type>_<6位序号>`、`q_<track>_<8位序号>`（[详见 10-编号生成规则.md](./10-编号生成规则.md)）
 - **软删**：所有"内容侧"表（`course_knowledge_points` / `course_questions` / `course_lessons` 等）启用 `deleted_at`，30 天后由 cron 物理清理；用户进度类不软删（直接物理删，但有审计）
-- **主键策略**：默认 `uuid`（与 grules/G1-数据库规范 §一保持一致），业务唯一键（如 `code`、`kp_code`）独立列
-  - ⚠️ 与 [temp/07 §H3](../../../temp/07-待确认问题清单.md) 的"BIGSERIAL"默认有冲突，已在 [12-待确认问题清单.md](./12-待确认问题清单.md) Q1 列出
+- **主键策略**：✅ 全表统一 `uuid`（[12-Q1](./12-待确认问题清单.md) 已封板，与 [grules/G1-03 §一](../../../grules/G1-架构与技术规范/03-数据库规范.md) + china 域一致），业务唯一键（如 `code`、`kp_code`）独立列；流水表索引膨胀通过月分区控制（[12-Q8](./12-待确认问题清单.md)）
 - **可见性**：用户端**永远不查草稿**——通过 RLS 强制 `status='approved' AND is_published=true`
 
 ---
