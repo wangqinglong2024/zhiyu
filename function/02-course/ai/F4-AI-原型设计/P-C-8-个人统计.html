@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-C-8 个人统计 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-C-8</span>应用端 · 个人中心 / 统计（/learn/me）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">📚 学中文</div>
+  <nav class="zy-topnav-links">
+    <a class="zy-topnav-link" data-nav="/learn">学习</a>
+    <a class="zy-topnav-link active">我的</a>
+  </nav>
+  <div class="zy-topnav-actions">
+    <button class="zy-icon-btn" data-open-drawer="dSetting" title="设置">⚙</button>
+    <span class="zy-avatar">小</span>
+  </div>
+</header>
+
+<div class="zy-container">
+  <h1 class="zy-page-title">📊 我的学习</h1>
+  <p class="zy-page-sub">小明 · ec_member · 已学习 <strong>23</strong> 天 · 当前赛道 EC（电商）</p>
+
+  <!-- 总览 4 卡 -->
+  <div class="zy-grid cols-md-2 cols-lg-3 cols-xl-4" style="margin: 16px 0 24px;">
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">已掌握 KP</div><div style="font-size: 28px; font-weight: 700;">186</div><div style="font-size: 12px; color: var(--success);">+12 本周</div></div>
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">完成节</div><div style="font-size: 28px; font-weight: 700;">26 <span style="font-size: 14px; color: var(--zy-fg-mute);">/ 156</span></div><div style="font-size: 12px;">进度 17%</div></div>
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">连续打卡</div><div style="font-size: 28px; font-weight: 700;">7 天 🔥</div><div style="font-size: 12px; color: var(--zy-fg-mute);">最长 14 天</div></div>
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">SRS 待复习</div><div style="font-size: 28px; font-weight: 700; color: var(--zy-brand);">12</div><div><button class="zy-btn zy-btn-sm zy-btn-primary" style="margin-top: 4px;" data-nav="/learn/srs">立即复习</button></div></div>
+  </div>
+
+  <!-- 7 天折线 -->
+  <div class="zy-card" style="margin-bottom: 16px;">
+    <div style="display:flex; align-items:center; justify-content: space-between; margin-bottom: 12px;">
+      <strong>📈 近 7 天活跃</strong>
+      <span style="font-size: 12px; color: var(--zy-fg-mute);">每日学习时长 + KP 数</span>
+    </div>
+    <svg viewBox="0 0 600 180" width="100%" height="180" style="display:block;">
+      <defs>
+        <linearGradient id="lg" x1="0" x2="0" y1="0" y2="1">
+          <stop offset="0%" stop-color="#ff2442" stop-opacity="0.4"/>
+          <stop offset="100%" stop-color="#ff2442" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <g stroke="#eee" stroke-dasharray="3 3"><line x1="40" y1="30" x2="580" y2="30"/><line x1="40" y1="80" x2="580" y2="80"/><line x1="40" y1="130" x2="580" y2="130"/></g>
+      <path d="M60,120 L140,90 L220,100 L300,60 L380,75 L460,40 L540,55 L540,160 L60,160 Z" fill="url(#lg)"/>
+      <polyline fill="none" stroke="#ff2442" stroke-width="2.5" points="60,120 140,90 220,100 300,60 380,75 460,40 540,55"/>
+      <g fill="#ff2442"><circle cx="60" cy="120" r="4"/><circle cx="140" cy="90" r="4"/><circle cx="220" cy="100" r="4"/><circle cx="300" cy="60" r="4"/><circle cx="380" cy="75" r="4"/><circle cx="460" cy="40" r="4"/><circle cx="540" cy="55" r="4"/></g>
+      <g fill="#999" font-size="11" text-anchor="middle"><text x="60" y="175">11/19</text><text x="140" y="175">11/20</text><text x="220" y="175">11/21</text><text x="300" y="175">11/22</text><text x="380" y="175">11/23</text><text x="460" y="175">11/24</text><text x="540" y="175">11/25</text></g>
+    </svg>
+  </div>
+
+  <!-- 30 天热力图 -->
+  <div class="zy-card" style="margin-bottom: 16px;">
+    <div style="display:flex; align-items:center; justify-content: space-between; margin-bottom: 12px;">
+      <strong>🗓 近 30 天打卡</strong>
+      <span style="font-size: 12px; color: var(--zy-fg-mute);">深色 = 学习强度高</span>
+    </div>
+    <div class="heatmap" id="hm"></div>
+    <div style="display:flex; gap: 4px; align-items:center; justify-content: flex-end; margin-top: 10px; font-size: 12px; color: var(--zy-fg-mute);">
+      少 <i style="display:inline-block; width:12px; height:12px; background:var(--zy-bg-elev); border-radius:3px;"></i><i style="display:inline-block; width:12px; height:12px; background:rgba(255,36,66,0.15); border-radius:3px;"></i><i style="display:inline-block; width:12px; height:12px; background:rgba(255,36,66,0.35); border-radius:3px;"></i><i style="display:inline-block; width:12px; height:12px; background:rgba(255,36,66,0.6); border-radius:3px;"></i><i style="display:inline-block; width:12px; height:12px; background:#ff2442; border-radius:3px;"></i> 多
+    </div>
+  </div>
+
+  <!-- 最近考试 -->
+  <div class="zy-card">
+    <div style="display:flex; align-items:center; justify-content: space-between; margin-bottom: 12px;">
+      <strong>📝 最近考试</strong>
+      <button class="zy-btn zy-btn-sm zy-btn-ghost" data-nav="/learn/exams">全部 →</button>
+    </div>
+    <div class="zy-table-wrap">
+      <table class="zy-table">
+        <thead><tr><th>类型</th><th>名称</th><th>得分</th><th>用时</th><th>结果</th><th></th></tr></thead>
+        <tbody>
+          <tr><td><span class="zy-tag zy-tag-info">阶段</span></td><td>EC Stage 1 阶段考</td><td>85</td><td>32:14</td><td><span class="zy-tag zy-tag-success">通过</span></td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-toast="查看详情解析">详情</button></td></tr>
+          <tr><td><span class="zy-tag">章测</span></td><td>EC 1.2 寒暄</td><td>76</td><td>11:32</td><td><span class="zy-tag zy-tag-warn">未过</span></td><td><button class="zy-btn zy-btn-sm zy-btn-ghost">详情</button></td></tr>
+          <tr><td><span class="zy-tag zy-tag-brand">HSK</span></td><td>HSK 1 模考</td><td>178/200</td><td>34:00</td><td><span class="zy-tag zy-tag-success">通过</span></td><td><button class="zy-btn zy-btn-sm zy-btn-ghost">详情</button></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 入口卡 -->
+  <div class="zy-grid cols-md-2 cols-lg-3" style="margin-top: 24px;">
+    <a class="zy-card" data-nav="/learn/srs"><strong>📚 SRS 复习</strong><div class="zy-helper" style="margin-top:4px;">12 题待复习</div></a>
+    <a class="zy-card" data-nav="/learn/wrong"><strong>❌ 错题本</strong><div class="zy-helper" style="margin-top:4px;">27 道题</div></a>
+    <a class="zy-card" data-nav="/learn/exams"><strong>📝 考试中心</strong><div class="zy-helper" style="margin-top:4px;">章测 / 阶段考 / HSK</div></a>
+  </div>
+</div>
+
+<nav class="zy-bottom-tabs">
+  <div class="zy-bottom-tab" data-nav="/learn"><span class="ico">📚</span><span>学习</span></div>
+  <div class="zy-bottom-tab active"><span class="ico">👤</span><span>我的</span></div>
+</nav>
+
+</div></div>
+
+<!-- 设置 Drawer -->
+<div class="zy-drawer-mask" id="dSetting">
+  <aside class="zy-drawer size-sm">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">个人设置</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-field"><label class="zy-label">界面语言</label><select class="zy-select"><option>简体中文</option><option>English</option></select></div>
+      <div class="zy-field"><label class="zy-label">学习赛道</label><select class="zy-select"><option>电商 EC</option><option>工厂 FC</option><option>HSK</option><option>日常 DL</option></select></div>
+      <div class="zy-field"><label class="zy-label">每日 SRS 上限</label><select class="zy-select"><option>30</option><option selected>50</option><option>80</option></select></div>
+      <div class="zy-field"><label class="zy-label">主题</label><select class="zy-select"><option>跟随系统</option><option>浅色</option><option>暗色</option></select></div>
+      <div class="zy-divider"></div>
+      <button class="zy-btn zy-btn-danger" style="width: 100%;" data-open-modal="mLogout">↪ 退出登录</button>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="设置已保存" data-toast-type="success">保存</button></div>
+  </aside>
+</div>
+
+<div class="zy-modal-mask" id="mLogout">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">退出登录？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">退出后需重新登录才能访问学习数据。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已退出登录" data-toast-type="info">退出</button></div>
+  </div>
+</div>
+
+<script>
+// 30 天热力图
+(function(){ var hm = document.getElementById('hm'); if(!hm) return; var html=''; var seed=[0,1,2,1,3,4,2,1,0,2,3,3,4,2,1,0,1,2,3,4,4,2,1,2,3,3,4,2,3,4]; for(var i=0;i<30;i++){ var l = seed[i]; var c = l===0?'':'l'+l; html += '<i class="'+c+'" title="11/'+(i+1)+' · 强度 '+l+'"></i>'; } hm.innerHTML = html; })();
+</script>
+<script src="_assets/prototype.js"></script>
+</body></html>

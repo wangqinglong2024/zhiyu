@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-A-10 媒资库 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-A-10</span>管理端 · 媒资库（/admin/course/media）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">⚙ 智语 · 管理后台</div>
+  <nav class="zy-topnav-links"><a class="zy-topnav-link active">课程</a><a class="zy-topnav-link">用户</a><a class="zy-topnav-link">系统</a></nav>
+  <div class="zy-topnav-actions"><input class="zy-input" placeholder="🔍 全局搜索…" data-nav="/admin/course/search" readonly style="cursor:pointer;" /><span class="zy-avatar">A</span></div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-bread"><span data-nav="/admin/course">课程</span><span class="sep">›</span><span class="cur">媒资库</span></div>
+
+  <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px;">
+    <div><h1 class="zy-page-title">🎬 媒资库</h1><p class="zy-page-sub">7,283 项 · 音频 4,892 + 图片 2,331 + 视频 60 · CDN 分发</p></div>
+    <div class="zy-row">
+      <button class="zy-btn zy-btn-ghost" data-open-modal="mClean">🧹 清理队列</button>
+      <button class="zy-btn zy-btn-ghost" data-open-modal="mTags">🏷 标签管理</button>
+      <button class="zy-btn zy-btn-primary" data-open-modal="mUpload">⬆ 批量上传</button>
+    </div>
+  </div>
+
+  <div class="zy-card" style="margin-bottom: 16px;">
+    <div class="zy-row">
+      <input class="zy-input" placeholder="🔍 文件名 / 标签 / 绑定 KP" style="flex:1;" />
+      <select class="zy-select" style="width: 130px;"><option>全部类型</option><option>音频</option><option>图片</option><option>视频</option></select>
+      <select class="zy-select" style="width: 140px;"><option>全部状态</option><option>已分发</option><option>处理中</option><option>失败</option><option>已下线</option></select>
+      <select class="zy-select" style="width: 140px;"><option>全部绑定</option><option>已绑定</option><option>未绑定（孤儿）</option></select>
+    </div>
+  </div>
+
+  <div class="zy-row" style="margin-bottom: 8px; padding: 8px 12px; background: var(--zy-bg-elev); border-radius: 8px;">
+    <span style="font-size: 13px;">已选 <strong>2</strong> 项</span>
+    <div class="zy-row-end" style="margin-left: auto;">
+      <button class="zy-btn zy-btn-sm zy-btn-ghost" data-toast="为 2 项添加标签">🏷 加标签</button>
+      <button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mBulkDel">🗑 批量删除</button>
+    </div>
+  </div>
+
+  <div class="zy-table-wrap">
+    <table class="zy-table">
+      <thead><tr><th style="width:40px;"><input type="checkbox" class="zy-check" /></th><th style="width:70px;">缩略</th><th>类型</th><th>文件名</th><th>绑定 KP</th><th>大小</th><th>CDN</th><th>状态</th><th>上传时间</th><th style="width: 200px;">操作</th></tr></thead>
+      <tbody>
+        <tr><td><input type="checkbox" class="zy-check" checked /></td>
+          <td><div style="width: 48px; height: 48px; background: linear-gradient(135deg,#a3d8ff,#5fa8d3); border-radius: 6px; display: grid; place-items: center; color: #fff;">🔊</div></td>
+          <td>音频</td><td><strong>zaoshang.mp3</strong><br><span style="font-size: 11px; color: var(--zy-fg-mute);">tts · gpt-4o · zh-CN</span></td>
+          <td>kp-zaoshang</td><td>32 KB</td><td>✅</td><td><span class="zy-tag zy-tag-success">已分发</span></td><td>11-22 10:30</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dReplace">替换</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check" checked /></td>
+          <td><div style="width: 48px; height: 48px; background: linear-gradient(135deg,#ffd58a,#ff7b54); border-radius: 6px;"></div></td>
+          <td>图片</td><td><strong>sunrise.jpg</strong><br><span style="font-size: 11px; color: var(--zy-fg-mute);">800×600 · jpg</span></td>
+          <td>kp-zaoshang</td><td>108 KB</td><td>✅</td><td><span class="zy-tag zy-tag-success">已分发</span></td><td>11-20 14:22</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dReplace">替换</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check" /></td>
+          <td><div style="width: 48px; height: 48px; background: linear-gradient(135deg,#cdeac0,#8db580); border-radius: 6px; display: grid; place-items: center; color: #fff;">🔊</div></td>
+          <td>音频</td><td>xiexie.mp3</td><td>kp-xiexie</td><td>28 KB</td><td>✅</td><td><span class="zy-tag zy-tag-success">已分发</span></td><td>11-19 09:55</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dReplace">替换</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check" /></td>
+          <td><div style="width: 48px; height: 48px; background: var(--zy-bg-elev); border-radius: 6px; display: grid; place-items: center;">⏳</div></td>
+          <td>音频</td><td>laoban.mp3</td><td>kp-laoban</td><td>—</td><td>—</td><td><span class="zy-tag zy-tag-warn">处理中</span></td><td>11-23 10:30</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost">查看 Job</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check" /></td>
+          <td><div style="width: 48px; height: 48px; background: #fee; border-radius: 6px; display: grid; place-items: center;">⚠</div></td>
+          <td>音频</td><td>orphan_001.mp3</td><td><span style="color:#ef4444;">未绑定（孤儿）</span></td><td>40 KB</td><td>✅</td><td><span class="zy-tag zy-tag-danger">待清理</span></td><td>10-12 11:00</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">清理</button></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+</div></div>
+
+<!-- D-10 预览 -->
+<div class="zy-modal-mask" id="mPreview">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">媒资预览 · zaoshang.mp3</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-card" style="background: var(--zy-bg);">
+        <div style="font-size: 13px; margin-bottom: 8px;">cdn://media/audio/zaoshang.mp3</div>
+        <audio controls style="width: 100%;"><source src="" /></audio>
+        <div class="zy-divider"></div>
+        <div style="font-size: 12px; color: var(--zy-fg-mute);">类型：tts · 模型 gpt-4o · 语言 zh-CN · 32 KB · 1.4s</div>
+        <div style="font-size: 12px; color: var(--zy-fg-mute);">绑定：kp-zaoshang</div>
+        <div style="font-size: 12px; color: var(--zy-fg-mute);">标签：greeting / morning</div>
+      </div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>关闭</button><button class="zy-btn zy-btn-ghost" data-toast="已复制 CDN URL" data-toast-type="success">📋 复制 URL</button><button class="zy-btn zy-btn-primary" data-close-modal data-open-drawer="dReplace">替换</button></div>
+  </div>
+</div>
+
+<!-- 替换 Drawer -->
+<div class="zy-drawer-mask" id="dReplace">
+  <aside class="zy-drawer size-md">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">替换文件 · zaoshang.mp3</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-field"><label class="zy-label">替换方式</label><select class="zy-select"><option selected>上传新文件</option><option>重新生成 TTS</option></select></div>
+      <div class="zy-field"><label class="zy-label">文件</label><div style="border: 2px dashed var(--zy-border); border-radius: 12px; padding: 32px; text-align: center;">📁 拖入新音频（mp3 / wav，≤ 5MB）</div></div>
+      <div class="zy-field"><label class="zy-label">旧版本</label><select class="zy-select"><option selected>保留 30 天</option><option>立即删除</option></select></div>
+      <div class="zy-helper">替换后 CDN URL 不变，引用此媒资的 KP / 题目自动指向新版本。</div>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="替换 Job 已提交" data-toast-type="success">提交替换</button></div>
+  </aside>
+</div>
+
+<!-- 上传 -->
+<div class="zy-modal-mask" id="mUpload">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">⬆ 批量上传媒资</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-field"><label class="zy-label zy-required">文件</label><div style="border: 2px dashed var(--zy-border); border-radius: 12px; padding: 32px; text-align: center;">📁 拖入或选择多个文件<br><span style="font-size: 12px; color: var(--zy-fg-mute);">支持 mp3 / wav / jpg / png / mp4 · 单文件 ≤ 50MB</span></div></div>
+      <div class="zy-field"><label class="zy-label">默认绑定</label><select class="zy-select"><option>按文件名匹配 KP（kp-xxx.*）</option><option>不绑定</option></select></div>
+      <div class="zy-field"><label class="zy-label">默认标签</label><input class="zy-input" placeholder="逗号分隔，如：greeting, hsk1" /></div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已上传 0 个文件，请先选择" data-toast-type="info">开始上传</button></div>
+  </div>
+</div>
+
+<!-- 标签管理 -->
+<div class="zy-modal-mask" id="mTags">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">🏷 标签管理</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-row"><input class="zy-input" placeholder="新标签名" style="flex:1;" /><button class="zy-btn zy-btn-primary" data-toast="标签已添加">➕ 添加</button></div>
+      <div class="zy-divider"></div>
+      <div class="zy-row" style="flex-wrap: wrap; gap: 8px;">
+        <span class="zy-tag">greeting × 128</span>
+        <span class="zy-tag">morning × 42</span>
+        <span class="zy-tag">food × 230</span>
+        <span class="zy-tag">family × 89</span>
+        <span class="zy-tag">hsk1 × 360</span>
+        <span class="zy-tag">hsk2 × 412</span>
+      </div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>关闭</button></div>
+  </div>
+</div>
+
+<!-- 清理队列 -->
+<div class="zy-modal-mask" id="mClean">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">🧹 清理队列</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <p>检测到孤儿媒资 <strong>23</strong> 项（共 4.2MB），无任何 KP / 题目引用。</p>
+      <table class="zy-table" style="font-size: 12px;"><thead><tr><th>文件名</th><th>大小</th><th>上传时间</th></tr></thead>
+        <tbody>
+          <tr><td>orphan_001.mp3</td><td>40 KB</td><td>10-12</td></tr>
+          <tr><td>tmp_test.jpg</td><td>180 KB</td><td>10-08</td></tr>
+          <tr><td>… 还有 21 项</td><td>—</td><td>—</td></tr>
+        </tbody></table>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已清理 23 项孤儿媒资" data-toast-type="success">全部清理</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mDel">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">删除媒资？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">软删除，可在 7 天内恢复。引用此媒资的 KP / 题目会显示占位图。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已删除（recycle 7 天）" data-toast-type="info">删除</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mBulkDel">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">批量删除（2 项）</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">2 项媒资将被软删除，7 天内可恢复。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已删除 2 项" data-toast-type="info">删除</button></div>
+  </div>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>

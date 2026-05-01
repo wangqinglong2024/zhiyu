@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-C-6 考试中心 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-C-6</span>应用端 · 考试中心（/learn/exams）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">📚 学中文</div>
+  <nav class="zy-topnav-links">
+    <a class="zy-topnav-link" data-nav="/learn">学习</a>
+    <a class="zy-topnav-link active" data-nav="/learn/me">我的</a>
+  </nav>
+  <div class="zy-topnav-actions"><span class="zy-avatar">小</span></div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-bread"><span data-nav="/learn/me">我的</span><span class="sep">›</span><span class="cur">考试中心</span></div>
+
+  <h1 class="zy-page-title">📝 考试中心</h1>
+  <p class="zy-page-sub">章测 / 阶段考 / HSK 模考 · 通过线 80 · 章测可重考 ≤ 3 次</p>
+
+  <div class="zy-pills" style="margin: 12px 0 20px;">
+    <button class="zy-pill active" data-tab="ch" data-tab-group="ex">章测 (chapter)</button>
+    <button class="zy-pill" data-tab="st" data-tab-group="ex">阶段考 (stage)</button>
+    <button class="zy-pill" data-tab="hsk" data-tab-group="ex">HSK 模考 (mock)</button>
+  </div>
+
+  <!-- 章测 -->
+  <div data-tab-pane="ch" data-tab-group="ex" class="zy-grid cols-md-2 cols-lg-3">
+    <div class="zy-card">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-success">✓ 已通过</span><span class="zy-tag">EC 1.1</span></div>
+      <div style="font-size: 16px; font-weight: 600;">第 1 章 章测 · 自我介绍</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">10 题 · 15 分钟 · 最高 92 分</div>
+      <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mHistory">历史 (2)</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mStart">重考 (剩 1)</button></div>
+    </div>
+    <div class="zy-card">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-warn">未通过</span><span class="zy-tag">EC 1.2</span></div>
+      <div style="font-size: 16px; font-weight: 600;">第 2 章 章测 · 寒暄</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">10 题 · 15 分钟 · 最高 76 分</div>
+      <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mHistory">历史 (1)</button><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-modal="mStart">重考 (剩 2)</button></div>
+    </div>
+    <div class="zy-card">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-info">可参加</span><span class="zy-tag">EC 1.3</span></div>
+      <div style="font-size: 16px; font-weight: 600;">第 3 章 章测 · 见面与问候</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">10 题 · 15 分钟 · 完成 1.3.6 后开放</div>
+      <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-modal="mStart">开始考试</button></div>
+    </div>
+    <div class="zy-card" style="opacity: 0.6;">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag">🔒 锁定</span></div>
+      <div style="font-size: 16px; font-weight: 600;">第 4 章 章测 · 节日礼貌</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">完成第 4 章学习后开放</div>
+    </div>
+  </div>
+
+  <!-- 阶段考 -->
+  <div data-tab-pane="st" data-tab-group="ex" style="display:none;" class="zy-grid cols-md-2">
+    <div class="zy-card">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-info">可参加</span><span class="zy-tag">EC Stage 1</span></div>
+      <div style="font-size: 16px; font-weight: 600;">Stage 1 阶段考 · 入门</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">30 题 · 40 分钟 · 通过后解锁 Stage 2</div>
+      <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-modal="mStart">开始考试</button></div>
+    </div>
+    <div class="zy-card" style="opacity: 0.6;">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag">🔒 锁定</span></div>
+      <div style="font-size: 16px; font-weight: 600;">Stage 2 阶段考 · 进阶</div>
+    </div>
+  </div>
+
+  <!-- HSK 模考 -->
+  <div data-tab-pane="hsk" data-tab-group="ex" style="display:none;" class="zy-grid cols-md-2 cols-lg-3">
+    <div class="zy-card">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-brand">HSK 1</span></div>
+      <div style="font-size: 16px; font-weight: 600;">HSK 1 模考 · 听力 + 阅读</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">40 题 · 40 分钟 · 与真考一致</div>
+      <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-modal="mStart">开始模考</button></div>
+    </div>
+    <div class="zy-card">
+      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-brand">HSK 2</span></div>
+      <div style="font-size: 16px; font-weight: 600;">HSK 2 模考</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">60 题 · 55 分钟</div>
+      <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mLockHsk">查看要求</button></div>
+    </div>
+  </div>
+</div>
+
+<nav class="zy-bottom-tabs">
+  <div class="zy-bottom-tab" data-nav="/learn"><span class="ico">📚</span><span>学习</span></div>
+  <div class="zy-bottom-tab active" data-nav="/learn/me"><span class="ico">👤</span><span>我的</span></div>
+</nav>
+</div></div>
+
+<!-- 开始确认 -->
+<div class="zy-modal-mask" id="mStart">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">开始考试</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <ul style="margin:0; padding-left: 20px; line-height: 1.8;">
+        <li>本次考试 <strong>10 题 / 15 分钟</strong>，倒计时一旦开始不可暂停。</li>
+        <li>每题作答后可改答；提交后无法修改。</li>
+        <li>断网会自动保存草稿，恢复后可继续。</li>
+      </ul>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-nav="/learn/exams/atmp_xxx">开始（POST /exams/start）</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mHistory">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">考试历史</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <table class="zy-table">
+        <thead><tr><th>开始时间</th><th>得分</th><th>耗时</th><th>状态</th></tr></thead>
+        <tbody>
+          <tr><td>2025-11-20 10:31</td><td><strong>92</strong></td><td>11:24</td><td><span class="zy-tag zy-tag-success">通过</span></td></tr>
+          <tr><td>2025-11-15 09:02</td><td>74</td><td>14:08</td><td><span class="zy-tag zy-tag-warn">未过</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>关闭</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mLockHsk">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">HSK 2 模考</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">需先通过 HSK 1 模考，方可参加。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>知道了</button></div>
+  </div>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>

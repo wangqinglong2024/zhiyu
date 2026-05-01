@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-C-7 考试进行 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-C-7</span>应用端 · 考试进行（/learn/exams/atmp_xxx）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<!-- 极简考试顶栏 -->
+<header class="zy-topnav" style="justify-content: space-between;">
+  <div style="font-weight: 600;">📝 EC Stage 1 阶段考</div>
+  <div style="display:flex; gap: 16px; align-items: center;">
+    <span style="color: var(--zy-fg-mute); font-size: 13px;">已答 7 / 30</span>
+    <strong style="color: var(--zy-brand); font-size: 18px; font-variant-numeric: tabular-nums;" id="cdTime">38:24</strong>
+    <button class="zy-icon-btn" data-open-drawer="dGrid" title="题号" aria-label="题号">⊞</button>
+    <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mPause">⏸ 暂停</button>
+  </div>
+</header>
+
+<div class="zy-container" style="max-width: 760px;">
+
+  <div class="zy-progress" style="margin-bottom: 16px;"><i style="width: 23%;"></i></div>
+
+  <div class="zy-card" style="background: var(--zy-bg);">
+    <div style="display:flex; gap: 8px; margin-bottom: 12px;"><span class="zy-tag zy-tag-info">第 7 题 / 30</span><span class="zy-tag">listen_pick</span><span class="zy-tag">难度 2</span><span class="zy-tag" data-toast="本题已自动保存">💾 已自动保存</span></div>
+    <div class="qz-stem">
+      <button class="zy-btn zy-btn-ghost zy-btn-sm" data-toast="🔊 播放音频（剩余 2 次）" data-toast-type="info">🔊 播放（剩 2/3）</button>
+      <span style="margin-left: 8px;">请选择正确写法：</span>
+    </div>
+    <div class="qz-options">
+      <div class="qz-opt" onclick="exPick(this)"><span class="key">A</span>谢谢</div>
+      <div class="qz-opt selected" onclick="exPick(this)"><span class="key">B</span>射射</div>
+      <div class="qz-opt" onclick="exPick(this)"><span class="key">C</span>谢射</div>
+      <div class="qz-opt" onclick="exPick(this)"><span class="key">D</span>射谢</div>
+    </div>
+  </div>
+
+  <div style="display:flex; gap: 12px; justify-content: space-between; margin-top: 24px;">
+    <button class="zy-btn zy-btn-ghost" data-toast="← 上一题（已自动保存）">← 上一题</button>
+    <div class="zy-row">
+      <button class="zy-btn zy-btn-ghost" data-toast="🚩 已标记，可在题号面板筛选" data-toast-type="info">🚩 标记</button>
+      <button class="zy-btn zy-btn-primary" data-toast="第 8 / 30 题">下一题 →</button>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin-top: 24px;">
+    <button class="zy-btn zy-btn-danger" data-open-modal="mSubmitAll">📋 提交全部（已答 7 / 30）</button>
+    <button class="zy-btn zy-btn-ghost zy-btn-sm" style="margin-left: 8px;" data-open-modal="mResult">查看结果页（mock）</button>
+  </div>
+</div>
+
+</div></div>
+
+<!-- 题号 Drawer（桌面：右侧 sm；移动：底部 xl 100% width） -->
+<div class="zy-drawer-mask" id="dGrid">
+  <aside class="zy-drawer size-sm">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">题号导航 · 7 / 30</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-row" style="margin-bottom: 12px; font-size: 12px; color: var(--zy-fg-mute);">
+        <span><i style="display:inline-block; width:10px;height:10px;background:var(--zy-brand);border-radius:50%; vertical-align:middle;"></i> 当前</span>
+        <span><i style="display:inline-block; width:10px;height:10px;background:var(--zy-bg-elev);border:1px solid var(--zy-border);border-radius:50%; vertical-align:middle;"></i> 未答</span>
+        <span><i style="display:inline-block; width:10px;height:10px;background:var(--success);border-radius:50%; vertical-align:middle;"></i> 已答</span>
+        <span>🚩 已标记</span>
+      </div>
+      <div id="qGrid" style="display:grid; grid-template-columns: repeat(6, 1fr); gap: 8px;"></div>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>关闭</button><button class="zy-btn zy-btn-primary" data-close-modal data-open-modal="mSubmitAll">提交全部</button></div>
+  </aside>
+</div>
+
+<!-- 暂停 -->
+<div class="zy-modal-mask" id="mPause">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">考试无法暂停</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">倒计时持续运行。如需离开，点击「保存并退出」，进度保留 24 小时；或点击「继续」回到考试。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-danger" data-close-modal data-nav="/learn/exams">保存并退出</button><button class="zy-btn zy-btn-primary" data-close-modal>继续</button></div>
+  </div>
+</div>
+
+<!-- 提交确认 -->
+<div class="zy-modal-mask" id="mSubmitAll">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">提交全部？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      已答 <strong>7 / 30</strong>，<strong style="color:var(--zy-brand);">还有 23 题未答</strong>。<br>提交后立即结算成绩，未答题计 0 分，无法再修改。
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>继续答题</button><button class="zy-btn zy-btn-danger" data-close-modal data-open-modal="mResult">确认提交</button></div>
+  </div>
+</div>
+
+<!-- 结果页（含听/读/写/口分布） -->
+<div class="zy-modal-mask" id="mResult">
+  <div class="zy-modal size-lg">
+    <div class="zy-modal-head"><div class="zy-modal-title">📊 考试结果 · EC Stage 1</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div style="text-align:center; padding: 12px 0 20px;">
+        <div style="font-size: 56px; font-weight:700; color: var(--success);">85</div>
+        <div style="color: var(--zy-fg-mute);">通过线 80 · 用时 32:14 · 排名 Top 22%</div>
+        <div class="zy-tag zy-tag-success" style="margin-top: 8px;">✓ 已通过 · 解锁 Stage 2</div>
+      </div>
+      <div style="font-size: 14px; font-weight: 600; margin-bottom: 12px;">能力分布</div>
+      <div class="zy-stack">
+        <div><div style="display:flex; justify-content:space-between; font-size: 13px;"><span>👂 听力</span><span>92 / 100</span></div><div class="zy-progress"><i style="width:92%;"></i></div></div>
+        <div><div style="display:flex; justify-content:space-between; font-size: 13px;"><span>📖 阅读</span><span>88 / 100</span></div><div class="zy-progress"><i style="width:88%;"></i></div></div>
+        <div><div style="display:flex; justify-content:space-between; font-size: 13px;"><span>✍ 书写</span><span>76 / 100</span></div><div class="zy-progress"><i style="width:76%;"></i></div></div>
+        <div><div style="display:flex; justify-content:space-between; font-size: 13px;"><span>🗣 口语</span><span>78 / 100</span></div><div class="zy-progress"><i style="width:78%;"></i></div></div>
+      </div>
+      <div class="zy-divider"></div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute);">错题（5）已加入错题本，建议在「我的 → 错题本」集中练习。</div>
+    </div>
+    <div class="zy-modal-foot">
+      <button class="zy-btn zy-btn-ghost" data-close-modal data-nav="/learn/wrong">查看错题本</button>
+      <button class="zy-btn zy-btn-ghost" data-close-modal data-toast="详细解析（含每题答案）">查看解析</button>
+      <button class="zy-btn zy-btn-primary" data-close-modal data-nav="/learn">返回学习</button>
+    </div>
+  </div>
+</div>
+
+<script>
+function exPick(el){ el.parentNode.querySelectorAll('.qz-opt').forEach(function(o){o.classList.remove('selected');}); el.classList.add('selected'); }
+// 倒计时
+(function(){ var sec = 38*60+24; setInterval(function(){ if(sec<=0) return; sec--; var m=Math.floor(sec/60), s=sec%60; var t=document.getElementById('cdTime'); if(t) t.textContent = (m<10?'0':'')+m+':'+(s<10?'0':'')+s; if(sec<=300 && t) t.style.color='#dc2626'; },1000); })();
+// 题号 grid
+(function(){ var g = document.getElementById('qGrid'); if(!g) return; var html=''; for(var i=1;i<=30;i++){ var st = i<7?'background:rgba(34,197,94,0.18); border-color:var(--success);':(i===7?'background:var(--zy-brand); color:#fff; border-color:var(--zy-brand);':'background:var(--zy-bg);'); html += '<button class="zy-btn zy-btn-sm" style="height:38px; padding:0; '+st+'" data-close-modal data-toast="跳转到第 '+i+' 题">'+i+'</button>'; } g.innerHTML = html; })();
+</script>
+<script src="_assets/prototype.js"></script>
+</body></html>

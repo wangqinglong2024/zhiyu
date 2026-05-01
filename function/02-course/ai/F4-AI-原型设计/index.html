@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>F4 · 课程引擎原型 · 索引</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head>
+<body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">F4 · 索引</span>课程学习引擎 · 原型设计</div>
+  <div class="proto-bar-actions">
+    <a href="../F3-AI-页面交互规范/00-index.md" target="_blank">F3 规范</a>
+  </div>
+</div>
+
+<div style="max-width: 1180px; margin: 0 auto; padding: 32px 20px 80px;">
+  <h1 style="font-size: 28px; margin: 0 0 8px;">课程学习引擎 · 静态原型</h1>
+  <p style="color: var(--zy-fg-mute); margin: 0 0 8px;">
+    依据 <a href="../F3-AI-页面交互规范/00-index.md" target="_blank" style="color: var(--zy-brand);">F3 页面交互规范</a> 与
+    <a href="../F1-AI-数据模型规范/" target="_blank" style="color: var(--zy-brand);">F1 数据模型</a>、
+    <a href="../F2-AI-接口规范/" target="_blank" style="color: var(--zy-brand);">F2 接口</a> 生成。
+    视觉风格参考 <code>system/apps/web-app/src/pages/china/</code>（小红书红 + 毛玻璃 + 黑白）。
+  </p>
+  <p style="color: var(--zy-fg-mute); margin: 0 0 32px;">
+    每个原型页面顶部均带 <strong>桌面 / 移动</strong> 设备切换 与 <strong>浅色 / 暗色</strong> 主题切换；按钮交互（新建 / 删除 / 编辑 / 提交 等）均带演示弹窗，跳转链接以 toast 提示，便于走查 IA 与每一处操作反馈。
+  </p>
+
+  <h2 style="font-size: 18px; margin: 24px 0 12px;">应用端（学员侧）</h2>
+  <div class="zy-grid cols-md-2 cols-lg-3">
+    <a class="zy-card" href="P-C-1-学习地图.html"><div style="font-weight:600;">P-C-1 学习地图</div><div class="zy-helper" style="margin-top:6px;">/learn · 5 赛道 Tab + 卡片瀑布流 + 章展开</div></a>
+    <a class="zy-card" href="P-C-2-节学习页.html"><div style="font-weight:600;">P-C-2 节学习页</div><div class="zy-helper" style="margin-top:6px;">/learn/lessons/:code · KP 卡片轮播 + 听音 + 收藏</div></a>
+    <a class="zy-card" href="P-C-3-节末小测.html"><div style="font-weight:600;">P-C-3 节末小测</div><div class="zy-helper" style="margin-top:6px;">/learn/lessons/:code/quiz · 6 题（可改答）+ 即时反馈 + 结果</div></a>
+    <a class="zy-card" href="P-C-4-SRS复习.html"><div style="font-weight:600;">P-C-4 SRS 复习</div><div class="zy-helper" style="margin-top:6px;">/learn/srs · 今日队列 ≤ 50 + 升降盒</div></a>
+    <a class="zy-card" href="P-C-5-错题本.html"><div style="font-weight:600;">P-C-5 错题本</div><div class="zy-helper" style="margin-top:6px;">/learn/wrong · 90 天列表 + 筛选</div></a>
+    <a class="zy-card" href="P-C-6-考试中心.html"><div style="font-weight:600;">P-C-6 考试中心</div><div class="zy-helper" style="margin-top:6px;">/learn/exams · 章测 / 阶段考 / HSK 模考</div></a>
+    <a class="zy-card" href="P-C-7-考试进行.html"><div style="font-weight:600;">P-C-7 考试进行</div><div class="zy-helper" style="margin-top:6px;">/learn/exams/:id · 倒计时 + 题号 Drawer + 自动保存</div></a>
+    <a class="zy-card" href="P-C-8-个人统计.html"><div style="font-weight:600;">P-C-8 个人统计</div><div class="zy-helper" style="margin-top:6px;">/learn/me · 7 天折线 + 30 天热力图 + 最近考试</div></a>
+  </div>
+
+  <h2 style="font-size: 18px; margin: 32px 0 12px;">管理端</h2>
+  <div class="zy-grid cols-md-2 cols-lg-3">
+    <a class="zy-card" href="P-A-1-课程目录总览.html"><div style="font-weight:600;">P-A-1 课程目录总览</div><div class="zy-helper" style="margin-top:6px;">/admin/course · 5 赛道卡片 + 全局统计</div></a>
+    <a class="zy-card" href="P-A-2-赛道-阶段-章列表.html"><div style="font-weight:600;">P-A-2 赛道详情</div><div class="zy-helper" style="margin-top:6px;">/admin/course/tracks/:code · stage 折叠 + 章 CRUD + 调序</div></a>
+    <a class="zy-card" href="P-A-3-节编辑.html"><div style="font-weight:600;">P-A-3 节编辑</div><div class="zy-helper" style="margin-top:6px;">/admin/course/lessons/:id · 基本信息 + KP 12 项 + 试抽 6 题</div></a>
+    <a class="zy-card" href="P-A-4-KP列表.html"><div style="font-weight:600;">P-A-4 KP 列表</div><div class="zy-helper" style="margin-top:6px;">/admin/course/kps · 列表 + D-3 编辑 Drawer + 导入</div></a>
+    <a class="zy-card" href="P-A-5-题目列表.html"><div style="font-weight:600;">P-A-5 题目列表</div><div class="zy-helper" style="margin-top:6px;">/admin/course/questions · 列表 + D-4 编辑 Drawer + 重生</div></a>
+    <a class="zy-card" href="P-A-6-Prompt库.html"><div style="font-weight:600;">P-A-6 Prompt 库</div><div class="zy-helper" style="margin-top:6px;">/admin/course/prompts · 21 Prompt + 试跑 Modal</div></a>
+    <a class="zy-card" href="P-A-7-AI工作台.html"><div style="font-weight:600;">P-A-7 AI 工作台</div><div class="zy-helper" style="margin-top:6px;">/admin/course/ai-jobs · Job 列表 + 进度 + 详情 Drawer</div></a>
+    <a class="zy-card" href="P-A-8-审核队列.html"><div style="font-weight:600;">P-A-8 审核队列</div><div class="zy-helper" style="margin-top:6px;">/admin/course/review · 列表 + D-9 详情</div></a>
+    <a class="zy-card" href="P-A-9-举报处理.html"><div style="font-weight:600;">P-A-9 举报处理</div><div class="zy-helper" style="margin-top:6px;">/admin/course/reports · 列表 + dismiss / adopt</div></a>
+    <a class="zy-card" href="P-A-10-媒资库.html"><div style="font-weight:600;">P-A-10 媒资库</div><div class="zy-helper" style="margin-top:6px;">/admin/course/media · TTS / 图片 / 替换 / 软删</div></a>
+    <a class="zy-card" href="P-A-11-考试中心管理.html"><div style="font-weight:600;">P-A-11 考试模板</div><div class="zy-helper" style="margin-top:6px;">/admin/course/exams · 模板 CRUD + D-11 blueprint</div></a>
+    <a class="zy-card" href="P-A-12-全局搜索.html"><div style="font-weight:600;">P-A-12 全局搜索</div><div class="zy-helper" style="margin-top:6px;">/admin/course/search · KP / 题目 / 节 三段聚合 + 高亮</div></a>
+  </div>
+
+  <h2 style="font-size: 18px; margin: 32px 0 12px;">封板说明（F3-13 已确认 10 项）</h2>
+  <div class="zy-card" style="font-size: 13px; line-height: 1.8;">
+    Q1 学习地图：<strong>卡片瀑布流</strong>（参考 china 板块）&nbsp;·&nbsp;
+    Q2 小测：<strong>上一题可改答</strong>（C9 overwrite=true）&nbsp;·&nbsp;
+    Q3 diff 视图：<strong>不做</strong>&nbsp;·&nbsp;
+    Q4 个人统计：<strong>7 天折线 + 30 天热力图</strong>&nbsp;·&nbsp;
+    Q5 全局搜索：<strong>独立页 P-A-12</strong>（china 风格）&nbsp;·&nbsp;
+    Q6 移动端：<strong>底部 2 Tab（学习 / 我的）+ 节通过自动顺流</strong>&nbsp;·&nbsp;
+    Q7 LLM 日志：<strong>全部可见</strong>&nbsp;·&nbsp;
+    Q8 小测题数：<strong>固定 6 题</strong>&nbsp;·&nbsp;
+    Q9 考试主题：<strong>跟随系统</strong>&nbsp;·&nbsp;
+    Q10 移动端考试：<strong>题号 Drawer + 一致适配</strong>。
+  </div>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body>
+</html>

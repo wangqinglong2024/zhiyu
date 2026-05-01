@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-A-9 举报处理 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-A-9</span>管理端 · 举报处理（/admin/course/reports）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">⚙ 智语 · 管理后台</div>
+  <nav class="zy-topnav-links"><a class="zy-topnav-link active">课程</a><a class="zy-topnav-link">用户</a><a class="zy-topnav-link">系统</a></nav>
+  <div class="zy-topnav-actions"><input class="zy-input" placeholder="🔍 全局搜索…" data-nav="/admin/course/search" readonly style="cursor:pointer;" /><span class="zy-avatar">A</span></div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-bread"><span data-nav="/admin/course">课程</span><span class="sep">›</span><span class="cur">举报处理</span></div>
+
+  <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px;">
+    <div><h1 class="zy-page-title">🚨 举报处理</h1><p class="zy-page-sub">42 项待处理 · 学员反馈题目错误 / 翻译错误 / 音频问题</p></div>
+  </div>
+
+  <div class="zy-card" style="margin-bottom: 16px;">
+    <div class="zy-row">
+      <select class="zy-select" style="width: 140px;"><option>全部对象</option><option>题目</option><option>KP</option><option>例句</option><option>音频</option></select>
+      <select class="zy-select" style="width: 140px;"><option>全部类型</option><option>翻译错误</option><option>题目歧义</option><option>音频不清</option><option>答案错误</option><option>其它</option></select>
+      <select class="zy-select" style="width: 130px;"><option>全部状态</option><option selected>待处理</option><option>已采纳</option><option>已忽略</option></select>
+      <input class="zy-input" placeholder="🔍 内容关键字" style="flex:1;" />
+    </div>
+  </div>
+
+  <div class="zy-table-wrap">
+    <table class="zy-table">
+      <thead><tr><th>#</th><th>对象</th><th>类型</th><th>详情摘要</th><th>举报人</th><th>时间</th><th>状态</th><th style="width: 220px;">操作</th></tr></thead>
+      <tbody>
+        <tr><td>R-2031</td><td><code>q_8823</code> · cloze</td><td><span class="zy-tag zy-tag-warn">答案错误</span></td><td>"____ 好" 应为「您」也合理，但提示要求「早上」太窄</td><td>vi · u_8821</td><td>09:22</td><td><span class="zy-tag">待处理</span></td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
+        <tr><td>R-2030</td><td><code>kp-laoban</code> · 老板</td><td><span class="zy-tag">翻译错误</span></td><td>vi 翻译 "ông chủ" 在女性语境下不合适</td><td>vi · u_7712</td><td>08:54</td><td><span class="zy-tag">待处理</span></td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
+        <tr><td>R-2029</td><td><code>kp-zaoshang</code> · 音频</td><td><span class="zy-tag zy-tag-info">音频不清</span></td><td>开头有杂音，疑似录制环境</td><td>th · u_8801</td><td>08:32</td><td><span class="zy-tag">待处理</span></td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
+        <tr><td>R-2028</td><td><code>q_8801</code></td><td><span class="zy-tag">题目歧义</span></td><td>"中国" 也可作答</td><td>en · u_2231</td><td>08:11</td><td><span class="zy-tag zy-tag-success">已采纳</span></td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+</div></div>
+
+<!-- 详情 Drawer -->
+<div class="zy-drawer-mask" id="dRDetail">
+  <aside class="zy-drawer size-md">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">举报详情 · R-2031</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-card" style="background: var(--zy-bg);">
+        <div class="zy-row" style="font-size: 12px; color: var(--zy-fg-mute);">
+          <span>对象：题目 q_8823</span><span>·</span><span>类型：答案错误</span><span>·</span><span>时间：2025-11-23 09:22</span>
+        </div>
+        <div class="zy-divider"></div>
+        <div><strong>举报人</strong>：vi 学员 u_8821（HSK 1 · L2 第 14 课）</div>
+        <div><strong>详情</strong>：</div>
+        <div style="padding: 8px 12px; background: var(--zy-bg-elev); border-left: 3px solid var(--zy-brand); border-radius: 6px; margin: 8px 0;">
+          这道题 "____ 好，老板！" 我填了 "您"，被判错。但中文语境下「您好」也是常见问候语，建议接受。
+        </div>
+        <div><strong>题目当前内容</strong>：</div>
+        <div class="qz-stem" style="margin-top: 6px;">____ 好，老板！</div>
+        <div class="zy-row" style="margin-top: 6px;"><span class="zy-tag">答案：早上</span><span class="zy-tag">难度 2</span><span class="zy-tag">使用率 81%</span></div>
+      </div>
+
+      <div class="zy-divider"></div>
+      <h3 style="margin: 0 0 8px; font-size: 14px;">处理意见</h3>
+      <div class="zy-field"><label class="zy-label">备注</label><textarea class="zy-textarea" placeholder="例：增加「您」为可接受答案"></textarea></div>
+      <div class="zy-field"><label class="zy-label">通知举报人</label><select class="zy-select"><option selected>采纳后通知（站内信）</option><option>不通知</option></select></div>
+    </div>
+    <div class="zy-drawer-foot">
+      <button class="zy-btn zy-btn-ghost" data-close-modal>关闭</button>
+      <button class="zy-btn zy-btn-danger" data-close-modal data-open-modal="mDismiss">忽略</button>
+      <button class="zy-btn zy-btn-primary" data-close-modal data-open-modal="mAdopt">采纳并送审</button>
+    </div>
+  </aside>
+</div>
+
+<div class="zy-modal-mask" id="mAdopt">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">采纳举报</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">将创建一条编辑任务并进入 P-A-8 审核队列；通过后题目更新，举报人收到站内信通知。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已转入审核队列，并通知举报人" data-toast-type="success">确认</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mDismiss">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">忽略举报</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body"><div class="zy-field"><label class="zy-label">理由（举报人可见）</label><textarea class="zy-textarea" placeholder="例：题目设计为单一答案，「早上」是该课考点"></textarea></div></div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已忽略并通知" data-toast-type="info">忽略</button></div>
+  </div>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>

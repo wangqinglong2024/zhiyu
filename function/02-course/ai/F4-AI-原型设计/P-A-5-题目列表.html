@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-A-5 题目列表 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-A-5</span>管理端 · 题目列表（/admin/course/questions）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">⚙ 智语 · 管理后台</div>
+  <nav class="zy-topnav-links"><a class="zy-topnav-link active">课程</a><a class="zy-topnav-link">用户</a><a class="zy-topnav-link">系统</a></nav>
+  <div class="zy-topnav-actions"><input class="zy-input" placeholder="🔍 全局搜索…" data-nav="/admin/course/search" readonly style="cursor:pointer;" /><span class="zy-avatar">A</span></div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-bread"><span data-nav="/admin/course">课程</span><span class="sep">›</span><span class="cur">题目</span></div>
+
+  <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px;">
+    <div><h1 class="zy-page-title">📝 题目列表</h1><p class="zy-page-sub">14,236 题 · 9 种题型 · payload_hash 自动去重</p></div>
+    <div class="zy-row">
+      <button class="zy-btn zy-btn-ghost" data-open-modal="mAIRegen">⚡ AI 批量重生</button>
+      <button class="zy-btn zy-btn-primary" data-open-drawer="dQEdit">➕ 新建题</button>
+    </div>
+  </div>
+
+  <div class="zy-card" style="margin-bottom: 16px;">
+    <div class="zy-row">
+      <input class="zy-input" placeholder="🔍 搜索题面 / KP 编码" style="flex:1; min-width: 220px;" />
+      <select class="zy-select" style="width: 140px;"><option>全部题型</option><option>listen_pick</option><option>tone_pick</option><option>cloze</option><option>match</option><option>order</option><option>trans_zh_en</option><option>read_choice</option><option>speak_repeat</option><option>write_dict</option></select>
+      <select class="zy-select" style="width: 140px;"><option>全部赛道</option><option>EC</option><option>FC</option></select>
+      <select class="zy-select" style="width: 130px;"><option>全部状态</option><option>已审</option><option>待审</option><option>草稿</option></select>
+      <select class="zy-select" style="width: 130px;"><option>全部难度</option><option>1</option><option>2</option><option>3</option></select>
+      <button class="zy-btn zy-btn-ghost" data-toast="筛选已应用">应用</button>
+    </div>
+  </div>
+
+  <div class="zy-table-wrap">
+    <table class="zy-table">
+      <thead><tr><th style="width:40px;"><input type="checkbox" class="zy-check" /></th><th>ID</th><th>题型</th><th>题面摘要</th><th>所属 KP</th><th>难度</th><th>状态</th><th>来源</th><th>使用率</th><th style="width:160px;">操作</th></tr></thead>
+      <tbody>
+        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8821</code></td><td><span class="zy-tag zy-tag-info">listen_pick</span></td><td>请选择听到的词：早上 / 晚上 / 中午 / 下午</td><td>kp-zaoshang</td><td>1</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>AI v3</td><td>89%</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8822</code></td><td><span class="zy-tag">tone_pick</span></td><td>「早」的声调？1/2/3/4 声</td><td>kp-zaoshang</td><td>1</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>AI v3</td><td>72%</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8823</code></td><td><span class="zy-tag">cloze</span></td><td>____ 好，老板！（早上）</td><td>kp-zaoshanghao</td><td>2</td><td><span class="zy-tag zy-tag-warn">待审</span></td><td>AI v3</td><td>—</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8824</code></td><td><span class="zy-tag">match</span></td><td>中文 ↔ 英文 配对（早上 / 谢谢 / 再见 / 晚上）</td><td>kp-share</td><td>1</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>人工</td><td>91%</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8825</code></td><td><span class="zy-tag">order</span></td><td>排序：早 / 上 / 好 → 早上好</td><td>kp-zaoshanghao</td><td>1</td><td><span class="zy-tag">草稿</span></td><td>AI v2</td><td>—</td>
+          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="zy-pagination">
+    <button class="zy-page-btn">«</button><button class="zy-page-btn zy-page-current">1</button><button class="zy-page-btn">2</button><button class="zy-page-btn">3</button><button class="zy-page-btn">…</button><button class="zy-page-btn">712</button><button class="zy-page-btn">»</button>
+    <span style="margin-left: 12px; font-size: 13px; color: var(--zy-fg-mute);">14,236 条 · 20 / 页</span>
+  </div>
+</div>
+
+</div></div>
+
+<!-- D-4 题目编辑（720） -->
+<div class="zy-drawer-mask" id="dQEdit">
+  <aside class="zy-drawer">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">编辑题目 · q_8821</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-grid cols-md-2">
+        <div class="zy-field"><label class="zy-label zy-required">题型</label><select class="zy-select"><option selected>listen_pick</option><option>tone_pick</option><option>cloze</option><option>match</option></select></div>
+        <div class="zy-field"><label class="zy-label zy-required">所属 KP</label><input class="zy-input" value="kp-zaoshang" /></div>
+        <div class="zy-field"><label class="zy-label">难度</label><select class="zy-select"><option selected>1 (易)</option><option>2</option><option>3</option></select></div>
+        <div class="zy-field"><label class="zy-label">来源</label><select class="zy-select"><option>AI v3</option><option>人工</option><option>导入</option></select></div>
+      </div>
+      <div class="zy-field"><label class="zy-label zy-required">题面（zh）</label><input class="zy-input" value="请选择你听到的词语：" /></div>
+
+      <h3 style="margin: 16px 0 8px; font-size: 14px;">payload (JSON 配置)</h3>
+      <div class="zy-field"><label class="zy-label">音频</label><div class="zy-row"><input class="zy-input" value="cdn://media/zaoshang.mp3" /><button class="zy-btn zy-btn-ghost" data-toast="🔊 播放">🔊</button></div></div>
+      <div class="zy-field"><label class="zy-label zy-required">选项</label>
+        <div class="zy-stack">
+          <div class="zy-row"><span style="width: 24px;">A</span><input class="zy-input" value="晚上 wǎn shang" /><label class="zy-row"><input type="radio" name="ans" />正确</label></div>
+          <div class="zy-row"><span style="width: 24px;">B</span><input class="zy-input" value="早上 zǎo shang" /><label class="zy-row"><input type="radio" name="ans" checked />正确</label></div>
+          <div class="zy-row"><span style="width: 24px;">C</span><input class="zy-input" value="中午 zhōng wǔ" /><label class="zy-row"><input type="radio" name="ans" />正确</label></div>
+          <div class="zy-row"><span style="width: 24px;">D</span><input class="zy-input" value="下午 xià wǔ" /><label class="zy-row"><input type="radio" name="ans" />正确</label></div>
+          <button class="zy-btn zy-btn-ghost zy-btn-sm" data-toast="增加选项">➕ 增加选项</button>
+        </div>
+      </div>
+      <div class="zy-field"><label class="zy-label">解析（feedback）</label><textarea class="zy-textarea">「早上」zǎo shang 表示早晨（morning），常和「好」搭配作问候语。</textarea></div>
+
+      <div class="zy-divider"></div>
+      <div class="zy-row" style="font-size: 12px; color: var(--zy-fg-mute);">
+        <span>payload_hash: <code>a3f9...c8e2</code></span>
+        <span>使用率：89% · 错误率：8%</span>
+        <span>最近更新：2025-11-22</span>
+      </div>
+      <div class="zy-row" style="margin-top: 8px;">
+        <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mPreview">预览效果</button>
+        <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mRegenOne">⚡ AI 重生本题</button>
+      </div>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="题目已保存" data-toast-type="success">保存</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已保存并送审" data-toast-type="success">保存并送审</button></div>
+  </aside>
+</div>
+
+<!-- 预览 -->
+<div class="zy-modal-mask" id="mPreview">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">题目预览 · listen_pick</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="qz-stem"><button class="zy-btn zy-btn-ghost zy-btn-sm" data-toast="🔊 播放">🔊 播放音频</button> 请选择你听到的词语：</div>
+      <div class="qz-options">
+        <div class="qz-opt"><span class="key">A</span>晚上 wǎn shang</div>
+        <div class="qz-opt correct"><span class="key">B</span>早上 zǎo shang</div>
+        <div class="qz-opt"><span class="key">C</span>中午 zhōng wǔ</div>
+        <div class="qz-opt"><span class="key">D</span>下午 xià wǔ</div>
+      </div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>关闭</button></div>
+  </div>
+</div>
+
+<!-- AI 批量重生 -->
+<div class="zy-modal-mask" id="mAIRegen">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">⚡ AI 批量重生题目</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-field"><label class="zy-label">范围</label><select class="zy-select"><option>已勾选 0 项</option><option>当前筛选结果（约 1,200 题）</option></select></div>
+      <div class="zy-field"><label class="zy-label">Prompt 版本</label><select class="zy-select"><option>v3 (latest)</option></select></div>
+      <div class="zy-field"><label class="zy-label">提交后</label><select class="zy-select"><option selected>覆盖原题（旧版本归档）</option><option>新版本待审</option></select></div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="重生 Job 已提交：job_q_regen_8843" data-toast-type="success">提交</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mRegenOne">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">AI 重生本题</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">将基于本题 KP 重新生成，旧版本保留为 v(n-1)。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已生成新版本，待审核" data-toast-type="success">生成</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mDel">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">删除题目？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">软删除，可在 7 天内恢复。学员历史答题记录保留。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已删除" data-toast-type="info">删除</button></div>
+  </div>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>

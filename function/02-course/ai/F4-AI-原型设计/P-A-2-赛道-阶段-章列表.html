@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-A-2 赛道-阶段-章 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-A-2</span>管理端 · 赛道详情（/admin/course/tracks/ec）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">⚙ 智语 · 管理后台</div>
+  <nav class="zy-topnav-links"><a class="zy-topnav-link active">课程</a><a class="zy-topnav-link">用户</a><a class="zy-topnav-link">系统</a></nav>
+  <div class="zy-topnav-actions">
+    <input class="zy-input" placeholder="🔍 全局搜索…" data-nav="/admin/course/search" readonly style="cursor:pointer;" />
+    <span class="zy-avatar">A</span>
+  </div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-bread"><span data-nav="/admin/course">课程目录</span><span class="sep">›</span><span class="cur">🛒 EC · 电商赛道</span></div>
+
+  <div class="zy-row" style="justify-content: space-between; margin-bottom: 16px;">
+    <div><h1 class="zy-page-title">🛒 EC · 电商赛道</h1><p class="zy-page-sub">3 阶段 / 18 章 / 108 节 · 1,302 KP · 已发布</p></div>
+    <div class="zy-row">
+      <button class="zy-btn zy-btn-ghost" data-open-modal="mTrackEdit">⚙ 编辑赛道</button>
+      <button class="zy-btn zy-btn-primary" data-open-drawer="dNewStage">➕ 新建阶段</button>
+    </div>
+  </div>
+
+  <!-- Stage 1 -->
+  <div class="zy-card" style="margin-bottom: 16px;">
+    <div class="zy-row" style="justify-content: space-between;">
+      <div data-collapse="st1Body" style="cursor:pointer; display:flex; align-items:center; gap:8px;"><span class="caret">▼</span><strong>Stage 1 · 入门</strong><span class="zy-tag zy-tag-success">已发布</span><span class="zy-tag">6 章</span></div>
+      <div class="zy-row">
+        <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mStageEdit">编辑</button>
+        <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mReorder">调整顺序</button>
+        <button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dNewChap">➕ 新建章</button>
+      </div>
+    </div>
+
+    <div id="st1Body" style="margin-top: 12px;">
+      <div class="zy-row" style="margin-bottom: 12px;">
+        <input class="zy-input" placeholder="🔍 搜索章名" style="flex: 1; max-width: 300px;" />
+        <select class="zy-select" style="width: 140px;"><option>全部状态</option><option>已发布</option><option>草稿</option></select>
+        <div style="margin-left: auto;" class="zy-row">
+          <button class="zy-btn zy-btn-sm zy-btn-ghost" data-toast="已勾选 0 项">批量发布</button>
+          <button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mBulkDel">批量删除</button>
+        </div>
+      </div>
+
+      <div class="zy-table-wrap">
+        <table class="zy-table">
+          <thead><tr><th style="width: 40px;"><input type="checkbox" class="zy-check" /></th><th style="width: 60px;">序</th><th>编码</th><th>章名（zh）</th><th>章名（en）</th><th>节数</th><th>状态</th><th>更新时间</th><th style="width: 200px;">操作</th></tr></thead>
+          <tbody>
+            <tr><td><input type="checkbox" class="zy-check"/></td><td>1</td><td><code>ec-1-1</code></td><td>自我介绍</td><td>Self Intro</td><td>6 / 6</td><td><span class="zy-tag zy-tag-success">已发布</span></td><td>2025-11-12</td>
+              <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-nav="/admin/course/chapters/ec-1-1">详情</button>
+                  <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mChapEdit">编辑</button>
+                  <button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDelChap">删除</button></td></tr>
+            <tr><td><input type="checkbox" class="zy-check"/></td><td>2</td><td><code>ec-1-2</code></td><td>寒暄</td><td>Greetings</td><td>6 / 6</td><td><span class="zy-tag zy-tag-success">已发布</span></td><td>2025-11-13</td>
+              <td><button class="zy-btn zy-btn-sm zy-btn-ghost">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mChapEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDelChap">删除</button></td></tr>
+            <tr><td><input type="checkbox" class="zy-check"/></td><td>3</td><td><code>ec-1-3</code></td><td>见面与问候</td><td>Meet &amp; Greet</td><td>4 / 6</td><td><span class="zy-tag zy-tag-warn">部分发布</span></td><td>2025-11-22</td>
+              <td><button class="zy-btn zy-btn-sm zy-btn-ghost">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mChapEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDelChap">删除</button></td></tr>
+            <tr><td><input type="checkbox" class="zy-check"/></td><td>4</td><td><code>ec-1-4</code></td><td>节日礼貌</td><td>Holiday Etiquette</td><td>0 / 6</td><td><span class="zy-tag">草稿</span></td><td>2025-11-24</td>
+              <td><button class="zy-btn zy-btn-sm zy-btn-ghost">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mChapEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDelChap">删除</button></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stage 2 -->
+  <div class="zy-card" style="margin-bottom: 16px;">
+    <div class="zy-row" style="justify-content: space-between;">
+      <div data-collapse="st2Body" style="cursor:pointer; display:flex; align-items:center; gap:8px;"><span class="caret">▶</span><strong>Stage 2 · 进阶</strong><span class="zy-tag zy-tag-warn">部分发布</span><span class="zy-tag">6 章</span></div>
+      <div class="zy-row">
+        <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mStageEdit">编辑</button>
+        <button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dNewChap">➕ 新建章</button>
+      </div>
+    </div>
+    <div id="st2Body" style="display:none; margin-top: 12px; color: var(--zy-fg-mute); font-size: 13px;">点击展开查看 6 章 ...</div>
+  </div>
+
+  <!-- Stage 3 -->
+  <div class="zy-card">
+    <div class="zy-row" style="justify-content: space-between;">
+      <div data-collapse="st3Body" style="cursor:pointer; display:flex; align-items:center; gap:8px;"><span class="caret">▶</span><strong>Stage 3 · 精通</strong><span class="zy-tag">草稿</span><span class="zy-tag">6 章</span></div>
+      <button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dNewChap">➕ 新建章</button>
+    </div>
+    <div id="st3Body" style="display:none; margin-top: 12px; color: var(--zy-fg-mute); font-size: 13px;">点击展开 ...</div>
+  </div>
+</div>
+
+</div></div>
+
+<!-- 编辑赛道 -->
+<div class="zy-modal-mask" id="mTrackEdit">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">编辑赛道 · ec</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-field"><label class="zy-label zy-required">名称（zh）</label><input class="zy-input" value="电商赛道" /></div>
+      <div class="zy-field"><label class="zy-label">名称（en）</label><input class="zy-input" value="E-commerce" /></div>
+      <div class="zy-field"><label class="zy-label">封面图</label><input class="zy-input" value="cdn://covers/ec.jpg" readonly /></div>
+      <div class="zy-field"><label class="zy-label">状态</label><select class="zy-select"><option selected>已发布</option><option>下架</option></select></div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="赛道已更新" data-toast-type="success">保存</button></div>
+  </div>
+</div>
+
+<!-- 编辑阶段 -->
+<div class="zy-modal-mask" id="mStageEdit">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">编辑阶段</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-field"><label class="zy-label zy-required">阶段名（zh）</label><input class="zy-input" value="入门" /></div>
+      <div class="zy-field"><label class="zy-label">阶段名（en）</label><input class="zy-input" value="Beginner" /></div>
+      <div class="zy-field"><label class="zy-label">解锁条件</label><select class="zy-select"><option>无（首阶段）</option><option>通过上一阶段考</option></select></div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已保存" data-toast-type="success">保存</button></div>
+  </div>
+</div>
+
+<!-- 新建章 -->
+<div class="zy-drawer-mask" id="dNewChap">
+  <aside class="zy-drawer size-sm">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">新建章</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-field"><label class="zy-label zy-required">章编码</label><input class="zy-input" placeholder="ec-1-7" /></div>
+      <div class="zy-field"><label class="zy-label zy-required">章名（zh）</label><input class="zy-input" placeholder="如：电话沟通" /></div>
+      <div class="zy-field"><label class="zy-label">章名（en）</label><input class="zy-input" /></div>
+      <div class="zy-field"><label class="zy-label">序号</label><input class="zy-input" type="number" value="7" /></div>
+      <div class="zy-field"><label class="zy-label zy-required">默认节数</label><select class="zy-select"><option>4</option><option selected>6</option><option>8</option></select></div>
+      <div class="zy-helper">创建后默认草稿，需手动发布。</div>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="章已创建" data-toast-type="success">创建</button></div>
+  </aside>
+</div>
+
+<!-- 编辑章 -->
+<div class="zy-modal-mask" id="mChapEdit">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">编辑章 · ec-1-3</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-field"><label class="zy-label zy-required">章名（zh）</label><input class="zy-input" value="见面与问候" /></div>
+      <div class="zy-field"><label class="zy-label">章名（en）</label><input class="zy-input" value="Meet &amp; Greet" /></div>
+      <div class="zy-field"><label class="zy-label">状态</label><select class="zy-select"><option>已发布</option><option selected>部分发布</option><option>草稿</option></select></div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已保存" data-toast-type="success">保存</button></div>
+  </div>
+</div>
+
+<!-- D-1 删除章 -->
+<div class="zy-modal-mask" id="mDelChap">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">删除章？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">将删除该章及其下属 <strong>6 节、72 KP、约 200 题目</strong>。该操作可在 7 天内通过运维恢复。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="章已软删除（recycle 7 天）" data-toast-type="info">删除</button></div>
+  </div>
+</div>
+
+<!-- 批量删 -->
+<div class="zy-modal-mask" id="mBulkDel">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">批量删除？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">未勾选任何项。请先在表格首列勾选要删除的章。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>知道了</button></div>
+  </div>
+</div>
+
+<!-- D-6 调序 -->
+<div class="zy-modal-mask" id="mReorder">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">调整章顺序 · Stage 1</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-stack">
+        <div class="zy-row" style="padding: 10px 12px; border: 1px solid var(--zy-border); border-radius: 8px;">⋮⋮ 1. ec-1-1 自我介绍 <span class="zy-row-end" style="margin-left:auto;"><button class="zy-btn zy-btn-sm zy-btn-ghost">↑</button><button class="zy-btn zy-btn-sm zy-btn-ghost">↓</button></span></div>
+        <div class="zy-row" style="padding: 10px 12px; border: 1px solid var(--zy-border); border-radius: 8px;">⋮⋮ 2. ec-1-2 寒暄 <span class="zy-row-end" style="margin-left:auto;"><button class="zy-btn zy-btn-sm zy-btn-ghost">↑</button><button class="zy-btn zy-btn-sm zy-btn-ghost">↓</button></span></div>
+        <div class="zy-row" style="padding: 10px 12px; border: 1px solid var(--zy-border); border-radius: 8px;">⋮⋮ 3. ec-1-3 见面与问候 <span class="zy-row-end" style="margin-left:auto;"><button class="zy-btn zy-btn-sm zy-btn-ghost">↑</button><button class="zy-btn zy-btn-sm zy-btn-ghost">↓</button></span></div>
+        <div class="zy-row" style="padding: 10px 12px; border: 1px solid var(--zy-border); border-radius: 8px;">⋮⋮ 4. ec-1-4 节日礼貌 <span class="zy-row-end" style="margin-left:auto;"><button class="zy-btn zy-btn-sm zy-btn-ghost">↑</button><button class="zy-btn zy-btn-sm zy-btn-ghost">↓</button></span></div>
+      </div>
+      <div class="zy-helper" style="margin-top: 10px;">支持拖拽 ⋮⋮（mock）。</div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="顺序已保存" data-toast-type="success">保存</button></div>
+  </div>
+</div>
+
+<!-- 新建阶段 -->
+<div class="zy-drawer-mask" id="dNewStage">
+  <aside class="zy-drawer size-sm">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">新建阶段</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-field"><label class="zy-label zy-required">阶段编号</label><input class="zy-input" type="number" value="4" /></div>
+      <div class="zy-field"><label class="zy-label zy-required">阶段名（zh）</label><input class="zy-input" placeholder="如：高级" /></div>
+      <div class="zy-field"><label class="zy-label">阶段名（en）</label><input class="zy-input" /></div>
+      <div class="zy-field"><label class="zy-label">解锁条件</label><select class="zy-select"><option selected>通过 Stage 3 阶段考</option><option>无</option></select></div>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="阶段已创建" data-toast-type="success">创建</button></div>
+  </aside>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>

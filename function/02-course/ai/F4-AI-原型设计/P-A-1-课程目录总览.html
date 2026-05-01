@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-A-1 课程目录总览 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-A-1</span>管理端 · 课程目录总览（/admin/course）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">⚙ 智语 · 管理后台</div>
+  <nav class="zy-topnav-links">
+    <a class="zy-topnav-link active">课程</a>
+    <a class="zy-topnav-link" data-toast="进入用户管理">用户</a>
+    <a class="zy-topnav-link" data-toast="进入系统设置">系统</a>
+  </nav>
+  <div class="zy-topnav-actions">
+    <input class="zy-input" placeholder="🔍 全局搜索 KP / 题 / 节…" data-nav="/admin/course/search" readonly style="cursor: pointer;" />
+    <button class="zy-icon-btn" data-toast="无新通知" title="通知">🔔</button>
+    <span class="zy-avatar">A</span>
+  </div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-row" style="justify-content: space-between; margin-bottom: 4px;">
+    <div><h1 class="zy-page-title">课程目录</h1><p class="zy-page-sub">5 个赛道 / 6 阶段 · 单 admin 角色，可见全部内容</p></div>
+    <div class="zy-row">
+      <button class="zy-btn zy-btn-ghost" data-open-modal="mImport">📥 批量导入</button>
+      <button class="zy-btn zy-btn-primary" data-open-drawer="dNewTrack">➕ 新建赛道</button>
+    </div>
+  </div>
+
+  <!-- 全局统计 -->
+  <div class="zy-grid cols-md-2 cols-lg-3 cols-xl-4" style="margin: 16px 0 24px;">
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">KP 总数</div><div style="font-size: 24px; font-weight: 700;">3,872</div><div style="font-size: 12px; color: var(--success);">+126 本周</div></div>
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">题目总数</div><div style="font-size: 24px; font-weight: 700;">14,236</div><div style="font-size: 12px; color: var(--success);">+438 本周</div></div>
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">已发布节</div><div style="font-size: 24px; font-weight: 700;">312 <span style="font-size: 14px; color: var(--zy-fg-mute);">/ 480</span></div><div style="font-size: 12px;">65%</div></div>
+    <div class="zy-card"><div style="color: var(--zy-fg-mute); font-size: 12px;">待审核</div><div style="font-size: 24px; font-weight: 700; color: var(--zy-brand);">68</div><div><button class="zy-btn zy-btn-sm zy-btn-primary" style="margin-top: 4px;" data-nav="/admin/course/review">去审核</button></div></div>
+  </div>
+
+  <!-- 5 赛道卡 -->
+  <div class="zy-grid cols-md-2 cols-lg-3">
+    <a class="zy-chap-card" data-nav="/admin/course/tracks/share"><span class="emoji">🌱</span><h3>share · 基础共享</h3><div class="sub">Stage 0 · 6 章 · 36 节</div><div class="meta"><span class="zy-tag zy-tag-success">已发布</span><span class="zy-tag">432 KP</span></div></a>
+    <a class="zy-chap-card" data-nav="/admin/course/tracks/ec"><span class="emoji">🛒</span><h3>ec · 电商赛道</h3><div class="sub">Stage 1-3 · 18 章 · 108 节</div><div class="meta"><span class="zy-tag zy-tag-success">已发布</span><span class="zy-tag">1,302 KP</span></div></a>
+    <a class="zy-chap-card" data-nav="/admin/course/tracks/fc"><span class="emoji">🏭</span><h3>fc · 工厂赛道</h3><div class="sub">Stage 1-3 · 18 章 · 108 节</div><div class="meta"><span class="zy-tag zy-tag-warn">部分发布</span><span class="zy-tag">986 KP</span></div></a>
+    <a class="zy-chap-card" data-nav="/admin/course/tracks/hsk"><span class="emoji">📘</span><h3>hsk · HSK 1-3</h3><div class="sub">3 阶段 · 24 章 · 144 节</div><div class="meta"><span class="zy-tag zy-tag-success">已发布</span><span class="zy-tag">820 KP</span></div></a>
+    <a class="zy-chap-card" data-nav="/admin/course/tracks/dl"><span class="emoji">☕</span><h3>dl · 日常生活</h3><div class="sub">Stage 1-2 · 12 章 · 72 节</div><div class="meta"><span class="zy-tag zy-tag-info">草稿</span><span class="zy-tag">332 KP</span></div></a>
+  </div>
+
+  <!-- 快捷入口 -->
+  <h2 style="font-size: 16px; margin: 32px 0 12px;">快捷入口</h2>
+  <div class="zy-grid cols-md-2 cols-lg-3 cols-xl-4">
+    <a class="zy-card" data-nav="/admin/course/kps"><strong>📚 KP 列表</strong><div class="zy-helper" style="margin-top: 4px;">3,872 个 · 含 i18n / 媒资</div></a>
+    <a class="zy-card" data-nav="/admin/course/questions"><strong>📝 题目列表</strong><div class="zy-helper" style="margin-top: 4px;">14,236 题 · 9 种题型</div></a>
+    <a class="zy-card" data-nav="/admin/course/prompts"><strong>🤖 Prompt 库</strong><div class="zy-helper" style="margin-top: 4px;">21 模板 · 含版本</div></a>
+    <a class="zy-card" data-nav="/admin/course/ai-jobs"><strong>⚡ AI 工作台</strong><div class="zy-helper" style="margin-top: 4px;">3 运行中 · 12 完成</div></a>
+    <a class="zy-card" data-nav="/admin/course/review"><strong>✅ 审核队列</strong><div class="zy-helper" style="margin-top: 4px; color: var(--zy-brand);">68 待处理</div></a>
+    <a class="zy-card" data-nav="/admin/course/reports"><strong>⚠ 学员举报</strong><div class="zy-helper" style="margin-top: 4px;">7 待处理</div></a>
+    <a class="zy-card" data-nav="/admin/course/media"><strong>🎵 媒资库</strong><div class="zy-helper" style="margin-top: 4px;">8,432 文件</div></a>
+    <a class="zy-card" data-nav="/admin/course/exams"><strong>🎯 考试模板</strong><div class="zy-helper" style="margin-top: 4px;">42 个</div></a>
+  </div>
+</div>
+
+</div></div>
+
+<!-- D-15 导入 -->
+<div class="zy-modal-mask" id="mImport">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">批量导入 KP / 题目</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-field"><label class="zy-label zy-required">导入类型</label><select class="zy-select"><option>KP（json）</option><option>题目（json）</option><option>媒资批量上传（zip）</option></select></div>
+      <div class="zy-field"><label class="zy-label zy-required">文件</label><div style="border: 2px dashed var(--zy-border); border-radius: 12px; padding: 32px; text-align: center; color: var(--zy-fg-mute);">📁 点击或拖入文件（≤ 50MB）</div></div>
+      <div class="zy-field"><label class="zy-label">冲突策略</label><select class="zy-select"><option>跳过已存在</option><option>覆盖更新</option><option>建立新版本</option></select></div>
+      <div class="zy-helper">导入后将进入 AI 工作台 Job，可在 P-A-7 查看进度。</div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="导入任务已提交，job_id=imp_8821" data-toast-type="success">开始导入</button></div>
+  </div>
+</div>
+
+<!-- 新建赛道 -->
+<div class="zy-drawer-mask" id="dNewTrack">
+  <aside class="zy-drawer size-sm">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">新建赛道</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-field"><label class="zy-label zy-required">赛道编码</label><input class="zy-input" placeholder="如 logistics" /></div>
+      <div class="zy-field"><label class="zy-label zy-required">赛道名（zh）</label><input class="zy-input" placeholder="物流" /></div>
+      <div class="zy-field"><label class="zy-label">赛道名（en）</label><input class="zy-input" placeholder="Logistics" /></div>
+      <div class="zy-field"><label class="zy-label">描述</label><textarea class="zy-textarea" placeholder="一句话介绍…"></textarea></div>
+      <div class="zy-field"><label class="zy-label zy-required">阶段数</label><select class="zy-select"><option>1</option><option selected>2</option><option>3</option></select></div>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="赛道已创建（POST /admin/tracks）" data-toast-type="success">创建</button></div>
+  </aside>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>

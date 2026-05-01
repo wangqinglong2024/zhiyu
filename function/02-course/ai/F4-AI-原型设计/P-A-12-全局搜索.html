@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-A-12 全局搜索 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-A-12</span>管理端 · 全局搜索（/admin/course/search）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">⚙ 智语 · 管理后台</div>
+  <nav class="zy-topnav-links"><a class="zy-topnav-link active">课程</a><a class="zy-topnav-link">用户</a><a class="zy-topnav-link">系统</a></nav>
+  <div class="zy-topnav-actions"><span class="zy-avatar">A</span></div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-bread"><span data-nav="/admin/course">课程</span><span class="sep">›</span><span class="cur">全局搜索</span></div>
+
+  <!-- 搜索条 -->
+  <div class="zy-card" style="padding: 18px; margin-bottom: 16px;">
+    <div class="zy-row">
+      <input class="zy-input" value="早上" placeholder="🔍 搜索 KP / 题目 / 节 / Prompt …" style="flex:1; font-size: 16px; height: 44px;" />
+      <button class="zy-btn zy-btn-primary" style="height: 44px;" data-toast="搜索已执行">搜索</button>
+      <button class="zy-btn zy-btn-ghost" style="height: 44px;" data-open-drawer="dAdv">⚙ 高级</button>
+    </div>
+    <div class="zy-row" style="margin-top: 8px; font-size: 12px; color: var(--zy-fg-mute);">
+      <span>找到 142 条结果（0.08s）</span>
+      <span>·</span><span>历史：早上好 · 老板 · cloze · kp-zaoshang</span>
+    </div>
+  </div>
+
+  <!-- Tabs -->
+  <div class="zy-tabs" data-tab-group="sg">
+    <button class="zy-tab active" data-tab="all">全部 142</button>
+    <button class="zy-tab" data-tab="kp">KP 23</button>
+    <button class="zy-tab" data-tab="q">题目 89</button>
+    <button class="zy-tab" data-tab="lesson">节 30</button>
+  </div>
+
+  <!-- 全部 -->
+  <div data-tab-pane="all" class="active">
+    <h3 style="margin: 8px 0 6px; font-size: 13px; color: var(--zy-fg-mute);">KP（前 3）</h3>
+    <div class="zy-grid cols-md-2">
+      <div class="zy-card zy-glass" data-nav="/admin/course/kps/kp-zaoshang" style="cursor: pointer;">
+        <div class="zy-row" style="justify-content: space-between;"><strong style="font-size: 16px;"><em class="hl">早上</em></strong><span class="zy-tag zy-tag-success">已审</span></div>
+        <div style="color: var(--zy-fg-mute); font-size: 13px;">zǎo shang · word · EC · HSK 1</div>
+        <div style="font-size: 12px; margin-top: 6px;">🌍 morning / buổi sáng / ตอนเช้า / pagi</div>
+        <div style="font-size: 12px; color: var(--zy-fg-mute); margin-top: 4px;">引用：1 节 / 5 题</div>
+      </div>
+      <div class="zy-card zy-glass" data-nav="/admin/course/kps/kp-zaoshanghao" style="cursor: pointer;">
+        <div class="zy-row" style="justify-content: space-between;"><strong style="font-size: 16px;"><em class="hl">早上</em>好</strong><span class="zy-tag zy-tag-warn">待审</span></div>
+        <div style="color: var(--zy-fg-mute); font-size: 13px;">zǎo shang hǎo · phrase · EC</div>
+        <div style="font-size: 12px; margin-top: 6px;">🌍 Good morning</div>
+      </div>
+    </div>
+
+    <h3 style="margin: 16px 0 6px; font-size: 13px; color: var(--zy-fg-mute);">题目（前 3）</h3>
+    <div class="zy-stack">
+      <div class="zy-card" data-nav="/admin/course/questions/q_8821" style="cursor: pointer;">
+        <div class="zy-row"><span class="zy-tag zy-tag-info">listen_pick</span><span style="font-size: 12px; color: var(--zy-fg-mute);">q_8821 · kp-zaoshang · 难度 1</span></div>
+        <div style="margin-top: 4px;">请选择听到的词：<em class="hl">早上</em> / 晚上 / 中午 / 下午</div>
+      </div>
+      <div class="zy-card" data-nav="/admin/course/questions/q_8823" style="cursor: pointer;">
+        <div class="zy-row"><span class="zy-tag">cloze</span><span style="font-size: 12px; color: var(--zy-fg-mute);">q_8823 · kp-zaoshanghao · 难度 2</span></div>
+        <div style="margin-top: 4px;">____ 好，老板！（答案：<em class="hl">早上</em>）</div>
+      </div>
+      <div class="zy-card" data-nav="/admin/course/questions/q_8825" style="cursor: pointer;">
+        <div class="zy-row"><span class="zy-tag">order</span><span style="font-size: 12px; color: var(--zy-fg-mute);">q_8825 · kp-zaoshanghao · 难度 1</span></div>
+        <div style="margin-top: 4px;">排序：<em class="hl">早</em> / 上 / 好 → <em class="hl">早上</em>好</div>
+      </div>
+    </div>
+
+    <h3 style="margin: 16px 0 6px; font-size: 13px; color: var(--zy-fg-mute);">节（前 3）</h3>
+    <div class="zy-stack">
+      <div class="zy-card" data-nav="/admin/course/tracks/ec/L1/ch1/01" style="cursor: pointer;">
+        <div class="zy-row"><strong>EC · L1 · ch1 · 第 1 节 · 早上好</strong><span class="zy-tag zy-tag-success">已发布</span></div>
+        <div style="font-size: 12px; color: var(--zy-fg-mute);">引用 KP 5 个，含 <em class="hl">早上</em> / 早上好 / 老板 / 谢谢 / 你好</div>
+      </div>
+      <div class="zy-card" data-nav="/admin/course/tracks/ec/L1/ch1/02" style="cursor: pointer;">
+        <div class="zy-row"><strong>EC · L1 · ch1 · 第 2 节 · 与同事打招呼</strong><span class="zy-tag zy-tag-success">已发布</span></div>
+        <div style="font-size: 12px; color: var(--zy-fg-mute);">复习 <em class="hl">早上</em>好，新增 …</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- KP -->
+  <div data-tab-pane="kp">
+    <div class="zy-stack">
+      <div class="zy-card zy-glass"><strong><em class="hl">早上</em></strong> · zǎo shang · word · EC</div>
+      <div class="zy-card zy-glass"><strong><em class="hl">早上</em>好</strong> · phrase · EC</div>
+      <div class="zy-card zy-glass"><strong>每天<em class="hl">早上</em></strong> · phrase · share</div>
+      <div class="zy-helper">…还有 20 条</div>
+    </div>
+  </div>
+
+  <div data-tab-pane="q">
+    <div class="zy-stack">
+      <div class="zy-card">listen_pick · q_8821 · 请选择听到的词：<em class="hl">早上</em>/晚上/中午/下午</div>
+      <div class="zy-card">cloze · q_8823 · ____ 好，老板！（<em class="hl">早上</em>）</div>
+      <div class="zy-card">order · q_8825 · <em class="hl">早</em>/上/好 → <em class="hl">早上</em>好</div>
+      <div class="zy-helper">…还有 86 条</div>
+    </div>
+  </div>
+
+  <div data-tab-pane="lesson">
+    <div class="zy-stack">
+      <div class="zy-card">EC · L1 · ch1 · 第 1 节 · <em class="hl">早上</em>好</div>
+      <div class="zy-card">EC · L1 · ch1 · 第 2 节 · 与同事打招呼（含 <em class="hl">早上</em>好）</div>
+      <div class="zy-helper">…还有 28 条</div>
+    </div>
+  </div>
+
+  <!-- 空态示例 -->
+  <div style="display:none;" id="emptyState">
+    <div class="zy-card" style="text-align: center; padding: 60px 20px;">
+      <div style="font-size: 48px;">🔍</div>
+      <div style="margin-top: 12px; font-size: 16px;">没有找到匹配结果</div>
+      <div style="color: var(--zy-fg-mute); font-size: 13px; margin-top: 6px;">尝试更换关键字 · 或 <a data-nav="/admin/course/kps/new">创建新 KP</a></div>
+    </div>
+  </div>
+</div>
+
+</div></div>
+
+<!-- 高级筛选 Drawer -->
+<div class="zy-drawer-mask" id="dAdv">
+  <aside class="zy-drawer size-md">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">⚙ 高级筛选</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body">
+      <div class="zy-field"><label class="zy-label">赛道</label><div class="zy-row" style="flex-wrap: wrap; gap: 8px;"><label><input type="checkbox" checked /> EC</label><label><input type="checkbox" /> FC</label><label><input type="checkbox" checked /> HSK</label><label><input type="checkbox" /> DL</label><label><input type="checkbox" checked /> share</label></div></div>
+      <div class="zy-field"><label class="zy-label">HSK 等级</label><select class="zy-select"><option>全部</option><option>HSK 1</option><option>HSK 2</option><option>HSK 3</option></select></div>
+      <div class="zy-field"><label class="zy-label">状态</label><div class="zy-row" style="flex-wrap: wrap; gap: 8px;"><label><input type="checkbox" checked /> 已审</label><label><input type="checkbox" /> 待审</label><label><input type="checkbox" /> 草稿</label><label><input type="checkbox" /> 归档</label></div></div>
+      <div class="zy-field"><label class="zy-label">类型</label><div class="zy-row" style="flex-wrap: wrap; gap: 8px;"><label><input type="checkbox" checked /> word</label><label><input type="checkbox" /> phrase</label><label><input type="checkbox" /> sentence</label><label><input type="checkbox" /> grammar</label></div></div>
+      <div class="zy-field"><label class="zy-label">题型（仅题目搜索）</label><select class="zy-select"><option>全部</option><option>listen_pick</option><option>cloze</option></select></div>
+      <div class="zy-field"><label class="zy-label">更新时间</label><select class="zy-select"><option>不限</option><option>最近 7 天</option><option>最近 30 天</option></select></div>
+    </div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-ghost" data-toast="已重置">重置</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="筛选已应用，更新结果" data-toast-type="success">应用</button></div>
+  </aside>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>

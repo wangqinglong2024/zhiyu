@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-C-1 学习地图 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head>
+<body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-C-1</span>应用端 · 学习地图（/learn）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle">
+      <button data-device="desktop" class="active">🖥 桌面</button>
+      <button data-device="mobile">📱 移动</button>
+    </span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage">
+<div class="proto-frame desktop" id="protoFrame">
+
+<!-- ============= 顶栏 ============= -->
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">📚 学中文</div>
+  <nav class="zy-topnav-links">
+    <a class="zy-topnav-link active">学习</a>
+    <a class="zy-topnav-link" data-nav="/learn/me">我的</a>
+  </nav>
+  <div class="zy-topnav-actions">
+    <button class="zy-icon-btn" data-open-modal="mLang" title="语言">🌐</button>
+    <span class="zy-avatar" data-open-modal="mProfile">小</span>
+  </div>
+</header>
+
+<!-- ============= 主体 ============= -->
+<div class="zy-container">
+  <!-- 赛道 Tab -->
+  <div class="zy-pills" style="margin-bottom: 20px;">
+    <button class="zy-pill active">🛒 电商 EC</button>
+    <button class="zy-pill" data-toast="切换赛道：FC（写回 course_user_settings.current_track）">🏭 工厂 FC</button>
+    <button class="zy-pill" data-toast="切换赛道：HSK">📘 HSK</button>
+    <button class="zy-pill" data-toast="切换赛道：日常 DL">☕ 日常 DL</button>
+    <button class="zy-pill" data-open-modal="mShareLock">🌱 基础 share 🔒</button>
+  </div>
+
+  <!-- Stage 1 -->
+  <div style="display:flex; align-items:center; justify-content:space-between; margin: 24px 0 12px;">
+    <h2 style="font-size: 18px; margin: 0;">Stage 1 · 入门</h2>
+    <div style="display:flex; align-items:center; gap: 10px; min-width: 240px;">
+      <span style="font-size: 12px; color: var(--zy-fg-mute);">进度 38%</span>
+      <div class="zy-progress" style="flex: 1;"><i style="width: 38%;"></i></div>
+    </div>
+  </div>
+
+  <!-- 卡片瀑布流 -->
+  <div class="zy-grid cols-md-2 cols-lg-3 cols-xl-4">
+
+    <div class="zy-chap-card" data-collapse="ch11"><span class="emoji">💬</span>
+      <h3>1.1 自我介绍</h3>
+      <div class="sub">第 1 章 · 6 节</div>
+      <div class="meta"><span class="zy-tag zy-tag-success">✓ 已通过</span><span class="zy-tag">12 KP/节</span></div>
+    </div>
+
+    <div class="zy-chap-card" data-collapse="ch12"><span class="emoji">📇</span>
+      <h3>1.2 寒暄</h3>
+      <div class="sub">第 2 章 · 6 节</div>
+      <div class="meta"><span class="zy-tag zy-tag-success">✓ 已通过</span></div>
+    </div>
+
+    <div class="zy-chap-card" data-collapse="ch13"><span class="emoji">👋</span>
+      <h3>1.3 见面与问候</h3>
+      <div class="sub">第 3 章 · 6 节</div>
+      <div class="meta"><span class="zy-tag zy-tag-danger">学习中 4/6</span><span style="font-size:12px;color:var(--zy-fg-mute);">当前节 1.3.4</span></div>
+    </div>
+
+    <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">🎁</span><span class="lock">🔒</span>
+      <h3>1.4 节日礼貌</h3>
+      <div class="sub">第 4 章 · 6 节</div>
+      <div class="meta"><span class="zy-tag">待解锁</span></div>
+    </div>
+
+    <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">🍱</span><span class="lock">🔒</span>
+      <h3>1.5 商务用餐</h3>
+      <div class="sub">第 5 章 · 6 节</div>
+      <div class="meta"><span class="zy-tag">待解锁</span></div>
+    </div>
+
+    <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">📱</span><span class="lock">🔒</span>
+      <h3>1.6 电话沟通</h3>
+      <div class="sub">第 6 章 · 6 节</div>
+      <div class="meta"><span class="zy-tag">待解锁</span></div>
+    </div>
+
+  </div>
+
+  <!-- 章 1.3 展开后的节列表 -->
+  <div id="ch13" style="margin-top: 20px;">
+    <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom: 10px;">
+      <strong>章 1.3 · 见面与问候</strong>
+      <span style="font-size: 13px; color: var(--zy-fg-mute);">4/6 节完成</span>
+    </div>
+    <div class="zy-lesson-list">
+      <div class="zy-lesson-row" data-nav="/learn/lessons/ec-1-3-1"><span class="zy-lesson-dot passed"></span><span class="name">1.3.1 你好</span><span class="status">✅ 已通过</span></div>
+      <div class="zy-lesson-row" data-nav="/learn/lessons/ec-1-3-2"><span class="zy-lesson-dot passed"></span><span class="name">1.3.2 谢谢</span><span class="status">✅ 已通过</span></div>
+      <div class="zy-lesson-row" data-nav="/learn/lessons/ec-1-3-3"><span class="zy-lesson-dot passed"></span><span class="name">1.3.3 再见</span><span class="status">✅ 已通过</span></div>
+      <div class="zy-lesson-row" data-nav="/learn/lessons/ec-1-3-4"><span class="zy-lesson-dot in_progress"></span><span class="name">1.3.4 早上好</span><span class="status">🟡 学习中（8/12 KP）</span></div>
+      <div class="zy-lesson-row" data-open-modal="mLockedLesson"><span class="zy-lesson-dot locked"></span><span class="name">1.3.5 晚安</span><span class="status">🔒 待解锁</span></div>
+      <div class="zy-lesson-row" data-open-modal="mLockedLesson"><span class="zy-lesson-dot locked"></span><span class="name">1.3.6 问候综合</span><span class="status">🔒 待解锁</span></div>
+    </div>
+  </div>
+
+  <!-- Stage 2 -->
+  <div style="display:flex; align-items:center; justify-content:space-between; margin: 32px 0 12px;">
+    <h2 style="font-size: 18px; margin: 0;">Stage 2 · 进阶 <span style="font-size: 12px; color: var(--zy-fg-mute); margin-left:8px;">🔒 完成 S1 阶段考解锁</span></h2>
+  </div>
+  <div class="zy-grid cols-md-2 cols-lg-3 cols-xl-4">
+    <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">💼</span><span class="lock">🔒</span><h3>2.1 接待客户</h3><div class="sub">6 节</div><div class="meta"><span class="zy-tag">待解锁</span></div></div>
+    <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">📦</span><span class="lock">🔒</span><h3>2.2 询问订单</h3><div class="sub">6 节</div><div class="meta"><span class="zy-tag">待解锁</span></div></div>
+    <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">💵</span><span class="lock">🔒</span><h3>2.3 价格协商</h3><div class="sub">6 节</div><div class="meta"><span class="zy-tag">待解锁</span></div></div>
+    <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">📑</span><span class="lock">🔒</span><h3>2.4 合同条款</h3><div class="sub">6 节</div><div class="meta"><span class="zy-tag">待解锁</span></div></div>
+  </div>
+</div>
+
+<!-- 桌面右下浮动工具栏 -->
+<aside class="zy-fab">
+  <div class="zy-fab-item" data-nav="/learn/srs"><span class="ico">📚</span><span class="lbl">SRS 今日复习</span><span class="badge">12</span></div>
+  <div class="zy-fab-item" data-nav="/learn/wrong"><span class="ico">❌</span><span class="lbl">错题本</span><span class="badge">5</span></div>
+  <div class="zy-fab-item" data-nav="/learn/exams"><span class="ico">📝</span><span class="lbl">考试中心</span></div>
+  <div class="zy-fab-item" data-nav="/learn/me"><span class="ico">📊</span><span class="lbl">我的统计</span></div>
+</aside>
+
+<!-- 移动端底部 Tab -->
+<nav class="zy-bottom-tabs">
+  <div class="zy-bottom-tab active"><span class="ico">📚</span><span>学习</span></div>
+  <div class="zy-bottom-tab" data-nav="/learn/me"><span class="ico">👤</span><span>我的</span></div>
+</nav>
+
+</div></div>
+
+<!-- ============= Modals ============= -->
+<!-- D-1 切赛道 share 锁 -->
+<div class="zy-modal-mask" id="mShareLock">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">请先完成基础 Stage 0</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">主题赛道（电商 / 工厂 / HSK / 日常）在 <strong>基础 share Stage 0</strong> 完成后解锁。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>我知道了</button></div>
+  </div>
+</div>
+
+<!-- 锁章 -->
+<div class="zy-modal-mask" id="mLockedChap">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">该章尚未解锁</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">请先完成上一章 6 节学习；通过该章测试后即可解锁。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>关闭</button><button class="zy-btn zy-btn-primary" data-close-modal>继续上一章</button></div>
+  </div>
+</div>
+
+<!-- 锁节 -->
+<div class="zy-modal-mask" id="mLockedLesson">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">该节尚未解锁</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">完成 <strong>1.3.4 早上好</strong> 即可解锁本节。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>去学习 1.3.4</button></div>
+  </div>
+</div>
+
+<!-- 语言切换 -->
+<div class="zy-modal-mask" id="mLang">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">界面语言</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-stack">
+        <label class="zy-row" style="cursor:pointer;"><input type="radio" name="lang" checked /> 简体中文</label>
+        <label class="zy-row" style="cursor:pointer;"><input type="radio" name="lang" /> English</label>
+        <label class="zy-row" style="cursor:pointer;"><input type="radio" name="lang" /> Tiếng Việt</label>
+        <label class="zy-row" style="cursor:pointer;"><input type="radio" name="lang" /> ภาษาไทย</label>
+        <label class="zy-row" style="cursor:pointer;"><input type="radio" name="lang" /> Bahasa Indonesia</label>
+      </div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已切换语言（PATCH /me/settings）" data-toast-type="success">保存</button></div>
+  </div>
+</div>
+
+<!-- 头像菜单 -->
+<div class="zy-modal-mask" id="mProfile">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">小明（user_xxx）</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div class="zy-stack">
+        <a class="zy-row" data-nav="/learn/me" style="padding:8px;">📊 个人中心</a>
+        <a class="zy-row" data-open-modal="mLang" style="padding:8px;">🌐 切换语言</a>
+        <a class="zy-row" data-toast="已切换主题" style="padding:8px;">🌙 暗色 / 浅色</a>
+        <a class="zy-row" data-toast="已退出登录" style="padding:8px; color: var(--zy-brand);">↪ 退出登录</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-C-4 SRS 复习 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-C-4</span>应用端 · SRS 复习（/learn/srs）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">📚 学中文</div>
+  <nav class="zy-topnav-links">
+    <a class="zy-topnav-link" data-nav="/learn">学习</a>
+    <a class="zy-topnav-link active" data-nav="/learn/me">我的</a>
+  </nav>
+  <div class="zy-topnav-actions"><span class="zy-avatar">小</span></div>
+</header>
+
+<div class="zy-container" style="max-width: 720px;">
+  <div class="zy-bread"><span data-nav="/learn/me">我的</span><span class="sep">›</span><span class="cur">SRS 复习</span></div>
+
+  <div style="display:flex; align-items:center; justify-content: space-between; margin-bottom: 20px;">
+    <div>
+      <h1 class="zy-page-title">📚 SRS · 今日复习</h1>
+      <p class="zy-page-sub">队列共 <strong>32</strong> 题（最多 50）· 当前第 <strong>5</strong> 题</p>
+    </div>
+    <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mPause">⏸ 暂停</button>
+  </div>
+  <div class="zy-progress" style="margin-bottom: 24px;"><i style="width: 15%;"></i></div>
+
+  <div class="zy-card" style="background: var(--zy-bg);">
+    <div style="display:flex; gap: 8px; margin-bottom: 8px;"><span class="zy-tag zy-tag-info">complete_sentence</span><span class="zy-tag">第 5/32</span><span class="zy-tag">盒 2 → 待升至 3</span></div>
+    <div class="qz-stem">请补全句子：____ 好，老板！</div>
+    <div class="qz-options">
+      <div class="qz-opt" onclick="srsPick(this,false)"><span class="key">A</span>晚上</div>
+      <div class="qz-opt" onclick="srsPick(this,true)"><span class="key">B</span>早上</div>
+      <div class="qz-opt" onclick="srsPick(this,false)"><span class="key">C</span>谢谢</div>
+      <div class="qz-opt" onclick="srsPick(this,false)"><span class="key">D</span>再见</div>
+    </div>
+    <div class="qz-feedback ok" id="srsFb" style="display:none;">
+      <strong>✓ 答对了 → 升至盒 3</strong>下次复习：<strong>3 天后</strong>。
+    </div>
+  </div>
+
+  <div style="display:flex; gap: 12px; justify-content: space-between; margin-top: 24px;">
+    <button class="zy-btn zy-btn-ghost" data-toast="跳过：本题不计入升降盒，重新入队" data-toast-type="info">⏭ 跳过</button>
+    <button class="zy-btn zy-btn-primary zy-btn-lg" id="nextBtn" data-toast="POST /srs/answer → 第 6/32 题" data-toast-type="success">下一题 →</button>
+  </div>
+
+  <div style="text-align: center; margin-top: 16px;">
+    <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mDone">📋 模拟「队列完成」</button>
+  </div>
+</div>
+
+<nav class="zy-bottom-tabs">
+  <div class="zy-bottom-tab" data-nav="/learn"><span class="ico">📚</span><span>学习</span></div>
+  <div class="zy-bottom-tab active" data-nav="/learn/me"><span class="ico">👤</span><span>我的</span></div>
+</nav>
+</div></div>
+
+<div class="zy-modal-mask" id="mPause">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">暂停 SRS？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">已答记录将保存，下次进入继续未完成的 27 题。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>继续</button><button class="zy-btn zy-btn-primary" data-close-modal data-nav="/learn/me">返回我的</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mDone">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">🎉 今日 SRS 完成！</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; text-align: center;">
+        <div><div style="font-size: 28px; font-weight:700; color: var(--success);">28</div><div style="font-size: 12px; color: var(--zy-fg-mute);">答对</div></div>
+        <div><div style="font-size: 28px; font-weight:700; color: var(--zy-brand);">4</div><div style="font-size: 12px; color: var(--zy-fg-mute);">答错</div></div>
+        <div><div style="font-size: 28px; font-weight:700;">87.5%</div><div style="font-size: 12px; color: var(--zy-fg-mute);">正确率</div></div>
+      </div>
+      <div class="zy-divider"></div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute);">明日预计 <strong>18</strong> 题待复习；4 题答错已加入错题本。</div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal data-nav="/learn">返回学习</button><button class="zy-btn zy-btn-primary" data-close-modal data-nav="/learn/wrong">查看错题本</button></div>
+  </div>
+</div>
+
+<script>
+function srsPick(el,ok){ el.parentNode.querySelectorAll('.qz-opt').forEach(function(o){o.classList.remove('selected','correct','wrong');}); el.classList.add('selected', ok?'correct':'wrong'); document.getElementById('srsFb').style.display=''; document.getElementById('srsFb').className='qz-feedback '+(ok?'ok':'no'); document.getElementById('srsFb').innerHTML = ok ? '<strong>✓ 答对了 → 升至盒 3</strong>下次复习：<strong>3 天后</strong>。' : '<strong>✗ 答错了 → 降至盒 1</strong>明日重新出现。'; }
+</script>
+<script src="_assets/prototype.js"></script>
+</body></html>

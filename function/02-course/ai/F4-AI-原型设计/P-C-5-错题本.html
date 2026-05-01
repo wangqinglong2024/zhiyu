@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>P-C-5 错题本 · F4 原型</title>
+<link rel="stylesheet" href="_assets/styles.css" />
+</head><body>
+<div class="proto-bar">
+  <div class="proto-bar-title"><span class="pid">P-C-5</span>应用端 · 错题本（/learn/wrong）</div>
+  <div class="proto-bar-actions">
+    <a href="index.html">← 索引</a>
+    <span class="dev-toggle"><button data-device="desktop" class="active">🖥 桌面</button><button data-device="mobile">📱 移动</button></span>
+    <button id="themeBtn" class="theme-toggle">🌙 暗色</button>
+  </div>
+</div>
+
+<div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
+
+<header class="zy-topnav">
+  <div class="zy-topnav-brand">📚 学中文</div>
+  <nav class="zy-topnav-links">
+    <a class="zy-topnav-link" data-nav="/learn">学习</a>
+    <a class="zy-topnav-link active" data-nav="/learn/me">我的</a>
+  </nav>
+  <div class="zy-topnav-actions"><span class="zy-avatar">小</span></div>
+</header>
+
+<div class="zy-container">
+  <div class="zy-bread"><span data-nav="/learn/me">我的</span><span class="sep">›</span><span class="cur">错题本</span></div>
+
+  <h1 class="zy-page-title">❌ 错题本</h1>
+  <p class="zy-page-sub">最近 90 天答错的题目 · 共 <strong>27</strong> 道</p>
+
+  <!-- 筛选 -->
+  <div class="zy-row" style="margin: 16px 0;">
+    <select class="zy-select" style="width: 140px;"><option>全部赛道</option><option>电商 EC</option><option>工厂 FC</option><option>HSK</option></select>
+    <select class="zy-select" style="width: 140px;"><option>全部题型</option><option>listen_pick</option><option>tone_pick</option><option>cloze</option></select>
+    <select class="zy-select" style="width: 140px;"><option>近 7 天</option><option selected>近 30 天</option><option>近 90 天</option></select>
+    <input class="zy-input" placeholder="🔍 搜索题面 / KP" style="flex: 1; min-width: 200px;" />
+    <button class="zy-btn zy-btn-ghost" data-toast="筛选已应用">筛选</button>
+    <button class="zy-btn zy-btn-primary" data-open-modal="mPractice">▶ 集中练习（27）</button>
+  </div>
+
+  <!-- 列表 -->
+  <div class="zy-stack">
+    <div class="zy-card">
+      <div style="display:flex; gap: 8px; margin-bottom: 8px;"><span class="zy-tag zy-tag-danger">tone_pick</span><span class="zy-tag">EC 1.3.4</span><span class="zy-tag">2 天前</span><span class="zy-tag">错 2 次</span></div>
+      <div style="font-size: 15px;">「晚」的声调？</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 6px;">你的答案：第 2 声 ❌ &nbsp; 正确：<span style="color:var(--success);">第 3 声</span></div>
+      <div class="zy-row" style="margin-top: 10px;"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-toast="🔁 重新作答">重新作答</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-nav="/learn/lessons/ec-1-3-4">查看 KP</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mRemove">移除</button></div>
+    </div>
+
+    <div class="zy-card">
+      <div style="display:flex; gap: 8px; margin-bottom: 8px;"><span class="zy-tag zy-tag-danger">listen_pick</span><span class="zy-tag">EC 1.2.3</span><span class="zy-tag">5 天前</span></div>
+      <div style="font-size: 15px;">🔊 请选择听到的词语：____</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 6px;">你的答案：再见 ❌ &nbsp; 正确：<span style="color:var(--success);">谢谢</span></div>
+      <div class="zy-row" style="margin-top: 10px;"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-toast="🔁 重新作答">重新作答</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-nav="/learn/lessons/ec-1-2-3">查看 KP</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mRemove">移除</button></div>
+    </div>
+
+    <div class="zy-card">
+      <div style="display:flex; gap: 8px; margin-bottom: 8px;"><span class="zy-tag zy-tag-danger">cloze</span><span class="zy-tag">EC 1.1.5</span><span class="zy-tag">12 天前</span></div>
+      <div style="font-size: 15px;">我 ____ 张三。</div>
+      <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 6px;">你的答案：是 ❌（重复）&nbsp; 正确：<span style="color:var(--success);">叫</span></div>
+      <div class="zy-row" style="margin-top: 10px;"><button class="zy-btn zy-btn-sm zy-btn-ghost">重新作答</button><button class="zy-btn zy-btn-sm zy-btn-ghost">查看 KP</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mRemove">移除</button></div>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin: 24px 0;">
+    <button class="zy-btn zy-btn-ghost" data-toast="加载下一页（page 2，限制 20/页）">加载更多（剩 24）</button>
+  </div>
+</div>
+
+<nav class="zy-bottom-tabs">
+  <div class="zy-bottom-tab" data-nav="/learn"><span class="ico">📚</span><span>学习</span></div>
+  <div class="zy-bottom-tab active" data-nav="/learn/me"><span class="ico">👤</span><span>我的</span></div>
+</nav>
+</div></div>
+
+<div class="zy-modal-mask" id="mPractice">
+  <div class="zy-modal size-md">
+    <div class="zy-modal-head"><div class="zy-modal-title">集中练习错题</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">
+      共 27 题。建议每次练 ≤ 15 题。<div class="zy-field" style="margin-top: 12px;"><label class="zy-label">题数</label><select class="zy-select"><option>10 题（推荐）</option><option>15 题</option><option>全部 27 题</option></select></div>
+    </div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="开始集中练习" data-toast-type="success">开始</button></div>
+  </div>
+</div>
+
+<div class="zy-modal-mask" id="mRemove">
+  <div class="zy-modal size-sm">
+    <div class="zy-modal-head"><div class="zy-modal-title">从错题本移除？</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">该题将不再出现在错题本，但仍保留答题记录。</div>
+    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已从错题本移除" data-toast-type="success">移除</button></div>
+  </div>
+</div>
+
+<script src="_assets/prototype.js"></script>
+</body></html>
