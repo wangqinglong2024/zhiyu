@@ -25,8 +25,12 @@
 <div class="zy-container">
   <div class="zy-bread"><span data-nav="/admin/course">课程</span><span class="sep">›</span><span class="cur">举报处理</span></div>
 
-  <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px;">
+  <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px; flex-wrap: wrap; gap: 12px;">
     <div><h1 class="zy-page-title">🚨 举报处理</h1><p class="zy-page-sub">42 项待处理 · 学员反馈题目错误 / 翻译错误 / 音频问题</p></div>
+    <label class="zy-row" style="gap:6px;" title="全局控制是否在应用端隐藏举报入口；隐藏后应用端均不再可提交举报">
+      <input type="checkbox" class="zy-check" id="hideReportEntry" />
+      <span>全局隐藏应用端举报入口</span>
+    </label>
   </div>
 
   <div class="zy-card" style="margin-bottom: 16px;">
@@ -39,20 +43,21 @@
   </div>
 
   <div class="zy-table-wrap">
-    <table class="zy-table">
-      <thead><tr><th>#</th><th>对象</th><th>类型</th><th>详情摘要</th><th>举报人</th><th>时间</th><th>状态</th><th style="width: 220px;">操作</th></tr></thead>
+    <table class="zy-table zy-table-stack">
+      <thead><tr><th>#</th><th>对象</th><th>类型</th><th>详情摘要</th><th>举报人</th><th>时间</th><th>状态</th><th style="width: 280px;">操作</th></tr></thead>
       <tbody>
-        <tr><td>R-2031</td><td><code>q_8823</code> · cloze</td><td><span class="zy-tag zy-tag-warn">答案错误</span></td><td>"____ 好" 应为「您」也合理，但提示要求「早上」太窄</td><td>vi · u_8821</td><td>09:22</td><td><span class="zy-tag">待处理</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
-        <tr><td>R-2030</td><td><code>kp-laoban</code> · 老板</td><td><span class="zy-tag">翻译错误</span></td><td>vi 翻译 "ông chủ" 在女性语境下不合适</td><td>vi · u_7712</td><td>08:54</td><td><span class="zy-tag">待处理</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
-        <tr><td>R-2029</td><td><code>kp-zaoshang</code> · 音频</td><td><span class="zy-tag zy-tag-info">音频不清</span></td><td>开头有杂音，疑似录制环境</td><td>th · u_8801</td><td>08:32</td><td><span class="zy-tag">待处理</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
-        <tr><td>R-2028</td><td><code>q_8801</code></td><td><span class="zy-tag">题目歧义</span></td><td>"中国" 也可作答</td><td>en · u_2231</td><td>08:11</td><td><span class="zy-tag zy-tag-success">已采纳</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button></td></tr>
+        <tr><td data-label="#">R-2031</td><td data-label="对象"><code>q_8823</code> · cloze</td><td data-label="类型"><span class="zy-tag zy-tag-warn">答案错误</span></td><td data-label="详情">"____ 好" 应为「您」也合理，但提示要求「早上」太窄</td><td data-label="举报人">vi · u_8821</td><td data-label="时间">09:22</td><td data-label="状态"><span class="zy-tag">待处理</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit" title="打开题目编辑抽屉调整">调整</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">手动采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
+        <tr><td data-label="#">R-2030</td><td data-label="对象"><code>kp-laoban</code> · 老板</td><td data-label="类型"><span class="zy-tag">翻译错误</span></td><td data-label="详情">vi 翻译 "ông chủ" 在女性语境下不合适</td><td data-label="举报人">vi · u_7712</td><td data-label="时间">08:54</td><td data-label="状态"><span class="zy-tag">待处理</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit" title="打开知识点编辑抽屉">调整</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">手动采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
+        <tr><td data-label="#">R-2029</td><td data-label="对象"><code>kp-zaoshang</code> · 音频</td><td data-label="类型"><span class="zy-tag zy-tag-info">音频不清</span></td><td data-label="详情">开头有杂音，疑似录制环境</td><td data-label="举报人">th · u_8801</td><td data-label="时间">08:32</td><td data-label="状态"><span class="zy-tag">待处理</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit" title="跳转知识点，重新生成音频缓存">调整</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mAdopt">手动采纳</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDismiss">忽略</button></td></tr>
+        <tr><td data-label="#">R-2028</td><td data-label="对象"><code>q_8801</code></td><td data-label="类型"><span class="zy-tag">题目歧义</span></td><td data-label="详情">"中国" 也可作答</td><td data-label="举报人">en · u_2231</td><td data-label="时间">08:11</td><td data-label="状态"><span class="zy-tag zy-tag-success">已采纳</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-drawer="dRDetail">详情</button></td></tr>
       </tbody>
     </table>
   </div>
+  <p class="zy-helper" style="margin-top:8px;">⚠ <strong>调整</strong>按钮会打开对应对象的编辑抽屉（题目→P-A-5 dQEdit · KP/例句/音频→P-A-4 dKPEdit），修改保存后需手动点击采纳关闭举报。</p>
 </div>
 
 </div></div>
@@ -84,8 +89,9 @@
     </div>
     <div class="zy-drawer-foot">
       <button class="zy-btn zy-btn-ghost" data-close-modal>关闭</button>
+      <button class="zy-btn zy-btn-ghost" data-close-modal data-open-drawer="dQEdit">调整题目</button>
       <button class="zy-btn zy-btn-danger" data-close-modal data-open-modal="mDismiss">忽略</button>
-      <button class="zy-btn zy-btn-primary" data-close-modal data-open-modal="mAdopt">采纳并送审</button>
+      <button class="zy-btn zy-btn-primary" data-close-modal data-open-modal="mAdopt">采纳</button>
     </div>
   </aside>
 </div>
@@ -93,7 +99,7 @@
 <div class="zy-modal-mask" id="mAdopt">
   <div class="zy-modal size-sm">
     <div class="zy-modal-head"><div class="zy-modal-title">采纳举报</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">将创建一条编辑任务并进入 P-A-8 审核队列；通过后题目更新，举报人收到站内信通知。</div>
+    <div class="zy-modal-body">手动采纳：表示已按举报建议完成调整（调整需点击「调整」按钮进入对应编辑抽屉手动修改保存）；本操作仅将举报状态设为「已采纳」并通知举报人。</div>
     <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已转入审核队列，并通知举报人" data-toast-type="success">确认</button></div>
   </div>
 </div>
@@ -104,6 +110,22 @@
     <div class="zy-modal-body"><div class="zy-field"><label class="zy-label">理由（举报人可见）</label><textarea class="zy-textarea" placeholder="例：题目设计为单一答案，「早上」是该课考点"></textarea></div></div>
     <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-danger" data-close-modal data-toast="已忽略并通知" data-toast-type="info">忽略</button></div>
   </div>
+</div>
+
+<!-- 调整对象的占位抽屉（实际跳转 P-A-5 / P-A-4 的编辑抽屉） -->
+<div class="zy-drawer-mask" id="dQEdit">
+  <aside class="zy-drawer size-md">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">编辑题目（演示）</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body"><p class="zy-helper">实际系统中此处会跳转到 <a href="P-A-5-题目列表.html">P-A-5 dQEdit</a> 抽屉，并定位到对应 q_id。修改保存后回到本页面，再点击「采纳」关闭举报。</p></div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-primary" data-close-modal>关闭</button></div>
+  </aside>
+</div>
+<div class="zy-drawer-mask" id="dKPEdit">
+  <aside class="zy-drawer size-md">
+    <div class="zy-drawer-head"><div class="zy-drawer-title">编辑 KP（演示）</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-drawer-body"><p class="zy-helper">实际系统中此处会跳转到 <a href="P-A-4-KP列表.html">P-A-4 dKPEdit</a> 抽屉，并定位到对应 kp_code。</p></div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-primary" data-close-modal>关闭</button></div>
+  </aside>
 </div>
 
 <script src="_assets/prototype.js"></script>

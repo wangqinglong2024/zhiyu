@@ -113,3 +113,20 @@
   });
 
 })();
+
+/* ====== SVG 图标助手（参考 system/web-app china 板块的简洁播放/暂停图标） ====== */
+window.zyIcon = {
+  play: '<svg class="zy-svg-icon" viewBox="0 0 16 16" fill="currentColor"><path d="M4.5 2.5v11l9-5.5z"/></svg>',
+  pause: '<svg class="zy-svg-icon" viewBox="0 0 16 16" fill="currentColor"><path d="M4 2h3v12H4zM9 2h3v12H9z"/></svg>',
+  speaker: '<svg class="zy-svg-icon" viewBox="0 0 16 16" fill="currentColor"><path d="M3 6v4h2.5L9 13V3L5.5 6H3zm9.3 2c0-1.4-.8-2.6-2-3.2v6.4c1.2-.6 2-1.8 2-3.2z"/></svg>',
+  flag: '<svg class="zy-svg-icon" viewBox="0 0 16 16" fill="currentColor"><path d="M3 1h1.5v14H3zm2 1.5h7l-1.5 2L12 6.5H5z"/></svg>',
+  globe: '<svg class="zy-svg-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="8" cy="8" r="6"/><path d="M2 8h12M8 2c2 2 2 10 0 12M8 2c-2 2-2 10 0 12"/></svg>'
+};
+
+/* 自动渲染 [data-icon="play"] 等占位 */
+document.addEventListener('DOMContentLoaded', function(){
+  document.querySelectorAll('[data-icon]').forEach(function(el){
+    var name = el.getAttribute('data-icon');
+    if(window.zyIcon[name]) el.insertAdjacentHTML('afterbegin', window.zyIcon[name]);
+  });
+});

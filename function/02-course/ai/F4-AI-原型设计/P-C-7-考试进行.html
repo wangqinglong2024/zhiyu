@@ -16,11 +16,11 @@
 
 <div class="proto-stage"><div class="proto-frame desktop" id="protoFrame">
 
-<!-- 极简考试顶栏 -->
-<header class="zy-topnav" style="justify-content: space-between;">
-  <div style="font-weight: 600;">📝 EC Stage 1 阶段考</div>
-  <div style="display:flex; gap: 16px; align-items: center;">
-    <span style="color: var(--zy-fg-mute); font-size: 13px;">已答 7 / 30</span>
+<!-- 极简考试顶栏（移动端 wrap，避免长内容竖排） -->
+<header class="zy-topnav" style="justify-content: space-between; flex-wrap: wrap; gap: 8px;">
+  <div style="font-weight: 600; min-width: 0;">📝 EC Stage 1 阶段考</div>
+  <div style="display:flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+    <span style="color: var(--zy-fg-mute); font-size: 13px;">已答&nbsp;7/30</span>
     <strong style="color: var(--zy-brand); font-size: 18px; font-variant-numeric: tabular-nums;" id="cdTime">38:24</strong>
     <button class="zy-icon-btn" data-open-drawer="dGrid" title="题号" aria-label="题号">⊞</button>
     <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mPause">⏸ 暂停</button>
@@ -32,9 +32,9 @@
   <div class="zy-progress" style="margin-bottom: 16px;"><i style="width: 23%;"></i></div>
 
   <div class="zy-card" style="background: var(--zy-bg);">
-    <div style="display:flex; gap: 8px; margin-bottom: 12px;"><span class="zy-tag zy-tag-info">第 7 题 / 30</span><span class="zy-tag">listen_pick</span><span class="zy-tag">难度 2</span><span class="zy-tag" data-toast="本题已自动保存">💾 已自动保存</span></div>
+    <div class="zy-tag-row" style="margin-bottom: 12px;"><span class="zy-tag zy-tag-info">第&nbsp;7&nbsp;/&nbsp;30</span><span class="zy-tag">listen_pick</span><span class="zy-tag" data-toast="本题已自动保存">💾&nbsp;已保存</span></div>
     <div class="qz-stem">
-      <button class="zy-btn zy-btn-ghost zy-btn-sm" data-toast="🔊 播放音频（剩余 2 次）" data-toast-type="info">🔊 播放（剩 2/3）</button>
+      <button class="zy-play-btn" data-toast="🔊 播放音频（剩余 2 次）" data-toast-type="info"><span data-icon="play"></span>播放&nbsp;2/3</button>
       <span style="margin-left: 8px;">请选择正确写法：</span>
     </div>
     <div class="qz-options">

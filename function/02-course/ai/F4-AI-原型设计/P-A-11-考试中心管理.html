@@ -25,105 +25,185 @@
 <div class="zy-container">
   <div class="zy-bread"><span data-nav="/admin/course">课程</span><span class="sep">›</span><span class="cur">考试中心</span></div>
 
-  <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px;">
-    <div><h1 class="zy-page-title">📋 考试中心管理</h1><p class="zy-page-sub">章末测 / 阶段测 / 模拟考蓝图 · 抽题策略 + 通过线 + 时长</p></div>
-    <div class="zy-row">
-      <button class="zy-btn zy-btn-ghost" data-toast="导出蓝图 json">⬇ 导出</button>
-      <button class="zy-btn zy-btn-primary" data-open-drawer="dBpEdit">➕ 新建蓝图</button>
+  <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px; flex-wrap:wrap; gap:12px;">
+    <div><h1 class="zy-page-title">📋 考试中心管理</h1><p class="zy-page-sub">按 <strong>主题 → 阶段 → 章 → 节</strong> 层级查看题目归属；通过题目的 <code>exam_scope</code> 字段决定其在哪个层级被抽取（不重复）</p></div>
+  </div>
+
+  <!-- 说明卡 -->
+  <div class="zy-card" style="margin-bottom: 16px; border-left: 3px solid var(--zy-brand);">
+    <strong>📌 exam_scope 策略</strong>
+    <ul class="zy-helper" style="margin: 6px 0 0 16px;">
+      <li><code>practice</code> + <code>lesson_quiz</code>：共享同一题池（节末小测从练习池抽取）</li>
+      <li><code>chapter_test</code>：章测专用题池（独立，避免与节末重复）</li>
+      <li><code>stage_exam</code>：阶段考专用题池（独立）</li>
+      <li><code>hsk_mock</code>：仅 HSK 主题，HSK 模考独立题池</li>
+    </ul>
+  </div>
+
+  <!-- 主题切换 -->
+  <div class="zy-pills" id="emTheme" style="margin: 0 0 12px;">
+    <button class="zy-pill" data-em-theme="share">🌱 share</button>
+    <button class="zy-pill active" data-em-theme="ec">🛒 EC</button>
+    <button class="zy-pill" data-em-theme="fc">🏭 FC</button>
+    <button class="zy-pill" data-em-theme="hsk">📘 HSK</button>
+    <button class="zy-pill" data-em-theme="dl">☕ DL</button>
+  </div>
+
+  <!-- 主题汇总 -->
+  <div class="zy-grid cols-md-2 cols-lg-3" style="margin-bottom: 16px;">
+    <div class="zy-card"><div class="zy-helper">章测题池</div><div style="font-size:22px;font-weight:600;">412</div><div class="zy-helper">覆盖 18/18 章</div></div>
+    <div class="zy-card"><div class="zy-helper">阶段考题池</div><div style="font-size:22px;font-weight:600;">186</div><div class="zy-helper">覆盖 3/3 阶段</div></div>
+    <div class="zy-card"><div class="zy-helper">节末/练习题池</div><div style="font-size:22px;font-weight:600;">2,043</div><div class="zy-helper">覆盖 108/108 节</div></div>
+  </div>
+
+  <!-- 层级视图 -->
+  <div class="zy-card">
+    <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px; flex-wrap:wrap;">
+      <h3 style="margin:0;">EC · 阶段 / 章 / 节 题目分布</h3>
+      <input class="zy-input" placeholder="🔍 章/节名" style="width: 260px;" />
+    </div>
+
+    <div class="zy-stack">
+      <!-- 阶段 1 -->
+      <div class="zy-card" style="background: var(--zy-bg);">
+        <div class="zy-row" style="justify-content: space-between; flex-wrap:wrap; gap:8px;">
+          <div><strong>📚 Stage 1 · 入门</strong>
+            <span class="zy-tag zy-tag-info" style="margin-left:8px;" title="exam_scope=stage_exam 题数">阶段考题 60</span>
+            <span class="zy-tag" title="该阶段下章测题合计">章测题合计 132</span>
+            <span class="zy-tag" title="该阶段下节末题合计">节末/练习 624</span>
+          </div>
+          <div class="zy-row">
+            <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry" data-toast-type="info">🎲 阶段考试抽</button>
+            <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">阶段考蓝图</button>
+          </div>
+        </div>
+
+        <div class="zy-stack" style="margin-top:10px; padding-left: 12px; border-left: 2px solid var(--zy-border);">
+          <!-- 章 1 -->
+          <div>
+            <div class="zy-row" style="justify-content: space-between; flex-wrap:wrap; gap:8px;">
+              <div>📖 ch01-greeting · 寒暄
+                <span class="zy-tag zy-tag-info" title="exam_scope=chapter_test 题数">章测题 28</span>
+                <span class="zy-tag" title="该章下节末题合计">节末/练习 156</span>
+              </div>
+              <div class="zy-row">
+                <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button>
+                <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">章测蓝图</button>
+                <button class="zy-btn zy-btn-sm zy-btn-ghost" data-nav="/admin/course/questions?theme=ec&scope=chapter_test&chapter=ch01">查看题目</button>
+              </div>
+            </div>
+            <div class="zy-stack" style="margin-top:6px; padding-left: 16px; border-left: 1px dashed var(--zy-border); font-size: 13px;">
+              <div class="zy-row" style="justify-content: space-between;"><span>· L1 早上好（节末/练习 26）</span><a class="zy-link" data-nav="/admin/course/questions?lesson=ec-1-1-1">查看</a></div>
+              <div class="zy-row" style="justify-content: space-between;"><span>· L2 自我介绍（节末/练习 28）</span><a class="zy-link" data-nav="/admin/course/questions?lesson=ec-1-1-2">查看</a></div>
+              <div class="zy-row" style="justify-content: space-between;"><span>· L3 寒暄常用语（节末/练习 24）</span><a class="zy-link" data-nav="/admin/course/questions?lesson=ec-1-1-3">查看</a></div>
+              <div class="zy-helper">… 余 3 节</div>
+            </div>
+          </div>
+
+          <!-- 章 2 -->
+          <div>
+            <div class="zy-row" style="justify-content: space-between; flex-wrap:wrap; gap:8px;">
+              <div>📖 ch02-shopping · 购物
+                <span class="zy-tag zy-tag-info">章测题 24</span>
+                <span class="zy-tag">节末/练习 142</span>
+              </div>
+              <div class="zy-row">
+                <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button>
+                <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">章测蓝图</button>
+                <button class="zy-btn zy-btn-sm zy-btn-ghost">查看题目</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="zy-helper">… 余 4 章</div>
+        </div>
+      </div>
+
+      <!-- 阶段 2 -->
+      <div class="zy-card" style="background: var(--zy-bg);">
+        <div class="zy-row" style="justify-content: space-between; flex-wrap:wrap; gap:8px;">
+          <div><strong>📚 Stage 2 · 进阶</strong>
+            <span class="zy-tag zy-tag-info">阶段考题 72</span>
+            <span class="zy-tag">章测题合计 168</span>
+            <span class="zy-tag">节末/练习 812</span>
+          </div>
+          <div class="zy-row">
+            <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">🎲 阶段考试抽</button>
+            <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">阶段考蓝图</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="zy-helper">… Stage 3</div>
     </div>
   </div>
 
-  <div class="zy-card" style="margin-bottom: 16px;">
-    <div class="zy-row">
-      <input class="zy-input" placeholder="🔍 蓝图名称 / 章" style="flex:1;" />
-      <select class="zy-select" style="width: 140px;"><option>全部类型</option><option>章末测</option><option>阶段测</option><option>模拟考</option></select>
-      <select class="zy-select" style="width: 130px;"><option>全部赛道</option><option>EC</option><option>FC</option><option>HSK</option></select>
-      <select class="zy-select" style="width: 130px;"><option>全部状态</option><option>启用</option><option>停用</option></select>
+  <!-- HSK 模考区（仅 HSK 主题显示） -->
+  <div class="zy-card" id="hskMockSection" style="margin-top:16px; display:none;">
+    <h3 style="margin:0 0 8px;">📘 HSK 模考蓝图</h3>
+    <p class="zy-helper">仅 HSK 主题独有；与章测/阶段考题池独立（exam_scope=hsk_mock）。</p>
+    <div class="zy-table-wrap">
+      <table class="zy-table">
+        <thead><tr><th>等级</th><th>题数</th><th>时长</th><th>通过线</th><th>题池</th><th>状态</th><th style="width:200px;">操作</th></tr></thead>
+        <tbody>
+          <tr><td>HSK 1</td><td>40</td><td>40min</td><td>120/200</td><td>96</td><td><span class="zy-tag zy-tag-success">启用</span></td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">编辑蓝图</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button></td></tr>
+          <tr><td>HSK 2</td><td>60</td><td>55min</td><td>120/200</td><td>180</td><td><span class="zy-tag zy-tag-success">启用</span></td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">编辑蓝图</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button></td></tr>
+        </tbody>
+      </table>
     </div>
-  </div>
-
-  <div class="zy-table-wrap">
-    <table class="zy-table">
-      <thead><tr><th>名称</th><th>类型</th><th>赛道/章</th><th>题数</th><th>时长</th><th>通过线</th><th>使用人次</th><th>状态</th><th style="width: 240px;">操作</th></tr></thead>
-      <tbody>
-        <tr><td><strong>EC ch1 章末测 v2</strong></td><td><span class="zy-tag zy-tag-info">章末测</span></td><td>EC / ch01-greeting</td><td>15</td><td>15min</td><td>70%</td><td>1,283</td><td><span class="zy-tag zy-tag-success">启用</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mClone">复制</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mToggle">停用</button></td></tr>
-        <tr><td><strong>EC L1 阶段测</strong></td><td><span class="zy-tag">阶段测</span></td><td>EC / L1</td><td>40</td><td>40min</td><td>75%</td><td>892</td><td><span class="zy-tag zy-tag-success">启用</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mClone">复制</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mToggle">停用</button></td></tr>
-        <tr><td><strong>HSK 1 模拟考 v3</strong></td><td><span class="zy-tag zy-tag-warn">模拟考</span></td><td>HSK 1</td><td>40</td><td>40min</td><td>120/200</td><td>2,140</td><td><span class="zy-tag zy-tag-success">启用</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mClone">复制</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mToggle">停用</button></td></tr>
-        <tr><td><strong>FC ch1 章末测</strong></td><td><span class="zy-tag zy-tag-info">章末测</span></td><td>FC / ch01-onboarding</td><td>12</td><td>12min</td><td>65%</td><td>0</td><td><span class="zy-tag">停用</span></td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dBpEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mTry">试抽</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mClone">复制</button><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-modal="mToggle">启用</button></td></tr>
-      </tbody>
-    </table>
   </div>
 </div>
 
 </div></div>
 
-<!-- D-11 蓝图编辑 720 -->
+<!-- 蓝图编辑（简化版） -->
 <div class="zy-drawer-mask" id="dBpEdit">
   <aside class="zy-drawer">
-    <div class="zy-drawer-head"><div class="zy-drawer-title">蓝图编辑 · EC ch1 章末测 v2</div><div class="zy-row"><span class="zy-tag zy-tag-success">启用</span><button class="zy-modal-close" data-close-modal>×</button></div></div>
+    <div class="zy-drawer-head"><div class="zy-drawer-title">蓝图编辑</div><div class="zy-row"><span class="zy-tag zy-tag-success">启用</span><button class="zy-modal-close" data-close-modal>×</button></div></div>
     <div class="zy-drawer-body">
       <div class="zy-grid cols-md-2">
-        <div class="zy-field"><label class="zy-label zy-required">名称</label><input class="zy-input" value="EC ch1 章末测 v2" /></div>
-        <div class="zy-field"><label class="zy-label zy-required">类型</label><select class="zy-select"><option selected>章末测</option><option>阶段测</option><option>模拟考</option></select></div>
-        <div class="zy-field"><label class="zy-label zy-required">赛道</label><select class="zy-select"><option selected>EC</option></select></div>
-        <div class="zy-field"><label class="zy-label">章</label><select class="zy-select"><option selected>ch01-greeting</option></select></div>
+        <div class="zy-field"><label class="zy-label zy-required">名称</label><input class="zy-input" value="EC Stage1 阶段考" /></div>
+        <div class="zy-field"><label class="zy-label zy-required">exam_scope</label><select class="zy-select"><option>lesson_quiz</option><option>chapter_test</option><option selected>stage_exam</option><option>hsk_mock</option></select></div>
+        <div class="zy-field"><label class="zy-label zy-required">主题</label><select class="zy-select"><option selected>EC</option><option>SH</option><option>FC</option><option>HSK</option><option>DL</option></select></div>
+        <div class="zy-field"><label class="zy-label">所属层级</label><input class="zy-input" value="EC / Stage 1" readonly /></div>
       </div>
 
-      <h3 style="margin: 16px 0 8px; font-size: 14px;">KP 范围</h3>
-      <div class="zy-field"><label class="zy-label">已选 KP（24）</label>
-        <div style="padding: 8px; border: 1px solid var(--zy-border); border-radius: 8px; min-height: 60px;">
-          <span class="zy-tag">kp-zaoshang ×</span> <span class="zy-tag">kp-hao ×</span> <span class="zy-tag">kp-zaoshanghao ×</span> <span class="zy-tag">kp-laoban ×</span> <span class="zy-tag">kp-xiexie ×</span>
-          <span style="font-size: 12px; color: var(--zy-fg-mute);">… 还有 19 个</span>
-        </div>
-        <button class="zy-btn zy-btn-ghost zy-btn-sm" style="margin-top: 6px;" data-open-modal="mPickKP">编辑选择</button>
-      </div>
-
-      <h3 style="margin: 16px 0 8px; font-size: 14px;">题型配比</h3>
-      <table class="zy-table" style="font-size: 13px;">
-        <thead><tr><th>题型</th><th>权重 %</th><th>题数</th></tr></thead>
-        <tbody>
-          <tr><td>listen_pick</td><td><input class="zy-input" type="number" value="20" style="width: 70px;" /></td><td>3</td></tr>
-          <tr><td>tone_pick</td><td><input class="zy-input" type="number" value="13" style="width: 70px;" /></td><td>2</td></tr>
-          <tr><td>cloze</td><td><input class="zy-input" type="number" value="20" style="width: 70px;" /></td><td>3</td></tr>
-          <tr><td>match</td><td><input class="zy-input" type="number" value="13" style="width: 70px;" /></td><td>2</td></tr>
-          <tr><td>order</td><td><input class="zy-input" type="number" value="13" style="width: 70px;" /></td><td>2</td></tr>
-          <tr><td>trans_zh_en</td><td><input class="zy-input" type="number" value="13" style="width: 70px;" /></td><td>2</td></tr>
-          <tr><td>read_choice</td><td><input class="zy-input" type="number" value="8" style="width: 70px;" /></td><td>1</td></tr>
-        </tbody>
-        <tfoot><tr><td><strong>合计</strong></td><td><strong>100</strong></td><td><strong>15</strong></td></tr></tfoot>
-      </table>
-
-      <h3 style="margin: 16px 0 8px; font-size: 14px;">难度分布</h3>
-      <div class="zy-grid cols-md-3">
-        <div class="zy-field"><label class="zy-label">难度 1（易）%</label><input class="zy-input" type="number" value="40" /></div>
-        <div class="zy-field"><label class="zy-label">难度 2（中）%</label><input class="zy-input" type="number" value="40" /></div>
-        <div class="zy-field"><label class="zy-label">难度 3（难）%</label><input class="zy-input" type="number" value="20" /></div>
+      <h3 style="margin: 16px 0 8px; font-size: 14px;">题型配比（按 % 自动 normalize）</h3>
+      <div class="zy-table-wrap">
+        <table class="zy-table" style="font-size: 13px;">
+          <thead><tr><th>题型</th><th>权重 %</th><th>预计题数</th></tr></thead>
+          <tbody>
+            <tr><td>listen_pick</td><td><input class="zy-input" type="number" value="20" style="width: 70px;" /></td><td>8</td></tr>
+            <tr><td>tone_pick</td><td><input class="zy-input" type="number" value="10" style="width: 70px;" /></td><td>4</td></tr>
+            <tr><td>cloze</td><td><input class="zy-input" type="number" value="20" style="width: 70px;" /></td><td>8</td></tr>
+            <tr><td>match</td><td><input class="zy-input" type="number" value="15" style="width: 70px;" /></td><td>6</td></tr>
+            <tr><td>order</td><td><input class="zy-input" type="number" value="10" style="width: 70px;" /></td><td>4</td></tr>
+            <tr><td>trans_zh_en</td><td><input class="zy-input" type="number" value="15" style="width: 70px;" /></td><td>6</td></tr>
+            <tr><td>read_choice</td><td><input class="zy-input" type="number" value="10" style="width: 70px;" /></td><td>4</td></tr>
+          </tbody>
+          <tfoot><tr><td><strong>合计</strong></td><td><strong>100</strong></td><td><strong>40</strong></td></tr></tfoot>
+        </table>
       </div>
 
       <h3 style="margin: 16px 0 8px; font-size: 14px;">考试参数</h3>
       <div class="zy-grid cols-md-3">
-        <div class="zy-field"><label class="zy-label zy-required">总题数</label><input class="zy-input" type="number" value="15" /></div>
-        <div class="zy-field"><label class="zy-label zy-required">时长（分钟）</label><input class="zy-input" type="number" value="15" /></div>
-        <div class="zy-field"><label class="zy-label zy-required">通过线</label><input class="zy-input" value="70%" /></div>
-        <div class="zy-field"><label class="zy-label">允许重考</label><select class="zy-select"><option selected>无限次</option><option>每日 3 次</option><option>每章 1 次</option></select></div>
-        <div class="zy-field"><label class="zy-label">题目随机</label><select class="zy-select"><option selected>是</option><option>否（固定）</option></select></div>
-        <div class="zy-field"><label class="zy-label">作弊检测</label><select class="zy-select"><option selected>启用（切屏告警）</option><option>禁用</option></select></div>
+        <div class="zy-field"><label class="zy-label zy-required">总题数</label><input class="zy-input" type="number" value="40" /></div>
+        <div class="zy-field"><label class="zy-label zy-required">时长（分钟）</label><input class="zy-input" type="number" value="40" /></div>
+        <div class="zy-field"><label class="zy-label zy-required">通过线</label><input class="zy-input" value="80%" /></div>
+        <div class="zy-field"><label class="zy-label">允许重考</label><select class="zy-select"><option>无限次</option><option selected>每章 ≤ 3 次</option><option>每日 1 次</option></select></div>
+        <div class="zy-field"><label class="zy-label">题目随机</label><select class="zy-select"><option selected>是</option><option>否</option></select></div>
+        <div class="zy-field"><label class="zy-label">状态</label><select class="zy-select"><option selected>启用</option><option>停用</option></select></div>
       </div>
 
       <div class="zy-divider"></div>
       <div class="zy-row">
         <button class="zy-btn zy-btn-ghost" data-open-modal="mTry">🎲 试抽预览</button>
-        <span style="font-size: 12px; color: var(--zy-fg-mute);">题库覆盖：可抽 142 题（充足）</span>
+        <span class="zy-helper">题池覆盖：可抽 186 题（充足）</span>
       </div>
     </div>
     <div class="zy-drawer-foot">
       <button class="zy-btn zy-btn-ghost" data-close-modal>取消</button>
-      <button class="zy-btn zy-btn-ghost" data-close-modal data-toast="已保存为草稿" data-toast-type="info">保存草稿</button>
-      <button class="zy-btn zy-btn-primary" data-close-modal data-toast="蓝图已保存并启用" data-toast-type="success">保存并启用</button>
+      <button class="zy-btn zy-btn-primary" data-close-modal data-toast="蓝图已保存" data-toast-type="success">保存</button>
     </div>
   </aside>
 </div>
@@ -131,65 +211,36 @@
 <!-- 试抽 -->
 <div class="zy-modal-mask" id="mTry">
   <div class="zy-modal size-lg">
-    <div class="zy-modal-head"><div class="zy-modal-title">🎲 试抽预览（15 题）</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-head"><div class="zy-modal-title">🎲 试抽预览</div><button class="zy-modal-close" data-close-modal>×</button></div>
     <div class="zy-modal-body">
       <table class="zy-table" style="font-size: 12px;">
-        <thead><tr><th>#</th><th>题型</th><th>难度</th><th>KP</th><th>题面</th></tr></thead>
+        <thead><tr><th>#</th><th>题型</th><th>KP</th><th>题面</th></tr></thead>
         <tbody>
-          <tr><td>1</td><td>listen_pick</td><td>1</td><td>kp-zaoshang</td><td>请选择听到的词…</td></tr>
-          <tr><td>2</td><td>cloze</td><td>2</td><td>kp-zaoshanghao</td><td>____ 好，老板！</td></tr>
-          <tr><td>3</td><td>tone_pick</td><td>1</td><td>kp-hao</td><td>「好」的声调</td></tr>
-          <tr><td>4</td><td>match</td><td>1</td><td>kp-share</td><td>中英配对</td></tr>
-          <tr><td>5</td><td>order</td><td>2</td><td>kp-xiexie</td><td>排序</td></tr>
-          <tr><td>6</td><td>trans_zh_en</td><td>2</td><td>kp-laoban</td><td>翻译</td></tr>
-          <tr><td>7</td><td>read_choice</td><td>3</td><td>kp-zaoshanghao</td><td>阅读选择</td></tr>
-          <tr><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td></tr>
+          <tr><td>1</td><td>listen_pick</td><td>kp-zaoshang</td><td>请选择听到的词…</td></tr>
+          <tr><td>2</td><td>cloze</td><td>kp-zaoshanghao</td><td>____ 好，老板！</td></tr>
+          <tr><td>3</td><td>tone_pick</td><td>kp-hao</td><td>「好」的声调</td></tr>
+          <tr><td>4</td><td>match</td><td>kp-share</td><td>中英配对</td></tr>
+          <tr><td>5</td><td>order</td><td>kp-xiexie</td><td>排序</td></tr>
+          <tr><td>…</td><td>…</td><td>…</td><td>…</td></tr>
         </tbody>
       </table>
-      <div class="zy-row" style="margin-top: 12px; font-size: 12px; color: var(--zy-fg-mute);">
-        <span>题型分布：listen 3 / tone 2 / cloze 3 / match 2 / order 2 / trans 2 / read 1</span><span>·</span>
-        <span>难度：1×6 / 2×6 / 3×3</span>
-      </div>
     </div>
     <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>关闭</button><button class="zy-btn zy-btn-ghost" data-toast="已重新抽题" data-toast-type="info">🎲 再抽一次</button></div>
   </div>
 </div>
 
-<!-- KP 选择器 -->
-<div class="zy-modal-mask" id="mPickKP">
-  <div class="zy-modal size-lg">
-    <div class="zy-modal-head"><div class="zy-modal-title">选择 KP（已选 24）</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">
-      <input class="zy-input" placeholder="🔍 搜索 KP" />
-      <div class="zy-divider"></div>
-      <div class="zy-stack" style="max-height: 300px; overflow: auto;">
-        <label class="zy-row"><input type="checkbox" checked /> kp-zaoshang · 早上</label>
-        <label class="zy-row"><input type="checkbox" checked /> kp-hao · 好</label>
-        <label class="zy-row"><input type="checkbox" checked /> kp-zaoshanghao · 早上好</label>
-        <label class="zy-row"><input type="checkbox" /> kp-wanan · 晚安</label>
-        <label class="zy-row"><input type="checkbox" checked /> kp-xiexie · 谢谢</label>
-        <label class="zy-row"><input type="checkbox" /> kp-zaijian · 再见</label>
-      </div>
-    </div>
-    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已更新选择" data-toast-type="success">确认</button></div>
-  </div>
-</div>
-
-<div class="zy-modal-mask" id="mClone">
-  <div class="zy-modal size-sm">
-    <div class="zy-modal-head"><div class="zy-modal-title">复制蓝图</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body"><div class="zy-field"><label class="zy-label">新名称</label><input class="zy-input" value="EC ch1 章末测 v2 - 副本" /></div></div>
-    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已复制为草稿" data-toast-type="success">复制</button></div>
-  </div>
-</div>
-
-<div class="zy-modal-mask" id="mToggle">
-  <div class="zy-modal size-sm">
-    <div class="zy-modal-head"><div class="zy-modal-title">切换状态</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">停用后学员无法新发起此考试，已开始的可继续完成。</div>
-    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="状态已切换" data-toast-type="success">确认</button></div>
-  </div>
-</div>
-
 <script src="_assets/prototype.js"></script>
+<script>
+// HSK 主题 → 显示 HSK 模考区
+(function(){
+  var sec = document.getElementById('hskMockSection');
+  document.querySelectorAll('#emTheme .zy-pill').forEach(function(b){
+    b.addEventListener('click', function(){
+      document.querySelectorAll('#emTheme .zy-pill').forEach(function(x){ x.classList.remove('active'); });
+      b.classList.add('active');
+      if(sec) sec.style.display = (b.dataset.emTheme === 'hsk') ? '' : 'none';
+    });
+  });
+})();
+</script>
 </body></html>

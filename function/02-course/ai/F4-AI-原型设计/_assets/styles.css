@@ -416,3 +416,67 @@ em.hl { background: #fff3a8; color: inherit; font-style: normal; font-weight: 60
   color: var(--zy-fg-soft); font-size: 16px;
 }
 .zy-icon-btn:hover { border-color: var(--zy-brand); color: var(--zy-brand); }
+
+/* ============== 新增：SVG 图标 / 多语言徽章 / 移动端列表卡片化 ============== */
+/* 通用 SVG 小图标按钮（参考 system/web-app china 板块） */
+.zy-svg-icon { width: 14px; height: 14px; vertical-align: -2px; flex-shrink: 0; }
+.zy-svg-icon-lg { width: 18px; height: 18px; }
+.zy-play-btn {
+  display: inline-flex; align-items: center; gap: 4px;
+  height: 28px; padding: 0 10px; border: 1px solid var(--zy-border);
+  background: var(--zy-bg); color: var(--zy-fg-soft); border-radius: 999px;
+  font-size: 12px; cursor: pointer; line-height: 1;
+}
+.zy-play-btn:hover { color: var(--zy-brand); border-color: var(--zy-brand); }
+.zy-play-btn .zy-svg-icon { color: var(--zy-brand); }
+
+/* i18n 徽章：用于在导航栏标记需多语言适配的标签，便于走查 */
+.zy-i18n-badge {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 2px 6px; border-radius: 999px; font-size: 10px;
+  background: rgba(255, 36, 66, 0.1); color: var(--zy-brand);
+  border: 1px dashed var(--zy-brand);
+  font-family: ui-monospace, monospace;
+}
+.zy-i18n-badge::before { content: "i18n"; }
+
+/* 应用端语言切换按钮（导航栏） */
+.zy-lang-pill {
+  display: inline-flex; align-items: center; gap: 4px;
+  height: 28px; padding: 0 10px; border-radius: 999px;
+  border: 1px solid var(--zy-border); background: var(--zy-bg);
+  cursor: pointer; font-size: 12px; color: var(--zy-fg-soft);
+}
+.zy-lang-pill:hover { border-color: var(--zy-brand); color: var(--zy-brand); }
+
+/* 移动端：表格转卡片式（适配 P-A-5/P-C-8 等长宽列表） */
+.proto-frame.mobile .zy-table-stack thead { display: none; }
+.proto-frame.mobile .zy-table-stack tr {
+  display: block; border: 1px solid var(--zy-border); border-radius: 12px;
+  margin-bottom: 8px; padding: 10px 12px; background: var(--zy-bg);
+}
+.proto-frame.mobile .zy-table-stack td {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 4px 0; border: 0; font-size: 13px; gap: 8px;
+}
+.proto-frame.mobile .zy-table-stack td::before {
+  content: attr(data-label); color: var(--zy-fg-mute); font-size: 12px;
+  flex-shrink: 0;
+}
+.proto-frame.mobile .zy-table-stack td:first-child::before { display: none; }
+.proto-frame.mobile .zy-table-stack td:first-child { font-weight: 600; padding-bottom: 6px; border-bottom: 1px solid var(--zy-border); margin-bottom: 4px; display: block; }
+
+/* 题目/SRS 卡片移动端避免横向溢出（防止 tag 行竖排） */
+.proto-frame.mobile .qz-tags { flex-wrap: wrap; }
+.proto-frame.mobile .zy-card .zy-row { flex-wrap: wrap; }
+
+/* 应用端举报按钮：弱化为次要小图标 */
+.zy-report-link {
+  display: inline-flex; align-items: center; gap: 3px;
+  font-size: 12px; color: var(--zy-fg-mute); cursor: pointer;
+  background: none; border: 0; padding: 4px 6px; border-radius: 6px;
+}
+.zy-report-link:hover { color: var(--zy-brand); background: var(--zy-brand-soft); }
+
+/* 防止移动端短宽下，多 tag 行被压缩成竖排 */
+.zy-tag-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }

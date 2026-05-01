@@ -62,28 +62,19 @@
       </div>
     </div>
     <div class="zy-table-wrap">
-      <table class="zy-table">
-        <thead><tr><th style="width:50px;">序</th><th>编码</th><th>主词（zh）</th><th>拼音</th><th>类型</th><th>媒资</th><th>题目数</th><th style="width:160px;">操作</th></tr></thead>
+      <table class="zy-table zy-table-stack">
+        <thead><tr><th style="width:50px;">序</th><th>编码</th><th>主词（zh）</th><th>拼音</th><th>类型</th><th>音频</th><th>题目数</th><th style="width:160px;">操作</th></tr></thead>
         <tbody>
-          <tr><td>1</td><td><code>kp-zaoshang</code></td><td>早上</td><td>zǎo shang</td><td><span class="zy-tag">word</span></td><td>🔊 ✅</td><td>5</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mUnbind">解绑</button></td></tr>
-          <tr><td>2</td><td><code>kp-hao</code></td><td>好</td><td>hǎo</td><td><span class="zy-tag">word</span></td><td>🔊 ✅</td><td>4</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mUnbind">解绑</button></td></tr>
-          <tr><td>3</td><td><code>kp-zaoshanghao</code></td><td>早上好</td><td>zǎo shang hǎo</td><td><span class="zy-tag zy-tag-info">phrase</span></td><td>🔊 ✅</td><td>6</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mUnbind">解绑</button></td></tr>
-          <tr><td>…</td><td colspan="7" style="color: var(--zy-fg-mute);">余下 9 项</td></tr>
+          <tr><td data-label="序">1</td><td data-label="编码"><code>kp-zaoshang</code></td><td data-label="主词">早上</td><td data-label="拼音">zǎo shang</td><td data-label="类型"><span class="zy-tag">word</span></td><td data-label="音频" title="用户端缓存回显"><span data-icon="speaker"></span> 已缓存</td><td data-label="题目数">5</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mUnbind">解绑</button></td></tr>
+          <tr><td data-label="序">2</td><td data-label="编码"><code>kp-hao</code></td><td data-label="主词">好</td><td data-label="拼音">hǎo</td><td data-label="类型"><span class="zy-tag">word</span></td><td data-label="音频"><span data-icon="speaker"></span> 已缓存</td><td data-label="题目数">4</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mUnbind">解绑</button></td></tr>
+          <tr><td data-label="序">3</td><td data-label="编码"><code>kp-zaoshanghao</code></td><td data-label="主词">早上好</td><td data-label="拼音">zǎo shang hǎo</td><td data-label="类型"><span class="zy-tag zy-tag-info">phrase</span></td><td data-label="音频"><span data-icon="speaker"></span> 已缓存</td><td data-label="题目数">6</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mUnbind">解绑</button></td></tr>
+          <tr><td data-label="…">…</td><td colspan="7" style="color: var(--zy-fg-mute);">余下 9 项</td></tr>
         </tbody>
       </table>
     </div>
   </div>
 
-  <!-- AI 协助 -->
-  <div class="zy-card">
-    <h3 style="margin: 0 0 8px;">🤖 AI 协助</h3>
-    <p class="zy-helper">基于已绑定的 12 KP，可一键生成题目（默认进入审核队列）。</p>
-    <div class="zy-row" style="margin-top: 8px;">
-      <button class="zy-btn zy-btn-ghost" data-open-modal="mAIGen">⚡ 生成 30 题（多题型）</button>
-      <button class="zy-btn zy-btn-ghost" data-open-modal="mAIGenLesson">📝 生成节末小测（6 题）</button>
-      <button class="zy-btn zy-btn-ghost" data-toast="跳到 P-A-7 查看 Job">查看历史 Job</button>
-    </div>
-  </div>
+  <!-- AI 已移除：题目/KP 均由运营线下使用 AI 生成后导入。本页仅提供手动维护。 -->
 </div>
 
 </div></div>
@@ -101,7 +92,7 @@
         <div class="zy-field"><label class="zy-label">泰文</label><input class="zy-input" value="ตอนเช้า" /></div>
         <div class="zy-field"><label class="zy-label">印尼文</label><input class="zy-input" value="pagi" /></div>
       </div>
-      <div class="zy-field"><label class="zy-label">音频</label><div class="zy-row"><input class="zy-input" value="cdn://media/zaoshang.mp3" readonly /><button class="zy-btn zy-btn-ghost" data-toast="播放">🔊</button><button class="zy-btn zy-btn-ghost" data-open-modal="mTTS">重生 TTS</button></div></div>
+      <div class="zy-field"><label class="zy-label">音频（用户端缓存回显）</label><div class="zy-row"><input class="zy-input" value="cdn://media/zaoshang.mp3" readonly /><button class="zy-play-btn" data-toast="试听缓存音频"><span data-icon="speaker"></span>试听</button></div><div class="zy-helper">客户端首次访问时调用 TTS 生成并上传 CDN；本处仅为读取现有缓存。未生成者为空。</div></div>
       <div class="zy-field"><label class="zy-label">例句（2/3）</label>
         <div class="zy-stack">
           <div class="zy-row" style="padding:8px; border:1px solid var(--zy-border); border-radius:8px;">早上好，老板！<span class="zy-row-end" style="margin-left:auto;"><button class="zy-btn zy-btn-sm zy-btn-ghost">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger">删</button></span></div>
@@ -164,35 +155,7 @@
   </div>
 </div>
 
-<!-- AI 生成 -->
-<div class="zy-modal-mask" id="mAIGen">
-  <div class="zy-modal size-md">
-    <div class="zy-modal-head"><div class="zy-modal-title">⚡ AI 生成 30 题</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">
-      <div class="zy-field"><label class="zy-label">题型分布（自动 normalize）</label>
-        <div class="zy-grid cols-md-2">
-          <div class="zy-row"><span style="width:120px;">listen_pick</span><input class="zy-input" type="number" value="8" /></div>
-          <div class="zy-row"><span style="width:120px;">tone_pick</span><input class="zy-input" type="number" value="4" /></div>
-          <div class="zy-row"><span style="width:120px;">cloze</span><input class="zy-input" type="number" value="6" /></div>
-          <div class="zy-row"><span style="width:120px;">match</span><input class="zy-input" type="number" value="4" /></div>
-          <div class="zy-row"><span style="width:120px;">order</span><input class="zy-input" type="number" value="4" /></div>
-          <div class="zy-row"><span style="width:120px;">trans_zh_en</span><input class="zy-input" type="number" value="4" /></div>
-        </div>
-      </div>
-      <div class="zy-field"><label class="zy-label">Prompt 版本</label><select class="zy-select"><option>v3 (latest, 2025-11-20)</option><option>v2</option></select></div>
-      <div class="zy-field"><label class="zy-label">提交后</label><select class="zy-select"><option selected>进入审核队列</option><option>直接发布（高级）</option></select></div>
-    </div>
-    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="Job 已提交：job_lesson_gen_8821" data-toast-type="success">提交 Job</button></div>
-  </div>
-</div>
-
-<div class="zy-modal-mask" id="mAIGenLesson">
-  <div class="zy-modal size-sm">
-    <div class="zy-modal-head"><div class="zy-modal-title">生成节末小测</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">将基于已审核题库自动组卷 6 题，并保存为本节 quiz_blueprint。</div>
-    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已生成蓝图（6 题）" data-toast-type="success">生成</button></div>
-  </div>
-</div>
+<!-- AI 生成相关模态已移除 -->
 
 <!-- 解绑 -->
 <div class="zy-modal-mask" id="mUnbind">

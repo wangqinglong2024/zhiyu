@@ -29,12 +29,22 @@
   <div class="zy-bread"><span data-nav="/learn/me">我的</span><span class="sep">›</span><span class="cur">考试中心</span></div>
 
   <h1 class="zy-page-title">📝 考试中心</h1>
-  <p class="zy-page-sub">章测 / 阶段考 / HSK 模考 · 通过线 80 · 章测可重考 ≤ 3 次</p>
+  <p class="zy-page-sub">先选主题 → 进入后选择章测 / 阶段考；HSK 仅在「HSK 主题」内提供模考。通过线 80 · 章测可重考 ≤ 3 次</p>
 
-  <div class="zy-pills" style="margin: 12px 0 20px;">
+  <!-- 第一层：主题选择 -->
+  <div class="zy-pills" id="themeTabs" style="margin: 12px 0 12px;">
+    <button class="zy-pill" data-theme-tab="share" data-toast="切换主题：share（基础公共）">🌱 share 基础</button>
+    <button class="zy-pill active" data-theme-tab="ec" data-toast="切换主题：EC">🛒 EC 电商</button>
+    <button class="zy-pill" data-theme-tab="fc" data-toast="切换主题：FC">🏭 FC 工厂</button>
+    <button class="zy-pill" data-theme-tab="hsk" data-toast="切换主题：HSK">📘 HSK</button>
+    <button class="zy-pill" data-theme-tab="dl" data-toast="切换主题：DL">☕ DL 日常</button>
+  </div>
+
+  <!-- 第二层：层级 Tab；非 HSK 主题仅显示「章测/阶段考」；HSK 主题增加「HSK 模考」 -->
+  <div class="zy-pills" style="margin: 0 0 20px;">
     <button class="zy-pill active" data-tab="ch" data-tab-group="ex">章测 (chapter)</button>
     <button class="zy-pill" data-tab="st" data-tab-group="ex">阶段考 (stage)</button>
-    <button class="zy-pill" data-tab="hsk" data-tab-group="ex">HSK 模考 (mock)</button>
+    <button class="zy-pill" data-tab="hsk" data-tab-group="ex" id="hskMockTab" style="display:none;">HSK 模考 (mock)</button>
   </div>
 
   <!-- 章测 -->
@@ -78,16 +88,16 @@
     </div>
   </div>
 
-  <!-- HSK 模考 -->
+  <!-- HSK 横考（mock）：仅在主题=HSK 时显示，其他主题切换到此主题才出现该 Tab -->
   <div data-tab-pane="hsk" data-tab-group="ex" style="display:none;" class="zy-grid cols-md-2 cols-lg-3">
     <div class="zy-card">
-      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-brand">HSK 1</span></div>
+      <div class="zy-tag-row" style="margin-bottom:8px;"><span class="zy-tag zy-tag-brand">HSK 1</span></div>
       <div style="font-size: 16px; font-weight: 600;">HSK 1 模考 · 听力 + 阅读</div>
       <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">40 题 · 40 分钟 · 与真考一致</div>
       <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-primary" data-open-modal="mStart">开始模考</button></div>
     </div>
     <div class="zy-card">
-      <div style="display:flex; gap:8px; margin-bottom:8px;"><span class="zy-tag zy-tag-brand">HSK 2</span></div>
+      <div class="zy-tag-row" style="margin-bottom:8px;"><span class="zy-tag zy-tag-brand">HSK 2</span></div>
       <div style="font-size: 16px; font-weight: 600;">HSK 2 模考</div>
       <div style="font-size: 13px; color: var(--zy-fg-mute); margin-top: 4px;">60 题 · 55 分钟</div>
       <div class="zy-row" style="margin-top: 12px;"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mLockHsk">查看要求</button></div>
@@ -141,4 +151,25 @@
 </div>
 
 <script src="_assets/prototype.js"></script>
+<script>
+// 主题 Tab 切换：仅 HSK 主题显示「HSK 模考」Tab；其他主题隐藏
+(function(){
+  var hskTab = document.getElementById('hskMockTab');
+  document.querySelectorAll('#themeTabs .zy-pill').forEach(function(b){
+    b.addEventListener('click', function(){
+      document.querySelectorAll('#themeTabs .zy-pill').forEach(function(x){ x.classList.remove('active'); });
+      b.classList.add('active');
+      var isHsk = b.dataset.themeTab === 'hsk';
+      if(hskTab){ hskTab.style.display = isHsk ? '' : 'none'; }
+      // 切到非 HSK 主题时，若当前激活了 hsk pane，则回到章测
+      if(!isHsk){
+        var hskPane = document.querySelector('[data-tab-pane="hsk"][data-tab-group="ex"]');
+        if(hskPane && hskPane.style.display !== 'none'){
+          document.querySelector('[data-tab="ch"][data-tab-group="ex"]').click();
+        }
+      }
+    });
+  });
+})();
+</script>
 </body></html>

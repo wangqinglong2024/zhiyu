@@ -55,7 +55,7 @@
 
 ## 3.2 内容侧表（管理端写、用户端只读）
 
-### 3.2.1 `tracks` —— 赛道
+### 3.2.1 `tracks` —— 主题
 ```sql
 CREATE TABLE tracks (
   code        TEXT PRIMARY KEY,                -- ec / fc / hk / dl / share
@@ -76,7 +76,7 @@ CREATE TABLE stages (
   title_zh     TEXT NOT NULL,
   title_i18n   JSONB,
   desc_i18n    JSONB,
-  hsk_mapping  TEXT,                            -- 可空，HSK 赛道才填
+  hsk_mapping  TEXT,                            -- 可空，HSK 主题才填
   unlock_rule  JSONB,                           -- {prev_stage_pass: true}
   sort_order   INT  DEFAULT 0,
   is_published BOOLEAN DEFAULT FALSE,
@@ -118,7 +118,7 @@ CREATE TABLE lessons (
 CREATE INDEX idx_lessons_code ON lessons(code);
 ```
 
-### 3.2.5 `knowledge_points`（KP 总表，跨赛道可复用）
+### 3.2.5 `knowledge_points`（KP 总表，跨主题可复用）
 ```sql
 CREATE TABLE knowledge_points (
   id            BIGSERIAL PRIMARY KEY,
@@ -368,7 +368,7 @@ CREATE TABLE admins (
   username     TEXT UNIQUE NOT NULL,
   password_hash TEXT NOT NULL,
   role         TEXT NOT NULL,                  -- super / content_admin / reviewer / ai_operator / readonly
-  tracks_scope TEXT[],                          -- 该管理员能管哪几个赛道，空=全部
+  tracks_scope TEXT[],                          -- 该管理员能管哪几个主题，空=全部
   is_enabled   BOOLEAN DEFAULT TRUE,
   created_at   TIMESTAMPTZ DEFAULT now()
 );

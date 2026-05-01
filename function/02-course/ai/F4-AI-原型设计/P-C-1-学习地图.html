@@ -30,20 +30,20 @@
     <a class="zy-topnav-link" data-nav="/learn/me">我的</a>
   </nav>
   <div class="zy-topnav-actions">
-    <button class="zy-icon-btn" data-open-modal="mLang" title="语言">🌐</button>
+    <button class="zy-lang-pill" data-open-modal="mLang" title="切换界面语言（影响所有系统 UI 文本，含「类型/题型/状态」等枚举翻译）"><span data-icon="globe"></span>中文 <span class="zy-i18n-badge"></span></button>
     <span class="zy-avatar" data-open-modal="mProfile">小</span>
   </div>
 </header>
 
 <!-- ============= 主体 ============= -->
 <div class="zy-container">
-  <!-- 赛道 Tab -->
-  <div class="zy-pills" style="margin-bottom: 20px;">
-    <button class="zy-pill active">🛒 电商 EC</button>
-    <button class="zy-pill" data-toast="切换赛道：FC（写回 course_user_settings.current_track）">🏭 工厂 FC</button>
-    <button class="zy-pill" data-toast="切换赛道：HSK">📘 HSK</button>
-    <button class="zy-pill" data-toast="切换赛道：日常 DL">☕ 日常 DL</button>
-    <button class="zy-pill" data-open-modal="mShareLock">🌱 基础 share 🔒</button>
+  <!-- 主题 Tab（顺序：share 基础打头 → EC → FC → HSK → DL；默认回显上次选择 course_user_settings.current_track） -->
+  <div class="zy-pills" id="trackTabs" style="margin-bottom: 20px;">
+    <button class="zy-pill" data-track="share" data-toast="切换主题：share（基础公共内容）">🌱 基础 share</button>
+    <button class="zy-pill active" data-track="ec" data-toast="切换主题：EC（写回 course_user_settings.current_track）">🛒 电商 EC</button>
+    <button class="zy-pill" data-track="fc" data-toast="切换主题：FC">🏭 工厂 FC</button>
+    <button class="zy-pill" data-track="hsk" data-toast="切换主题：HSK">📘 HSK</button>
+    <button class="zy-pill" data-track="dl" data-toast="切换主题：DL">☕ 日常 DL</button>
   </div>
 
   <!-- Stage 1 -->
@@ -55,8 +55,8 @@
     </div>
   </div>
 
-  <!-- 卡片瀑布流 -->
-  <div class="zy-grid cols-md-2 cols-lg-3 cols-xl-4">
+  <!-- 卡片瀑布流：Web 端 3 列 / 移动端 1 列（cols-lg-3 在 ≥768px 启用，移动端由 .proto-frame.mobile .zy-grid 强制 1 列） -->
+  <div class="zy-grid cols-lg-3">
 
     <div class="zy-chap-card" data-collapse="ch11"><span class="emoji">💬</span>
       <h3>1.1 自我介绍</h3>
@@ -116,7 +116,7 @@
   <div style="display:flex; align-items:center; justify-content:space-between; margin: 32px 0 12px;">
     <h2 style="font-size: 18px; margin: 0;">Stage 2 · 进阶 <span style="font-size: 12px; color: var(--zy-fg-mute); margin-left:8px;">🔒 完成 S1 阶段考解锁</span></h2>
   </div>
-  <div class="zy-grid cols-md-2 cols-lg-3 cols-xl-4">
+  <div class="zy-grid cols-lg-3">
     <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">💼</span><span class="lock">🔒</span><h3>2.1 接待客户</h3><div class="sub">6 节</div><div class="meta"><span class="zy-tag">待解锁</span></div></div>
     <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">📦</span><span class="lock">🔒</span><h3>2.2 询问订单</h3><div class="sub">6 节</div><div class="meta"><span class="zy-tag">待解锁</span></div></div>
     <div class="zy-chap-card locked" data-open-modal="mLockedChap"><span class="emoji">💵</span><span class="lock">🔒</span><h3>2.3 价格协商</h3><div class="sub">6 节</div><div class="meta"><span class="zy-tag">待解锁</span></div></div>
@@ -141,11 +141,11 @@
 </div></div>
 
 <!-- ============= Modals ============= -->
-<!-- D-1 切赛道 share 锁 -->
+<!-- D-1 主题切换提示（保留以备其他位置调用） -->
 <div class="zy-modal-mask" id="mShareLock">
   <div class="zy-modal size-sm">
-    <div class="zy-modal-head"><div class="zy-modal-title">请先完成基础 Stage 0</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">主题赛道（电商 / 工厂 / HSK / 日常）在 <strong>基础 share Stage 0</strong> 完成后解锁。</div>
+    <div class="zy-modal-head"><div class="zy-modal-title">主题切换</div><button class="zy-modal-close" data-close-modal>×</button></div>
+    <div class="zy-modal-body">5 个主题（share 基础 / EC 电商 / FC 工厂 / HSK / DL 日常）任意切换；切换后顶部 Tab 高亮并写回 <code>course_user_settings.current_track</code>，下次进入自动回显。</div>
     <div class="zy-modal-foot"><button class="zy-btn zy-btn-primary" data-close-modal>我知道了</button></div>
   </div>
 </div>
@@ -201,5 +201,22 @@
 </div>
 
 <script src="_assets/prototype.js"></script>
+<script>
+// 主题 Tab：默认回显上次选择（localStorage.zy.lastTrack）
+(function(){
+  var saved = null; try { saved = localStorage.getItem('zy.lastTrack'); } catch(e){}
+  var tabs = document.querySelectorAll('#trackTabs .zy-pill');
+  if(saved){
+    tabs.forEach(function(b){ b.classList.toggle('active', b.dataset.track === saved); });
+  }
+  tabs.forEach(function(b){
+    b.addEventListener('click', function(){
+      tabs.forEach(function(x){ x.classList.remove('active'); });
+      b.classList.add('active');
+      try { localStorage.setItem('zy.lastTrack', b.dataset.track); } catch(e){}
+    });
+  });
+})();
+</script>
 </body>
 </html>

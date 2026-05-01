@@ -26,9 +26,9 @@
   <div class="zy-bread"><span data-nav="/admin/course">课程</span><span class="sep">›</span><span class="cur">题目</span></div>
 
   <div class="zy-row" style="justify-content: space-between; margin-bottom: 12px;">
-    <div><h1 class="zy-page-title">📝 题目列表</h1><p class="zy-page-sub">14,236 题 · 9 种题型 · payload_hash 自动去重</p></div>
+    <div><h1 class="zy-page-title">📝 题目列表</h1><p class="zy-page-sub">14,236 题 · 9 种题型 · payload_hash 自动去重 · 题目可同时隶属多个 <code>exam_scope</code></p></div>
     <div class="zy-row">
-      <button class="zy-btn zy-btn-ghost" data-open-modal="mAIRegen">⚡ AI 批量重生</button>
+      <button class="zy-btn zy-btn-ghost" data-toast="导出当前筛选结果（json）">⬇ 导出</button>
       <button class="zy-btn zy-btn-primary" data-open-drawer="dQEdit">➕ 新建题</button>
     </div>
   </div>
@@ -37,27 +37,28 @@
     <div class="zy-row">
       <input class="zy-input" placeholder="🔍 搜索题面 / KP 编码" style="flex:1; min-width: 220px;" />
       <select class="zy-select" style="width: 140px;"><option>全部题型</option><option>listen_pick</option><option>tone_pick</option><option>cloze</option><option>match</option><option>order</option><option>trans_zh_en</option><option>read_choice</option><option>speak_repeat</option><option>write_dict</option></select>
-      <select class="zy-select" style="width: 140px;"><option>全部赛道</option><option>EC</option><option>FC</option></select>
-      <select class="zy-select" style="width: 130px;"><option>全部状态</option><option>已审</option><option>待审</option><option>草稿</option></select>
-      <select class="zy-select" style="width: 130px;"><option>全部难度</option><option>1</option><option>2</option><option>3</option></select>
+      <select class="zy-select" style="width: 140px;"><option>全部主题</option><option>SH</option><option>EC</option><option>FC</option><option>HSK</option><option>DL</option></select>
+      <select class="zy-select" style="width: 160px;"><option>全部使用范围</option><option>practice 练习池</option><option>lesson_quiz 节末测</option><option>chapter_test 章测</option><option>stage_exam 阶段考</option><option>hsk_mock HSK模考</option></select>
+      <select class="zy-select" style="width: 130px;"><option>全部状态</option><option>已审</option><option>草稿</option></select>
       <button class="zy-btn zy-btn-ghost" data-toast="筛选已应用">应用</button>
     </div>
+    <div class="zy-helper" style="margin-top:8px;">⚠ <strong>exam_scope</strong> 决定题目在哪些场景被抽取：<code>practice</code>+<code>lesson_quiz</code> 共享题池；<code>chapter_test</code> / <code>stage_exam</code> / <code>hsk_mock</code> 各自独立题池，避免高阶考试与日常练习题重复。</div>
   </div>
 
   <div class="zy-table-wrap">
-    <table class="zy-table">
-      <thead><tr><th style="width:40px;"><input type="checkbox" class="zy-check" /></th><th>ID</th><th>题型</th><th>题面摘要</th><th>所属 KP</th><th>难度</th><th>状态</th><th>来源</th><th>使用率</th><th style="width:160px;">操作</th></tr></thead>
+    <table class="zy-table zy-table-stack">
+      <thead><tr><th style="width:40px;"><input type="checkbox" class="zy-check" /></th><th>ID</th><th>题型<span class="zy-i18n-badge" title="应用端需多语显示"></span></th><th>题面摘要</th><th>所属 KP</th><th>主题</th><th>exam_scope</th><th>状态</th><th style="width:160px;">操作</th></tr></thead>
       <tbody>
-        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8821</code></td><td><span class="zy-tag zy-tag-info">listen_pick</span></td><td>请选择听到的词：早上 / 晚上 / 中午 / 下午</td><td>kp-zaoshang</td><td>1</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>AI v3</td><td>89%</td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8822</code></td><td><span class="zy-tag">tone_pick</span></td><td>「早」的声调？1/2/3/4 声</td><td>kp-zaoshang</td><td>1</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>AI v3</td><td>72%</td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8823</code></td><td><span class="zy-tag">cloze</span></td><td>____ 好，老板！（早上）</td><td>kp-zaoshanghao</td><td>2</td><td><span class="zy-tag zy-tag-warn">待审</span></td><td>AI v3</td><td>—</td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8824</code></td><td><span class="zy-tag">match</span></td><td>中文 ↔ 英文 配对（早上 / 谢谢 / 再见 / 晚上）</td><td>kp-share</td><td>1</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>人工</td><td>91%</td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>q_8825</code></td><td><span class="zy-tag">order</span></td><td>排序：早 / 上 / 好 → 早上好</td><td>kp-zaoshanghao</td><td>1</td><td><span class="zy-tag">草稿</span></td><td>AI v2</td><td>—</td>
-          <td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check"/></td><td data-label="ID"><code>q_8821</code></td><td data-label="题型"><span class="zy-tag zy-tag-info">listen_pick</span></td><td data-label="题面">请选择听到的词：早上 / 晚上 / 中午 / 下午</td><td data-label="KP">kp-zaoshang</td><td data-label="主题">EC</td><td data-label="exam_scope"><span class="zy-tag" title="practice">P</span><span class="zy-tag" title="lesson_quiz">L</span></td><td data-label="状态"><span class="zy-tag zy-tag-success">已审</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check"/></td><td data-label="ID"><code>q_8822</code></td><td data-label="题型"><span class="zy-tag">tone_pick</span></td><td data-label="题面">「早」的声调？1/2/3/4 声</td><td data-label="KP">kp-zaoshang</td><td data-label="主题">EC</td><td data-label="exam_scope"><span class="zy-tag" title="practice">P</span><span class="zy-tag" title="chapter_test">C</span></td><td data-label="状态"><span class="zy-tag zy-tag-success">已审</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check"/></td><td data-label="ID"><code>q_8823</code></td><td data-label="题型"><span class="zy-tag">cloze</span></td><td data-label="题面">____ 好，老板！（早上）</td><td data-label="KP">kp-zaoshanghao</td><td data-label="主题">EC</td><td data-label="exam_scope"><span class="zy-tag" title="stage_exam">S</span></td><td data-label="状态"><span class="zy-tag">草稿</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check"/></td><td data-label="ID"><code>q_8824</code></td><td data-label="题型"><span class="zy-tag">match</span></td><td data-label="题面">中文 ↔ 英文 配对（早上 / 谢谢 / 再见 / 晚上）</td><td data-label="KP">kp-share</td><td data-label="主题">SH</td><td data-label="exam_scope"><span class="zy-tag" title="practice">P</span><span class="zy-tag" title="lesson_quiz">L</span><span class="zy-tag" title="chapter_test">C</span></td><td data-label="状态"><span class="zy-tag zy-tag-success">已审</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check"/></td><td data-label="ID"><code>q_8825</code></td><td data-label="题型"><span class="zy-tag">order</span></td><td data-label="题面">排序：早 / 上 / 好 → 早上好</td><td data-label="KP">kp-zaoshanghao</td><td data-label="主题">HSK</td><td data-label="exam_scope"><span class="zy-tag" title="hsk_mock">H</span></td><td data-label="状态"><span class="zy-tag">草稿</span></td>
+          <td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dQEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mPreview">预览</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删</button></td></tr>
       </tbody>
     </table>
   </div>
@@ -78,8 +79,16 @@
       <div class="zy-grid cols-md-2">
         <div class="zy-field"><label class="zy-label zy-required">题型</label><select class="zy-select"><option selected>listen_pick</option><option>tone_pick</option><option>cloze</option><option>match</option></select></div>
         <div class="zy-field"><label class="zy-label zy-required">所属 KP</label><input class="zy-input" value="kp-zaoshang" /></div>
-        <div class="zy-field"><label class="zy-label">难度</label><select class="zy-select"><option selected>1 (易)</option><option>2</option><option>3</option></select></div>
-        <div class="zy-field"><label class="zy-label">来源</label><select class="zy-select"><option>AI v3</option><option>人工</option><option>导入</option></select></div>
+        <div class="zy-field"><label class="zy-label zy-required">主题</label><select class="zy-select"><option>SH</option><option selected>EC</option><option>FC</option><option>HSK</option><option>DL</option></select></div>
+        <div class="zy-field"><label class="zy-label zy-required">使用范围 exam_scope <span class="zy-helper">可多选</span></label>
+          <div class="zy-row" style="flex-wrap:wrap;gap:8px;">
+            <label class="zy-row"><input type="checkbox" class="zy-check" checked /> practice</label>
+            <label class="zy-row"><input type="checkbox" class="zy-check" checked /> lesson_quiz</label>
+            <label class="zy-row"><input type="checkbox" class="zy-check" /> chapter_test</label>
+            <label class="zy-row"><input type="checkbox" class="zy-check" /> stage_exam</label>
+            <label class="zy-row"><input type="checkbox" class="zy-check" /> hsk_mock</label>
+          </div>
+        </div>
       </div>
       <div class="zy-field"><label class="zy-label zy-required">题面（zh）</label><input class="zy-input" value="请选择你听到的词语：" /></div>
 
@@ -99,15 +108,13 @@
       <div class="zy-divider"></div>
       <div class="zy-row" style="font-size: 12px; color: var(--zy-fg-mute);">
         <span>payload_hash: <code>a3f9...c8e2</code></span>
-        <span>使用率：89% · 错误率：8%</span>
         <span>最近更新：2025-11-22</span>
       </div>
       <div class="zy-row" style="margin-top: 8px;">
         <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mPreview">预览效果</button>
-        <button class="zy-btn zy-btn-ghost zy-btn-sm" data-open-modal="mRegenOne">⚡ AI 重生本题</button>
       </div>
     </div>
-    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="题目已保存" data-toast-type="success">保存</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已保存并送审" data-toast-type="success">保存并送审</button></div>
+    <div class="zy-drawer-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="题目已保存" data-toast-type="success">保存</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已保存并发布" data-toast-type="success">保存并发布</button></div>
   </aside>
 </div>
 
@@ -116,7 +123,7 @@
   <div class="zy-modal size-md">
     <div class="zy-modal-head"><div class="zy-modal-title">题目预览 · listen_pick</div><button class="zy-modal-close" data-close-modal>×</button></div>
     <div class="zy-modal-body">
-      <div class="qz-stem"><button class="zy-btn zy-btn-ghost zy-btn-sm" data-toast="🔊 播放">🔊 播放音频</button> 请选择你听到的词语：</div>
+      <div class="qz-stem"><button class="zy-play-btn" data-toast="试听音频"><span data-icon="speaker"></span>播放</button> <span style="margin-left:8px;">请选择你听到的词语：</span></div>
       <div class="qz-options">
         <div class="qz-opt"><span class="key">A</span>晚上 wǎn shang</div>
         <div class="qz-opt correct"><span class="key">B</span>早上 zǎo shang</div>
@@ -128,26 +135,7 @@
   </div>
 </div>
 
-<!-- AI 批量重生 -->
-<div class="zy-modal-mask" id="mAIRegen">
-  <div class="zy-modal size-md">
-    <div class="zy-modal-head"><div class="zy-modal-title">⚡ AI 批量重生题目</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">
-      <div class="zy-field"><label class="zy-label">范围</label><select class="zy-select"><option>已勾选 0 项</option><option>当前筛选结果（约 1,200 题）</option></select></div>
-      <div class="zy-field"><label class="zy-label">Prompt 版本</label><select class="zy-select"><option>v3 (latest)</option></select></div>
-      <div class="zy-field"><label class="zy-label">提交后</label><select class="zy-select"><option selected>覆盖原题（旧版本归档）</option><option>新版本待审</option></select></div>
-    </div>
-    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="重生 Job 已提交：job_q_regen_8843" data-toast-type="success">提交</button></div>
-  </div>
-</div>
-
-<div class="zy-modal-mask" id="mRegenOne">
-  <div class="zy-modal size-sm">
-    <div class="zy-modal-head"><div class="zy-modal-title">AI 重生本题</div><button class="zy-modal-close" data-close-modal>×</button></div>
-    <div class="zy-modal-body">将基于本题 KP 重新生成，旧版本保留为 v(n-1)。</div>
-    <div class="zy-modal-foot"><button class="zy-btn zy-btn-ghost" data-close-modal>取消</button><button class="zy-btn zy-btn-primary" data-close-modal data-toast="已生成新版本，待审核" data-toast-type="success">生成</button></div>
-  </div>
-</div>
+<!-- AI 重生相关模态已移除 -->
 
 <div class="zy-modal-mask" id="mDel">
   <div class="zy-modal size-sm">

@@ -38,34 +38,34 @@
   <div class="zy-card" style="margin-bottom: 16px;">
     <div class="zy-row">
       <input class="zy-input" placeholder="🔍 搜索主词 / 拼音 / 编码 / 翻译" style="flex:1; min-width: 240px;" />
-      <select class="zy-select" style="width: 130px;"><option>全部赛道</option><option>EC</option><option>FC</option><option>HSK</option><option>DL</option><option>share</option></select>
+      <select class="zy-select" style="width: 130px;" id="selTheme"><option>全部主题</option><option>SH 基础</option><option selected>EC</option><option>FC</option><option>HSK</option><option>DL</option></select>
       <select class="zy-select" style="width: 130px;"><option>全部类型</option><option>word</option><option>phrase</option><option>sentence</option><option>grammar</option></select>
-      <select class="zy-select" style="width: 130px;"><option>全部状态</option><option>已审核</option><option>待审核</option><option>草稿</option></select>
-      <select class="zy-select" style="width: 130px;"><option>全部 HSK</option><option>HSK 1</option><option>HSK 2</option><option>HSK 3</option></select>
+      <select class="zy-select" style="width: 130px;"><option>全部状态</option><option>已审核</option><option>草稿</option></select>
+      <select class="zy-select" style="width: 130px;" id="selHsk"><option>全部 HSK</option><option>HSK 1</option><option>HSK 2</option><option>HSK 3</option></select>
       <button class="zy-btn zy-btn-ghost" data-toast="筛选已应用">应用</button>
       <button class="zy-btn zy-btn-ghost" data-toast="重置筛选">重置</button>
     </div>
+    <div class="zy-helper" style="margin-top:8px;">⚠ HSK 筛选仅在主题 = HSK 时可用；share 主题在表中以 <code>SH</code> 两位词表示。起始状态仅草稿 / 已审核 两种（无 AI 流程）。</div>
   </div>
 
   <!-- 批量操作栏 -->
   <div class="zy-row" style="margin-bottom: 8px; padding: 8px 12px; background: var(--zy-bg-elev); border-radius: 8px;">
     <span style="font-size: 13px;">已选 <strong>3</strong> 项</span>
     <div class="zy-row-end" style="margin-left: auto;">
-      <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mBulkRegen">🔄 批量重生 TTS</button>
-      <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mBulkAudit">✅ 批量审核</button>
+      <button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-modal="mBulkPub">✅ 批量发布</button>
       <button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mBulkDel">🗑 批量删除</button>
     </div>
   </div>
 
   <div class="zy-table-wrap">
-    <table class="zy-table">
-      <thead><tr><th style="width:40px;"><input type="checkbox" class="zy-check" /></th><th>编码</th><th>主词</th><th>拼音</th><th>类型</th><th>赛道</th><th>HSK</th><th>媒资</th><th>状态</th><th>引用</th><th style="width:160px;">操作</th></tr></thead>
+    <table class="zy-table zy-table-stack">
+      <thead><tr><th style="width:40px;"><input type="checkbox" class="zy-check" /></th><th>编码</th><th>主词</th><th>拼音</th><th>类型<span class="zy-i18n-badge" title="应用端需按语言显示友好名称"></span></th><th>主题</th><th>HSK</th><th>音频</th><th>状态</th><th>引用</th><th style="width:140px;">操作</th></tr></thead>
       <tbody>
-        <tr><td><input type="checkbox" class="zy-check" checked /></td><td><code>kp-zaoshang</code></td><td>早上</td><td>zǎo shang</td><td><span class="zy-tag">word</span></td><td>EC</td><td>1</td><td>🔊✅ 🖼❌</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>1 节 / 5 题</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check" checked /></td><td><code>kp-hao</code></td><td>好</td><td>hǎo</td><td><span class="zy-tag">word</span></td><td>share</td><td>1</td><td>🔊✅</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>23 节 / 142 题</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check" checked /></td><td><code>kp-zaoshanghao</code></td><td>早上好</td><td>zǎo shang hǎo</td><td><span class="zy-tag zy-tag-info">phrase</span></td><td>EC</td><td>1</td><td>🔊✅</td><td><span class="zy-tag zy-tag-warn">待审</span></td><td>1 节</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>kp-xiexie</code></td><td>谢谢</td><td>xiè xie</td><td><span class="zy-tag">word</span></td><td>share</td><td>1</td><td>🔊✅ 🖼✅</td><td><span class="zy-tag zy-tag-success">已审</span></td><td>18 节 / 89 题</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
-        <tr><td><input type="checkbox" class="zy-check"/></td><td><code>kp-laoban</code></td><td>老板</td><td>lǎo bǎn</td><td><span class="zy-tag">word</span></td><td>EC</td><td>2</td><td>🔊❌</td><td><span class="zy-tag">草稿</span></td><td>0</td><td><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check" checked /></td><td data-label="编码"><code>kp-zaoshang</code></td><td data-label="主词">早上</td><td data-label="拼音">zǎo shang</td><td data-label="类型"><span class="zy-tag">word</span></td><td data-label="主题">EC</td><td data-label="HSK">1</td><td data-label="音频"><span data-icon="speaker"></span> 已缓存</td><td data-label="状态"><span class="zy-tag zy-tag-success">已审</span></td><td data-label="引用">1 节 / 5 题</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check" checked /></td><td data-label="编码"><code>kp-hao</code></td><td data-label="主词">好</td><td data-label="拼音">hǎo</td><td data-label="类型"><span class="zy-tag">word</span></td><td data-label="主题">SH</td><td data-label="HSK">1</td><td data-label="音频"><span data-icon="speaker"></span> 已缓存</td><td data-label="状态"><span class="zy-tag zy-tag-success">已审</span></td><td data-label="引用">23 节 / 142 题</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check" checked /></td><td data-label="编码"><code>kp-zaoshanghao</code></td><td data-label="主词">早上好</td><td data-label="拼音">zǎo shang hǎo</td><td data-label="类型"><span class="zy-tag zy-tag-info">phrase</span></td><td data-label="主题">EC</td><td data-label="HSK">1</td><td data-label="音频"><span data-icon="speaker"></span> 已缓存</td><td data-label="状态"><span class="zy-tag zy-tag-success">已审</span></td><td data-label="引用">1 节</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check"/></td><td data-label="编码"><code>kp-xiexie</code></td><td data-label="主词">谢谢</td><td data-label="拼音">xiè xie</td><td data-label="类型"><span class="zy-tag">word</span></td><td data-label="主题">SH</td><td data-label="HSK">1</td><td data-label="音频"><span data-icon="speaker"></span> 已缓存</td><td data-label="状态"><span class="zy-tag zy-tag-success">已审</span></td><td data-label="引用">18 节 / 89 题</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
+        <tr><td data-label="选"><input type="checkbox" class="zy-check"/></td><td data-label="编码"><code>kp-laoban</code></td><td data-label="主词">老板</td><td data-label="拼音">lǎo bǎn</td><td data-label="类型"><span class="zy-tag">word</span></td><td data-label="主题">EC</td><td data-label="HSK">2</td><td data-label="音频"><span style="opacity:.4" data-icon="speaker"></span> 未生成</td><td data-label="状态"><span class="zy-tag">草稿</span></td><td data-label="引用">0</td><td data-label="操作"><button class="zy-btn zy-btn-sm zy-btn-ghost" data-open-drawer="dKPEdit">编辑</button><button class="zy-btn zy-btn-sm zy-btn-danger" data-open-modal="mDel">删除</button></td></tr>
       </tbody>
     </table>
   </div>
@@ -96,7 +96,7 @@
       <div class="zy-grid cols-md-2">
         <div class="zy-field"><label class="zy-label zy-required">编码</label><input class="zy-input" value="kp-zaoshang" /></div>
         <div class="zy-field"><label class="zy-label zy-required">类型</label><select class="zy-select"><option selected>word</option><option>phrase</option><option>sentence</option><option>grammar</option></select></div>
-        <div class="zy-field"><label class="zy-label">所属赛道</label><select class="zy-select"><option>share</option><option selected>ec</option></select></div>
+        <div class="zy-field"><label class="zy-label">所属主题</label><select class="zy-select"><option>SH share</option><option selected>EC</option><option>FC</option><option>HSK</option><option>DL</option></select></div>
         <div class="zy-field"><label class="zy-label">HSK 等级</label><select class="zy-select"><option selected>1</option><option>2</option><option>3</option></select></div>
         <div class="zy-field"><label class="zy-label">难度</label><select class="zy-select"><option selected>1</option><option>2</option><option>3</option></select></div>
         <div class="zy-field"><label class="zy-label">词性</label><select class="zy-select"><option>名词 N</option></select></div>
@@ -114,7 +114,7 @@
       <div class="zy-divider"></div>
       <h3 style="margin: 0 0 8px;">媒资</h3>
       <div class="zy-grid cols-md-2">
-        <div class="zy-field"><label class="zy-label">主音频（TTS）</label><div class="zy-row"><input class="zy-input" value="cdn://media/zaoshang.mp3" readonly /><button class="zy-btn zy-btn-ghost" data-toast="🔊 播放">🔊</button><button class="zy-btn zy-btn-ghost" data-toast="入队 TTS Job" data-toast-type="success">重生</button></div></div>
+        <div class="zy-field"><label class="zy-label">主音频（用户端缓存回显）</label><div class="zy-row"><input class="zy-input" value="cdn://media/zaoshang.mp3" readonly /><button class="zy-play-btn" data-toast="试听"><span data-icon="speaker"></span>试听</button></div></div>
         <div class="zy-field"><label class="zy-label">配图</label><div class="zy-row"><input class="zy-input" placeholder="cdn://images/…" /><button class="zy-btn zy-btn-ghost" data-open-modal="mPickImg">选择</button></div></div>
       </div>
       <div class="zy-divider"></div>

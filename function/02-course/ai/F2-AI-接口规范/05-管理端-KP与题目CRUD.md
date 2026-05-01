@@ -14,7 +14,7 @@
 
 | 参数 | 类型 | 说明 |
 |------|------|------|
-| `track` | enum | 5 赛道 |
+| `track` | enum | 5 主题 |
 | `stage_id` / `chapter_id` / `lesson_id` | uuid | 联动筛选 |
 | `kp_type` | enum | 7 类 |
 | `status` | enum | 内容审核状态 |

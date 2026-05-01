@@ -1,6 +1,9 @@
 # F2-AI：接口规范 · 索引
 
-> **功能**：课程学习引擎（中文学习 · 4 大赛道 · 共享 Stage 0）
+> ⚠️ **2025-11 变更**：F2/06 全部接口、F2/07 A19/A20、F2/09 I1/I2/I3 已废弃。
+> 详见 [./CHANGELOG-2025-11.md](../CHANGELOG-2025-11.md)。
+
+> **功能**：课程学习引擎（中文学习 · 4 大主题 · 共享 Stage 0）
 > **来源**：[../../../temp/05-用户端模块设计.md](../../../temp/05-用户端模块设计.md) · [../../../temp/04-管理端模块设计.md](../../../temp/04-管理端模块设计.md) · [../../../temp/06-关键业务流程.md](../../../temp/06-关键业务流程.md) · [../F1-AI-数据模型规范/](../F1-AI-数据模型规范/)
 > **遵循规范**：[../../../grules/G1-架构与技术规范/04-API接口规范.md](../../../grules/G1-架构与技术规范/04-API接口规范.md)
 > **基础路径**：C 端 `/api/v1/course`、管理端 `/admin/v1/course`、内部 `/internal/v1/course`
@@ -13,7 +16,7 @@
 | # | 文件 | 内容 |
 |---|------|------|
 | 总览 | [00-index.md](./00-index.md) | 全部接口一览表（本文件） |
-| 应用端 | [01-应用端-学习地图与节学习.md](./01-应用端-学习地图与节学习.md) | 选赛道、学习地图、进入节、获取 KP 卡片、TTS 触发 |
+| 应用端 | [01-应用端-学习地图与节学习.md](./01-应用端-学习地图与节学习.md) | 选主题、学习地图、进入节、获取 KP 卡片、TTS 触发 |
 | 应用端 | [02-应用端-答题与SRS.md](./02-应用端-答题与SRS.md) | 节末小测、提交答案、SRS 复习队列、错题本 |
 | 应用端 | [03-应用端-考试与举报.md](./03-应用端-考试与举报.md) | 章测试 / 阶段考试 / HSK 模考、举报题目、个人统计 |
 | 管理端 | [04-管理端-课程目录.md](./04-管理端-课程目录.md) | tracks / stages / chapters / lessons CRUD + 调序 |
@@ -34,9 +37,9 @@
 
 | # | 名称 | 方法 | 路径 | 权限 | 对应需求 |
 |---|------|------|------|------|---------|
-| C1 | 列出 5 赛道 | GET | `/api/v1/course/tracks` | 公开 | [temp/05 §5.2](../../../temp/05-用户端模块设计.md) |
-| C2 | 切换/选择当前赛道 | POST | `/api/v1/course/me/select-track` | 登录 | [temp/05 §5.2](../../../temp/05-用户端模块设计.md) |
-| C3 | 学习地图（赛道下全部 stage/chapter/lesson + 进度） | GET | `/api/v1/course/tracks/:track/map` | 登录 | [temp/05 §5.4](../../../temp/05-用户端模块设计.md) |
+| C1 | 列出 5 主题 | GET | `/api/v1/course/tracks` | 公开 | [temp/05 §5.2](../../../temp/05-用户端模块设计.md) |
+| C2 | 切换/选择当前主题 | POST | `/api/v1/course/me/select-track` | 登录 | [temp/05 §5.2](../../../temp/05-用户端模块设计.md) |
+| C3 | 学习地图（主题下全部 stage/chapter/lesson + 进度） | GET | `/api/v1/course/tracks/:track/map` | 登录 | [temp/05 §5.4](../../../temp/05-用户端模块设计.md) |
 | C4 | 进入节（取节卡片列表 + 上次断点） | GET | `/api/v1/course/lessons/:lesson_id` | 登录 | [temp/05 §5.5](../../../temp/05-用户端模块设计.md) |
 | C5 | 获取 KP 详情（含 7 类差异内容） | GET | `/api/v1/course/kps/:kp_id` | 登录 | [temp/05 §5.5.1](../../../temp/05-用户端模块设计.md) |
 | C6 | 触发/获取 KP 朗读音频 | POST | `/api/v1/course/kps/:kp_id/audio` | 登录 | [temp/05 §5.5.2](../../../temp/05-用户端模块设计.md) |
@@ -58,7 +61,7 @@
 
 | # | 名称 | 方法 | 路径 | 权限 | 对应需求 |
 |---|------|------|------|------|---------|
-| A1 | 列出赛道 | GET | `/admin/v1/course/tracks` | content_admin+ | [temp/04 §4.2](../../../temp/04-管理端模块设计.md) |
+| A1 | 列出主题 | GET | `/admin/v1/course/tracks` | content_admin+ | [temp/04 §4.2](../../../temp/04-管理端模块设计.md) |
 | A2 | 阶段 CRUD | GET/POST/PATCH/DELETE | `/admin/v1/course/stages[/:id]` | content_admin+ | 同上 |
 | A3 | 章节 CRUD + 调序 | GET/POST/PATCH/DELETE | `/admin/v1/course/chapters[/:id]` `/...:reorder` | content_admin+ | [temp/04 §4.3](../../../temp/04-管理端模块设计.md) |
 | A4 | 节 CRUD + 调序 + 关联 KP | GET/POST/PATCH/DELETE | `/admin/v1/course/lessons[/:id]` `/...:reorder` `/...:bind-kps` | content_admin+ | [temp/04 §4.3](../../../temp/04-管理端模块设计.md) |

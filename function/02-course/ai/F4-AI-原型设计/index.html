@@ -44,28 +44,29 @@
     <a class="zy-card" href="P-A-2-赛道-阶段-章列表.html"><div style="font-weight:600;">P-A-2 赛道详情</div><div class="zy-helper" style="margin-top:6px;">/admin/course/tracks/:code · stage 折叠 + 章 CRUD + 调序</div></a>
     <a class="zy-card" href="P-A-3-节编辑.html"><div style="font-weight:600;">P-A-3 节编辑</div><div class="zy-helper" style="margin-top:6px;">/admin/course/lessons/:id · 基本信息 + KP 12 项 + 试抽 6 题</div></a>
     <a class="zy-card" href="P-A-4-KP列表.html"><div style="font-weight:600;">P-A-4 KP 列表</div><div class="zy-helper" style="margin-top:6px;">/admin/course/kps · 列表 + D-3 编辑 Drawer + 导入</div></a>
-    <a class="zy-card" href="P-A-5-题目列表.html"><div style="font-weight:600;">P-A-5 题目列表</div><div class="zy-helper" style="margin-top:6px;">/admin/course/questions · 列表 + D-4 编辑 Drawer + 重生</div></a>
-    <a class="zy-card" href="P-A-6-Prompt库.html"><div style="font-weight:600;">P-A-6 Prompt 库</div><div class="zy-helper" style="margin-top:6px;">/admin/course/prompts · 21 Prompt + 试跑 Modal</div></a>
-    <a class="zy-card" href="P-A-7-AI工作台.html"><div style="font-weight:600;">P-A-7 AI 工作台</div><div class="zy-helper" style="margin-top:6px;">/admin/course/ai-jobs · Job 列表 + 进度 + 详情 Drawer</div></a>
-    <a class="zy-card" href="P-A-8-审核队列.html"><div style="font-weight:600;">P-A-8 审核队列</div><div class="zy-helper" style="margin-top:6px;">/admin/course/review · 列表 + D-9 详情</div></a>
-    <a class="zy-card" href="P-A-9-举报处理.html"><div style="font-weight:600;">P-A-9 举报处理</div><div class="zy-helper" style="margin-top:6px;">/admin/course/reports · 列表 + dismiss / adopt</div></a>
+    <a class="zy-card" href="P-A-5-题目列表.html"><div style="font-weight:600;">P-A-5 题目列表</div><div class="zy-helper" style="margin-top:6px;">/admin/course/questions · 列表 + D-4 编辑 Drawer</div></a>
+    <a class="zy-card" href="P-A-9-举报处理.html"><div style="font-weight:600;">P-A-9 举报处理</div><div class="zy-helper" style="margin-top:6px;">/admin/course/reports · 列表 + 详情 + 调整 + 采纳/忽略 + 全局开关</div></a>
     <a class="zy-card" href="P-A-10-媒资库.html"><div style="font-weight:600;">P-A-10 媒资库</div><div class="zy-helper" style="margin-top:6px;">/admin/course/media · TTS / 图片 / 替换 / 软删</div></a>
     <a class="zy-card" href="P-A-11-考试中心管理.html"><div style="font-weight:600;">P-A-11 考试模板</div><div class="zy-helper" style="margin-top:6px;">/admin/course/exams · 模板 CRUD + D-11 blueprint</div></a>
     <a class="zy-card" href="P-A-12-全局搜索.html"><div style="font-weight:600;">P-A-12 全局搜索</div><div class="zy-helper" style="margin-top:6px;">/admin/course/search · KP / 题目 / 节 三段聚合 + 高亮</div></a>
   </div>
 
-  <h2 style="font-size: 18px; margin: 32px 0 12px;">封板说明（F3-13 已确认 10 项）</h2>
+  <h2 style="font-size: 18px; margin: 32px 0 12px;">封板说明（F3-13 已确认）</h2>
   <div class="zy-card" style="font-size: 13px; line-height: 1.8;">
-    Q1 学习地图：<strong>卡片瀑布流</strong>（参考 china 板块）&nbsp;·&nbsp;
+    Q1 学习地图：<strong>卡片瀑布流（Web 3 列 / 移动 1 列）</strong>&nbsp;·&nbsp;
     Q2 小测：<strong>上一题可改答</strong>（C9 overwrite=true）&nbsp;·&nbsp;
     Q3 diff 视图：<strong>不做</strong>&nbsp;·&nbsp;
     Q4 个人统计：<strong>7 天折线 + 30 天热力图</strong>&nbsp;·&nbsp;
     Q5 全局搜索：<strong>独立页 P-A-12</strong>（china 风格）&nbsp;·&nbsp;
     Q6 移动端：<strong>底部 2 Tab（学习 / 我的）+ 节通过自动顺流</strong>&nbsp;·&nbsp;
-    Q7 LLM 日志：<strong>全部可见</strong>&nbsp;·&nbsp;
+    Q7 应用端 5 语言（zh/en/vi/th/id）：<strong>系统 UI + 题型/类型等枚举均多语言；管理端中文</strong>&nbsp;·&nbsp;
     Q8 小测题数：<strong>固定 6 题</strong>&nbsp;·&nbsp;
-    Q9 考试主题：<strong>跟随系统</strong>&nbsp;·&nbsp;
-    Q10 移动端考试：<strong>题号 Drawer + 一致适配</strong>。
+    Q9 考试中心层级：<strong>主题（EC/FC/HSK/DL/share）→ 进入主题后切换章测/阶段考；HSK 仅是其中一个主题</strong>&nbsp;·&nbsp;
+    Q10 移动端考试：<strong>题号 Drawer + 一致适配</strong>&nbsp;·&nbsp;
+    Q11 AI 协助：<strong>不在系统内做。题目数据由运营在外部生成后通过数据库导入；P-A-6/7/8（Prompt 库 / AI 工作台 / 审核队列）已下线</strong>&nbsp;·&nbsp;
+    Q12 举报机制：<strong>保留</strong>，应用端按钮弱化（次要按钮、SVG 小图标）；管理端 P-A-9 提供全局「隐藏举报入口」开关&nbsp;·&nbsp;
+    Q13 题目 exam_scope：<strong>practice/lesson_quiz 共池；chapter_test/stage_exam/hsk_mock 各自独立池</strong>，避免学员死记答案&nbsp;·&nbsp;
+    Q14 默认节数：<strong>新建章默认 6 节，可选 4/6/8</strong>。
   </div>
 </div>
 
