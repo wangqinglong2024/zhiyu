@@ -136,7 +136,18 @@ function validateDoc(filePath, doc, errors) {
     validateText(row.content_vi, 1, 400, `sentences[${index}].content_vi`, push);
     validateText(row.content_th, 1, 400, `sentences[${index}].content_th`, push);
     validateText(row.content_id, 1, 400, `sentences[${index}].content_id`, push);
+    validateBodyText(row, index, push);
   });
+}
+
+function validateBodyText(row, index, push) {
+  const forbidden = /AI摘要|AI 摘要|\bSEO\b|\bGEO\b|关键词|搜索热点|长尾搜索|搜索页|这条信息|这篇文章适合|适合放在/i;
+  for (const field of ['content_zh', 'content_en', 'content_vi', 'content_th', 'content_id']) {
+    const value = row[field];
+    if (typeof value === 'string' && forbidden.test(value)) {
+      push(`sentences[${index}].${field}`, 'contains meta SEO/GEO/AI narration that must not appear in article body');
+    }
+  }
 }
 
 function validateI18n(value, min, max, field, push) {
