@@ -1,10 +1,13 @@
 import { createHash } from 'node:crypto';
 import { mkdirSync, writeFileSync } from 'node:fs';
+import { createRequire } from 'node:module';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(scriptDir, '../../../../..');
+const requireFromSystem = createRequire(path.join(repoRoot, 'system/package.json'));
+const { pinyin } = requireFromSystem('pinyin-pro');
 const generatedAt = '2026-05-03T00:00:00+08:00';
 const riskControls = [
   'sea_market_safe',
@@ -52,7 +55,7 @@ export function generateCategory(categoryKey) {
     generator: {
       name: `generate-${categoryConfig.generatorName}-phase1.mjs`,
       version: '3.0.0',
-      note: 'Narrative article generator: each article is 120 connected sentences with embedded SEO/GEO metadata.',
+      note: 'Story-first generator: each article keeps a 120-sentence Chinese source story plus direct multilingual sentence adaptation.',
     },
   };
   writeFileSync(path.join(outputDir, 'manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`);
@@ -62,7 +65,13 @@ export function generateCategory(categoryKey) {
 function generateNarrativeSentences(categoryConfig, articleConfig) {
   const rows = [];
   const pushRow = (sentenceRow) => {
-    rows.push({ seq_in_article: rows.length + 1, ...sentenceRow });
+    const contentZh = sentenceRow.content_zh;
+    rows.push({
+      seq_in_article: rows.length + 1,
+      ...sentenceRow,
+      content_zh: contentZh,
+      pinyin: toPinyin(contentZh),
+    });
   };
 
   pushRow(articleConfig.bluf);
@@ -86,63 +95,160 @@ function resolveFacts(facts) {
 
 function introRows(categoryConfig, articleConfig) {
   return [
-    interpolateRow('storyStart', categoryConfig, articleConfig),
-    interpolateRow('placeStage', categoryConfig, articleConfig),
-    interpolateRow('memoryLine', categoryConfig, articleConfig),
-    interpolateRow('notNameOnly', categoryConfig, articleConfig),
-    interpolateRow('threeQuestions', categoryConfig, articleConfig),
-    interpolateRow('firstLens', categoryConfig, articleConfig),
-    interpolateRow('slowRead', categoryConfig, articleConfig),
-    interpolateRow('humanScale', categoryConfig, articleConfig),
-    interpolateRow('detailPromise', categoryConfig, articleConfig),
-    interpolateRow('causeResult', categoryConfig, articleConfig),
-    interpolateRow('beginnerMap', categoryConfig, articleConfig),
-    interpolateRow('safeTone', categoryConfig, articleConfig),
-    interpolateRow('threadForward', categoryConfig, articleConfig),
-    interpolateRow('beforeFacts', categoryConfig, articleConfig),
+    storyRow(langs(`${articleConfig.title_i18n.zh}这件事，可以从${articleConfig.scene.zh}开始。`, `The matter of ${articleConfig.title_i18n.en} can begin with ${articleConfig.scene.en}.`, `Câu chuyện ${articleConfig.title_i18n.vi} có thể bắt đầu từ ${articleConfig.scene.vi}.`, `เรื่อง ${articleConfig.title_i18n.th} เริ่มได้จาก ${articleConfig.scene.th}`, `Kisah ${articleConfig.title_i18n.id} dapat dimulai dari ${articleConfig.scene.id}.`)),
+    storyRow(langs(`${articleConfig.place.zh}连接着人物、道路和制度。`, `${articleConfig.place.en} connects people, roads, and institutions.`, `${articleConfig.place.vi} nối con người, con đường và制度.`, `${articleConfig.place.th} เชื่อมผู้คน ถนน และระบบ`, `${articleConfig.place.id} menghubungkan tokoh, jalan, dan lembaga.`)),
+    storyRow(langs(`${articleConfig.focus.zh}不是孤立名词，而是在一连串选择里形成的。`, `${articleConfig.focus.en} is not an isolated term; it formed through a chain of choices.`, `${articleConfig.focus.vi} không phải thuật ngữ rời rạc, mà hình thành qua chuỗi lựa chọn.`, `${articleConfig.focus.th} ไม่ใช่คำโดดเดี่ยว แต่เกิดจากการเลือกต่อเนื่อง`, `${articleConfig.focus.id} bukan istilah terpisah, melainkan terbentuk lewat rangkaian pilihan.`)),
+    storyRow(langs(`先看到出发点，后面的年代和人物才不会散开。`, `When the starting point is visible, later years and people do not scatter.`, `Khi thấy điểm xuất phát, niên đại và nhân vật phía sau không còn rời rạc.`, `เมื่อเห็นจุดเริ่ม ปีและบุคคลต่อมาจะไม่กระจัดกระจาย`, `Saat titik awal terlihat, tahun dan tokoh berikutnya tidak tercerai.`)),
+    storyRow(langs(`当时的人未必知道结局，却要在眼前的局面里行动。`, `People at the time did not know the ending, but they had to act within the situation before them.`, `Người đương thời chưa chắc biết kết cục, nhưng phải hành động trong cục diện trước mắt.`, `คนในเวลานั้นอาจไม่รู้ตอนจบ แต่ต้องลงมือในสถานการณ์ตรงหน้า`, `Orang saat itu belum tentu tahu akhir cerita, tetapi harus bertindak dalam keadaan yang mereka hadapi.`)),
+    storyRow(langs(`有的选择落在朝廷，有的选择落在边路，也有的落在普通生活。`, `Some choices fell on the court, some on frontier routes, and some on ordinary life.`, `Có lựa chọn nằm ở triều đình, có lựa chọn ở đường biên, cũng có lựa chọn trong đời thường.`, `บางการเลือกเกิดในราชสำนัก บางอย่างบนทางชายแดน และบางอย่างในชีวิตประจำวัน`, `Sebagian pilihan terjadi di istana, sebagian di jalan perbatasan, dan sebagian dalam kehidupan biasa.`)),
+    storyRow(langs(`这些选择汇在一起，才让${articleConfig.focus.zh}逐渐成形。`, `Those choices came together and gradually shaped ${articleConfig.focus.en}.`, `Những lựa chọn ấy hợp lại và dần tạo nên ${articleConfig.focus.vi}.`, `การเลือกเหล่านั้นรวมกันและค่อย ๆ ทำให้ ${articleConfig.focus.th} เป็นรูปเป็นร่าง`, `Pilihan-pilihan itu berkumpul dan perlahan membentuk ${articleConfig.focus.id}.`)),
+    storyRow(langs(`故事往前走时，时间会一段一段展开。`, `As the story moves forward, time opens section by section.`, `Khi câu chuyện tiến lên, thời gian mở ra từng đoạn.`, `เมื่อเรื่องเดินหน้า เวลาเปิดออกเป็นช่วง ๆ`, `Saat kisah bergerak maju, waktu terbuka bagian demi bagian.`)),
+    storyRow(langs(`地点也会改变意义，从背景变成行动的条件。`, `Places also change meaning, moving from background into conditions for action.`, `Địa điểm cũng đổi ý nghĩa, từ phông nền thành điều kiện hành động.`, `สถานที่ก็เปลี่ยนความหมาย จากฉากหลังเป็นเงื่อนไขของการกระทำ`, `Tempat juga berubah makna, dari latar menjadi syarat tindakan.`)),
+    storyRow(langs(`人物的名字不是用来堆砌的，而是为了说明谁在改变局面。`, `Names are not stacked for display; they show who changed the situation.`, `Tên nhân vật không dùng để xếp chồng, mà để nói ai đã làm cục diện đổi thay.`, `ชื่อบุคคลไม่ได้วางไว้เพื่อให้มาก แต่เพื่อบอกว่าใครเปลี่ยนสถานการณ์`, `Nama tokoh bukan untuk ditumpuk, melainkan untuk menunjukkan siapa yang mengubah keadaan.`)),
+    storyRow(langs(`制度、器物和路线看似安静，却常常决定事情能不能继续。`, `Systems, objects, and routes may seem quiet, but they often decide whether events can continue.`, `制度, đồ vật và tuyến đường có vẻ lặng lẽ, nhưng thường quyết định sự việc có tiếp tục được không.`, `ระบบ สิ่งของ และเส้นทางดูนิ่ง แต่บ่อยครั้งกำหนดว่าเรื่องจะเดินต่อได้หรือไม่`, `Lembaga, benda, dan rute tampak tenang, tetapi sering menentukan apakah peristiwa dapat berlanjut.`)),
+    storyRow(langs(`于是道路、人物和制度一起向前，开头的场面也有了方向。`, `Thus roads, people, and institutions moved forward together, and the opening scene gained direction.`, `Vì thế con đường, con người và制度 cùng tiến lên, cảnh mở đầu cũng có phương hướng.`, `ดังนั้นถนน ผู้คน และระบบจึงเดินหน้าไปพร้อมกัน และฉากแรกก็มีทิศทาง`, `Maka jalan, tokoh, dan lembaga bergerak bersama, dan adegan awal memperoleh arah.`)),
+    storyRow(langs(`接下来，每一步都会接住上一步留下的变化。`, `Next, each step receives the change left by the previous one.`, `Tiếp theo, mỗi bước sẽ nối lấy thay đổi mà bước trước để lại.`, `ต่อไป แต่ละก้าวจะรับการเปลี่ยนแปลงจากก้าวก่อน`, `Berikutnya, setiap langkah menangkap perubahan dari langkah sebelumnya.`)),
+    storyRow(langs(`读到最后，开头的场面会重新变得清楚。`, `By the end, the opening scene will become clear again.`, `Đọc đến cuối, cảnh mở đầu sẽ rõ lại.`, `เมื่ออ่านถึงท้าย ฉากแรกจะกลับมาชัดเจน`, `Saat sampai akhir, adegan pembuka akan kembali jelas.`)),
   ];
 }
 
 function factBlockRows(categoryConfig, articleConfig, factRow, factIndex) {
-  const label = factLabels[factIndex] ?? factLabels[factLabels.length - 1];
-  const context = { categoryConfig, articleConfig, factRow, label };
+  const block = factNarrativeBlocks[factIndex] ?? factNarrativeBlocks[factNarrativeBlocks.length - 1];
   return [
-    factSentence('factLead', context),
-    factSentence('factMeaning', context),
-    factSentence('factBeforeAfter', context),
-    factSentence('factHuman', context),
-    factSentence('factPlace', context),
-    factSentence('factDetail', context),
-    factSentence('factNotAlone', context),
-    factSentence('factBridge', context),
-    factSentence('factBeginner', context),
-    factSentence('factScene', context),
-    factSentence('factImpact', context),
-    factSentence('factMisread', context),
-    factSentence('factReturn', context),
-    factSentence('factFlow', context),
-    factSentence('factNext', context),
+    storyRow(factRow),
+    ...block.map((makeRow) => storyRow(makeRow({ categoryConfig, articleConfig, factRow }))),
   ];
 }
 
+const factNarrativeBlocks = [
+  [
+    ({ articleConfig }) => langs(`最早的场面先安静下来，${articleConfig.place.zh}有了继续发展的起点。`, `The earliest scene settled first, and ${articleConfig.place.en} gained a starting point for further change.`, `Cảnh sớm nhất lắng xuống trước, và ${articleConfig.place.vi} có điểm khởi đầu để tiếp tục phát triển.`, `ฉากแรกเริ่มนิ่งลง และ ${articleConfig.place.th} มีจุดตั้งต้นสำหรับการเปลี่ยนต่อ`, `Adegan awal menjadi tenang, dan ${articleConfig.place.id} memperoleh titik awal untuk berkembang.`),
+    () => langs('人们把旧经验带进新局面，许多做法还在寻找形状。', 'People carried older experience into a new situation, while many practices were still taking shape.', 'Người ta mang kinh nghiệm cũ vào cục diện mới, nhiều cách làm vẫn đang thành hình.', 'ผู้คนพาประสบการณ์เดิมเข้าสู่สถานการณ์ใหม่ และหลายวิธียังหาทรงรูปอยู่', 'Orang membawa pengalaman lama ke keadaan baru, sementara banyak praktik masih mencari bentuk.'),
+    () => langs('有人守着原来的秩序，有人已经看见变化的可能。', 'Some held to the older order, while others already saw the possibility of change.', 'Có người giữ trật tự cũ, có người đã thấy khả năng thay đổi.', 'บางคนรักษาระเบียบเดิม บางคนเริ่มเห็นความเป็นไปได้ของการเปลี่ยนแปลง', 'Sebagian mempertahankan tatanan lama, sementara yang lain melihat kemungkinan perubahan.'),
+    ({ articleConfig }) => langs(`${articleConfig.focus.zh}就在这种拉扯中露出轮廓。`, `${articleConfig.focus.en} began to show its outline inside this pull between old and new.`, `${articleConfig.focus.vi} bắt đầu hiện đường nét trong sự giằng co ấy.`, `${articleConfig.focus.th} เริ่มเห็นเค้าโครงในแรงดึงระหว่างเก่าและใหม่`, `${articleConfig.focus.id} mulai tampak dalam tarikan antara lama dan baru.`),
+    () => langs('道路还没有完全畅通，消息也常常走得很慢。', 'Roads were not fully open yet, and news often traveled slowly.', 'Đường sá chưa hoàn toàn thông suốt, tin tức cũng thường đi rất chậm.', 'ถนนยังไม่โล่งเต็มที่ ข่าวสารก็มักเดินทางช้า', 'Jalan belum sepenuhnya lancar, dan kabar sering bergerak lambat.'),
+    () => langs('正因为慢，每一次传递都显得很重。', 'Precisely because movement was slow, every transmission carried weight.', 'Chính vì chậm, mỗi lần truyền đi đều có sức nặng.', 'เพราะมันช้า ทุกการส่งต่อจึงมีน้ำหนัก', 'Justru karena lambat, setiap penyampaian terasa berbobot.'),
+    () => langs('城门、驿道、河流和边地，都成了变化经过的地方。', 'City gates, post roads, rivers, and frontiers all became places through which change passed.', 'Cổng thành, đường trạm, sông ngòi và biên địa đều thành nơi biến đổi đi qua.', 'ประตูเมือง ถนนส่งสาร แม่น้ำ และชายแดนล้วนเป็นที่ที่ความเปลี่ยนแปลงผ่านไป', 'Gerbang kota, jalan pos, sungai, dan perbatasan menjadi tempat perubahan lewat.'),
+    () => langs('普通人也许只听到一句传闻，却要调整一天的生活。', 'Ordinary people might hear only one rumor, yet still adjust a day of life.', 'Người bình thường có thể chỉ nghe một lời đồn, nhưng vẫn phải điều chỉnh một ngày sống.', 'คนธรรมดาอาจได้ยินแค่ข่าวลือเดียว แต่ก็ต้องปรับชีวิตทั้งวัน', 'Orang biasa mungkin hanya mendengar satu kabar, tetapi harus menyesuaikan hari mereka.'),
+    () => langs('官员和使者则要把零散消息写成可执行的安排。', 'Officials and envoys had to turn scattered news into workable arrangements.', 'Quan lại và sứ giả phải biến tin rời rạc thành sắp xếp có thể thực hiện.', 'ขุนนางและทูตต้องเปลี่ยนข่าวกระจัดกระจายให้เป็นแผนที่ทำได้', 'Pejabat dan utusan harus mengubah kabar terpisah menjadi pengaturan yang dapat dijalankan.'),
+    ({ articleConfig }) => langs(`于是${articleConfig.scene.zh}不再遥远，它开始贴近人的选择。`, `Thus ${articleConfig.scene.en} was no longer distant; it came close to human choices.`, `Vì thế ${articleConfig.scene.vi} không còn xa xôi, mà tiến sát lựa chọn con người.`, `ดังนั้น ${articleConfig.scene.th} จึงไม่ไกลอีกต่อไป แต่มาใกล้การเลือกของคน`, `Maka ${articleConfig.scene.id} tidak lagi jauh; ia mendekati pilihan manusia.`),
+    () => langs('这时，变化还小，却已经把后面的方向打开。', 'At this moment the change was still small, but it had opened the direction ahead.', 'Lúc này thay đổi còn nhỏ, nhưng đã mở hướng phía sau.', 'ตอนนี้การเปลี่ยนแปลงยังเล็ก แต่ได้เปิดทิศทางข้างหน้าแล้ว', 'Saat ini perubahan masih kecil, tetapi telah membuka arah berikutnya.'),
+    () => langs('早期的判断会影响后来的制度，也会影响人们怎样记住这段事。', 'Early judgments would affect later institutions and how people remembered this episode.', 'Nhận định ban đầu sẽ ảnh hưởng制度 về sau, cũng ảnh hưởng cách người ta nhớ đoạn này.', 'การตัดสินแรก ๆ จะส่งผลต่อระบบภายหลังและวิธีที่ผู้คนจดจำช่วงนี้', 'Penilaian awal memengaruhi lembaga kemudian dan cara orang mengingat bagian ini.'),
+    () => langs('故事没有立刻抵达高潮，却已经离开原来的静止状态。', 'The story did not reach its height at once, but it had already left its earlier stillness.', 'Câu chuyện chưa tới cao trào ngay, nhưng đã rời trạng thái tĩnh ban đầu.', 'เรื่องยังไม่ถึงจุดสูงสุดทันที แต่ได้ออกจากความนิ่งเดิมแล้ว', 'Kisah belum langsung mencapai puncak, tetapi sudah meninggalkan keadaan diamnya.'),
+    () => langs('新的疑问在前方出现，下一段变化也随之到来。', 'New questions appeared ahead, and the next change arrived with them.', 'Câu hỏi mới hiện ra phía trước, và thay đổi tiếp theo cũng đến theo.', 'คำถามใหม่ปรากฏข้างหน้า และความเปลี่ยนแปลงถัดไปก็ตามมา', 'Pertanyaan baru muncul di depan, dan perubahan berikutnya datang bersamanya.'),
+  ],
+  [
+    ({ articleConfig }) => langs(`局势向前推进时，${articleConfig.place.zh}里的力量开始重新排列。`, `As the situation moved forward, forces in ${articleConfig.place.en} began to rearrange.`, `Khi cục diện tiến lên, các lực lượng ở ${articleConfig.place.vi} bắt đầu sắp xếp lại.`, `เมื่อสถานการณ์เดินหน้า พลังใน ${articleConfig.place.th} เริ่มจัดเรียงใหม่`, `Saat keadaan maju, kekuatan di ${articleConfig.place.id} mulai tersusun ulang.`),
+    () => langs('原来分开的道路被迫互相靠近，原来熟悉的规矩也要接受考验。', 'Roads once separate were forced closer, and familiar rules faced tests.', 'Những con đường từng tách rời buộc phải gần nhau, quy tắc quen thuộc cũng bị thử thách.', 'ถนนที่เคยแยกจากกันถูกบังคับให้เข้าใกล้ และกฎที่คุ้นเคยต้องถูกทดสอบ', 'Jalan yang dulu terpisah dipaksa mendekat, dan aturan yang akrab diuji.'),
+    () => langs('掌握信息的人先看见危险，也先看见机会。', 'Those who held information saw danger first, and also saw opportunity first.', 'Người nắm thông tin thấy nguy hiểm trước, cũng thấy cơ hội trước.', 'คนที่ถือข้อมูลเห็นอันตรายก่อน และเห็นโอกาสก่อนเช่นกัน', 'Orang yang memegang informasi melihat bahaya lebih dulu dan peluang lebih dulu.'),
+    () => langs('他们必须决定是守住旧办法，还是试着打开新路。', 'They had to decide whether to hold old methods or try to open a new road.', 'Họ phải quyết định giữ cách cũ hay thử mở đường mới.', 'พวกเขาต้องตัดสินใจว่าจะรักษาวิธีเดิมหรือเปิดทางใหม่', 'Mereka harus memutuskan mempertahankan cara lama atau membuka jalan baru.'),
+    ({ articleConfig }) => langs(`${articleConfig.focus.zh}因此不只是结果，也是一串选择留下的痕迹。`, `${articleConfig.focus.en} was therefore not only an outcome, but traces left by a series of choices.`, `${articleConfig.focus.vi} vì thế không chỉ là kết quả, mà là dấu vết của chuỗi lựa chọn.`, `${articleConfig.focus.th} จึงไม่ใช่แค่ผลลัพธ์ แต่เป็นร่องรอยจากการเลือกต่อเนื่อง`, `${articleConfig.focus.id} karena itu bukan hanya hasil, melainkan jejak rangkaian pilihan.`),
+    () => langs('有些选择很快见效，有些选择要等很久才显出来。', 'Some choices showed effects quickly, while others appeared only after a long wait.', 'Có lựa chọn có hiệu quả nhanh, có lựa chọn phải đợi lâu mới hiện ra.', 'บางการเลือกเห็นผลเร็ว บางอย่างต้องรอนานจึงปรากฏ', 'Sebagian pilihan cepat terlihat hasilnya, sebagian baru tampak setelah lama.'),
+    () => langs('短暂的胜负之外，还有更慢的秩序正在形成。', 'Beyond short-term success or failure, a slower order was forming.', 'Ngoài thắng bại ngắn hạn, một trật tự chậm hơn đang hình thành.', 'นอกเหนือจากแพ้ชนะระยะสั้น ยังมีระเบียบที่ช้ากว่ากำลังก่อตัว', 'Di luar menang-kalah sesaat, tatanan yang lebih lambat sedang terbentuk.'),
+    () => langs('这份秩序会进入文书、道路、税赋或日常习惯。', 'That order would enter documents, roads, taxes, or daily habits.', 'Trật tự ấy sẽ đi vào văn thư, đường sá, thuế khóa hoặc thói quen hằng ngày.', 'ระเบียบนั้นจะเข้าสู่เอกสาร ถนน ภาษี หรือความเคยชินประจำวัน', 'Tatanan itu masuk ke dokumen, jalan, pajak, atau kebiasaan sehari-hari.'),
+    () => langs('于是宏大的变化落到一盏灯、一匹马或一封信上。', 'Thus a large change landed on a lamp, a horse, or a letter.', 'Vì thế biến đổi lớn rơi xuống một ngọn đèn, một con ngựa hoặc một lá thư.', 'ดังนั้นความเปลี่ยนแปลงใหญ่จึงตกลงบนตะเกียง ม้า หรือจดหมายหนึ่งฉบับ', 'Maka perubahan besar jatuh pada sebuah lampu, seekor kuda, atau sepucuk surat.'),
+    () => langs('人们从这些小处感到时代已经转身。', 'People felt through these small things that the age had turned.', 'Người ta cảm thấy từ những điều nhỏ ấy rằng thời đại đã xoay mình.', 'ผู้คนรับรู้จากสิ่งเล็กเหล่านี้ว่ายุคสมัยได้หันตัวแล้ว', 'Orang merasakan dari hal-hal kecil bahwa zaman telah berbalik.'),
+    () => langs('新的名字开始被记住，旧的名字也被放进新的位置。', 'New names began to be remembered, and old names were placed in new positions.', 'Tên mới bắt đầu được nhớ, tên cũ cũng được đặt vào vị trí mới.', 'ชื่อใหม่เริ่มถูกจดจำ และชื่อเก่าก็ถูกวางในตำแหน่งใหม่', 'Nama baru mulai diingat, dan nama lama ditempatkan pada posisi baru.'),
+    () => langs('这样的转动不会只影响一天，而会延伸到很多年后。', 'Such turning would not affect only one day; it would extend many years ahead.', 'Sự xoay chuyển ấy không chỉ ảnh hưởng một ngày, mà kéo dài nhiều năm sau.', 'การหมุนเช่นนี้ไม่กระทบแค่วันเดียว แต่ยืดไปอีกหลายปี', 'Perputaran seperti ini tidak hanya memengaruhi satu hari, tetapi menjulur bertahun-tahun.'),
+    () => langs('后面的人回看时，会把这一段当成重要的转弯。', 'Later people looking back would treat this part as an important turn.', 'Người đời sau nhìn lại sẽ xem đoạn này như khúc rẽ quan trọng.', 'คนรุ่นหลังเมื่อมองกลับมาจะเห็นช่วงนี้เป็นทางเลี้ยวสำคัญ', 'Orang kemudian yang menoleh ke belakang melihat bagian ini sebagai belokan penting.'),
+    () => langs('路已经不再直走，下一场变化正在靠近。', 'The road no longer moved straight, and the next change was drawing near.', 'Con đường không còn đi thẳng, thay đổi tiếp theo đang đến gần.', 'ถนนไม่ได้ตรงต่อไปแล้ว ความเปลี่ยนแปลงถัดไปกำลังเข้ามาใกล้', 'Jalan tidak lagi lurus, dan perubahan berikutnya mendekat.'),
+  ],
+  [
+    ({ articleConfig }) => langs(`到了这一段，${articleConfig.scene.zh}里的空间变得更开阔。`, `By this part, the space inside ${articleConfig.scene.en} became wider.`, `Đến đoạn này, không gian trong ${articleConfig.scene.vi} trở nên rộng hơn.`, `มาถึงช่วงนี้ พื้นที่ใน ${articleConfig.scene.th} กว้างขึ้น`, `Pada bagian ini, ruang dalam ${articleConfig.scene.id} menjadi lebih luas.`),
+    () => langs('原先只属于少数人的决定，开始影响更多地方。', 'Decisions once limited to a few people began to affect more places.', 'Quyết định vốn thuộc về số ít bắt đầu ảnh hưởng nhiều nơi hơn.', 'การตัดสินใจที่เคยอยู่กับคนไม่กี่คนเริ่มกระทบพื้นที่มากขึ้น', 'Keputusan yang dulu milik sedikit orang mulai memengaruhi lebih banyak tempat.'),
+    () => langs('车马、船只、驿站或城门，都把变化送得更远。', 'Carts, boats, post stations, or city gates carried change farther.', 'Xe ngựa, thuyền, trạm dịch hoặc cổng thành đều đưa biến đổi đi xa hơn.', 'รถม้า เรือ สถานีไปรษณีย์ หรือประตูเมืองล้วนส่งความเปลี่ยนแปลงไปไกลขึ้น', 'Kereta, kapal, pos, atau gerbang kota membawa perubahan lebih jauh.'),
+    () => langs('人们听到新消息时，会把它和自己的处境放在一起想。', 'When people heard new news, they weighed it against their own situation.', 'Khi nghe tin mới, người ta đặt nó cạnh hoàn cảnh của mình để suy nghĩ.', 'เมื่อผู้คนได้ยินข่าวใหม่ พวกเขาจะเทียบกับสภาพของตนเอง', 'Saat orang mendengar kabar baru, mereka menimbangnya dengan keadaan sendiri.'),
+    () => langs('有的家庭要迁徙，有的工匠要改工具，有的官员要重写文书。', 'Some families had to move, some artisans had to change tools, and some officials had to rewrite documents.', 'Có gia đình phải dời đi, có thợ phải đổi công cụ, có quan lại phải viết lại văn thư.', 'บางครอบครัวต้องย้าย ช่างบางคนต้องเปลี่ยนเครื่องมือ และขุนนางบางคนต้องเขียนเอกสารใหม่', 'Sebagian keluarga harus pindah, sebagian perajin mengganti alat, dan sebagian pejabat menulis ulang dokumen.'),
+    () => langs('大事就是这样落进小日子里。', 'Large events entered small daily life in this way.', 'Đại sự đi vào đời sống nhỏ bé như vậy.', 'เรื่องใหญ่เข้าสู่ชีวิตประจำวันเล็ก ๆ แบบนี้', 'Peristiwa besar masuk ke hidup kecil sehari-hari seperti ini.'),
+    ({ articleConfig }) => langs(`${articleConfig.focus.zh}的意义，也从记忆变成了可触摸的安排。`, `The meaning of ${articleConfig.focus.en} also changed from memory into arrangements people could touch.`, `Ý nghĩa của ${articleConfig.focus.vi} cũng từ ký ức thành sắp xếp có thể chạm tới.`, `ความหมายของ ${articleConfig.focus.th} จึงเปลี่ยนจากความจำเป็นการจัดการที่จับต้องได้`, `Makna ${articleConfig.focus.id} juga berubah dari ingatan menjadi pengaturan yang dapat disentuh.`),
+    () => langs('这种安排不一定整齐，却会在反复使用中变得稳定。', 'Such arrangements were not always neat, but repeated use made them stable.', 'Sắp xếp ấy không nhất thiết gọn gàng, nhưng dùng đi dùng lại khiến nó ổn định.', 'การจัดการเช่นนี้ไม่จำเป็นต้องเรียบร้อย แต่การใช้ซ้ำทำให้มั่นคง', 'Pengaturan seperti ini tidak selalu rapi, tetapi pemakaian berulang membuatnya stabil.'),
+    () => langs('稳定以后，后人再看它，就像看见一块路标。', 'Once stable, later generations could see it like a road sign.', 'Khi ổn định, đời sau nhìn nó như thấy một biển chỉ đường.', 'เมื่อมั่นคงแล้ว คนรุ่นหลังมองมันเหมือนป้ายบอกทาง', 'Setelah stabil, generasi kemudian melihatnya seperti rambu jalan.'),
+    () => langs('路标不替人走路，却能提醒方向。', 'A road sign does not walk for people, but it reminds them of direction.', 'Biển chỉ đường không đi thay người, nhưng nhắc hướng đi.', 'ป้ายบอกทางไม่ได้เดินแทนคน แต่เตือนทิศทาง', 'Rambu tidak berjalan menggantikan orang, tetapi mengingatkan arah.'),
+    () => langs('这一段历史也是如此，它提醒人们变化曾经怎样穿过生活。', 'This part of history is similar; it reminds people how change once passed through life.', 'Đoạn lịch sử này cũng vậy, nó nhắc người ta biến đổi từng đi qua đời sống thế nào.', 'ประวัติศาสตร์ช่วงนี้ก็เช่นกัน มันเตือนว่าความเปลี่ยนแปลงเคยผ่านชีวิตอย่างไร', 'Bagian sejarah ini juga begitu; ia mengingatkan bagaimana perubahan pernah melewati hidup.'),
+    () => langs('看到这里，前后的距离被拉近了。', 'At this point, the distance between before and after grew shorter.', 'Đến đây, khoảng cách trước sau được kéo gần.', 'ถึงตรงนี้ ระยะระหว่างก่อนและหลังถูกดึงเข้ามาใกล้', 'Di titik ini, jarak antara sebelum dan sesudah menjadi dekat.'),
+    () => langs('前面留下的痕迹没有消失，而是在新局面里换了样子。', 'Traces left earlier did not disappear; they changed form in the new situation.', 'Dấu vết trước đó không biến mất, mà đổi hình trong cục diện mới.', 'ร่องรอยก่อนหน้าไม่ได้หายไป แต่เปลี่ยนรูปในสถานการณ์ใหม่', 'Jejak sebelumnya tidak hilang, melainkan berubah bentuk dalam keadaan baru.'),
+    () => langs('下一个转折因此不是突然出现，而是从这些痕迹里长出来。', 'The next turn therefore did not appear suddenly; it grew out of these traces.', 'Bước ngoặt tiếp theo vì thế không xuất hiện đột ngột, mà mọc lên từ những dấu vết ấy.', 'จุดเปลี่ยนถัดไปจึงไม่ได้เกิดฉับพลัน แต่เติบโตจากร่องรอยเหล่านี้', 'Belokan berikutnya tidak muncul tiba-tiba, tetapi tumbuh dari jejak-jejak ini.'),
+  ],
+  [
+    ({ articleConfig }) => langs(`故事走到中段，${articleConfig.place.zh}开始显出新的边界。`, `In the middle of the story, ${articleConfig.place.en} began to show new boundaries.`, `Đến giữa câu chuyện, ${articleConfig.place.vi} bắt đầu hiện ranh giới mới.`, `เมื่อเรื่องมาถึงช่วงกลาง ${articleConfig.place.th} เริ่มเห็นขอบเขตใหม่`, `Di tengah kisah, ${articleConfig.place.id} mulai menunjukkan batas baru.`),
+    () => langs('边界有时是地理上的，有时是制度上的。', 'Boundaries were sometimes geographic and sometimes institutional.', 'Ranh giới có khi thuộc địa lý, có khi thuộc制度.', 'ขอบเขตบางครั้งเป็นภูมิศาสตร์ บางครั้งเป็นระบบ', 'Batas kadang bersifat geografis, kadang kelembagaan.'),
+    () => langs('人们跨过边界时，带走货物、文书、语言和记忆。', 'When people crossed boundaries, they carried goods, documents, language, and memory.', 'Khi vượt qua ranh giới, người ta mang theo hàng hóa, văn thư, ngôn ngữ và ký ức.', 'เมื่อผู้คนข้ามขอบเขต พวกเขานำสินค้า เอกสาร ภาษา และความทรงจำไปด้วย', 'Saat orang melintasi batas, mereka membawa barang, dokumen, bahasa, dan ingatan.'),
+    () => langs('这些东西看似零散，却会在新的地方重新组合。', 'These things seemed scattered, but they recombined in new places.', 'Những thứ ấy có vẻ rời rạc, nhưng sẽ ghép lại ở nơi mới.', 'สิ่งเหล่านี้ดูแยกกัน แต่จะรวมตัวใหม่ในที่ใหม่', 'Hal-hal itu tampak terpisah, tetapi tersusun ulang di tempat baru.'),
+    () => langs('组合以后，旧故事就有了新声音。', 'After recombination, the old story gained a new voice.', 'Sau khi ghép lại, câu chuyện cũ có giọng mới.', 'เมื่อรวมกันแล้ว เรื่องเก่าก็มีเสียงใหม่', 'Setelah tersusun ulang, kisah lama memperoleh suara baru.'),
+    ({ articleConfig }) => langs(`${articleConfig.focus.zh}也在这种新声音里继续延伸。`, `${articleConfig.focus.en} also continued to extend through this new voice.`, `${articleConfig.focus.vi} cũng tiếp tục kéo dài trong giọng mới ấy.`, `${articleConfig.focus.th} จึงยืดต่อไปในเสียงใหม่นี้`, `${articleConfig.focus.id} juga terus memanjang dalam suara baru ini.`),
+    () => langs('有些改变被写进官方记录，有些改变只留在习惯里。', 'Some changes entered official records, while others remained only in habits.', 'Có thay đổi đi vào ghi chép chính thức, có thay đổi chỉ ở lại trong thói quen.', 'บางการเปลี่ยนแปลงเข้าสู่บันทึกทางการ บางอย่างอยู่ในความเคยชินเท่านั้น', 'Sebagian perubahan masuk catatan resmi, sebagian hanya tinggal dalam kebiasaan.'),
+    () => langs('记录能告诉年代，习惯能告诉生活怎样继续。', 'Records tell the year; habits tell how life continued.', 'Ghi chép cho biết niên đại, thói quen cho biết đời sống tiếp tục thế nào.', 'บันทึกบอกปีสมัย ความเคยชินบอกว่าชีวิตดำเนินต่ออย่างไร', 'Catatan memberi tahun, kebiasaan memberi tahu bagaimana hidup berlanjut.'),
+    () => langs('两者放在一起，历史才不只剩下结论。', 'When the two are placed together, history is not left as only a conclusion.', 'Đặt hai thứ cạnh nhau, lịch sử không chỉ còn kết luận.', 'เมื่อนำทั้งสองมาวางด้วยกัน ประวัติศาสตร์จึงไม่เหลือแค่ข้อสรุป', 'Jika keduanya diletakkan bersama, sejarah tidak hanya tersisa sebagai kesimpulan.'),
+    () => langs('它会有声音，有路程，也有等待和误会。', 'It has voices, journeys, waiting, and misunderstandings.', 'Nó có âm thanh, hành trình, chờ đợi và hiểu lầm.', 'มันมีเสียง มีระยะทาง มีการรอคอย และความเข้าใจผิด', 'Ia memiliki suara, perjalanan, penantian, dan salah paham.'),
+    () => langs('等待让人谨慎，误会又推动新的解释出现。', 'Waiting made people cautious, while misunderstandings pushed new explanations to appear.', 'Chờ đợi khiến người ta thận trọng, hiểu lầm lại thúc đẩy giải thích mới xuất hiện.', 'การรอคอยทำให้คนระวัง ส่วนความเข้าใจผิดผลักให้คำอธิบายใหม่เกิดขึ้น', 'Penantian membuat orang berhati-hati, dan salah paham mendorong penjelasan baru muncul.'),
+    () => langs('这个过程中，许多看不见的安排开始发挥作用。', 'In this process, many unseen arrangements began to work.', 'Trong quá trình ấy, nhiều sắp xếp vô hình bắt đầu phát huy tác dụng.', 'ในกระบวนการนี้ การจัดการที่มองไม่เห็นหลายอย่างเริ่มทำงาน', 'Dalam proses ini, banyak pengaturan tak terlihat mulai bekerja.'),
+    () => langs('它们慢慢改变道路上的人，也改变后来的记忆。', 'They slowly changed people on the road and also changed later memory.', 'Chúng dần thay đổi người trên đường, cũng thay đổi ký ức về sau.', 'พวกมันค่อย ๆ เปลี่ยนคนบนทาง และเปลี่ยนความทรงจำภายหลัง', 'Semua itu perlahan mengubah orang di jalan dan ingatan kemudian.'),
+    () => langs('新的边界已经画出，新的行动也会跟着出现。', 'New boundaries had been drawn, and new actions would follow.', 'Ranh giới mới đã được vẽ ra, hành động mới cũng sẽ xuất hiện theo.', 'ขอบเขตใหม่ถูกวาดแล้ว การกระทำใหม่ก็จะตามมา', 'Batas baru telah tergambar, dan tindakan baru akan mengikuti.'),
+  ],
+  [
+    ({ articleConfig }) => langs(`接近后半段时，${articleConfig.scene.zh}里的压力变得更明显。`, `Near the latter half, pressure inside ${articleConfig.scene.en} became clearer.`, `Đến gần nửa sau, áp lực trong ${articleConfig.scene.vi} rõ hơn.`, `เมื่อใกล้ครึ่งหลัง แรงกดดันใน ${articleConfig.scene.th} ชัดขึ้น`, `Mendekati bagian akhir, tekanan dalam ${articleConfig.scene.id} menjadi lebih jelas.`),
+    () => langs('压力不会只停在上层，也会传到商路、田地、码头或书房。', 'Pressure did not remain only above; it reached trade routes, fields, docks, or study rooms.', 'Áp lực không chỉ ở tầng trên, mà truyền tới đường buôn, ruộng đất, bến cảng hoặc thư phòng.', 'แรงกดดันไม่ได้อยู่แค่เบื้องบน แต่ไปถึงทางค้า ทุ่งนา ท่าเรือ หรือห้องหนังสือ', 'Tekanan tidak hanya berada di atas; ia mencapai jalur dagang, ladang, dermaga, atau ruang belajar.'),
+    () => langs('有些人顺势而行，有些人试图把速度放慢。', 'Some followed the current, while others tried to slow the speed.', 'Có người thuận thế đi theo, có người cố làm tốc độ chậm lại.', 'บางคนไหลตามกระแส บางคนพยายามทำให้ความเร็วช้าลง', 'Sebagian mengikuti arus, sementara yang lain mencoba memperlambatnya.'),
+    () => langs('速度一变，选择的代价也跟着改变。', 'When speed changed, the cost of choice changed with it.', 'Tốc độ đổi, cái giá của lựa chọn cũng đổi theo.', 'เมื่อความเร็วเปลี่ยน ราคาของการเลือกก็เปลี่ยนตาม', 'Saat kecepatan berubah, biaya pilihan ikut berubah.'),
+    ({ articleConfig }) => langs(`${articleConfig.focus.zh}在这里显出另一面：它既有结果，也有代价。`, `${articleConfig.focus.en} showed another side here: it had outcomes and costs.`, `${articleConfig.focus.vi} ở đây hiện mặt khác: nó có kết quả, cũng có cái giá.`, `${articleConfig.focus.th} แสดงอีกด้านตรงนี้ คือมีทั้งผลลัพธ์และราคา`, `${articleConfig.focus.id} menunjukkan sisi lain di sini: ada hasil dan ada biaya.`),
+    () => langs('代价可能是一段路变远，也可能是一种身份被重新定义。', 'The cost could be a road becoming farther, or an identity being redefined.', 'Cái giá có thể là con đường xa hơn, cũng có thể là thân phận được định nghĩa lại.', 'ราคาอาจเป็นถนนที่ไกลขึ้น หรือสถานะที่ถูกนิยามใหม่', 'Biaya bisa berupa jalan yang makin jauh atau identitas yang didefinisikan ulang.'),
+    () => langs('人们在代价面前学会权衡，也学会等待。', 'Facing costs, people learned to weigh options and to wait.', 'Trước cái giá ấy, người ta học cách cân nhắc và chờ đợi.', 'ต่อหน้าราคานั้น ผู้คนเรียนรู้การชั่งน้ำหนักและการรอ', 'Di hadapan biaya itu, orang belajar menimbang dan menunggu.'),
+    () => langs('等待中会出现新的办法，也会暴露旧办法的不足。', 'During waiting, new methods appeared and older methods showed their limits.', 'Trong chờ đợi xuất hiện cách mới, cũng lộ ra thiếu sót của cách cũ.', 'ระหว่างรอ มีวิธีใหม่เกิดขึ้น และข้อจำกัดของวิธีเก่าก็เผยออกมา', 'Dalam penantian muncul cara baru, dan kekurangan cara lama terlihat.'),
+    () => langs('这些不足让下一次改变更难回避。', 'Those limits made the next change harder to avoid.', 'Những thiếu sót ấy khiến lần thay đổi tiếp theo khó tránh hơn.', 'ข้อจำกัดเหล่านี้ทำให้การเปลี่ยนครั้งถัดไปหลีกเลี่ยงยากขึ้น', 'Kekurangan itu membuat perubahan berikutnya makin sulit dihindari.'),
+    () => langs('原先看似稳固的安排，开始出现裂缝。', 'Arrangements once considered solid began to show cracks.', 'Sắp xếp từng tưởng vững chắc bắt đầu có vết nứt.', 'การจัดการที่เคยดูมั่นคงเริ่มมีรอยร้าว', 'Pengaturan yang tampak kokoh mulai retak.'),
+    () => langs('裂缝里透出的不是混乱本身，而是继续调整的需要。', 'What showed through the cracks was not chaos itself, but the need to keep adjusting.', 'Điều lộ ra qua vết nứt không phải hỗn loạn, mà là nhu cầu tiếp tục điều chỉnh.', 'สิ่งที่ลอดออกจากรอยร้าวไม่ใช่ความวุ่นวายเอง แต่คือความจำเป็นต้องปรับต่อ', 'Yang tampak dari retakan bukan kekacauan itu sendiri, melainkan kebutuhan untuk terus menyesuaikan.'),
+    () => langs('这个需要一旦出现，后面的行动就会更加急切。', 'Once that need appeared, later actions became more urgent.', 'Khi nhu cầu ấy xuất hiện, hành động phía sau trở nên cấp thiết hơn.', 'เมื่อความจำเป็นนั้นปรากฏ การกระทำต่อมาก็เร่งด่วนขึ้น', 'Begitu kebutuhan itu muncul, tindakan berikutnya menjadi lebih mendesak.'),
+    () => langs('历史在这里收紧，又准备向新的方向打开。', 'History tightened here and prepared to open toward a new direction.', 'Lịch sử ở đây thắt lại rồi chuẩn bị mở sang hướng mới.', 'ประวัติศาสตร์ตรงนี้บีบแน่น แล้วเตรียมเปิดไปทิศใหม่', 'Sejarah mengencang di sini dan bersiap membuka arah baru.'),
+    () => langs('下一段会带着这种压力继续向前。', 'The next part would move forward with this pressure.', 'Đoạn tiếp theo sẽ mang áp lực ấy tiếp tục đi tới.', 'ช่วงถัดไปจะพาแรงกดดันนี้เดินหน้าต่อ', 'Bagian berikutnya akan maju membawa tekanan ini.'),
+  ],
+  [
+    ({ articleConfig }) => langs(`到了最后一段，${articleConfig.place.zh}留下的痕迹已经很多。`, `By the final part, ${articleConfig.place.en} had left many traces.`, `Đến đoạn cuối, ${articleConfig.place.vi} đã để lại nhiều dấu vết.`, `เมื่อถึงช่วงท้าย ${articleConfig.place.th} ทิ้งร่องรอยไว้มากแล้ว`, `Pada bagian akhir, ${articleConfig.place.id} telah meninggalkan banyak jejak.`),
+    () => langs('这些痕迹有的写在书里，有的留在地名、器物和习惯中。', 'Some traces were written in books, while others stayed in place names, objects, and habits.', 'Có dấu vết viết trong sách, có dấu vết ở lại trong địa danh, đồ vật và thói quen.', 'ร่องรอยบางอย่างเขียนในหนังสือ บางอย่างอยู่ในชื่อสถานที่ สิ่งของ และความเคยชิน', 'Sebagian jejak tertulis di buku, sebagian tinggal dalam nama tempat, benda, dan kebiasaan.'),
+    () => langs('后人不一定经历过那些日子，却能从痕迹里看见方向。', 'Later people did not necessarily live those days, but they could see direction through the traces.', 'Người đời sau không nhất thiết trải qua những ngày ấy, nhưng có thể thấy hướng đi qua dấu vết.', 'คนรุ่นหลังอาจไม่ได้ผ่านวันเหล่านั้น แต่เห็นทิศทางจากร่องรอยได้', 'Orang kemudian belum tentu mengalami hari-hari itu, tetapi dapat melihat arah dari jejaknya.'),
+    () => langs('方向清楚以后，开头的疑问也慢慢安顿下来。', 'Once direction became clear, the opening question gradually settled.', 'Khi hướng đi rõ, câu hỏi ban đầu cũng dần yên vị.', 'เมื่อทิศทางชัด คำถามแรกก็เริ่มเข้าที่', 'Setelah arah jelas, pertanyaan awal perlahan menemukan tempatnya.'),
+    ({ articleConfig }) => langs(`${articleConfig.focus.zh}不再只是要记住的词，而是一段可以回望的经过。`, `${articleConfig.focus.en} was no longer only a term to remember, but a process to look back on.`, `${articleConfig.focus.vi} không còn chỉ là từ cần nhớ, mà là một quá trình có thể nhìn lại.`, `${articleConfig.focus.th} ไม่ใช่แค่คำที่ต้องจำ แต่เป็นกระบวนการที่ย้อนมองได้`, `${articleConfig.focus.id} bukan lagi sekadar istilah untuk diingat, melainkan proses yang dapat ditinjau.`),
+    () => langs('回望时，人们会发现答案来自许多相连的行动。', 'Looking back, people find that the answer came from many connected actions.', 'Khi nhìn lại, người ta thấy câu trả lời đến từ nhiều hành động nối nhau.', 'เมื่อย้อนมอง ผู้คนพบว่าคำตอบมาจากการกระทำที่เชื่อมกันหลายอย่าง', 'Saat menoleh, orang menemukan jawaban berasal dari banyak tindakan yang terhubung.'),
+    () => langs('这些行动有成功，也有迟疑，还有不得不承受的后果。', 'Those actions included success, hesitation, and consequences that had to be borne.', 'Những hành động ấy có thành công, có do dự, cũng có hậu quả phải chịu.', 'การกระทำเหล่านี้มีทั้งความสำเร็จ ความลังเล และผลที่ต้องรับ', 'Tindakan itu mencakup keberhasilan, keraguan, dan akibat yang harus ditanggung.'),
+    () => langs('正因为有后果，历史才不会像一句口号那样轻。', 'Because there were consequences, history was not as light as a slogan.', 'Chính vì có hậu quả, lịch sử không nhẹ như một khẩu hiệu.', 'เพราะมีผลตามมา ประวัติศาสตร์จึงไม่เบาเหมือนคำขวัญ', 'Karena ada akibat, sejarah tidak ringan seperti slogan.'),
+    () => langs('它有人的脚步，也有制度留下的重量。', 'It contains human footsteps and the weight left by institutions.', 'Nó có bước chân con người, cũng có sức nặng制度 để lại.', 'มันมีรอยเท้าคนและน้ำหนักที่ระบบทิ้งไว้', 'Ia memuat langkah manusia dan bobot yang ditinggalkan lembaga.'),
+    () => langs('这些重量把前面的片段压成一条更完整的路。', 'That weight pressed earlier fragments into a more complete road.', 'Sức nặng ấy ép các mảnh trước thành một con đường đầy đủ hơn.', 'น้ำหนักนี้กดชิ้นส่วนก่อนหน้าให้เป็นถนนที่สมบูรณ์ขึ้น', 'Bobot itu menekan potongan sebelumnya menjadi jalan yang lebih utuh.'),
+    () => langs('沿着这条路回到开头，许多名字就不再陌生。', 'Returning to the beginning along this road, many names are no longer unfamiliar.', 'Đi theo con đường ấy về lại đầu, nhiều tên gọi không còn xa lạ.', 'เมื่อเดินตามถนนนี้กลับไปจุดเริ่ม ชื่อจำนวนมากก็ไม่แปลกหน้าอีก', 'Mengikuti jalan ini kembali ke awal, banyak nama tidak lagi asing.'),
+    ({ articleConfig }) => langs(`那些名字和${articleConfig.scene.zh}重新连在一起。`, `Those names reconnect with ${articleConfig.scene.en}.`, `Những tên ấy nối lại với ${articleConfig.scene.vi}.`, `ชื่อเหล่านั้นเชื่อมกลับกับ ${articleConfig.scene.th}`, `Nama-nama itu tersambung kembali dengan ${articleConfig.scene.id}.`),
+    () => langs('一开始像远处的画面，现在变成有前因后果的经历。', 'What first looked like a distant scene has become an experience with causes and results.', 'Điều ban đầu giống cảnh xa nay thành trải nghiệm có nguyên nhân và kết quả.', 'สิ่งที่ตอนแรกเหมือนฉากไกล ตอนนี้กลายเป็นประสบการณ์ที่มีเหตุและผล', 'Yang semula tampak seperti adegan jauh kini menjadi pengalaman dengan sebab dan akibat.'),
+    () => langs('故事到这里收住，却给下一篇文化内容留下入口。', 'The story closes here, yet it leaves an entrance for the next cultural topic.', 'Câu chuyện dừng ở đây, nhưng để lại lối vào cho chủ đề văn hóa tiếp theo.', 'เรื่องหยุดตรงนี้ แต่ทิ้งทางเข้าให้เนื้อหาวัฒนธรรมถัดไป', 'Kisah berhenti di sini, tetapi meninggalkan pintu masuk untuk topik budaya berikutnya.'),
+  ],
+];
+
 function closingRows(categoryConfig, articleConfig) {
   return [
-    interpolateRow('modernLink', categoryConfig, articleConfig),
-    interpolateRow('compareCalmly', categoryConfig, articleConfig),
-    interpolateRow('learningTipOne', categoryConfig, articleConfig),
-    interpolateRow('learningTipTwo', categoryConfig, articleConfig),
-    interpolateRow('entityRecall', categoryConfig, articleConfig),
-    interpolateRow('structureRecall', categoryConfig, articleConfig),
-    interpolateRow('questionReturn', categoryConfig, articleConfig),
-    interpolateRow('answerLayer', categoryConfig, articleConfig),
-    interpolateRow('todayUse', categoryConfig, articleConfig),
-    interpolateRow('noOverclaim', categoryConfig, articleConfig),
-    interpolateRow('relatedPath', categoryConfig, articleConfig),
-    interpolateRow('finalImage', categoryConfig, articleConfig),
-    interpolateRow('finalMemory', categoryConfig, articleConfig),
-    interpolateRow('finalBridge', categoryConfig, articleConfig),
-    interpolateRow('finalClose', categoryConfig, articleConfig),
+    storyRow(langs(`走到这里，${articleConfig.focus.zh}已经有了清楚的来路。`, `At this point, ${articleConfig.focus.en} has a clear origin.`, `Đến đây, ${articleConfig.focus.vi} đã có nguồn gốc rõ ràng.`, `ถึงตรงนี้ ${articleConfig.focus.th} มีที่มาอย่างชัดเจนแล้ว`, `Sampai di sini, ${articleConfig.focus.id} sudah memiliki asal yang jelas.`)),
+    storyRow(langs(`它从${articleConfig.scene.zh}出发，经过人物行动和制度变化。`, `It began with ${articleConfig.scene.en}, then passed through human action and institutional change.`, `Nó bắt đầu từ ${articleConfig.scene.vi}, rồi đi qua hành động con người và biến đổi制度.`, `มันเริ่มจาก ${articleConfig.scene.th} แล้วผ่านการกระทำของคนและการเปลี่ยนแปลงระบบ`, `Ia berawal dari ${articleConfig.scene.id}, lalu melewati tindakan manusia dan perubahan lembaga.`)),
+    storyRow(langs(`中间的每一步都不是装饰，而是让结果能够发生。`, `Every middle step was not decoration; it made the outcome possible.`, `Mỗi bước ở giữa không phải trang trí, mà làm kết quả có thể xảy ra.`, `ทุกก้าวตรงกลางไม่ใช่เครื่องประดับ แต่ทำให้ผลลัพธ์เกิดขึ้นได้`, `Setiap langkah di tengah bukan hiasan, melainkan membuat hasil dapat terjadi.`)),
+    storyRow(langs(`如果只记最后的答案，故事会变得很薄。`, `If only the final answer is remembered, the story becomes thin.`, `Nếu chỉ nhớ đáp án cuối, câu chuyện sẽ trở nên mỏng.`, `ถ้าจำแค่คำตอบท้าย เรื่องจะบางลงมาก`, `Jika hanya mengingat jawaban akhir, kisah menjadi tipis.`)),
+    storyRow(langs(`把时间顺序连起来，人物的选择才有重量。`, `When the timeline is connected, the choices of people gain weight.`, `Khi nối trật tự thời gian, lựa chọn của nhân vật mới có sức nặng.`, `เมื่อเชื่อมลำดับเวลา การเลือกของผู้คนจึงมีน้ำหนัก`, `Ketika urutan waktu tersambung, pilihan tokoh memiliki bobot.`)),
+    storyRow(langs(`把地点放回去，制度和交通也会变得可见。`, `When places are restored, systems and transport also become visible.`, `Khi đặt địa điểm trở lại,制度 và giao thông cũng hiện rõ.`, `เมื่อใส่สถานที่กลับไป ระบบและการคมนาคมก็เห็นได้ชัด`, `Ketika tempat dikembalikan, lembaga dan transportasi juga tampak.`)),
+    storyRow(langs(`把普通人的处境放进去，历史就不再只是一串名称。`, `When ordinary people’s situations are included, history is no longer only a chain of names.`, `Khi đưa hoàn cảnh người bình thường vào, lịch sử không còn chỉ là chuỗi tên gọi.`, `เมื่อใส่สภาพของคนธรรมดา ประวัติศาสตร์ก็ไม่ใช่แค่รายชื่อ`, `Ketika keadaan orang biasa dimasukkan, sejarah bukan lagi sekadar deret nama.`)),
+    storyRow(langs(`${articleConfig.entities.slice(0, 3).join('、')}这些名词，也因此有了位置。`, `Terms such as ${articleEntityEnglish(articleConfig).slice(0, 3).join(', ')} therefore gain their places.`, `Những thuật ngữ như ${articleConfig.entities.slice(0, 3).join(', ')} vì thế có vị trí.`, `คำอย่าง ${articleConfig.entities.slice(0, 3).join(', ')} จึงมีตำแหน่งของมัน`, `Istilah seperti ${articleConfig.entities.slice(0, 3).join(', ')} karena itu memiliki tempatnya.`)),
+    storyRow(langs(`今天再读这段历史，重点不是评判，而是看清变化如何发生。`, `Reading this history today is not about judgment, but about seeing how change happened.`, `Đọc lại đoạn lịch sử này hôm nay, trọng điểm không phải phán xét, mà là thấy biến đổi xảy ra thế nào.`, `เมื่ออ่านประวัติศาสตร์ช่วงนี้วันนี้ จุดสำคัญไม่ใช่ตัดสิน แต่คือเห็นว่าความเปลี่ยนแปลงเกิดอย่างไร`, `Membaca sejarah ini hari ini bukan terutama untuk menilai, tetapi untuk melihat bagaimana perubahan terjadi.`)),
+    storyRow(langs(`这段历史还会继续通向${categoryConfig.nextPath.zh}。`, `This history can continue toward ${categoryConfig.nextPath.en}.`, `Đoạn lịch sử này còn có thể nối tới ${categoryConfig.nextPath.vi}.`, `ประวัติศาสตร์ช่วงนี้ยังเดินต่อไปสู่ ${categoryConfig.nextPath.th}`, `Sejarah ini masih dapat berlanjut menuju ${categoryConfig.nextPath.id}.`)),
+    storyRow(langs(`开头的场面再次出现时，它已经不再只是一个开头。`, `When the opening scene appears again, it is no longer only an opening.`, `Khi cảnh mở đầu xuất hiện lại, nó không còn chỉ là phần mở đầu.`, `เมื่อฉากแรกปรากฏอีกครั้ง มันไม่ใช่แค่จุดเริ่มแล้ว`, `Saat adegan pembuka muncul kembali, ia bukan lagi sekadar pembuka.`)),
+    storyRow(langs(`它带着前面所有行动、选择和后果回到眼前。`, `It returns with all the earlier actions, choices, and consequences.`, `Nó trở lại cùng mọi hành động, lựa chọn và kết quả phía trước.`, `มันกลับมาพร้อมการกระทำ การเลือก และผลที่เกิดก่อนหน้า`, `Ia kembali bersama semua tindakan, pilihan, dan akibat sebelumnya.`)),
+    storyRow(langs(`这时，答案不再像标签，而像一条走过的路。`, `At this moment, the answer no longer feels like a label, but like a road already traveled.`, `Lúc này, câu trả lời không còn giống nhãn dán, mà như con đường đã đi qua.`, `ตอนนี้คำตอบไม่เหมือนป้ายชื่ออีกต่อไป แต่เหมือนถนนที่เดินผ่านมาแล้ว`, `Pada saat ini, jawaban bukan lagi seperti label, melainkan seperti jalan yang telah ditempuh.`)),
+    storyRow(langs(`这条路保留事实，也保留故事里的呼吸。`, `This road keeps the facts and also keeps the breath of the story.`, `Con đường ấy giữ lại sự thật, cũng giữ hơi thở trong câu chuyện.`, `ถนนเส้นนี้เก็บข้อเท็จจริงและลมหายใจของเรื่องไว้`, `Jalan ini menjaga fakta sekaligus napas dalam kisah.`)),
+    storyRow(langs(`这就是${articleConfig.title_i18n.zh}的完整回答。`, `This is the complete answer to ${articleConfig.title_i18n.en}.`, `Đây là câu trả lời đầy đủ cho ${articleConfig.title_i18n.vi}.`, `นี่คือคำตอบครบถ้วนของ ${articleConfig.title_i18n.th}`, `Inilah jawaban lengkap untuk ${articleConfig.title_i18n.id}.`)),
   ];
+}
+
+function langs(zh, en, vi, th, id) {
+  return { zh, en, vi, th, id };
+}
+
+function storyRow(values) {
+  return row({ pinyin: '', ...values });
+}
+
+function toPinyin(value) {
+  return pinyin(value, { toneType: 'symbol' }).replace(/\s+[，。？！：；、“”《》（）]\s*/g, ' ').trim();
 }
 
 const introTemplates = {
@@ -398,9 +504,10 @@ function buildArticleDocument(categoryConfig, articleConfig, sentences) {
       sentence_hard_max: 120,
       update_mode: 'append_only_infinite',
       phase: 'phase1',
-      writing_mode: 'connected_narrative_article',
+      writing_mode: 'story_first_then_sentence_split',
       risk_controls: riskControls,
     },
+    source_story_zh: sentences.map((sentence) => sentence.content_zh),
     seo: {
       schema_type: 'Article',
       primary_keywords: articleConfig.keywords,
@@ -416,7 +523,7 @@ function buildArticleDocument(categoryConfig, articleConfig, sentences) {
       })),
       citation_notes: [
         '第 1 句可直接作为简短答案',
-        '正文按连续文章推进，不写生成器、SEO 或 GEO 元话术',
+        '正文按连续文章推进，不写生成器元话术',
         '内容默认适配越南、泰国、印尼等东南亚首发市场',
       ],
     },
@@ -526,9 +633,9 @@ function kw(zh, en, vi = [], th = [], id = []) {
   return {
     zh,
     en,
-    vi: vi.length > 0 ? vi : ['học tiếng Trung qua văn hóa ẩm thực'],
-    th: th.length > 0 ? th : ['เรียนจีนผ่านวัฒนธรรมอาหาร'],
-    id: id.length > 0 ? id : ['belajar Mandarin lewat budaya makanan'],
+    vi: vi.length > 0 ? vi : ['lịch sử Trung Quốc', 'học tiếng Trung qua lịch sử'],
+    th: th.length > 0 ? th : ['ประวัติศาสตร์จีน', 'เรียนจีนผ่านประวัติศาสตร์'],
+    id: id.length > 0 ? id : ['sejarah Tiongkok', 'belajar Mandarin lewat sejarah'],
   };
 }
 

@@ -14,6 +14,19 @@ const dataRoot = path.resolve(repoRoot, args.dataRoot ?? 'content/01-china/data/
 const databaseUrl = args.databaseUrl ?? process.env.DATABASE_URL;
 const dockerNetwork = args.network ?? 'supabase_default';
 
+const categoryCatalog = {
+  '01': {
+    sortOrder: 1,
+    nameI18n: { zh: '中国历史', en: 'Chinese History', vi: 'Lịch sử Trung Quốc', th: 'ประวัติศาสตร์จีน', id: 'Sejarah Tiongkok' },
+    descriptionI18n: { zh: '朝代更替、历史事件、传奇人物', en: 'Dynasties, historical events, legendary figures', vi: 'Triều đại, sự kiện lịch sử, nhân vật huyền thoại', th: 'ราชวงศ์ เหตุการณ์ ประวัติบุคคล', id: 'Dinasti, peristiwa sejarah, tokoh legendaris' },
+  },
+  '02': {
+    sortOrder: 2,
+    nameI18n: { zh: '中国美食', en: 'Chinese Cuisine', vi: 'Ẩm thực Trung Quốc', th: 'อาหารจีน', id: 'Kuliner Tiongkok' },
+    descriptionI18n: { zh: '八大菜系、地方小吃、饮食文化', en: 'Eight cuisines, local snacks, food culture', vi: 'Tám trường phái, món ăn địa phương, văn hóa ẩm thực', th: 'แปดสำรับ อาหารท้องถิ่น วัฒนธรรมอาหาร', id: 'Delapan masakan, jajanan daerah, budaya kuliner' },
+  },
+};
+
 if (!databaseUrl && !args.dryRun) {
   fail('DATABASE_URL is required. Pass --database-url or --env-file.');
 }
@@ -33,6 +46,7 @@ const summary = {
   dryRun: Boolean(args.dryRun),
   replace: Boolean(args.replace),
   publish: Boolean(args.publish),
+  clearCategoryCodes: args.clearCategoryCodes ?? [],
   errors: errors.length,
 };
 
@@ -46,7 +60,11 @@ if (args.dryRun) {
   process.exit(0);
 }
 
-const sql = buildSql(docs.map((item) => item.doc), { replace: args.replace, publish: args.publish });
+const sql = buildSql(docs.map((item) => item.doc), {
+  replace: args.replace,
+  publish: args.publish,
+  clearCategoryCodes: args.clearCategoryCodes ?? [],
+});
 const result = runPsql(sql, databaseUrl, { forceDocker: args.docker, dockerNetwork });
 if (result.status !== 0) {
   process.exit(result.status ?? 1);
@@ -61,6 +79,7 @@ function parseArgs(argv) {
     else if (current === '--replace') out.replace = true;
     else if (current === '--publish') out.publish = true;
     else if (current === '--docker') out.docker = true;
+    else if (current === '--clear-category-codes') out.clearCategoryCodes = parseCodeList(argv[++index]);
     else if (current === '--data-root') out.dataRoot = argv[++index];
     else if (current === '--env-file') out.envFile = argv[++index];
     else if (current === '--database-url') out.databaseUrl = argv[++index];
@@ -68,6 +87,15 @@ function parseArgs(argv) {
     else fail(`Unknown argument: ${current}`);
   }
   return out;
+}
+
+function parseCodeList(value) {
+  if (!value) fail('--clear-category-codes requires a comma-separated value, for example 01,02');
+  const codes = value.split(',').map((code) => code.trim()).filter(Boolean);
+  for (const code of codes) {
+    if (!/^0[1-9]$|^1[0-2]$/.test(code)) fail(`Invalid category code in --clear-category-codes: ${code}`);
+  }
+  return Array.from(new Set(codes));
 }
 
 function loadEnvFile(envFile) {
@@ -117,12 +145,16 @@ function validateDoc(filePath, doc, errors) {
   if (!doc.geo?.bluf) push('geo.bluf', 'required');
   if (!Array.isArray(doc.geo?.entities) || doc.geo.entities.length === 0) push('geo.entities', 'required');
   if (!Array.isArray(doc.sentences)) push('sentences', 'required array');
+  if (!Array.isArray(doc.source_story_zh)) push('source_story_zh', 'required array');
   if (!doc.article) return;
   if (doc.article.category_code !== doc.category_code) push('article.category_code', 'must match top-level category_code');
   validateText(doc.article.title_pinyin, 1, 200, 'article.title_pinyin', push);
   validateI18n(doc.article.title_i18n, 1, 80, 'article.title_i18n', push);
   if (!Array.isArray(doc.sentences)) return;
   if (doc.sentences.length < 1 || doc.sentences.length > 120) push('sentences.length', 'must be 1..120');
+  if (Array.isArray(doc.source_story_zh)) {
+    if (doc.source_story_zh.length !== doc.sentences.length) push('source_story_zh.length', 'must match sentences.length');
+  }
   const seen = new Set();
   doc.sentences.forEach((row, index) => {
     const expected = index + 1;
@@ -136,12 +168,15 @@ function validateDoc(filePath, doc, errors) {
     validateText(row.content_vi, 1, 400, `sentences[${index}].content_vi`, push);
     validateText(row.content_th, 1, 400, `sentences[${index}].content_th`, push);
     validateText(row.content_id, 1, 400, `sentences[${index}].content_id`, push);
+    if (Array.isArray(doc.source_story_zh) && doc.source_story_zh[index] !== row.content_zh) {
+      push(`sentences[${index}].content_zh`, 'must equal source_story_zh at the same index');
+    }
     validateBodyText(row, index, push);
   });
 }
 
 function validateBodyText(row, index, push) {
-  const forbidden = /AI摘要|AI 摘要|\bSEO\b|\bGEO\b|关键词|搜索热点|长尾搜索|搜索页|这条信息|这篇文章适合|适合放在/i;
+  const forbidden = /AI摘要|AI 摘要|\bSEO\b|\bGEO\b|关键词|搜索热点|长尾搜索|搜索页|这条信息|这篇文章适合|适合放在|主线先露出来|故事围绕三个问题展开|这个细节让|第一层线索|第二层线索|第三层线索|第四层线索|第五层线索|第六层线索|给这一步提供了条件|这一层先稳住|安放的位置|不会显得突然|原因、过程和结果|整段讲述|适合初学者/i;
   for (const field of ['content_zh', 'content_en', 'content_vi', 'content_th', 'content_id']) {
     const value = row[field];
     if (typeof value === 'string' && forbidden.test(value)) {
@@ -173,7 +208,9 @@ function buildSql(docs, options) {
     'set search_path to zhiyu, public;',
     'begin;',
   ];
-  if (options.replace) {
+  const categoryCodes = Array.from(new Set(docs.map((doc) => doc.category_code))).sort();
+  const clearCategoryCodes = options.clearCategoryCodes ?? [];
+  if (options.replace || clearCategoryCodes.length > 0) {
     parts.push(`
 do $$
 begin
@@ -181,12 +218,53 @@ begin
     delete from zhiyu.learning_progress where source = 'china';
   end if;
 end $$;
-
+`);
+  }
+  if (options.replace) {
+    parts.push(`
 delete from zhiyu.china_articles where deleted_at is null or deleted_at is not null;`);
   }
+  if (clearCategoryCodes.length > 0) {
+    const codeArray = sqlStringArray(clearCategoryCodes);
+    parts.push(`
+delete from zhiyu.china_articles a
+using zhiyu.china_categories c
+where a.category_id = c.id
+  and c.code = any (${codeArray});
+
+delete from zhiyu.china_categories
+where code = any (${codeArray});`);
+  }
+
+  for (const code of categoryCodes) parts.push(buildCategoryUpsertSql(code));
   for (const doc of docs) parts.push(buildArticleDoBlock(doc, options));
   parts.push('commit;');
   return parts.join('\n\n');
+}
+
+function buildCategoryUpsertSql(code) {
+  const meta = categoryCatalog[code];
+  if (!meta) fail(`No category catalog entry for code ${code}`);
+  return `
+insert into zhiyu.china_categories (code, sort_order, name_i18n, description_i18n)
+values (${sqlString(code)}, ${meta.sortOrder}, ${sqlJson(meta.nameI18n)}::jsonb, ${sqlJson(meta.descriptionI18n)}::jsonb)
+on conflict (code) do update set
+  sort_order = excluded.sort_order,
+  name_i18n = excluded.name_i18n,
+  description_i18n = excluded.description_i18n,
+  updated_at = now();`;
+}
+
+function sqlString(value) {
+  return `'${String(value).replace(/'/g, "''")}'`;
+}
+
+function sqlJson(value) {
+  return sqlString(JSON.stringify(value));
+}
+
+function sqlStringArray(values) {
+  return `array[${values.map(sqlString).join(', ')}]::text[]`;
 }
 
 function buildArticleDoBlock(doc, options) {
