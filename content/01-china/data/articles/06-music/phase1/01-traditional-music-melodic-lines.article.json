@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "06",
+  "category_dir": "06-music",
+  "article_slug": "01-traditional-music-melodic-lines",
+  "article": {
+    "local_id": "music-001",
+    "category_code": "06",
+    "title_pinyin": "zhōng guó chuán tǒng yīn yuè wèi shén me zhòng shì xuán lǜ xiàn tiáo",
+    "title_i18n": {
+      "zh": "中国传统音乐为什么重视旋律线条？",
+      "en": "Why Does Chinese Traditional Music Value Melodic Lines?",
+      "vi": "Vì sao âm nhạc truyền thống Trung Quốc coi trọng đường tuyến giai điệu?",
+      "th": "ทำไมดนตรีจีนดั้งเดิมจึงให้ความสำคัญกับเส้นทำนอง?",
+      "id": "Mengapa musik tradisional Tiongkok menghargai garis melodi?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "中国传统音乐重视旋律线条，是因为单声部旋律常通过高低、长短、装饰和气息变化表达情感。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "单声部传统也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，单声部传统不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "旋律走向是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "旋律走向也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，旋律走向不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "滑音装饰是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "滑音装饰也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，滑音装饰不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "气息控制是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "气息控制也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，气息控制不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "节奏伸缩是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "节奏伸缩也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，节奏伸缩不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "乐句停顿是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "乐句停顿也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，乐句停顿不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "器乐独奏是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "器乐独奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，器乐独奏不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "民歌腔调是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "民歌腔调也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，民歌腔调不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "戏曲唱腔是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "戏曲唱腔也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，戏曲唱腔不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "合奏衬托是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "合奏衬托也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，合奏衬托不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "听觉记忆是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "听觉记忆也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，听觉记忆不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+    "情感表达是理解中国传统音乐旋律线条的重要声音入口。",
+    "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "情感表达也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，情感表达不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "中国传统音乐旋律线条",
+        "音乐戏曲",
+        "中国传统音乐为什么重视旋律线条"
+      ],
+      "en": [
+        "melodic lines in Chinese traditional music",
+        "Chinese music and opera",
+        "melodic lines in Chinese traditional music guide"
+      ],
+      "vi": [
+        "đường tuyến giai điệu trong nhạc truyền thống Trung Quốc",
+        "âm nhạc Trung Quốc"
+      ],
+      "th": [
+        "เส้นทำนองในดนตรีจีนดั้งเดิม",
+        "ดนตรีจีน"
+      ],
+      "id": [
+        "garis melodi dalam musik tradisional Tiongkok",
+        "musik Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "中国传统音乐为什么重视旋律线条？",
+        "中国传统音乐旋律线条应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Chinese Traditional Music Value Melodic Lines?",
+        "How should learners understand melodic lines in Chinese traditional music?"
+      ],
+      "vi": [
+        "Vì sao âm nhạc truyền thống Trung Quốc coi trọng đường tuyến giai điệu?"
+      ],
+      "th": [
+        "ทำไมดนตรีจีนดั้งเดิมจึงให้ความสำคัญกับเส้นทำนอง?"
+      ],
+      "id": [
+        "Mengapa musik tradisional Tiongkok menghargai garis melodi?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/06-music/traditional-music-melodic-lines"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "中国传统音乐重视旋律线条，是因为单声部旋律常通过高低、长短、装饰和气息变化表达情感。",
+      "en": "Chinese traditional music values melodic lines because single-line melodies often express feeling through pitch, length, ornament, and breath.",
+      "vi": "Nhạc truyền thống Trung Quốc coi trọng tuyến giai điệu vì giai điệu đơn tuyến biểu đạt cảm xúc qua cao thấp, dài ngắn, trang sức và hơi thở.",
+      "th": "ดนตรีจีนดั้งเดิมให้ความสำคัญกับเส้นทำนอง เพราะทำนองเส้นเดียวมักสื่ออารมณ์ผ่านระดับเสียง ความยาว การประดับ และลมหายใจ",
+      "id": "Musik tradisional Tiongkok menghargai garis melodi karena melodi satu garis mengekspresikan rasa lewat tinggi nada, panjang nada, ornamen, dan napas."
+    },
+    "entities": [
+      {
+        "type": "concept",
+        "name_zh": "旋律线条",
+        "name_en": "melodic line"
+      },
+      {
+        "type": "concept",
+        "name_zh": "单声部",
+        "name_en": "single-line texture"
+      },
+      {
+        "type": "genre",
+        "name_zh": "民歌",
+        "name_en": "folk song"
+      },
+      {
+        "type": "genre",
+        "name_zh": "戏曲",
+        "name_en": "opera"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、工具材料、形成原因、典型特征、学习价值和当代传承展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhōng guó chuán tǒng yīn yuè zhòng shì xuán lǜ xiàn tiáo shì yīn wèi dān shēng bù xuán lǜ cháng tōng guò gāo dī cháng duǎn zhuāng shì hé qì xī biàn huà biǎo dá qíng gǎn",
+      "content_zh": "中国传统音乐重视旋律线条，是因为单声部旋律常通过高低、长短、装饰和气息变化表达情感。",
+      "content_en": "Chinese traditional music values melodic lines because single-line melodies often express feeling through pitch, length, ornament, and breath.",
+      "content_vi": "Nhạc truyền thống Trung Quốc coi trọng tuyến giai điệu vì giai điệu đơn tuyến biểu đạt cảm xúc qua cao thấp, dài ngắn, trang sức và hơi thở.",
+      "content_th": "ดนตรีจีนดั้งเดิมให้ความสำคัญกับเส้นทำนอง เพราะทำนองเส้นเดียวมักสื่ออารมณ์ผ่านระดับเสียง ความยาว การประดับ และลมหายใจ",
+      "content_id": "Musik tradisional Tiongkok menghargai garis melodi karena melodi satu garis mengekspresikan rasa lewat tinggi nada, panjang nada, ornamen, dan napas."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "dān shēng bù chuán tǒng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "单声部传统也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "single-line tradition also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ dān shēng bù chuán tǒng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，单声部传统不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, single-line tradition is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "xuán lǜ zǒu xiàng shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "旋律走向是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "melodic direction is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "xuán lǜ zǒu xiàng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "旋律走向也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "melodic direction also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ xuán lǜ zǒu xiàng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，旋律走向不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, melodic direction is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "huá yīn zhuāng shì shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "滑音装饰是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "slides and ornaments is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "huá yīn zhuāng shì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "滑音装饰也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "slides and ornaments also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ huá yīn zhuāng shì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，滑音装饰不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, slides and ornaments is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "qì xī kòng zhì shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "气息控制是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "breath control is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "qì xī kòng zhì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "气息控制也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "breath control also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ qì xī kòng zhì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，气息控制不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, breath control is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "jié zòu shēn suō shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "节奏伸缩是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "flexible rhythm is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "jié zòu shēn suō yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "节奏伸缩也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "flexible rhythm also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ jié zòu shēn suō bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，节奏伸缩不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, flexible rhythm is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "lè jù tíng dùn shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "乐句停顿是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "phrase pauses is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "lè jù tíng dùn yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "乐句停顿也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "phrase pauses also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ lè jù tíng dùn bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，乐句停顿不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, phrase pauses is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "qì yuè dú zòu shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "器乐独奏是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "instrumental solo is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "qì yuè dú zòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "器乐独奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "instrumental solo also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ qì yuè dú zòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，器乐独奏不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, instrumental solo is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "mín gē qiāng diào shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "民歌腔调是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "folk-song contour is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "mín gē qiāng tiáo yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "民歌腔调也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "folk-song contour also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ mín gē qiāng diào bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，民歌腔调不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, folk-song contour is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "xì qǔ chàng qiāng shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "戏曲唱腔是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "opera vocal style is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "xì qǔ chàng qiāng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "戏曲唱腔也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "opera vocal style also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ xì qǔ chàng qiāng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，戏曲唱腔不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, opera vocal style is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "hé zòu chèn tuō shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "合奏衬托是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "ensemble support is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "hé zòu chèn tuō yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "合奏衬托也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "ensemble support also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ hé zòu chèn tuō bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，合奏衬托不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, ensemble support is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "tīng jué jì yì shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "听觉记忆是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "listening memory is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "tīng jué jì yì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "听觉记忆也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "listening memory also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ tīng jué jì yì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，听觉记忆不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, listening memory is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "qíng gǎn biǎo dá shì lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "情感表达是理解中国传统音乐旋律线条的重要声音入口。",
+      "content_en": "emotional expression is an important sound entry point for understanding melodic lines in Chinese traditional music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเส้นทำนองในดนตรีจีนดั้งเดิม",
+      "content_id": "Bagian ini penting untuk memahami garis melodi dalam musik tradisional Tiongkok."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ zhōng guó chuán tǒng yīn lè xuán lǜ xiàn tiáo fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把中国传统音乐旋律线条放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places melodic lines in Chinese traditional music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt đường tuyến giai điệu trong nhạc truyền thống Trung Quốc trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเส้นทำนองในดนตรีจีนดั้งเดิมกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan garis melodi dalam musik tradisional Tiongkok kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "qíng gǎn biǎo dá yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "情感表达也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "emotional expression also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy đường tuyến giai điệu trong nhạc truyền thống Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเส้นทำนองในดนตรีจีนดั้งเดิมเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa garis melodi dalam musik tradisional Tiongkok terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ qíng gǎn biǎo dá bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě zhōng guó chuán tǒng yīn yuè xuán lǜ xiàn tiáo",
+      "content_zh": "因此，情感表达不仅是声音现象，也帮助人们理解中国传统音乐旋律线条。",
+      "content_en": "Therefore, emotional expression is not only a sound phenomenon but also a way to understand melodic lines in Chinese traditional music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đường tuyến giai điệu trong nhạc truyền thống Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเส้นทำนองในดนตรีจีนดั้งเดิมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami garis melodi dalam musik tradisional Tiongkok dengan lebih jelas."
+    }
+  ]
+}

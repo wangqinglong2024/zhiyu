@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "05",
+  "category_dir": "05-arts",
+  "article_slug": "07-yan-zhenqing-calligraphy-weight",
+  "article": {
+    "local_id": "arts-007",
+    "category_code": "05",
+    "title_pinyin": "yán zhēn qīng shū fǎ wèi shén me xiǎn de hòu zhòng",
+    "title_i18n": {
+      "zh": "颜真卿书法为什么显得厚重？",
+      "en": "Why Does Yan Zhenqing’s Calligraphy Feel Weighty?",
+      "vi": "Vì sao thư pháp Nhan Chân Khanh có vẻ dày nặng?",
+      "th": "ทำไมพู่กันจีนของเหยียนเจินชิงจึงดูหนักแน่น?",
+      "id": "Mengapa kaligrafi Yan Zhenqing terasa berbobot?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "颜真卿书法显得厚重，是因为他的笔画饱满、结体开阔，整体气势给人端正坚实的感觉。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "笔画饱满也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，笔画饱满不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "结体开阔是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "结体开阔也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，结体开阔不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "楷书气势是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "楷书气势也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，楷书气势不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "中锋厚度是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "中锋厚度也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，中锋厚度不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "转折稳健是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "转折稳健也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，转折稳健不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "碑刻观感是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "碑刻观感也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，碑刻观感不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "颜体特征是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "颜体特征也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，颜体特征不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "端庄气质是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "端庄气质也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，端庄气质不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "学习价值是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "学习价值也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，学习价值不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "唐代书风是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "唐代书风也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，唐代书风不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "公共书写是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "公共书写也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，公共书写不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+    "后世临摹是理解颜真卿书法厚重感的重要切入点。",
+    "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "后世临摹也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，后世临摹不仅是技法问题，也帮助人们理解颜真卿书法厚重感。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "颜真卿书法厚重感",
+        "艺术非遗",
+        "颜真卿书法为什么显得厚重"
+      ],
+      "en": [
+        "the weighty quality of Yan Zhenqing’s calligraphy",
+        "Chinese arts and heritage",
+        "the weighty quality of Yan Zhenqing’s calligraphy guide"
+      ],
+      "vi": [
+        "cảm giác dày nặng trong thư pháp Nhan Chân Khanh",
+        "nghệ thuật Trung Quốc"
+      ],
+      "th": [
+        "ความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+        "ศิลปะจีน"
+      ],
+      "id": [
+        "kesan berbobot dalam kaligrafi Yan Zhenqing",
+        "seni Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "颜真卿书法为什么显得厚重？",
+        "颜真卿书法厚重感应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Yan Zhenqing’s Calligraphy Feel Weighty?",
+        "How should learners understand the weighty quality of Yan Zhenqing’s calligraphy?"
+      ],
+      "vi": [
+        "Vì sao thư pháp Nhan Chân Khanh có vẻ dày nặng?"
+      ],
+      "th": [
+        "ทำไมพู่กันจีนของเหยียนเจินชิงจึงดูหนักแน่น?"
+      ],
+      "id": [
+        "Mengapa kaligrafi Yan Zhenqing terasa berbobot?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/05-arts/yan-zhenqing-calligraphy-weight"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "颜真卿书法显得厚重，是因为他的笔画饱满、结体开阔，整体气势给人端正坚实的感觉。",
+      "en": "Yan Zhenqing’s calligraphy feels weighty because his strokes are full, structures are broad, and the whole style feels upright and solid.",
+      "vi": "Thư pháp Nhan Chân Khanh có vẻ dày nặng vì nét bút đầy, kết cấu rộng và khí thế chung tạo cảm giác ngay thẳng vững chắc.",
+      "th": "พู่กันจีนของเหยียนเจินชิงดูหนักแน่นเพราะเส้นเต็ม โครงสร้างกว้าง และพลังโดยรวมให้ความรู้สึกตรงมั่นคง",
+      "id": "Kaligrafi Yan Zhenqing terasa berbobot karena goresannya penuh, strukturnya lapang, dan keseluruhannya tampak tegak kokoh."
+    },
+    "entities": [
+      {
+        "type": "person",
+        "name_zh": "颜真卿",
+        "name_en": "Yan Zhenqing"
+      },
+      {
+        "type": "style",
+        "name_zh": "颜体",
+        "name_en": "Yan style"
+      },
+      {
+        "type": "script",
+        "name_zh": "楷书",
+        "name_en": "regular script"
+      },
+      {
+        "type": "dynasty",
+        "name_zh": "唐代",
+        "name_en": "Tang period"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、工具材料、形成原因、典型特征、学习价值和当代传承展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "yán zhēn qīng shū fǎ xiǎn de hòu zhòng shì yīn wèi tā de bǐ huà bǎo mǎn jié tǐ kāi kuò zhěng tǐ qì shì gěi rén duān zhèng jiān shí de gǎn jué",
+      "content_zh": "颜真卿书法显得厚重，是因为他的笔画饱满、结体开阔，整体气势给人端正坚实的感觉。",
+      "content_en": "Yan Zhenqing’s calligraphy feels weighty because his strokes are full, structures are broad, and the whole style feels upright and solid.",
+      "content_vi": "Thư pháp Nhan Chân Khanh có vẻ dày nặng vì nét bút đầy, kết cấu rộng và khí thế chung tạo cảm giác ngay thẳng vững chắc.",
+      "content_th": "พู่กันจีนของเหยียนเจินชิงดูหนักแน่นเพราะเส้นเต็ม โครงสร้างกว้าง และพลังโดยรวมให้ความรู้สึกตรงมั่นคง",
+      "content_id": "Kaligrafi Yan Zhenqing terasa berbobot karena goresannya penuh, strukturnya lapang, dan keseluruhannya tampak tegak kokoh."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "bǐ huà bǎo mǎn yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "笔画饱满也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "full strokes also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ bǐ huà bǎo mǎn bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，笔画饱满不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, full strokes is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "jié tǐ kāi kuò shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "结体开阔是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "broad structure is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "jié tǐ kāi kuò yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "结体开阔也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "broad structure also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ jié tǐ kāi kuò bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，结体开阔不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, broad structure is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "kǎi shū qì shì shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "楷书气势是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "regular-script force is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "kǎi shū qì shì yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "楷书气势也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "regular-script force also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ kǎi shū qì shì bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，楷书气势不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, regular-script force is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "zhōng fēng hòu dù shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "中锋厚度是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "center-tip thickness is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "zhōng fēng hòu dù yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "中锋厚度也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "center-tip thickness also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ zhōng fēng hòu dù bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，中锋厚度不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, center-tip thickness is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "zhuǎn zhé wěn jiàn shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "转折稳健是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "steady turns is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "zhuǎn zhé wěn jiàn yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "转折稳健也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "steady turns also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ zhuǎn zhé wěn jiàn bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，转折稳健不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, steady turns is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "bēi kè guān gǎn shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "碑刻观感是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "stone-inscription effect is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "bēi kè guān gǎn yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "碑刻观感也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "stone-inscription effect also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ bēi kè guān gǎn bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，碑刻观感不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, stone-inscription effect is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "yán tǐ tè zhēng shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "颜体特征是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "features of Yan style is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "yán tǐ tè zhēng yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "颜体特征也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "features of Yan style also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ yán tǐ tè zhēng bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，颜体特征不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, features of Yan style is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "duān zhuāng qì zhì shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "端庄气质是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "dignified temperament is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "duān zhuāng qì zhì yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "端庄气质也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "dignified temperament also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ duān zhuāng qì zhì bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，端庄气质不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, dignified temperament is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "xué xí jià zhí shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "学习价值是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "learning value is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "xué xí jià zhí yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "学习价值也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "learning value also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ xué xí jià zhí bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，学习价值不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, learning value is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "táng dài shū fēng shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "唐代书风是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "Tang calligraphy style is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "táng dài shū fēng yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "唐代书风也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "Tang calligraphy style also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ táng dài shū fēng bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，唐代书风不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, Tang calligraphy style is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "gōng gòng shū xiě shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "公共书写是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "public writing is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "gōng gòng shū xiě yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "公共书写也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "public writing also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ gōng gòng shū xiě bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，公共书写不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, public writing is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "hòu shì lín mó shì lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn de zhòng yào qiē rù diǎn",
+      "content_zh": "后世临摹是理解颜真卿书法厚重感的重要切入点。",
+      "content_en": "later copying is an important entry point for understanding the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิง",
+      "content_id": "Bagian ini penting untuk memahami kesan berbobot dalam kaligrafi Yan Zhenqing."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ yán zhēn qīng shū fǎ hòu zhòng gǎn fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把颜真卿书法厚重感放回具体的工具、材料和观看环境中。",
+      "content_en": "It places the weighty quality of Yan Zhenqing’s calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt cảm giác dày nặng trong thư pháp Nhan Chân Khanh trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาความหนักแน่นในพู่กันจีนของเหยียนเจินชิงกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan kesan berbobot dalam kaligrafi Yan Zhenqing kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "hòu shì lín mó yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "后世临摹也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "later copying also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy cảm giác dày nặng trong thư pháp Nhan Chân Khanh được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความหนักแน่นในพู่กันจีนของเหยียนเจินชิงเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kesan berbobot dalam kaligrafi Yan Zhenqing terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ hòu shì lín mó bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě yán zhēn qīng shū fǎ hòu zhòng gǎn",
+      "content_zh": "因此，后世临摹不仅是技法问题，也帮助人们理解颜真卿书法厚重感。",
+      "content_en": "Therefore, later copying is not only a technique issue but also a way to understand the weighty quality of Yan Zhenqing’s calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm giác dày nặng trong thư pháp Nhan Chân Khanh rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหนักแน่นในพู่กันจีนของเหยียนเจินชิงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kesan berbobot dalam kaligrafi Yan Zhenqing dengan lebih jelas."
+    }
+  ]
+}

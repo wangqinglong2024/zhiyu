@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "06",
+  "category_dir": "06-music",
+  "article_slug": "07-erhu-subtle-emotion",
+  "article": {
+    "local_id": "music-007",
+    "category_code": "06",
+    "title_pinyin": "èr hú wèi shén me néng biǎo xiàn xì nì qíng xù",
+    "title_i18n": {
+      "zh": "二胡为什么能表现细腻情绪？",
+      "en": "Why Can the Erhu Express Subtle Emotion?",
+      "vi": "Vì sao đàn nhị có thể diễn tả cảm xúc tinh tế?",
+      "th": "ทำไมเอ้อร์หูจึงแสดงอารมณ์ละเอียดได้?",
+      "id": "Mengapa erhu dapat mengekspresikan emosi halus?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "二胡能表现细腻情绪，是因为弓弦摩擦、滑音、揉弦和接近人声的音色让旋律富于表情。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "弓弦摩擦也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，弓弦摩擦不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "两根琴弦是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "两根琴弦也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，两根琴弦不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "滑音表达是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "滑音表达也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，滑音表达不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "揉弦细节是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "揉弦细节也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，揉弦细节不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "人声接近是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "人声接近也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，人声接近不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "慢板旋律是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "慢板旋律也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，慢板旋律不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "快弓技巧是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "快弓技巧也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，快弓技巧不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "地方曲风是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "地方曲风也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，地方曲风不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "独奏曲目是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "独奏曲目也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，独奏曲目不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "情绪层次是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "情绪层次也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，情绪层次不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "舞台独奏是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "舞台独奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，舞台独奏不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+    "学习难点是理解二胡细腻情绪的重要声音入口。",
+    "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "学习难点也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，学习难点不仅是声音现象，也帮助人们理解二胡细腻情绪。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "二胡细腻情绪",
+        "音乐戏曲",
+        "二胡为什么能表现细腻情绪"
+      ],
+      "en": [
+        "subtle emotion in erhu performance",
+        "Chinese music and opera",
+        "subtle emotion in erhu performance guide"
+      ],
+      "vi": [
+        "cảm xúc tinh tế trong diễn tấu đàn nhị",
+        "âm nhạc Trung Quốc"
+      ],
+      "th": [
+        "อารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+        "ดนตรีจีน"
+      ],
+      "id": [
+        "emosi halus dalam permainan erhu",
+        "musik Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "二胡为什么能表现细腻情绪？",
+        "二胡细腻情绪应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Can the Erhu Express Subtle Emotion?",
+        "How should learners understand subtle emotion in erhu performance?"
+      ],
+      "vi": [
+        "Vì sao đàn nhị có thể diễn tả cảm xúc tinh tế?"
+      ],
+      "th": [
+        "ทำไมเอ้อร์หูจึงแสดงอารมณ์ละเอียดได้?"
+      ],
+      "id": [
+        "Mengapa erhu dapat mengekspresikan emosi halus?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/06-music/erhu-subtle-emotion"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "二胡能表现细腻情绪，是因为弓弦摩擦、滑音、揉弦和接近人声的音色让旋律富于表情。",
+      "en": "The erhu expresses subtle emotion because bow-string friction, slides, vibrato, and a voice-like tone make melodies highly expressive.",
+      "vi": "Đàn nhị diễn tả cảm xúc tinh tế vì ma sát cung dây, luyến âm, rung dây và âm sắc gần giọng người làm giai điệu giàu biểu cảm.",
+      "th": "เอ้อร์หูแสดงอารมณ์ละเอียดได้เพราะการเสียดสีคันชักกับสาย การเลื่อนเสียง การสั่นเสียง และสีเสียงคล้ายเสียงคนทำให้ทำนองมีอารมณ์มาก",
+      "id": "Erhu mengekspresikan emosi halus karena gesekan busur-senar, slide, vibrato, dan warna suara mirip manusia membuat melodi ekspresif."
+    },
+    "entities": [
+      {
+        "type": "instrument",
+        "name_zh": "二胡",
+        "name_en": "erhu"
+      },
+      {
+        "type": "technique",
+        "name_zh": "滑音",
+        "name_en": "slide"
+      },
+      {
+        "type": "technique",
+        "name_zh": "揉弦",
+        "name_en": "vibrato"
+      },
+      {
+        "type": "object",
+        "name_zh": "琴弓",
+        "name_en": "bow"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、工具材料、形成原因、典型特征、学习价值和当代传承展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "èr hú néng biǎo xiàn xì nì qíng xù shì yīn wèi gōng xián mó cā huá yīn róu xián hé jiē jìn rén shēng de yīn sè ràng xuán lǜ fù yú biǎo qíng",
+      "content_zh": "二胡能表现细腻情绪，是因为弓弦摩擦、滑音、揉弦和接近人声的音色让旋律富于表情。",
+      "content_en": "The erhu expresses subtle emotion because bow-string friction, slides, vibrato, and a voice-like tone make melodies highly expressive.",
+      "content_vi": "Đàn nhị diễn tả cảm xúc tinh tế vì ma sát cung dây, luyến âm, rung dây và âm sắc gần giọng người làm giai điệu giàu biểu cảm.",
+      "content_th": "เอ้อร์หูแสดงอารมณ์ละเอียดได้เพราะการเสียดสีคันชักกับสาย การเลื่อนเสียง การสั่นเสียง และสีเสียงคล้ายเสียงคนทำให้ทำนองมีอารมณ์มาก",
+      "content_id": "Erhu mengekspresikan emosi halus karena gesekan busur-senar, slide, vibrato, dan warna suara mirip manusia membuat melodi ekspresif."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "gōng xián mó cā yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "弓弦摩擦也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "bow-string friction also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ gōng xián mó cā bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，弓弦摩擦不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, bow-string friction is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "liǎng gēn qín xián shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "两根琴弦是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "two strings is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "liǎng gēn qín xián yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "两根琴弦也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "two strings also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ liǎng gēn qín xián bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，两根琴弦不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, two strings is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "huá yīn biǎo dá shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "滑音表达是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "expressive slides is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "huá yīn biǎo dá yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "滑音表达也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "expressive slides also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ huá yīn biǎo dá bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，滑音表达不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, expressive slides is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "róu xián xì jié shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "揉弦细节是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "vibrato details is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "róu xián xì jié yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "揉弦细节也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "vibrato details also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ róu xián xì jié bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，揉弦细节不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, vibrato details is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "rén shēng jiē jìn shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "人声接近是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "voice-like tone is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "rén shēng jiē jìn yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "人声接近也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "voice-like tone also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ rén shēng jiē jìn bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，人声接近不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, voice-like tone is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "màn bǎn xuán lǜ shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "慢板旋律是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "slow melodies is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "màn bǎn xuán lǜ yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "慢板旋律也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "slow melodies also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ màn bǎn xuán lǜ bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，慢板旋律不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, slow melodies is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "kuài gōng jì qiǎo shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "快弓技巧是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "fast bowing is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "kuài gōng jì qiǎo yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "快弓技巧也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "fast bowing also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ kuài gōng jì qiǎo bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，快弓技巧不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, fast bowing is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "dì fāng qǔ fēng shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "地方曲风是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "regional styles is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "dì fāng qǔ fēng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "地方曲风也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "regional styles also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ dì fāng qǔ fēng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，地方曲风不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, regional styles is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "dú zòu qǔ mù shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "独奏曲目是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "solo repertoire is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "dú zòu qǔ mù yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "独奏曲目也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "solo repertoire also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ dú zòu qǔ mù bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，独奏曲目不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, solo repertoire is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "qíng xù céng cì shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "情绪层次是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "emotional layers is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "qíng xù céng cì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "情绪层次也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "emotional layers also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ qíng xù céng cì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，情绪层次不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, emotional layers is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "wǔ tái dú zòu shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "舞台独奏是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "stage solo is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "wǔ tái dú zòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "舞台独奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "stage solo also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ wǔ tái dú zòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，舞台独奏不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, stage solo is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xué xí nán diǎn shì lǐ jiě èr hú xì nì qíng xù de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "学习难点是理解二胡细腻情绪的重要声音入口。",
+      "content_en": "learning difficulty is an important sound entry point for understanding subtle emotion in erhu performance.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảm xúc tinh tế trong diễn tấu đàn nhị.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หู",
+      "content_id": "Bagian ini penting untuk memahami emosi halus dalam permainan erhu."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ èr hú xì nì qíng xù fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把二胡细腻情绪放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places subtle emotion in erhu performance back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt cảm xúc tinh tế trong diễn tấu đàn nhị trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาอารมณ์ละเอียดในการบรรเลงเอ้อร์หูกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan emosi halus dalam permainan erhu kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xué xí nán diǎn yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "学习难点也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "learning difficulty also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy cảm xúc tinh tế trong diễn tấu đàn nhị được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอารมณ์ละเอียดในการบรรเลงเอ้อร์หูเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa emosi halus dalam permainan erhu terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xué xí nán diǎn bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě èr hú xì nì qíng xù",
+      "content_zh": "因此，学习难点不仅是声音现象，也帮助人们理解二胡细腻情绪。",
+      "content_en": "Therefore, learning difficulty is not only a sound phenomenon but also a way to understand subtle emotion in erhu performance.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảm xúc tinh tế trong diễn tấu đàn nhị rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอารมณ์ละเอียดในการบรรเลงเอ้อร์หูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami emosi halus dalam permainan erhu dengan lebih jelas."
+    }
+  ]
+}

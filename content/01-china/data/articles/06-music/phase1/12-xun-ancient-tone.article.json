@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "06",
+  "category_dir": "06-music",
+  "article_slug": "12-xun-ancient-tone",
+  "article": {
+    "local_id": "music-012",
+    "category_code": "06",
+    "title_pinyin": "xūn wèi shén me yǒu gǔ pǔ yīn sè",
+    "title_i18n": {
+      "zh": "埙为什么有古朴音色？",
+      "en": "Why Does the Xun Have an Ancient, Plain Tone?",
+      "vi": "Vì sao huân có âm sắc cổ phác?",
+      "th": "ทำไมซวินจึงมีเสียงเก่าแก่เรียบง่าย?",
+      "id": "Mengapa xun memiliki warna suara kuno dan sederhana?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "埙有古朴音色，是因为陶土腔体、闭管结构和含蓄气流让声音低回、柔暗而接近远古想象。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "陶土材料也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，陶土材料不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "闭管结构是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "闭管结构也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，闭管结构不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "吹孔方式是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "吹孔方式也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，吹孔方式不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "低回音色是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "低回音色也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，低回音色不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "气息细腻是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "气息细腻也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，气息细腻不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "考古出土是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "考古出土也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，考古出土不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "古代乐器是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "古代乐器也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，古代乐器不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "独奏氛围是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "独奏氛围也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，独奏氛围不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "民乐合奏是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "民乐合奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，民乐合奏不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "音准控制是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "音准控制也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，音准控制不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "教学体验是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "教学体验也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，教学体验不仅是声音现象，也帮助人们理解埙的古朴音色。",
+    "古朴想象是理解埙的古朴音色的重要声音入口。",
+    "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "古朴想象也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，古朴想象不仅是声音现象，也帮助人们理解埙的古朴音色。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "埙的古朴音色",
+        "音乐戏曲",
+        "埙为什么有古朴音色"
+      ],
+      "en": [
+        "the ancient plain tone of the xun",
+        "Chinese music and opera",
+        "the ancient plain tone of the xun guide"
+      ],
+      "vi": [
+        "âm sắc cổ phác của huân",
+        "âm nhạc Trung Quốc"
+      ],
+      "th": [
+        "เสียงเก่าแก่เรียบง่ายของซวิน",
+        "ดนตรีจีน"
+      ],
+      "id": [
+        "warna suara kuno dan sederhana dari xun",
+        "musik Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "埙为什么有古朴音色？",
+        "埙的古朴音色应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does the Xun Have an Ancient, Plain Tone?",
+        "How should learners understand the ancient plain tone of the xun?"
+      ],
+      "vi": [
+        "Vì sao huân có âm sắc cổ phác?"
+      ],
+      "th": [
+        "ทำไมซวินจึงมีเสียงเก่าแก่เรียบง่าย?"
+      ],
+      "id": [
+        "Mengapa xun memiliki warna suara kuno dan sederhana?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/06-music/xun-ancient-tone"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "埙有古朴音色，是因为陶土腔体、闭管结构和含蓄气流让声音低回、柔暗而接近远古想象。",
+      "en": "The xun has an ancient plain tone because its clay chamber, closed-pipe structure, and restrained airflow create a low, soft, dark sound.",
+      "vi": "Huân có âm sắc cổ phác vì khoang đất nung, cấu trúc ống kín và luồng hơi kín đáo tạo âm trầm, mềm, tối.",
+      "th": "ซวินมีเสียงเก่าแก่เรียบง่ายเพราะโพรงดินเผา โครงสร้างท่อปิด และลมหายใจที่ยับยั้งทำให้เสียงต่ำ นุ่ม และมืด",
+      "id": "Xun memiliki warna suara kuno karena ruang tanah liat, struktur pipa tertutup, dan aliran udara tertahan menghasilkan bunyi rendah lembut gelap."
+    },
+    "entities": [
+      {
+        "type": "instrument",
+        "name_zh": "埙",
+        "name_en": "xun"
+      },
+      {
+        "type": "material",
+        "name_zh": "陶土",
+        "name_en": "clay"
+      },
+      {
+        "type": "concept",
+        "name_zh": "闭管",
+        "name_en": "closed pipe"
+      },
+      {
+        "type": "context",
+        "name_zh": "考古",
+        "name_en": "archaeology"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、工具材料、形成原因、典型特征、学习价值和当代传承展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "xūn yǒu gǔ pǔ yīn sè shì yīn wèi táo tǔ qiāng tǐ bì guǎn jié gòu hé hán xù qì liú ràng shēng yīn dī huí róu àn ér jiē jìn yuǎn gǔ xiǎng xiàng",
+      "content_zh": "埙有古朴音色，是因为陶土腔体、闭管结构和含蓄气流让声音低回、柔暗而接近远古想象。",
+      "content_en": "The xun has an ancient plain tone because its clay chamber, closed-pipe structure, and restrained airflow create a low, soft, dark sound.",
+      "content_vi": "Huân có âm sắc cổ phác vì khoang đất nung, cấu trúc ống kín và luồng hơi kín đáo tạo âm trầm, mềm, tối.",
+      "content_th": "ซวินมีเสียงเก่าแก่เรียบง่ายเพราะโพรงดินเผา โครงสร้างท่อปิด และลมหายใจที่ยับยั้งทำให้เสียงต่ำ นุ่ม และมืด",
+      "content_id": "Xun memiliki warna suara kuno karena ruang tanah liat, struktur pipa tertutup, dan aliran udara tertahan menghasilkan bunyi rendah lembut gelap."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "táo tǔ cái liào yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "陶土材料也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "clay material also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ táo tǔ cái liào bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，陶土材料不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, clay material is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "bì guǎn jié gòu shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "闭管结构是理解埙的古朴音色的重要声音入口。",
+      "content_en": "closed-pipe structure is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "bì guǎn jié gòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "闭管结构也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "closed-pipe structure also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ bì guǎn jié gòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，闭管结构不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, closed-pipe structure is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "chuī kǒng fāng shì shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "吹孔方式是理解埙的古朴音色的重要声音入口。",
+      "content_en": "blowing-hole method is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "chuī kǒng fāng shì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "吹孔方式也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "blowing-hole method also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ chuī kǒng fāng shì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，吹孔方式不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, blowing-hole method is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "dī huí yīn sè shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "低回音色是理解埙的古朴音色的重要声音入口。",
+      "content_en": "low lingering tone is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "dī huí yīn sè yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "低回音色也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "low lingering tone also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ dī huí yīn sè bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，低回音色不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, low lingering tone is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "qì xī xì nì shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "气息细腻是理解埙的古朴音色的重要声音入口。",
+      "content_en": "delicate breath is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "qì xī xì nì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "气息细腻也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "delicate breath also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ qì xī xì nì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，气息细腻不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, delicate breath is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "kǎo gǔ chū tǔ shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "考古出土是理解埙的古朴音色的重要声音入口。",
+      "content_en": "archaeological finds is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "kǎo gǔ chū tǔ yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "考古出土也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "archaeological finds also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ kǎo gǔ chū tǔ bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，考古出土不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, archaeological finds is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "gǔ dài yuè qì shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "古代乐器是理解埙的古朴音色的重要声音入口。",
+      "content_en": "ancient instrument is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "gǔ dài lè qì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "古代乐器也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "ancient instrument also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ gǔ dài yuè qì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，古代乐器不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, ancient instrument is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "dú zòu fēn wéi shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "独奏氛围是理解埙的古朴音色的重要声音入口。",
+      "content_en": "solo atmosphere is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "dú zòu fēn wéi yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "独奏氛围也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "solo atmosphere also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ dú zòu fēn wéi bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，独奏氛围不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, solo atmosphere is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "mín yuè hé zòu shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "民乐合奏是理解埙的古朴音色的重要声音入口。",
+      "content_en": "folk ensemble is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "mín yuè hé zòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "民乐合奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "folk ensemble also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ mín lè hé zòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，民乐合奏不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, folk ensemble is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "yīn zhǔn kòng zhì shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "音准控制是理解埙的古朴音色的重要声音入口。",
+      "content_en": "intonation control is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "yīn zhǔn kòng zhì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "音准控制也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "intonation control also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ yīn zhǔn kòng zhì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，音准控制不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, intonation control is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "jiào xué tǐ yàn shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "教学体验是理解埙的古朴音色的重要声音入口。",
+      "content_en": "learning experience is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "jiào xué tǐ yàn yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "教学体验也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "learning experience also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ jiào xué tǐ yàn bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，教学体验不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, learning experience is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "gǔ pǔ xiǎng xiàng shì lǐ jiě xūn de gǔ pǔ yīn sè de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "古朴想象是理解埙的古朴音色的重要声音入口。",
+      "content_en": "ancient plain imagination is an important sound entry point for understanding the ancient plain tone of the xun.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu âm sắc cổ phác của huân.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเสียงเก่าแก่เรียบง่ายของซวิน",
+      "content_id": "Bagian ini penting untuk memahami warna suara kuno dan sederhana dari xun."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ xūn de gǔ pǔ yīn sè fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把埙的古朴音色放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the ancient plain tone of the xun back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt âm sắc cổ phác của huân trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาเสียงเก่าแก่เรียบง่ายของซวินกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan warna suara kuno dan sederhana dari xun kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "gǔ pǔ xiǎng xiàng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "古朴想象也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "ancient plain imagination also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy âm sắc cổ phác của huân được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเสียงเก่าแก่เรียบง่ายของซวินเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa warna suara kuno dan sederhana dari xun terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ gǔ pǔ xiǎng xiàng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě xūn de gǔ pǔ yīn sè",
+      "content_zh": "因此，古朴想象不仅是声音现象，也帮助人们理解埙的古朴音色。",
+      "content_en": "Therefore, ancient plain imagination is not only a sound phenomenon but also a way to understand the ancient plain tone of the xun.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu âm sắc cổ phác của huân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเสียงเก่าแก่เรียบง่ายของซวินได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna suara kuno dan sederhana dari xun dengan lebih jelas."
+    }
+  ]
+}

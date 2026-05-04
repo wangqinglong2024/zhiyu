@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "06",
+  "category_dir": "06-music",
+  "article_slug": "10-suona-strong-projection",
+  "article": {
+    "local_id": "music-010",
+    "category_code": "06",
+    "title_pinyin": "suǒ nà wèi shén me shēng yīn chuān tòu lì qiáng",
+    "title_i18n": {
+      "zh": "唢呐为什么声音穿透力强？",
+      "en": "Why Does the Suona Have Such Strong Projection?",
+      "vi": "Vì sao kèn suona có sức xuyên âm mạnh?",
+      "th": "ทำไมซั่วน่าจึงมีเสียงทะลุทะลวงสูง?",
+      "id": "Mengapa suona memiliki daya tembus suara kuat?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "唢呐声音穿透力强，是因为双簧片、锥形管身和喇叭口把气流转化成高亮而集中的声响。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "双簧片结构也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，双簧片结构不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "锥形管身是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "锥形管身也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，锥形管身不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "喇叭口扩声是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "喇叭口扩声也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，喇叭口扩声不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "气息压力是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "气息压力也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，气息压力不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "高音明亮是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "高音明亮也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，高音明亮不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "民间礼俗是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "民间礼俗也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，民间礼俗不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "婚礼场景是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "婚礼场景也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，婚礼场景不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "节庆队伍是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "节庆队伍也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，节庆队伍不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "戏曲伴奏是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "戏曲伴奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，戏曲伴奏不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "情绪夸张是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "情绪夸张也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，情绪夸张不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "学习挑战是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "学习挑战也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，学习挑战不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+    "现代舞台是理解唢呐声音穿透力的重要声音入口。",
+    "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "现代舞台也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，现代舞台不仅是声音现象，也帮助人们理解唢呐声音穿透力。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "唢呐声音穿透力",
+        "音乐戏曲",
+        "唢呐为什么声音穿透力强"
+      ],
+      "en": [
+        "the strong projection of the suona",
+        "Chinese music and opera",
+        "the strong projection of the suona guide"
+      ],
+      "vi": [
+        "sức xuyên âm mạnh của suona",
+        "âm nhạc Trung Quốc"
+      ],
+      "th": [
+        "พลังทะลุทะลวงของเสียงซั่วน่า",
+        "ดนตรีจีน"
+      ],
+      "id": [
+        "daya proyeksi kuat suona",
+        "musik Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "唢呐为什么声音穿透力强？",
+        "唢呐声音穿透力应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does the Suona Have Such Strong Projection?",
+        "How should learners understand the strong projection of the suona?"
+      ],
+      "vi": [
+        "Vì sao kèn suona có sức xuyên âm mạnh?"
+      ],
+      "th": [
+        "ทำไมซั่วน่าจึงมีเสียงทะลุทะลวงสูง?"
+      ],
+      "id": [
+        "Mengapa suona memiliki daya tembus suara kuat?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/06-music/suona-strong-projection"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "唢呐声音穿透力强，是因为双簧片、锥形管身和喇叭口把气流转化成高亮而集中的声响。",
+      "en": "The suona projects strongly because its double reed, conical body, and flared bell turn airflow into a bright concentrated sound.",
+      "vi": "Suona có sức xuyên âm mạnh vì dăm kép, thân ống hình nón và loa miệng biến luồng hơi thành âm sáng tập trung.",
+      "th": "ซั่วน่ามีเสียงทะลุทะลวงสูงเพราะลิ้นคู่ ท่อทรงกรวย และปากแตรเปลี่ยนลมหายใจเป็นเสียงสว่างรวมตัว",
+      "id": "Suona berproyeksi kuat karena reed ganda, tubuh kerucut, dan corong melebar mengubah udara menjadi suara terang terpusat."
+    },
+    "entities": [
+      {
+        "type": "instrument",
+        "name_zh": "唢呐",
+        "name_en": "suona"
+      },
+      {
+        "type": "object",
+        "name_zh": "双簧片",
+        "name_en": "double reed"
+      },
+      {
+        "type": "object",
+        "name_zh": "喇叭口",
+        "name_en": "flared bell"
+      },
+      {
+        "type": "context",
+        "name_zh": "民间礼俗",
+        "name_en": "folk ritual"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、工具材料、形成原因、典型特征、学习价值和当代传承展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "suǒ nà shēng yīn chuān tòu lì qiáng shì yīn wèi shuāng huáng piàn zhuī xíng guǎn shēn hé lǎ ba kǒu bǎ qì liú zhuǎn huà chéng gāo liàng ér jí zhōng de shēng xiǎng",
+      "content_zh": "唢呐声音穿透力强，是因为双簧片、锥形管身和喇叭口把气流转化成高亮而集中的声响。",
+      "content_en": "The suona projects strongly because its double reed, conical body, and flared bell turn airflow into a bright concentrated sound.",
+      "content_vi": "Suona có sức xuyên âm mạnh vì dăm kép, thân ống hình nón và loa miệng biến luồng hơi thành âm sáng tập trung.",
+      "content_th": "ซั่วน่ามีเสียงทะลุทะลวงสูงเพราะลิ้นคู่ ท่อทรงกรวย และปากแตรเปลี่ยนลมหายใจเป็นเสียงสว่างรวมตัว",
+      "content_id": "Suona berproyeksi kuat karena reed ganda, tubuh kerucut, dan corong melebar mengubah udara menjadi suara terang terpusat."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shuāng huáng piàn jié gòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "双簧片结构也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "double-reed structure also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shuāng huáng piàn jié gòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，双簧片结构不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, double-reed structure is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "zhuī xíng guǎn shēn shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "锥形管身是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "conical body is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "zhuī xíng guǎn shēn yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "锥形管身也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "conical body also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ zhuī xíng guǎn shēn bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，锥形管身不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, conical body is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "lǎ ba kǒu kuò shēng shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "喇叭口扩声是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "flared bell amplification is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "lǎ ba kǒu kuò shēng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "喇叭口扩声也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "flared bell amplification also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ lǎ ba kǒu kuò shēng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，喇叭口扩声不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, flared bell amplification is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "qì xī yā lì shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "气息压力是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "breath pressure is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "qì xī yā lì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "气息压力也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "breath pressure also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ qì xī yā lì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，气息压力不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, breath pressure is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "gāo yīn míng liàng shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "高音明亮是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "bright high register is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "gāo yīn míng liàng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "高音明亮也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "bright high register also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ gāo yīn míng liàng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，高音明亮不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, bright high register is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "mín jiān lǐ sú shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "民间礼俗是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "folk ritual settings is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "mín jiān lǐ sú yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "民间礼俗也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "folk ritual settings also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ mín jiān lǐ sú bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，民间礼俗不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, folk ritual settings is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "hūn lǐ chǎng jǐng shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "婚礼场景是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "wedding scenes is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "hūn lǐ chǎng jǐng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "婚礼场景也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "wedding scenes also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ hūn lǐ chǎng jǐng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，婚礼场景不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, wedding scenes is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "jié qìng duì wu shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "节庆队伍是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "festival bands is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "jié qìng duì wǔ yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "节庆队伍也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "festival bands also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ jié qìng duì wǔ bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，节庆队伍不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, festival bands is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "xì qǔ bàn zòu shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "戏曲伴奏是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "opera accompaniment is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "xì qǔ bàn zòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "戏曲伴奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "opera accompaniment also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ xì qǔ bàn zòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，戏曲伴奏不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, opera accompaniment is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "qíng xù kuā zhāng shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "情绪夸张是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "heightened emotion is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "qíng xù kuā zhāng yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "情绪夸张也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "heightened emotion also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ qíng xù kuā zhāng bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，情绪夸张不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, heightened emotion is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "xué xí tiǎo zhàn shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "学习挑战是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "learning challenge is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "xué xí tiāo zhàn yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "学习挑战也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "learning challenge also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ xué xí tiāo zhàn bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，学习挑战不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, learning challenge is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xiàn dài wǔ tái shì lǐ jiě suǒ nà shēng yīn chuān tòu lì de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "现代舞台是理解唢呐声音穿透力的重要声音入口。",
+      "content_en": "modern stage is an important sound entry point for understanding the strong projection of the suona.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sức xuyên âm mạnh của suona.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจพลังทะลุทะลวงของเสียงซั่วน่า",
+      "content_id": "Bagian ini penting untuk memahami daya proyeksi kuat suona."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ suǒ nà shēng yīn chuān tòu lì fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把唢呐声音穿透力放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places the strong projection of the suona back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt sức xuyên âm mạnh của suona trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาพลังทะลุทะลวงของเสียงซั่วน่ากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan daya proyeksi kuat suona kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xiàn dài wǔ tái yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "现代舞台也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "modern stage also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy sức xuyên âm mạnh của suona được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าพลังทะลุทะลวงของเสียงซั่วน่าเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa daya proyeksi kuat suona terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xiàn dài wǔ tái bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě suǒ nà shēng yīn chuān tòu lì",
+      "content_zh": "因此，现代舞台不仅是声音现象，也帮助人们理解唢呐声音穿透力。",
+      "content_en": "Therefore, modern stage is not only a sound phenomenon but also a way to understand the strong projection of the suona.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sức xuyên âm mạnh của suona rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพลังทะลุทะลวงของเสียงซั่วน่าได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami daya proyeksi kuat suona dengan lebih jelas."
+    }
+  ]
+}

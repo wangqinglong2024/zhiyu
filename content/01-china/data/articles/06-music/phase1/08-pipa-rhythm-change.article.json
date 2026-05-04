@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "06",
+  "category_dir": "06-music",
+  "article_slug": "08-pipa-rhythm-change",
+  "article": {
+    "local_id": "music-008",
+    "category_code": "06",
+    "title_pinyin": "pí pa wèi shén me shì hé biǎo xiàn jié zòu biàn huà",
+    "title_i18n": {
+      "zh": "琵琶为什么适合表现节奏变化？",
+      "en": "Why Is the Pipa Good at Showing Rhythmic Change?",
+      "vi": "Vì sao đàn tỳ bà thích hợp thể hiện biến hóa tiết tấu?",
+      "th": "ทำไมผีผาจึงเหมาะกับการแสดงจังหวะที่เปลี่ยนแปลง?",
+      "id": "Mengapa pipa cocok menampilkan perubahan ritme?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "琵琶适合表现节奏变化，是因为弹挑、轮指、扫拂和顿挫技巧能制造密集而有层次的声音。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "弹挑动作也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，弹挑动作不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "轮指密度是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "轮指密度也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，轮指密度不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "扫拂力度是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "扫拂力度也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，扫拂力度不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "顿挫节奏是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "顿挫节奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，顿挫节奏不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "武曲气势是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "武曲气势也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，武曲气势不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "文曲细腻是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "文曲细腻也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，文曲细腻不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "音色对比是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "音色对比也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，音色对比不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "右手技巧是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "右手技巧也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，右手技巧不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "左手推拉是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "左手推拉也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，左手推拉不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "叙事效果是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "叙事效果也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，叙事效果不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "合奏穿透是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "合奏穿透也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，合奏穿透不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+    "现代舞台是理解琵琶节奏变化的重要声音入口。",
+    "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+    "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+    "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+    "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+    "现代舞台也说明，传统音乐常把技术训练和情感表达放在一起。",
+    "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+    "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+    "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+    "因此，现代舞台不仅是声音现象，也帮助人们理解琵琶节奏变化。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "琵琶节奏变化",
+        "音乐戏曲",
+        "琵琶为什么适合表现节奏变化"
+      ],
+      "en": [
+        "rhythmic change in pipa music",
+        "Chinese music and opera",
+        "rhythmic change in pipa music guide"
+      ],
+      "vi": [
+        "biến hóa tiết tấu trong nhạc tỳ bà",
+        "âm nhạc Trung Quốc"
+      ],
+      "th": [
+        "การเปลี่ยนจังหวะในดนตรีผีผา",
+        "ดนตรีจีน"
+      ],
+      "id": [
+        "perubahan ritme dalam musik pipa",
+        "musik Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "琵琶为什么适合表现节奏变化？",
+        "琵琶节奏变化应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Is the Pipa Good at Showing Rhythmic Change?",
+        "How should learners understand rhythmic change in pipa music?"
+      ],
+      "vi": [
+        "Vì sao đàn tỳ bà thích hợp thể hiện biến hóa tiết tấu?"
+      ],
+      "th": [
+        "ทำไมผีผาจึงเหมาะกับการแสดงจังหวะที่เปลี่ยนแปลง?"
+      ],
+      "id": [
+        "Mengapa pipa cocok menampilkan perubahan ritme?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/06-music/pipa-rhythm-change"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "琵琶适合表现节奏变化，是因为弹挑、轮指、扫拂和顿挫技巧能制造密集而有层次的声音。",
+      "en": "The pipa suits rhythmic change because plucking, tremolo, sweeping, and accented techniques create dense layered sound.",
+      "vi": "Đàn tỳ bà hợp biểu hiện tiết tấu biến hóa vì gảy, vê, quét và nhấn ngắt tạo âm thanh dày có tầng.",
+      "th": "ผีผาเหมาะกับจังหวะที่เปลี่ยนแปลงเพราะการดีด การรัวนิ้ว การกวาดสาย และการเน้นหยุดสร้างเสียงหนาเป็นชั้น",
+      "id": "Pipa cocok untuk perubahan ritme karena petikan, tremolo, sapuan, dan aksen patah menciptakan bunyi rapat berlapis."
+    },
+    "entities": [
+      {
+        "type": "instrument",
+        "name_zh": "琵琶",
+        "name_en": "pipa"
+      },
+      {
+        "type": "technique",
+        "name_zh": "轮指",
+        "name_en": "tremolo"
+      },
+      {
+        "type": "technique",
+        "name_zh": "扫拂",
+        "name_en": "sweeping"
+      },
+      {
+        "type": "concept",
+        "name_zh": "武曲",
+        "name_en": "martial piece"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、工具材料、形成原因、典型特征、学习价值和当代传承展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "pí pa shì hé biǎo xiàn jié zòu biàn huà shì yīn wèi tán tiāo lún zhǐ sǎo fú hé dùn cuò jì qiǎo néng zhì zào mì jí ér yǒu céng cì de shēng yīn",
+      "content_zh": "琵琶适合表现节奏变化，是因为弹挑、轮指、扫拂和顿挫技巧能制造密集而有层次的声音。",
+      "content_en": "The pipa suits rhythmic change because plucking, tremolo, sweeping, and accented techniques create dense layered sound.",
+      "content_vi": "Đàn tỳ bà hợp biểu hiện tiết tấu biến hóa vì gảy, vê, quét và nhấn ngắt tạo âm thanh dày có tầng.",
+      "content_th": "ผีผาเหมาะกับจังหวะที่เปลี่ยนแปลงเพราะการดีด การรัวนิ้ว การกวาดสาย และการเน้นหยุดสร้างเสียงหนาเป็นชั้น",
+      "content_id": "Pipa cocok untuk perubahan ritme karena petikan, tremolo, sapuan, dan aksen patah menciptakan bunyi rapat berlapis."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "tán tiāo dòng zuò yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "弹挑动作也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "tan and tiao plucking also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ tán tiǎo dòng zuò bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，弹挑动作不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, tan and tiao plucking is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "lún zhǐ mì dù shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "轮指密度是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "tremolo density is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "lún zhǐ mì dù yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "轮指密度也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "tremolo density also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ lún zhǐ mì dù bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，轮指密度不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, tremolo density is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "sǎo fú lì dù shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "扫拂力度是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "sweeping force is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "sǎo fú lì dù yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "扫拂力度也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "sweeping force also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ sǎo fú lì dù bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，扫拂力度不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, sweeping force is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "dùn cuò jié zòu shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "顿挫节奏是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "accented rhythm is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "dùn cuò jié zòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "顿挫节奏也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "accented rhythm also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ dùn cuò jié zòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，顿挫节奏不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, accented rhythm is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "wǔ qǔ qì shì shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "武曲气势是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "martial-piece force is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "wǔ qǔ qì shì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "武曲气势也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "martial-piece force also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ wǔ qǔ qì shì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，武曲气势不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, martial-piece force is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "wén qǔ xì nì shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "文曲细腻是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "lyrical-piece subtlety is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "wén qǔ xì nì yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "文曲细腻也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "lyrical-piece subtlety also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ wén qǔ xì nì bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，文曲细腻不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, lyrical-piece subtlety is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "yīn sè duì bǐ shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "音色对比是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "tone contrast is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "yīn sè duì bǐ yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "音色对比也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "tone contrast also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ yīn sè duì bǐ bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，音色对比不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, tone contrast is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "yòu shǒu jì qiǎo shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "右手技巧是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "right-hand technique is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "yòu shǒu jì qiǎo yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "右手技巧也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "right-hand technique also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ yòu shǒu jì qiǎo bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，右手技巧不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, right-hand technique is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "zuǒ shǒu tuī lā shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "左手推拉是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "left-hand bending is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "zuǒ shǒu tuī lā yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "左手推拉也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "left-hand bending also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ zuǒ shǒu tuī lā bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，左手推拉不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, left-hand bending is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "xù shì xiào guǒ shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "叙事效果是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "narrative effect is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "xù shì xiào guǒ yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "叙事效果也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "narrative effect also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ xù shì xiào guǒ bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，叙事效果不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, narrative effect is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "hé zòu chuān tòu shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "合奏穿透是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "ensemble projection is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "hé zòu chuān tòu yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "合奏穿透也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "ensemble projection also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ hé zòu chuān tòu bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，合奏穿透不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, ensemble projection is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xiàn dài wǔ tái shì lǐ jiě pí pa jié zòu biàn huà de zhòng yào shēng yīn rù kǒu",
+      "content_zh": "现代舞台是理解琵琶节奏变化的重要声音入口。",
+      "content_en": "modern stage is an important sound entry point for understanding rhythmic change in pipa music.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu biến hóa tiết tấu trong nhạc tỳ bà.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเปลี่ยนจังหวะในดนตรีผีผา",
+      "content_id": "Bagian ini penting untuk memahami perubahan ritme dalam musik pipa."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ pí pá jié zòu biàn huà fàng huí jù tǐ de yuè qì jié gòu yǎn zòu dòng zuò hé tīng jué jīng yàn zhōng",
+      "content_zh": "它把琵琶节奏变化放回具体的乐器结构、演奏动作和听觉经验中。",
+      "content_en": "It places rhythmic change in pipa music back into instrument structure, performance movement, and listening experience.",
+      "content_vi": "Nó đặt biến hóa tiết tấu trong nhạc tỳ bà trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการเปลี่ยนจังหวะในดนตรีผีผากลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan perubahan ritme dalam musik pipa kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "yīn gāo jié zòu qì xī hé yīn sè gòng tóng sù zào chū kě yǐ biàn rèn de yīn yuè biǎo qíng",
+      "content_zh": "音高、节奏、气息和音色共同塑造出可以辨认的音乐表情。",
+      "content_en": "Pitch, rhythm, breath, and tone color together shape a recognizable musical expression.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yǎn zòu zhě de shǒu zhǐ gōng fǎ huò hū xī huì ràng tóng yì xuán lǜ chū xiàn bù tóng sè cǎi",
+      "content_zh": "演奏者的手指、弓法或呼吸会让同一旋律出现不同色彩。",
+      "content_en": "A performer’s fingers, bowing, or breath can give the same melody different colors.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn yuè qì wài xíng rén men róng yì hū lüè shēng yīn xíng chéng bèi hòu de shēn tǐ kòng zhì",
+      "content_zh": "如果只看乐器外形，人们容易忽略声音形成背后的身体控制。",
+      "content_en": "If people only look at an instrument’s shape, they may miss the body control behind the sound.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xiàn dài wǔ tái yě shuō míng chuán tǒng yīn yuè cháng bǎ jì shù xùn liàn hé qíng gǎn biǎo dá fàng zài yì qǐ",
+      "content_zh": "现代舞台也说明，传统音乐常把技术训练和情感表达放在一起。",
+      "content_en": "modern stage also shows how traditional music often links technical training with emotional expression.",
+      "content_vi": "Điều đó cho thấy biến hóa tiết tấu trong nhạc tỳ bà được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเปลี่ยนจังหวะในดนตรีผีผาเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa perubahan ritme dalam musik pipa terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shēng yīn tōng guò yuè pǔ kǒu chuán wǔ tái hé jiā tíng xué xí bú duàn yán xù",
+      "content_zh": "这些声音通过乐谱、口传、舞台和家庭学习不断延续。",
+      "content_en": "These sounds continue through scores, oral teaching, stages, and family learning.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yǎn chū huì shǐ yòng xīn wǔ tái hé xīn biān qǔ dàn réng bǎo liú hé xīn yīn sè jì yì",
+      "content_zh": "当代演出会使用新舞台和新编曲，但仍保留核心音色记忆。",
+      "content_en": "Contemporary performances may use new staging and arrangement while keeping core tone memories.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jié gòu jì qiǎo hé tīng gǎn lián qǐ lái kě yǐ kàn jiàn yīn yuè rú hé lián jiē gè rén qíng xù hé gōng gòng chǎng hé",
+      "content_zh": "把结构、技巧和听感连起来，可以看见音乐如何连接个人情绪和公共场合。",
+      "content_en": "When structure, technique, and listening are connected, music links personal feeling with public occasions.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xiàn dài wǔ tái bù jǐn shì shēng yīn xiàn xiàng yě bāng zhù rén men lǐ jiě pí pa jié zòu biàn huà",
+      "content_zh": "因此，现代舞台不仅是声音现象，也帮助人们理解琵琶节奏变化。",
+      "content_en": "Therefore, modern stage is not only a sound phenomenon but also a way to understand rhythmic change in pipa music.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu biến hóa tiết tấu trong nhạc tỳ bà rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเปลี่ยนจังหวะในดนตรีผีผาได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perubahan ritme dalam musik pipa dengan lebih jelas."
+    }
+  ]
+}

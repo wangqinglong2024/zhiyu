@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "05",
+  "category_dir": "05-arts",
+  "article_slug": "10-calligraphy-copying-importance",
+  "article": {
+    "local_id": "arts-010",
+    "category_code": "05",
+    "title_pinyin": "shū fǎ lín mó wèi shén me zhòng yào",
+    "title_i18n": {
+      "zh": "书法临摹为什么重要？",
+      "en": "Why Is Copying Models Important in Calligraphy?",
+      "vi": "Vì sao lâm mô quan trọng trong thư pháp?",
+      "th": "ทำไมการคัดลอกแบบจึงสำคัญในพู่กันจีน?",
+      "id": "Mengapa menyalin model penting dalam kaligrafi?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "书法临摹重要，是因为它让学习者通过古人范本掌握笔法、结构、章法和审美判断。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "范本选择也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，范本选择不仅是技法问题，也帮助人们理解书法临摹。",
+    "读帖观察是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "读帖观察也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，读帖观察不仅是技法问题，也帮助人们理解书法临摹。",
+    "摹写方法是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "摹写方法也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，摹写方法不仅是技法问题，也帮助人们理解书法临摹。",
+    "临写方法是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "临写方法也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，临写方法不仅是技法问题，也帮助人们理解书法临摹。",
+    "笔法训练是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "笔法训练也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，笔法训练不仅是技法问题，也帮助人们理解书法临摹。",
+    "结构记忆是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "结构记忆也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，结构记忆不仅是技法问题，也帮助人们理解书法临摹。",
+    "章法理解是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "章法理解也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，章法理解不仅是技法问题，也帮助人们理解书法临摹。",
+    "纠正习气是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "纠正习气也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，纠正习气不仅是技法问题，也帮助人们理解书法临摹。",
+    "由像到活是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "由像到活也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，由像到活不仅是技法问题，也帮助人们理解书法临摹。",
+    "长期积累是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "长期积累也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，长期积累不仅是技法问题，也帮助人们理解书法临摹。",
+    "个人变化是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "个人变化也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，个人变化不仅是技法问题，也帮助人们理解书法临摹。",
+    "学习秩序是理解书法临摹的重要切入点。",
+    "它把书法临摹放回具体的工具、材料和观看环境中。",
+    "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+    "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+    "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+    "学习秩序也说明，传统艺术常在细小动作中积累长期经验。",
+    "这些经验通过师承、范本、展览和日常书写不断流传。",
+    "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+    "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+    "因此，学习秩序不仅是技法问题，也帮助人们理解书法临摹。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "书法临摹",
+        "艺术非遗",
+        "书法临摹为什么重要"
+      ],
+      "en": [
+        "copying models in calligraphy",
+        "Chinese arts and heritage",
+        "copying models in calligraphy guide"
+      ],
+      "vi": [
+        "lâm mô trong thư pháp",
+        "nghệ thuật Trung Quốc"
+      ],
+      "th": [
+        "การคัดลอกแบบในพู่กันจีน",
+        "ศิลปะจีน"
+      ],
+      "id": [
+        "menyalin model dalam kaligrafi",
+        "seni Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "书法临摹为什么重要？",
+        "书法临摹应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Is Copying Models Important in Calligraphy?",
+        "How should learners understand copying models in calligraphy?"
+      ],
+      "vi": [
+        "Vì sao lâm mô quan trọng trong thư pháp?"
+      ],
+      "th": [
+        "ทำไมการคัดลอกแบบจึงสำคัญในพู่กันจีน?"
+      ],
+      "id": [
+        "Mengapa menyalin model penting dalam kaligrafi?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/05-arts/calligraphy-copying-importance"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "书法临摹重要，是因为它让学习者通过古人范本掌握笔法、结构、章法和审美判断。",
+      "en": "Copying models is important in calligraphy because it helps learners master brushwork, structure, composition, and aesthetic judgment through classic examples.",
+      "vi": "Lâm mô quan trọng vì giúp người học nắm bút pháp, kết cấu, bố cục và phán đoán thẩm mỹ qua mẫu cổ.",
+      "th": "การคัดลอกแบบสำคัญเพราะช่วยให้ผู้เรียนจับวิธีใช้พู่กัน โครงสร้าง องค์ประกอบ และการตัดสินทางงามผ่านต้นแบบคลาสสิก",
+      "id": "Menyalin model penting karena membantu pelajar menguasai teknik kuas, struktur, komposisi, dan penilaian estetis melalui contoh klasik."
+    },
+    "entities": [
+      {
+        "type": "practice",
+        "name_zh": "临摹",
+        "name_en": "copying models"
+      },
+      {
+        "type": "object",
+        "name_zh": "碑帖",
+        "name_en": "stele and model books"
+      },
+      {
+        "type": "concept",
+        "name_zh": "笔法",
+        "name_en": "brushwork"
+      },
+      {
+        "type": "concept",
+        "name_zh": "章法",
+        "name_en": "composition"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、工具材料、形成原因、典型特征、学习价值和当代传承展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "shū fǎ lín mó zhòng yào shì yīn wèi tā ràng xué xí zhě tōng guò gǔ rén fàn běn zhǎng wò bǐ fǎ jié gòu zhāng fǎ hé shěn měi pàn duàn",
+      "content_zh": "书法临摹重要，是因为它让学习者通过古人范本掌握笔法、结构、章法和审美判断。",
+      "content_en": "Copying models is important in calligraphy because it helps learners master brushwork, structure, composition, and aesthetic judgment through classic examples.",
+      "content_vi": "Lâm mô quan trọng vì giúp người học nắm bút pháp, kết cấu, bố cục và phán đoán thẩm mỹ qua mẫu cổ.",
+      "content_th": "การคัดลอกแบบสำคัญเพราะช่วยให้ผู้เรียนจับวิธีใช้พู่กัน โครงสร้าง องค์ประกอบ และการตัดสินทางงามผ่านต้นแบบคลาสสิก",
+      "content_id": "Menyalin model penting karena membantu pelajar menguasai teknik kuas, struktur, komposisi, dan penilaian estetis melalui contoh klasik."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "fàn běn xuǎn zé yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "范本选择也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "choosing models also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ fàn běn xuǎn zé bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，范本选择不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, choosing models is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "dú tiē guān chá shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "读帖观察是理解书法临摹的重要切入点。",
+      "content_en": "observing model books is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "dú tiē guān chá yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "读帖观察也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "observing model books also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ dú tiē guān chá bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，读帖观察不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, observing model books is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "mó xiě fāng fǎ shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "摹写方法是理解书法临摹的重要切入点。",
+      "content_en": "tracing methods is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "mó xiě fāng fǎ yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "摹写方法也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "tracing methods also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ mó xiě fāng fǎ bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，摹写方法不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, tracing methods is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "lín xiě fāng fǎ shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "临写方法是理解书法临摹的重要切入点。",
+      "content_en": "free copying methods is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "lín xiě fāng fǎ yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "临写方法也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "free copying methods also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ lín xiě fāng fǎ bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，临写方法不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, free copying methods is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "bǐ fǎ xùn liàn shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "笔法训练是理解书法临摹的重要切入点。",
+      "content_en": "brushwork training is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "bǐ fǎ xùn liàn yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "笔法训练也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "brushwork training also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ bǐ fǎ xùn liàn bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，笔法训练不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, brushwork training is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "jié gòu jì yì shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "结构记忆是理解书法临摹的重要切入点。",
+      "content_en": "structural memory is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "jié gòu jì yì yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "结构记忆也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "structural memory also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ jié gòu jì yì bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，结构记忆不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, structural memory is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "zhāng fǎ lǐ jiě shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "章法理解是理解书法临摹的重要切入点。",
+      "content_en": "composition understanding is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "zhāng fǎ lǐ jiě yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "章法理解也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "composition understanding also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ zhāng fǎ lǐ jiě bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，章法理解不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, composition understanding is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "jiū zhèng xí qì shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "纠正习气是理解书法临摹的重要切入点。",
+      "content_en": "correcting habits is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "jiū zhèng xí qì yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "纠正习气也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "correcting habits also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ jiū zhèng xí qì bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，纠正习气不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, correcting habits is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "yóu xiàng dào huó shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "由像到活是理解书法临摹的重要切入点。",
+      "content_en": "from likeness to vitality is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "yóu xiàng dào huó yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "由像到活也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "from likeness to vitality also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yóu xiàng dào huó bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，由像到活不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, from likeness to vitality is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "cháng qī jī lěi shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "长期积累是理解书法临摹的重要切入点。",
+      "content_en": "long accumulation is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "cháng qī jī lěi yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "长期积累也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "long accumulation also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ cháng qī jī lěi bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，长期积累不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, long accumulation is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "gè rén biàn huà shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "个人变化是理解书法临摹的重要切入点。",
+      "content_en": "personal variation is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "gè rén biàn huà yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "个人变化也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "personal variation also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ gè rén biàn huà bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，个人变化不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, personal variation is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xué xí zhì xù shì lǐ jiě shū fǎ lín mó de zhòng yào qiē rù diǎn",
+      "content_zh": "学习秩序是理解书法临摹的重要切入点。",
+      "content_en": "learning order is an important entry point for understanding copying models in calligraphy.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lâm mô trong thư pháp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการคัดลอกแบบในพู่กันจีน",
+      "content_id": "Bagian ini penting untuk memahami menyalin model dalam kaligrafi."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ shū fǎ lín mó fàng huí jù tǐ de gōng jù cái liào hé guān kàn huán jìng zhōng",
+      "content_zh": "它把书法临摹放回具体的工具、材料和观看环境中。",
+      "content_en": "It places copying models in calligraphy back into concrete tools, materials, and viewing settings.",
+      "content_vi": "Nó đặt lâm mô trong thư pháp trở lại trong bối cảnh cụ thể của công cụ, cơ thể và đời sống.",
+      "content_th": "มันพาการคัดลอกแบบในพู่กันจีนกลับไปอยู่ในบริบทของเครื่องมือ ร่างกาย และชีวิตจริง",
+      "content_id": "Ia menempatkan menyalin model dalam kaligrafi kembali dalam konteks alat, tubuh, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "bǐ huà mò sè zhǐ miàn hé shǒu shì gòng tóng xíng chéng kě gǎn shòu de jié zòu",
+      "content_zh": "笔画、墨色、纸面和手势共同形成可感受的节奏。",
+      "content_en": "Strokes, ink tones, paper surfaces, and hand movements together create a rhythm people can feel.",
+      "content_vi": "Chất liệu, động tác, âm thanh và thói quen cùng tạo nên kinh nghiệm có thể cảm nhận.",
+      "content_th": "วัสดุ การเคลื่อนไหว เสียง และความเคยชินร่วมกันสร้างประสบการณ์ที่สัมผัสได้",
+      "content_id": "Bahan, gerak, suara, dan kebiasaan bersama membentuk pengalaman yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "zuò pǐn biǎo miàn kàn sì ān jìng nèi bù què bāo hán sù dù lì dù hé hū xī de biàn huà",
+      "content_zh": "作品表面看似安静，内部却包含速度、力度和呼吸的变化。",
+      "content_en": "The work may look quiet on the surface, yet it contains changes of speed, force, and breath inside.",
+      "content_vi": "Bề ngoài có thể giản dị, nhưng bên trong luôn có nhịp điệu, lực và sự kiểm soát.",
+      "content_th": "ภายนอกอาจดูเรียบง่าย แต่ภายในมีจังหวะ แรง และการควบคุมอยู่เสมอ",
+      "content_id": "Dari luar mungkin tampak sederhana, tetapi di dalamnya selalu ada irama, tenaga, dan kendali."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn wán chéng hòu de xíng zhuàng rén men róng yì hū lüè liàn xí cái liào hé shēn tǐ kòng zhì de zuò yòng",
+      "content_zh": "如果只看完成后的形状，人们容易忽略练习、材料和身体控制的作用。",
+      "content_en": "If people only see the finished shape, they may miss the role of practice, material, and body control.",
+      "content_vi": "Nếu chỉ nhìn kết quả cuối cùng, người học dễ bỏ qua quá trình luyện tập phía sau.",
+      "content_th": "หากมองเพียงผลลัพธ์สุดท้าย ผู้เรียนอาจมองข้ามกระบวนการฝึกฝนเบื้องหลัง",
+      "content_id": "Jika hanya melihat hasil akhir, pelajar mudah melewatkan proses latihan di belakangnya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xué xí zhì xù yě shuō míng chuán tǒng yì shù cháng zài xì xiǎo dòng zuò zhōng jī lěi cháng qī jīng yàn",
+      "content_zh": "学习秩序也说明，传统艺术常在细小动作中积累长期经验。",
+      "content_en": "learning order also shows how traditional art stores long experience in small actions.",
+      "content_vi": "Điều đó cho thấy lâm mô trong thư pháp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการคัดลอกแบบในพู่กันจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa menyalin model dalam kaligrafi terbentuk dari banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē jīng yàn tōng guò shī chéng fàn běn zhǎn lǎn hé rì cháng shū xiě bú duàn liú chuán",
+      "content_zh": "这些经验通过师承、范本、展览和日常书写不断流传。",
+      "content_en": "This experience continues through teachers, models, exhibitions, and daily writing.",
+      "content_vi": "Kinh nghiệm ấy tiếp tục truyền qua thầy trò, mẫu mực, biểu diễn và sinh hoạt thường ngày.",
+      "content_th": "ประสบการณ์นั้นยังส่งต่อผ่านครู ศิษย์ แบบอย่าง การแสดง และชีวิตประจำวัน",
+      "content_id": "Pengalaman itu terus diwariskan melalui guru, murid, model, pertunjukan, dan kehidupan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài xué xí gèng qiáng diào lǐ jiě yuán lǐ zài bǎ gǔ lǎo jì fǎ fàng jìn xīn de shēng huó chǎng jǐng",
+      "content_zh": "当代学习更强调理解原理，再把古老技法放进新的生活场景。",
+      "content_en": "Contemporary learning stresses understanding the principle before placing old techniques into new life scenes.",
+      "content_vi": "Trong đời sống hiện đại, cách học mới vẫn cần hiểu nguyên lý cũ một cách thận trọng.",
+      "content_th": "ในชีวิตสมัยใหม่ วิธีเรียนแบบใหม่ยังต้องเข้าใจหลักเก่าอย่างระมัดระวัง",
+      "content_id": "Dalam kehidupan modern, cara belajar baru tetap perlu memahami prinsip lama dengan hati-hati."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gōng jù dòng zuò hé shěn měi lián qǐ lái kě yǐ kàn jiàn yì shù rú hé jìn rù pǔ tōng rén de rì cháng",
+      "content_zh": "把工具、动作和审美连起来，可以看见艺术如何进入普通人的日常。",
+      "content_en": "When tools, actions, and aesthetics are connected, art enters ordinary daily life more clearly.",
+      "content_vi": "Khi đặt công cụ, động tác và cảm nhận cạnh nhau, truyền thống trở nên gần gũi hơn.",
+      "content_th": "เมื่อนำเครื่องมือ การเคลื่อนไหว และความรู้สึกมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika alat, gerak, dan rasa ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xué xí zhì xù bù jǐn shì jì fǎ wèn tí yě bāng zhù rén men lǐ jiě shū fǎ lín mó",
+      "content_zh": "因此，学习秩序不仅是技法问题，也帮助人们理解书法临摹。",
+      "content_en": "Therefore, learning order is not only a technique issue but also a way to understand copying models in calligraphy.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lâm mô trong thư pháp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการคัดลอกแบบในพู่กันจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menyalin model dalam kaligrafi dengan lebih jelas."
+    }
+  ]
+}

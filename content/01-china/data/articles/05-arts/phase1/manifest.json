@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "05",
+  "category_dir": "05-arts",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-chinese-art-line-mood.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "2f8ac9af835fe781237bf31603f1e2d59ecc3aa42bb5f6542213e2a0be277172"
+    },
+    {
+      "path": "02-calligraphy-hanzi-art.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "3149fd6b0cc609ff62de0f92442c2ac0c731db69604d17c69b668ec7af57cb5b"
+    },
+    {
+      "path": "03-seal-clerical-regular-running-cursive.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4eced79a2baf3f63dd58f3e3c7e31520b2a347c776927fdd12ddaa094ae6c1fc"
+    },
+    {
+      "path": "04-brush-thick-thin-strokes.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "6766dadcc3a30a986bada195361b6ac20e7d33b429b7d213c560727bd51353f8"
+    },
+    {
+      "path": "05-four-treasures-study.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "33e468abb5adc46362686285057180e931edda730fed4da3796f3dc19a77e59e"
+    },
+    {
+      "path": "06-wang-xizhi-sage-calligraphy.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "62291c5af70e41df2987812dab02ef58f96c7aafd93b4944a046a436537642f5"
+    },
+    {
+      "path": "07-yan-zhenqing-calligraphy-weight.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "a0649007cc63ec0f53137e5441a4b2b637b7267467ee693da086f5847c99d39d"
+    },
+    {
+      "path": "08-liu-gongquan-bone-strength.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "ca7dd9597c697a189cdbe43c1806bf7944da7e50759ff4e5b2fd0fb49fdadb0d"
+    },
+    {
+      "path": "09-zhao-mengfu-calligraphy-influence.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "b6f5d7be37390fc8bfef3ef3f47e25e8d9882baf77a7cf81687943b39260b978"
+    },
+    {
+      "path": "10-calligraphy-copying-importance.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "1aa2c03f92134b6eab8b1543adfe667a7fdbe5888b864bd7b73c62ab3c21cdb7"
+    },
+    {
+      "path": "11-chinese-painting-blank-space.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "24984715c50ed79f942d3a63954087286e8f3cc0d113e074dc62c7ee2f119076"
+    },
+    {
+      "path": "12-ink-painting-rich-black.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "cfc40dced1980b3f74e17933cbb59b7800401232547bc97da930664a66526d8c"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "2.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

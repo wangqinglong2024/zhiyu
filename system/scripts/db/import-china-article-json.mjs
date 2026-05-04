@@ -35,6 +35,16 @@ const categoryCatalog = {
     nameI18n: { zh: '传统节日', en: 'Festivals & Customs', vi: 'Lễ hội truyền thống', th: 'เทศกาลและประเพณี', id: 'Festival & Adat' },
     descriptionI18n: { zh: '传统节日、节气、民间习俗', en: 'Festivals, solar terms, folk customs', vi: 'Lễ hội, tiết khí, phong tục dân gian', th: 'เทศกาล สารทฤดู ประเพณี', id: 'Festival, musim, adat rakyat' },
   },
+  '05': {
+    sortOrder: 5,
+    nameI18n: { zh: '艺术非遗', en: 'Arts & Heritage', vi: 'Nghệ thuật & Di sản', th: 'ศิลปะและมรดก', id: 'Seni & Warisan' },
+    descriptionI18n: { zh: '书法、国画、剪纸、陶瓷、刺绣', en: 'Calligraphy, painting, paper-cut, ceramics, embroidery', vi: 'Thư pháp, quốc họa, cắt giấy, gốm sứ, thêu', th: 'การประดิษฐ์ตัวอักษร จิตรกรรม กระดาษตัด เซรามิก ปัก', id: 'Kaligrafi, lukisan, kertas potong, keramik, sulam' },
+  },
+  '06': {
+    sortOrder: 6,
+    nameI18n: { zh: '音乐戏曲', en: 'Music & Opera', vi: 'Âm nhạc & Hí khúc', th: 'ดนตรีและงิ้ว', id: 'Musik & Opera' },
+    descriptionI18n: { zh: '民族乐器、京剧、民歌', en: 'Folk instruments, Peking Opera, folk songs', vi: 'Nhạc cụ dân tộc, kinh kịch, dân ca', th: 'เครื่องดนตรีพื้นเมือง งิ้วปักกิ่ง เพลงพื้นบ้าน', id: 'Alat musik etnis, opera Beijing, lagu rakyat' },
+  },
 };
 
 if (!databaseUrl && !args.dryRun) {

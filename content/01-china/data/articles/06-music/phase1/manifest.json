@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "06",
+  "category_dir": "06-music",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-traditional-music-melodic-lines.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "bff1f36212a4a4590ad8e9d5cdf05fb49d1e53fde68a83073152f0e5f5accdcf"
+    },
+    {
+      "path": "02-pentatonic-chinese-flavor.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "0884b64920969d40dee8b71b98698d221d44d167b83bbcc213918f17696af1f2"
+    },
+    {
+      "path": "03-gong-shang-jue-zhi-yu.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "589f2c50d7cde2113474a80c2a69bacabf156707dcee716488d57432a945e273"
+    },
+    {
+      "path": "04-guqin-literati-instrument.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "cb503296b85859e9c50d236f509a2d24a4281e98bab9c7f84a79373d73ea1fda"
+    },
+    {
+      "path": "05-high-mountains-flowing-water.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "852536d24027017e832218892458ae458ef4dc9ab9bc332f37aca6a2fc504115"
+    },
+    {
+      "path": "06-guzheng-bright-flowing-sound.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "d40ec3f119896d5cc3f509ec040e0999304de9a5127b216f6b58e6666e82b570"
+    },
+    {
+      "path": "07-erhu-subtle-emotion.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "165edd158fe64fcb84c1d2c5526a3ec2ee839871c2bf77d4001a7e3495c5615b"
+    },
+    {
+      "path": "08-pipa-rhythm-change.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "ac41b8735c7aad2dd9292f7c301c4264a54c1671510a3c25ddd56c23c8f80f40"
+    },
+    {
+      "path": "09-dizi-xiao-difference.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f96a46622e2b2b256619bb7638d0b81c0da868ebe7db26488eb7f0f1ec5cd0e8"
+    },
+    {
+      "path": "10-suona-strong-projection.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "2a761083ff168ba5d255f88588fb2151ea6d678acbff17124db006a67286d30e"
+    },
+    {
+      "path": "11-bronze-bells-ritual-music.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "50e390b32abd3853eaea25c8c8f10a38d66dc72e1a0b4dbb6b16d26644c2e22f"
+    },
+    {
+      "path": "12-xun-ancient-tone.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "95b1bfb265c54106eedad5c2ca33589a35ad1ef058bb66aad72c01ac4aa29d5e"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "2.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}
