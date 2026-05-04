@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "03",
+  "category_dir": "03-scenic",
+  "article_slug": "06-guilin-landscape-ink-painting",
+  "article": {
+    "local_id": "scenic-006",
+    "category_code": "03",
+    "title_pinyin": "guì lín shān shuǐ wèi shén me xiàng shuǐ mò huà",
+    "title_i18n": {
+      "zh": "桂林山水为什么像水墨画？",
+      "en": "Why Does Guilin Scenery Look Like Ink Painting?",
+      "vi": "Vì sao sơn thủy Quế Lâm giống tranh thủy mặc?",
+      "th": "ทำไมทิวทัศน์กุ้ยหลินเหมือนภาพหมึก?",
+      "id": "Mengapa lanskap Guilin seperti lukisan tinta?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "桂林山水像水墨画，是因为喀斯特峰林、漓江水面、薄雾和留白式空间形成了清淡层次。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "喀斯特峰林也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，喀斯特峰林不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "漓江水面是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "漓江水面也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，漓江水面不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "竹筏行旅是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "竹筏行旅也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，竹筏行旅不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "薄雾远山是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "薄雾远山也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，薄雾远山不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "倒影空间是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "倒影空间也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，倒影空间不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "田园村落是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "田园村落也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，田园村落不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "象鼻山意象是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "象鼻山意象也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，象鼻山意象不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "阳朔风景是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "阳朔风景也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，阳朔风景不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "水墨留白是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "水墨留白也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，水墨留白不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "慢行体验是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "慢行体验也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，慢行体验不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "摄影角度是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "摄影角度也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，摄影角度不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+    "山水诗意是理解桂林山水水墨感的重要观察点。",
+    "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "山水诗意也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，山水诗意不仅是可观看的景物，也帮助人们理解桂林山水水墨感。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "桂林山水水墨感",
+        "名胜风光",
+        "桂林山水为什么像水墨画"
+      ],
+      "en": [
+        "Guilin scenery and ink-painting imagery",
+        "Chinese scenic sites",
+        "Guilin scenery and ink-painting imagery guide"
+      ],
+      "vi": [
+        "sơn thủy Quế Lâm và cảm giác thủy mặc",
+        "danh lam Trung Quốc"
+      ],
+      "th": [
+        "ทิวทัศน์กุ้ยหลินกับภาพหมึก",
+        "สถานที่ท่องเที่ยวจีน"
+      ],
+      "id": [
+        "lanskap Guilin dan citra lukisan tinta",
+        "wisata Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "桂林山水为什么像水墨画？",
+        "桂林山水水墨感应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Guilin Scenery Look Like Ink Painting?",
+        "How should beginners understand Guilin scenery and ink-painting imagery?"
+      ],
+      "vi": [
+        "Vì sao sơn thủy Quế Lâm giống tranh thủy mặc?"
+      ],
+      "th": [
+        "ทำไมทิวทัศน์กุ้ยหลินเหมือนภาพหมึก?"
+      ],
+      "id": [
+        "Mengapa lanskap Guilin seperti lukisan tinta?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/03-scenic/guilin-landscape-ink-painting"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "桂林山水像水墨画，是因为喀斯特峰林、漓江水面、薄雾和留白式空间形成了清淡层次。",
+      "en": "Guilin scenery resembles ink painting because karst peaks, the Li River, light mist, and open space create delicate layers.",
+      "vi": "Sơn thủy Quế Lâm giống tranh thủy mặc vì núi karst, mặt nước Ly Giang, sương mỏng và khoảng trống tạo tầng lớp thanh nhẹ.",
+      "th": "กุ้ยหลินเหมือนภาพหมึกเพราะยอดเขาคารสต์ แม่น้ำหลี หมอกบาง และพื้นที่เว้นว่างสร้างชั้นภาพนุ่ม",
+      "id": "Guilin seperti lukisan tinta karena puncak karst, Sungai Li, kabut tipis, dan ruang terbuka membentuk lapisan halus."
+    },
+    "entities": [
+      {
+        "type": "landmark",
+        "name_zh": "桂林山水",
+        "name_en": "Guilin scenery"
+      },
+      {
+        "type": "river",
+        "name_zh": "漓江",
+        "name_en": "Li River"
+      },
+      {
+        "type": "place",
+        "name_zh": "阳朔",
+        "name_en": "Yangshuo"
+      },
+      {
+        "type": "landmark",
+        "name_zh": "象鼻山",
+        "name_en": "Elephant Trunk Hill"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "guì lín shān shuǐ xiàng shuǐ mò huà shì yīn wèi kā sī tè fēng lín lí jiāng shuǐ miàn bó wù hé liú bái shì kōng jiān xíng chéng le qīng dàn céng cì",
+      "content_zh": "桂林山水像水墨画，是因为喀斯特峰林、漓江水面、薄雾和留白式空间形成了清淡层次。",
+      "content_en": "Guilin scenery resembles ink painting because karst peaks, the Li River, light mist, and open space create delicate layers.",
+      "content_vi": "Sơn thủy Quế Lâm giống tranh thủy mặc vì núi karst, mặt nước Ly Giang, sương mỏng và khoảng trống tạo tầng lớp thanh nhẹ.",
+      "content_th": "กุ้ยหลินเหมือนภาพหมึกเพราะยอดเขาคารสต์ แม่น้ำหลี หมอกบาง และพื้นที่เว้นว่างสร้างชั้นภาพนุ่ม",
+      "content_id": "Guilin seperti lukisan tinta karena puncak karst, Sungai Li, kabut tipis, dan ruang terbuka membentuk lapisan halus."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "kā sī tè fēng lín yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "喀斯特峰林也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "karst peak forest also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ kā sī tè fēng lín bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，喀斯特峰林不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, karst peak forest is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "lí jiāng shuǐ miàn shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "漓江水面是理解桂林山水水墨感的重要观察点。",
+      "content_en": "Li River surface is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "lí jiāng shuǐ miàn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "漓江水面也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "Li River surface also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ lí jiāng shuǐ miàn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，漓江水面不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, Li River surface is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "zhú fá xíng lǚ shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "竹筏行旅是理解桂林山水水墨感的重要观察点。",
+      "content_en": "bamboo-raft travel is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "zhú fá xíng lǚ yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "竹筏行旅也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "bamboo-raft travel also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ zhú fá xíng lǚ bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，竹筏行旅不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, bamboo-raft travel is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "bó wù yuǎn shān shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "薄雾远山是理解桂林山水水墨感的重要观察点。",
+      "content_en": "misty distant hills is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "bó wù yuǎn shān yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "薄雾远山也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "misty distant hills also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ bó wù yuǎn shān bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，薄雾远山不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, misty distant hills is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "dǎo yǐng kōng jiān shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "倒影空间是理解桂林山水水墨感的重要观察点。",
+      "content_en": "reflected space is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "dǎo yǐng kōng jiān yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "倒影空间也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "reflected space also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ dǎo yǐng kōng jiān bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，倒影空间不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, reflected space is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "tián yuán cūn luò shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "田园村落是理解桂林山水水墨感的重要观察点。",
+      "content_en": "rural villages is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "tián yuán cūn luò yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "田园村落也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "rural villages also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ tián yuán cūn luò bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，田园村落不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, rural villages is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "xiàng bí shān yì xiàng shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "象鼻山意象是理解桂林山水水墨感的重要观察点。",
+      "content_en": "Elephant Trunk Hill image is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "xiàng bí shān yì xiàng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "象鼻山意象也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "Elephant Trunk Hill image also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ xiàng bí shān yì xiàng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，象鼻山意象不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, Elephant Trunk Hill image is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "yáng shuò fēng jǐng shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "阳朔风景是理解桂林山水水墨感的重要观察点。",
+      "content_en": "Yangshuo scenery is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "yáng shuò fēng jǐng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "阳朔风景也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "Yangshuo scenery also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ yáng shuò fēng jǐng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，阳朔风景不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, Yangshuo scenery is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "shuǐ mò liú bái shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "水墨留白是理解桂林山水水墨感的重要观察点。",
+      "content_en": "ink-painting blank space is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "shuǐ mò liú bái yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "水墨留白也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "ink-painting blank space also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ shuǐ mò liú bái bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，水墨留白不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, ink-painting blank space is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "màn xíng tǐ yàn shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "慢行体验是理解桂林山水水墨感的重要观察点。",
+      "content_en": "slow travel is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "màn xíng tǐ yàn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "慢行体验也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "slow travel also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ màn xíng tǐ yàn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，慢行体验不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, slow travel is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "shè yǐng jiǎo dù shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "摄影角度是理解桂林山水水墨感的重要观察点。",
+      "content_en": "photographic angles is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "shè yǐng jiǎo dù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "摄影角度也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "photographic angles also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ shè yǐng jiǎo dù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，摄影角度不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, photographic angles is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "shān shuǐ shī yì shì lǐ jiě guì lín shān shuǐ shuǐ mò gǎn de zhòng yào guān chá diǎn",
+      "content_zh": "山水诗意是理解桂林山水水墨感的重要观察点。",
+      "content_en": "poetic landscape is an important viewpoint for understanding Guilin scenery and ink-painting imagery.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sơn thủy Quế Lâm và cảm giác thủy mặc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึก",
+      "content_id": "Bagian ini penting untuk memahami lanskap Guilin dan citra lukisan tinta."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ guì lín shān shuǐ shuǐ mò gǎn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把桂林山水水墨感放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Guilin scenery and ink-painting imagery back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt sơn thủy Quế Lâm và cảm giác thủy mặc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาทิวทัศน์กุ้ยหลินกับภาพหมึกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap Guilin dan citra lukisan tinta kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "shān shuǐ shī yì yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "山水诗意也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "poetic landscape also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy sơn thủy Quế Lâm và cảm giác thủy mặc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าทิวทัศน์กุ้ยหลินกับภาพหมึกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap Guilin dan citra lukisan tinta terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ shān shuǐ shī yì bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě guì lín shān shuǐ shuǐ mò gǎn",
+      "content_zh": "因此，山水诗意不仅是可观看的景物，也帮助人们理解桂林山水水墨感。",
+      "content_en": "Therefore, poetic landscape is not only something to view but also a way to understand Guilin scenery and ink-painting imagery.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sơn thủy Quế Lâm và cảm giác thủy mặc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจทิวทัศน์กุ้ยหลินกับภาพหมึกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap Guilin dan citra lukisan tinta dengan lebih jelas."
+    }
+  ]
+}

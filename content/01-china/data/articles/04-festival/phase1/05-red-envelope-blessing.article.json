@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "04",
+  "category_dir": "04-festival",
+  "article_slug": "05-red-envelope-blessing",
+  "article": {
+    "local_id": "festival-005",
+    "category_code": "04",
+    "title_pinyin": "hóng bāo wèi shén me xiàng zhēng zhù fú",
+    "title_i18n": {
+      "zh": "红包为什么象征祝福？",
+      "en": "Why Do Red Envelopes Symbolize Blessings?",
+      "vi": "Vì sao bao lì xì tượng trưng lời chúc?",
+      "th": "ทำไมอั่งเปาจึงแทนคำอวยพร?",
+      "id": "Mengapa angpau melambangkan berkah?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "红包象征祝福，是因为红色外封、长辈赠予和新年吉语共同表达平安、成长和好运。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "红色外封也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，红色外封不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "长辈赠予是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "长辈赠予也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，长辈赠予不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "孩子接收是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "孩子接收也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，孩子接收不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "压岁寓意是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "压岁寓意也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，压岁寓意不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "金额心意是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "金额心意也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，金额心意不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "吉祥话语是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "吉祥话语也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，吉祥话语不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "拜年场景是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "拜年场景也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，拜年场景不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "数字偏好是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "数字偏好也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，数字偏好不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "电子红包是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "电子红包也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，电子红包不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "家庭关系是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "家庭关系也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，家庭关系不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "礼貌回应是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "礼貌回应也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，礼貌回应不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+    "祝福延续是理解红包祝福象征的重要习俗内容。",
+    "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "祝福延续也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，祝福延续不仅是一种热闹场面，也帮助人们理解红包祝福象征。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "红包祝福象征",
+        "传统节日",
+        "红包为什么象征祝福"
+      ],
+      "en": [
+        "red envelopes as blessings",
+        "Chinese festivals",
+        "red envelopes as blessings guide"
+      ],
+      "vi": [
+        "bao lì xì như lời chúc",
+        "lễ hội Trung Quốc"
+      ],
+      "th": [
+        "อั่งเปาในฐานะคำอวยพร",
+        "เทศกาลจีน"
+      ],
+      "id": [
+        "angpau sebagai berkah",
+        "festival Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "红包为什么象征祝福？",
+        "红包祝福象征应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Do Red Envelopes Symbolize Blessings?",
+        "How should beginners understand red envelopes as blessings?"
+      ],
+      "vi": [
+        "Vì sao bao lì xì tượng trưng lời chúc?"
+      ],
+      "th": [
+        "ทำไมอั่งเปาจึงแทนคำอวยพร?"
+      ],
+      "id": [
+        "Mengapa angpau melambangkan berkah?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/04-festival/red-envelope-blessing"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "红包象征祝福，是因为红色外封、长辈赠予和新年吉语共同表达平安、成长和好运。",
+      "en": "Red envelopes symbolize blessings because the red cover, elders’ giving, and New Year words express safety, growth, and good fortune.",
+      "vi": "Bao lì xì tượng trưng lời chúc vì vỏ đỏ, sự trao tặng của người lớn và lời hay năm mới cùng gửi bình an, trưởng thành và may mắn.",
+      "th": "อั่งเปาแทนคำอวยพรเพราะซองแดง การให้จากผู้ใหญ่ และคำมงคลปีใหม่สื่อถึงความปลอดภัย การเติบโต และโชคดี",
+      "id": "Angpau melambangkan berkah karena amplop merah, pemberian orang tua, dan kata baik tahun baru menyampaikan aman, tumbuh, dan keberuntungan."
+    },
+    "entities": [
+      {
+        "type": "custom",
+        "name_zh": "红包",
+        "name_en": "red envelope"
+      },
+      {
+        "type": "concept",
+        "name_zh": "压岁钱",
+        "name_en": "yasui money"
+      },
+      {
+        "type": "festival",
+        "name_zh": "春节",
+        "name_en": "Spring Festival"
+      },
+      {
+        "type": "concept",
+        "name_zh": "吉祥话",
+        "name_en": "auspicious words"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "hóng bāo xiàng zhēng zhù fú shì yīn wèi hóng sè wài fēng zhǎng bèi zèng yǔ hé xīn nián jí yǔ gòng tóng biǎo dá píng ān chéng zhǎng hé hǎo yùn",
+      "content_zh": "红包象征祝福，是因为红色外封、长辈赠予和新年吉语共同表达平安、成长和好运。",
+      "content_en": "Red envelopes symbolize blessings because the red cover, elders’ giving, and New Year words express safety, growth, and good fortune.",
+      "content_vi": "Bao lì xì tượng trưng lời chúc vì vỏ đỏ, sự trao tặng của người lớn và lời hay năm mới cùng gửi bình an, trưởng thành và may mắn.",
+      "content_th": "อั่งเปาแทนคำอวยพรเพราะซองแดง การให้จากผู้ใหญ่ และคำมงคลปีใหม่สื่อถึงความปลอดภัย การเติบโต และโชคดี",
+      "content_id": "Angpau melambangkan berkah karena amplop merah, pemberian orang tua, dan kata baik tahun baru menyampaikan aman, tumbuh, dan keberuntungan."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "hóng sè wài fēng yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "红色外封也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "red cover also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ hóng sè wài fēng bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，红色外封不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, red cover is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "zhǎng bèi zèng yǔ shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "长辈赠予是理解红包祝福象征的重要习俗内容。",
+      "content_en": "elders giving is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "zhǎng bèi zèng yǔ yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "长辈赠予也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "elders giving also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ zhǎng bèi zèng yǔ bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，长辈赠予不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, elders giving is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "hái zi jiē shōu shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "孩子接收是理解红包祝福象征的重要习俗内容。",
+      "content_en": "children receiving is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "hái zi jiē shōu yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "孩子接收也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "children receiving also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ hái zi jiē shōu bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，孩子接收不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, children receiving is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "yā suì yù yì shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "压岁寓意是理解红包祝福象征的重要习俗内容。",
+      "content_en": "yasui meaning is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "yā suì yù yì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "压岁寓意也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "yasui meaning also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ yā suì yù yì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，压岁寓意不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, yasui meaning is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "jīn é xīn yì shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "金额心意是理解红包祝福象征的重要习俗内容。",
+      "content_en": "amount and intention is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "jīn é xīn yì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "金额心意也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "amount and intention also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ jīn é xīn yì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，金额心意不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, amount and intention is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "jí xiáng huà yǔ shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "吉祥话语是理解红包祝福象征的重要习俗内容。",
+      "content_en": "auspicious words is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "jí xiáng huà yǔ yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "吉祥话语也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "auspicious words also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ jí xiáng huà yǔ bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，吉祥话语不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, auspicious words is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "bài nián chǎng jǐng shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "拜年场景是理解红包祝福象征的重要习俗内容。",
+      "content_en": "New Year visits is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "bài nián chǎng jǐng yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "拜年场景也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "New Year visits also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ bài nián chǎng jǐng bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，拜年场景不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, New Year visits is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "shù zì piān hǎo shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "数字偏好是理解红包祝福象征的重要习俗内容。",
+      "content_en": "number preferences is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "shù zì piān hǎo yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "数字偏好也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "number preferences also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ shù zì piān hǎo bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，数字偏好不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, number preferences is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "diàn zǐ hóng bāo shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "电子红包是理解红包祝福象征的重要习俗内容。",
+      "content_en": "digital red envelopes is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "diàn zǐ hóng bāo yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "电子红包也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "digital red envelopes also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ diàn zǐ hóng bāo bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，电子红包不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, digital red envelopes is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "jiā tíng guān xì shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "家庭关系是理解红包祝福象征的重要习俗内容。",
+      "content_en": "family ties is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "jiā tíng guān xì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "家庭关系也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "family ties also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ jiā tíng guān xì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，家庭关系不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, family ties is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "lǐ mào huí yìng shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "礼貌回应是理解红包祝福象征的重要习俗内容。",
+      "content_en": "polite response is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "lǐ mào huí yìng yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "礼貌回应也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "polite response also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ lǐ mào huí yìng bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，礼貌回应不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, polite response is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "zhù fú yán xù shì lǐ jiě hóng bāo zhù fú xiàng zhēng de zhòng yào xí sú nèi róng",
+      "content_zh": "祝福延续是理解红包祝福象征的重要习俗内容。",
+      "content_en": "continuing blessings is an important custom for understanding red envelopes as blessings.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bao lì xì như lời chúc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอั่งเปาในฐานะคำอวยพร",
+      "content_id": "Bagian ini penting untuk memahami angpau sebagai berkah."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ hóng bāo zhù fú xiàng zhēng fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把红包祝福象征放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places red envelopes as blessings back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt bao lì xì như lời chúc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาอั่งเปาในฐานะคำอวยพรกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan angpau sebagai berkah kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "zhù fú yán xù yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "祝福延续也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "continuing blessings also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy bao lì xì như lời chúc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอั่งเปาในฐานะคำอวยพรเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa angpau sebagai berkah terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ zhù fú yán xù bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě hóng bāo zhù fú xiàng zhēng",
+      "content_zh": "因此，祝福延续不仅是一种热闹场面，也帮助人们理解红包祝福象征。",
+      "content_en": "Therefore, continuing blessings is not only a lively scene but also a way to understand red envelopes as blessings.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bao lì xì như lời chúc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอั่งเปาในฐานะคำอวยพรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami angpau sebagai berkah dengan lebih jelas."
+    }
+  ]
+}

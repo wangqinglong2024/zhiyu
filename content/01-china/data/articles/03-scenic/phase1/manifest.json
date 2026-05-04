@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "03",
+  "category_dir": "03-scenic",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-chinese-landscape-mountains-waters.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "8dcdb3855e59a6b9ea5fefd2444bc5c7d07d7d4f62907d615821f7cf4a8f63d7"
+    },
+    {
+      "path": "02-great-wall-china-landmark.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "a288056648b1d2817658dde53e23ba06b076af6e4f1452561710a78aa4b0e693"
+    },
+    {
+      "path": "03-forbidden-city-ancient-capital.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f3d0458157cebb536f8ae1ec766ec79d540e87768acb5c58504c7fdab92671dc"
+    },
+    {
+      "path": "04-huangshan-pines-rocks.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "75990a7b47199a29c11d4c95eacf243eded915680bdf3c1ffc38d2bd7eb5400b"
+    },
+    {
+      "path": "05-jiuzhaigou-colorful-water.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "c8276698c4ccee83532b5d2c51778c4118c14ce45747d39463ff09a52762189b"
+    },
+    {
+      "path": "06-guilin-landscape-ink-painting.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "19e0fc44ae3f0398ee19ced1a836f2c999689149e04a58edb9d5bfb5d675b0af"
+    },
+    {
+      "path": "07-west-lake-poetic-landscape.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "96a05bb4c4597689e5035a5536f7e6511beaaa4cf4cbd543fbd110af8bfd78af"
+    },
+    {
+      "path": "08-zhangjiajie-stone-peaks.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "834650d06e98bc5e13d1a0870a17efc3748bdfff23005bab6271ddfbae732c65"
+    },
+    {
+      "path": "09-xian-terracotta-army-history.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "13becbca7a7814f0d194ea9dbe31ec25a9aec7341f0f8be7c8f109b22af5d2c9"
+    },
+    {
+      "path": "10-suzhou-gardens-small-big.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "d049d19beffb98c708654d7030e218b99a719a6936b51eb49737e0a1ca975f27"
+    },
+    {
+      "path": "11-lijiang-old-town-water.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "a0aac4a966bb0cc1a284f7b2e4113757ff444abb115d2a240e23f927ab423521"
+    },
+    {
+      "path": "12-shanghai-bund-city-change.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f3929c838c23dd242e1cecaa578fd050a3c574caca0b682e1d63718598d5280d"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "2.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

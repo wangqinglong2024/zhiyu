@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "03",
+  "category_dir": "03-scenic",
+  "article_slug": "09-xian-terracotta-army-history",
+  "article": {
+    "local_id": "scenic-009",
+    "category_code": "03",
+    "title_pinyin": "xī ān bīng mǎ yǒng zhǎn shì le shén me lì shǐ huà miàn",
+    "title_i18n": {
+      "zh": "西安兵马俑展示了什么历史画面？",
+      "en": "What Historical Scene Does Xi’an’s Terracotta Army Show?",
+      "vi": "Binh Mã Dũng Tây An cho thấy cảnh lịch sử nào?",
+      "th": "กองทัพดินเผาซีอานแสดงภาพประวัติศาสตร์อะไร?",
+      "id": "Adegan sejarah apa yang ditampilkan Tentara Terakota Xi’an?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "西安兵马俑展示的是秦代军阵、工艺组织、帝陵制度和统一帝国气象共同构成的历史画面。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "秦代军阵也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，秦代军阵不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "陶俑面貌是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "陶俑面貌也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，陶俑面貌不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "战车步兵是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "战车步兵也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，战车步兵不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "工坊组织是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "工坊组织也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，工坊组织不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "帝陵空间是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "帝陵空间也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，帝陵空间不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "考古发现是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "考古发现也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，考古发现不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "彩绘痕迹是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "彩绘痕迹也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，彩绘痕迹不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "坑道布局是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "坑道布局也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，坑道布局不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "秦始皇陵是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "秦始皇陵也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，秦始皇陵不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "博物馆展示是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "博物馆展示也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，博物馆展示不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "文物保护是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "文物保护也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，文物保护不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+    "历史想象是理解西安兵马俑历史画面的重要观察点。",
+    "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "历史想象也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，历史想象不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "西安兵马俑历史画面",
+        "名胜风光",
+        "西安兵马俑展示了什么历史画面"
+      ],
+      "en": [
+        "the historical scene of Xi’an’s Terracotta Army",
+        "Chinese scenic sites",
+        "the historical scene of Xi’an’s Terracotta Army guide"
+      ],
+      "vi": [
+        "bức tranh lịch sử của Binh Mã Dũng Tây An",
+        "danh lam Trung Quốc"
+      ],
+      "th": [
+        "ภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+        "สถานที่ท่องเที่ยวจีน"
+      ],
+      "id": [
+        "gambaran sejarah Tentara Terakota Xi’an",
+        "wisata Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "what_is",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "西安兵马俑展示了什么历史画面？",
+        "西安兵马俑历史画面应该从哪些方面理解？"
+      ],
+      "en": [
+        "What Historical Scene Does Xi’an’s Terracotta Army Show?",
+        "How should beginners understand the historical scene of Xi’an’s Terracotta Army?"
+      ],
+      "vi": [
+        "Binh Mã Dũng Tây An cho thấy cảnh lịch sử nào?"
+      ],
+      "th": [
+        "กองทัพดินเผาซีอานแสดงภาพประวัติศาสตร์อะไร?"
+      ],
+      "id": [
+        "Adegan sejarah apa yang ditampilkan Tentara Terakota Xi’an?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/03-scenic/xian-terracotta-army-history"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "西安兵马俑展示的是秦代军阵、工艺组织、帝陵制度和统一帝国气象共同构成的历史画面。",
+      "en": "Xi’an’s Terracotta Army shows a Qin military formation, craft organization, imperial tomb system, and the atmosphere of a unified empire.",
+      "vi": "Binh Mã Dũng Tây An cho thấy quân trận Tần, tổ chức thủ công, chế độ lăng đế và khí tượng đế quốc thống nhất.",
+      "th": "กองทัพดินเผาซีอานแสดงกองทัพฉิน การจัดงานช่าง ระบบสุสานจักรพรรดิ และบรรยากาศจักรวรรดิรวมศูนย์",
+      "id": "Tentara Terakota Xi’an menampilkan formasi militer Qin, organisasi kerajinan, sistem makam kaisar, dan suasana kekaisaran terpadu."
+    },
+    "entities": [
+      {
+        "type": "site",
+        "name_zh": "兵马俑",
+        "name_en": "Terracotta Army"
+      },
+      {
+        "type": "person",
+        "name_zh": "秦始皇",
+        "name_en": "Qin Shi Huang"
+      },
+      {
+        "type": "dynasty",
+        "name_zh": "秦代",
+        "name_en": "Qin period"
+      },
+      {
+        "type": "place",
+        "name_zh": "西安",
+        "name_en": "Xi’an"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "xī ān bīng mǎ yǒng zhǎn shì de shì qín dài jūn zhèn gōng yì zǔ zhī dì líng zhì dù hé tǒng yī dì guó qì xiàng gòng tóng gòu chéng de lì shǐ huà miàn",
+      "content_zh": "西安兵马俑展示的是秦代军阵、工艺组织、帝陵制度和统一帝国气象共同构成的历史画面。",
+      "content_en": "Xi’an’s Terracotta Army shows a Qin military formation, craft organization, imperial tomb system, and the atmosphere of a unified empire.",
+      "content_vi": "Binh Mã Dũng Tây An cho thấy quân trận Tần, tổ chức thủ công, chế độ lăng đế và khí tượng đế quốc thống nhất.",
+      "content_th": "กองทัพดินเผาซีอานแสดงกองทัพฉิน การจัดงานช่าง ระบบสุสานจักรพรรดิ และบรรยากาศจักรวรรดิรวมศูนย์",
+      "content_id": "Tentara Terakota Xi’an menampilkan formasi militer Qin, organisasi kerajinan, sistem makam kaisar, dan suasana kekaisaran terpadu."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "qín dài jūn zhèn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "秦代军阵也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "Qin military formation also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ qín dài jūn zhèn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，秦代军阵不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, Qin military formation is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "táo yǒng miàn mào shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "陶俑面貌是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "terracotta figures is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "táo yǒng miàn mào yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "陶俑面貌也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "terracotta figures also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ táo yǒng miàn mào bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，陶俑面貌不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, terracotta figures is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "zhàn chē bù bīng shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "战车步兵是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "chariots and infantry is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "zhàn chē bù bīng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "战车步兵也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "chariots and infantry also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ zhàn chē bù bīng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，战车步兵不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, chariots and infantry is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "gōng fāng zǔ zhī shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "工坊组织是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "workshop organization is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "gōng fāng zǔ zhī yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "工坊组织也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "workshop organization also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ gōng fāng zǔ zhī bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，工坊组织不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, workshop organization is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "dì líng kōng jiān shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "帝陵空间是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "imperial tomb space is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "dì líng kōng jiān yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "帝陵空间也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "imperial tomb space also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ dì líng kōng jiān bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，帝陵空间不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, imperial tomb space is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "kǎo gǔ fā xiàn shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "考古发现是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "archaeological discovery is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "kǎo gǔ fā xiàn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "考古发现也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "archaeological discovery also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ kǎo gǔ fā xiàn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，考古发现不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, archaeological discovery is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "cǎi huì hén jì shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "彩绘痕迹是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "traces of paint is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "cǎi huì hén jì yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "彩绘痕迹也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "traces of paint also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ cǎi huì hén jì bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，彩绘痕迹不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, traces of paint is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "kēng dào bù jú shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "坑道布局是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "pit layout is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "kēng dào bù jú yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "坑道布局也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "pit layout also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ kēng dào bù jú bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，坑道布局不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, pit layout is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "qín shǐ huáng líng shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "秦始皇陵是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "Mausoleum of Qin Shi Huang is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "qín shǐ huáng líng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "秦始皇陵也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "Mausoleum of Qin Shi Huang also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ qín shǐ huáng líng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，秦始皇陵不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, Mausoleum of Qin Shi Huang is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "bó wù guǎn zhǎn shì shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "博物馆展示是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "museum display is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "bó wù guǎn zhǎn shì yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "博物馆展示也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "museum display also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ bó wù guǎn zhǎn shì bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，博物馆展示不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, museum display is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "wén wù bǎo hù shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "文物保护是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "heritage protection is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "wén wù bǎo hù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "文物保护也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "heritage protection also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ wén wù bǎo hù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，文物保护不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, heritage protection is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "lì shǐ xiǎng xiàng shì lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn de zhòng yào guān chá diǎn",
+      "content_zh": "历史想象是理解西安兵马俑历史画面的重要观察点。",
+      "content_en": "historical imagination is an important viewpoint for understanding the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bức tranh lịch sử của Binh Mã Dũng Tây An.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอาน",
+      "content_id": "Bagian ini penting untuk memahami gambaran sejarah Tentara Terakota Xi’an."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ xī ān bīng mǎ yǒng lì shǐ huà miàn fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把西安兵马俑历史画面放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places the historical scene of Xi’an’s Terracotta Army back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt bức tranh lịch sử của Binh Mã Dũng Tây An trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภาพประวัติศาสตร์ของกองทัพดินเผาซีอานกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan gambaran sejarah Tentara Terakota Xi’an kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "lì shǐ xiǎng xiàng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "历史想象也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "historical imagination also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy bức tranh lịch sử của Binh Mã Dũng Tây An được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภาพประวัติศาสตร์ของกองทัพดินเผาซีอานเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa gambaran sejarah Tentara Terakota Xi’an terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ lì shǐ xiǎng xiàng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě xī ān bīng mǎ yǒng lì shǐ huà miàn",
+      "content_zh": "因此，历史想象不仅是可观看的景物，也帮助人们理解西安兵马俑历史画面。",
+      "content_en": "Therefore, historical imagination is not only something to view but also a way to understand the historical scene of Xi’an’s Terracotta Army.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bức tranh lịch sử của Binh Mã Dũng Tây An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภาพประวัติศาสตร์ของกองทัพดินเผาซีอานได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami gambaran sejarah Tentara Terakota Xi’an dengan lebih jelas."
+    }
+  ]
+}

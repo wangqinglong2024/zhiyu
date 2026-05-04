@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "03",
+  "category_dir": "03-scenic",
+  "article_slug": "08-zhangjiajie-stone-peaks",
+  "article": {
+    "local_id": "scenic-008",
+    "category_code": "03",
+    "title_pinyin": "zhāng jiā jiè de shí fēng wèi shén me tè bié",
+    "title_i18n": {
+      "zh": "张家界的石峰为什么特别？",
+      "en": "Why Are Zhangjiajie’s Stone Peaks Special?",
+      "vi": "Vì sao các cột đá Trương Gia Giới đặc biệt?",
+      "th": "ทำไมยอดหินจางเจียเจี้ยจึงพิเศษ?",
+      "id": "Mengapa puncak batu Zhangjiajie istimewa?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "张家界的石峰特别，是因为砂岩峰柱高而密集，峡谷、云雾和森林让空间显得立体。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "砂岩峰柱也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，砂岩峰柱不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "峡谷纵深是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "峡谷纵深也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，峡谷纵深不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "云雾穿行是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "云雾穿行也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，云雾穿行不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "森林覆盖是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "森林覆盖也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，森林覆盖不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "天门山体验是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "天门山体验也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，天门山体验不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "袁家界视角是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "袁家界视角也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，袁家界视角不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "玻璃栈道是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "玻璃栈道也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，玻璃栈道不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "索道交通是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "索道交通也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，索道交通不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "地貌成因是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "地貌成因也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，地貌成因不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "生态保护是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "生态保护也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，生态保护不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "影视传播是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "影视传播也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，影视传播不仅是可观看的景物，也帮助人们理解张家界石峰。",
+    "垂直空间是理解张家界石峰的重要观察点。",
+    "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "垂直空间也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，垂直空间不仅是可观看的景物，也帮助人们理解张家界石峰。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "张家界石峰",
+        "名胜风光",
+        "张家界的石峰为什么特别"
+      ],
+      "en": [
+        "Zhangjiajie’s stone peaks",
+        "Chinese scenic sites",
+        "Zhangjiajie’s stone peaks guide"
+      ],
+      "vi": [
+        "cột đá Trương Gia Giới",
+        "danh lam Trung Quốc"
+      ],
+      "th": [
+        "ยอดหินจางเจียเจี้ย",
+        "สถานที่ท่องเที่ยวจีน"
+      ],
+      "id": [
+        "puncak batu Zhangjiajie",
+        "wisata Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "张家界的石峰为什么特别？",
+        "张家界石峰应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Are Zhangjiajie’s Stone Peaks Special?",
+        "How should beginners understand Zhangjiajie’s stone peaks?"
+      ],
+      "vi": [
+        "Vì sao các cột đá Trương Gia Giới đặc biệt?"
+      ],
+      "th": [
+        "ทำไมยอดหินจางเจียเจี้ยจึงพิเศษ?"
+      ],
+      "id": [
+        "Mengapa puncak batu Zhangjiajie istimewa?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/03-scenic/zhangjiajie-stone-peaks"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "张家界的石峰特别，是因为砂岩峰柱高而密集，峡谷、云雾和森林让空间显得立体。",
+      "en": "Zhangjiajie’s peaks are special because tall dense sandstone pillars, valleys, mist, and forests create a strongly three-dimensional space.",
+      "vi": "Cột đá Trương Gia Giới đặc biệt vì cột sa thạch cao dày, hẻm núi, mây sương và rừng tạo không gian nổi bật.",
+      "th": "ยอดหินจางเจียเจี้ยพิเศษเพราะเสาหินทรายสูงหนาแน่น หุบเขา หมอก และป่าสร้างพื้นที่สามมิติเด่น",
+      "id": "Puncak Zhangjiajie istimewa karena pilar batu pasir yang tinggi dan rapat, lembah, kabut, dan hutan membentuk ruang tiga dimensi."
+    },
+    "entities": [
+      {
+        "type": "landmark",
+        "name_zh": "张家界",
+        "name_en": "Zhangjiajie"
+      },
+      {
+        "type": "place",
+        "name_zh": "袁家界",
+        "name_en": "Yuanjiajie"
+      },
+      {
+        "type": "place",
+        "name_zh": "天门山",
+        "name_en": "Tianmen Mountain"
+      },
+      {
+        "type": "rock",
+        "name_zh": "砂岩",
+        "name_en": "sandstone"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhāng jiā jiè de shí fēng tè bié shì yīn wèi shā yán fēng zhù gāo ér mì jí xiá gǔ yún wù hé sēn lín ràng kōng jiān xiǎn de lì tǐ",
+      "content_zh": "张家界的石峰特别，是因为砂岩峰柱高而密集，峡谷、云雾和森林让空间显得立体。",
+      "content_en": "Zhangjiajie’s peaks are special because tall dense sandstone pillars, valleys, mist, and forests create a strongly three-dimensional space.",
+      "content_vi": "Cột đá Trương Gia Giới đặc biệt vì cột sa thạch cao dày, hẻm núi, mây sương và rừng tạo không gian nổi bật.",
+      "content_th": "ยอดหินจางเจียเจี้ยพิเศษเพราะเสาหินทรายสูงหนาแน่น หุบเขา หมอก และป่าสร้างพื้นที่สามมิติเด่น",
+      "content_id": "Puncak Zhangjiajie istimewa karena pilar batu pasir yang tinggi dan rapat, lembah, kabut, dan hutan membentuk ruang tiga dimensi."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shā yán fēng zhù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "砂岩峰柱也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "sandstone pillars also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shā yán fēng zhù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，砂岩峰柱不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, sandstone pillars is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "xiá gǔ zòng shēn shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "峡谷纵深是理解张家界石峰的重要观察点。",
+      "content_en": "valley depth is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "xiá gǔ zòng shēn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "峡谷纵深也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "valley depth also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ xiá gǔ zòng shēn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，峡谷纵深不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, valley depth is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "yún wù chuān xíng shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "云雾穿行是理解张家界石峰的重要观察点。",
+      "content_en": "moving mist is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "yún wù chuān xíng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "云雾穿行也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "moving mist also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ yún wù chuān xíng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，云雾穿行不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, moving mist is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "sēn lín fù gài shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "森林覆盖是理解张家界石峰的重要观察点。",
+      "content_en": "forest cover is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "sēn lín fù gài yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "森林覆盖也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "forest cover also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ sēn lín fù gài bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，森林覆盖不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, forest cover is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "tiān mén shān tǐ yàn shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "天门山体验是理解张家界石峰的重要观察点。",
+      "content_en": "Tianmen Mountain experience is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "tiān mén shān tǐ yàn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "天门山体验也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "Tianmen Mountain experience also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ tiān mén shān tǐ yàn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，天门山体验不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, Tianmen Mountain experience is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "yuán jiā jiè shì jiǎo shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "袁家界视角是理解张家界石峰的重要观察点。",
+      "content_en": "Yuanjiajie viewpoints is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "yuán jiā jiè shì jiǎo yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "袁家界视角也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "Yuanjiajie viewpoints also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ yuán jiā jiè shì jiǎo bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，袁家界视角不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, Yuanjiajie viewpoints is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "bō lí zhàn dào shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "玻璃栈道是理解张家界石峰的重要观察点。",
+      "content_en": "glass walkways is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "bō lí zhàn dào yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "玻璃栈道也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "glass walkways also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ bō lí zhàn dào bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，玻璃栈道不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, glass walkways is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "suǒ dào jiāo tōng shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "索道交通是理解张家界石峰的重要观察点。",
+      "content_en": "cableway access is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "suǒ dào jiāo tōng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "索道交通也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "cableway access also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ suǒ dào jiāo tōng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，索道交通不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, cableway access is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "dì mào chéng yīn shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "地貌成因是理解张家界石峰的重要观察点。",
+      "content_en": "landform formation is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "dì mào chéng yīn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "地貌成因也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "landform formation also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ dì mào chéng yīn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，地貌成因不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, landform formation is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "shēng tài bǎo hù shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "生态保护是理解张家界石峰的重要观察点。",
+      "content_en": "ecological protection is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "shēng tài bǎo hù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "生态保护也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "ecological protection also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ shēng tài bǎo hù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，生态保护不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, ecological protection is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "yǐng shì chuán bō shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "影视传播是理解张家界石峰的重要观察点。",
+      "content_en": "film and media spread is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "yǐng shì chuán bō yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "影视传播也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "film and media spread also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ yǐng shì chuán bō bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，影视传播不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, film and media spread is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "chuí zhí kōng jiān shì lǐ jiě zhāng jiā jiè shí fēng de zhòng yào guān chá diǎn",
+      "content_zh": "垂直空间是理解张家界石峰的重要观察点。",
+      "content_en": "vertical space is an important viewpoint for understanding Zhangjiajie’s stone peaks.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu cột đá Trương Gia Giới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจยอดหินจางเจียเจี้ย",
+      "content_id": "Bagian ini penting untuk memahami puncak batu Zhangjiajie."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ zhāng jiā jiè shí fēng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把张家界石峰放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Zhangjiajie’s stone peaks back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt cột đá Trương Gia Giới trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพายอดหินจางเจียเจี้ยกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan puncak batu Zhangjiajie kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "chuí zhí kōng jiān yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "垂直空间也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "vertical space also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy cột đá Trương Gia Giới được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่ายอดหินจางเจียเจี้ยเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa puncak batu Zhangjiajie terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ chuí zhí kōng jiān bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhāng jiā jiè shí fēng",
+      "content_zh": "因此，垂直空间不仅是可观看的景物，也帮助人们理解张家界石峰。",
+      "content_en": "Therefore, vertical space is not only something to view but also a way to understand Zhangjiajie’s stone peaks.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cột đá Trương Gia Giới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจยอดหินจางเจียเจี้ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami puncak batu Zhangjiajie dengan lebih jelas."
+    }
+  ]
+}

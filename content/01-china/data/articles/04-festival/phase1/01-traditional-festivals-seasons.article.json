@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "04",
+  "category_dir": "04-festival",
+  "article_slug": "01-traditional-festivals-seasons",
+  "article": {
+    "local_id": "festival-001",
+    "category_code": "04",
+    "title_pinyin": "zhōng guó chuán tǒng jié rì wèi shén me hé jì jié xiāng lián",
+    "title_i18n": {
+      "zh": "中国传统节日为什么和季节相连？",
+      "en": "Why Are Chinese Traditional Festivals Linked to Seasons?",
+      "vi": "Vì sao lễ hội truyền thống Trung Quốc gắn với mùa?",
+      "th": "ทำไมเทศกาลจีนจึงเชื่อมกับฤดูกาล?",
+      "id": "Mengapa festival tradisional Tiongkok terkait musim?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "中国传统节日和季节相连，是因为农事节律、气候变化、家庭礼俗和饮食记忆共同塑造了节日时间。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "农事节律也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，农事节律不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "节气背景是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "节气背景也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，节气背景不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "春季更新是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "春季更新也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，春季更新不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "夏季祈安是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "夏季祈安也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，夏季祈安不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "秋季收获是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "秋季收获也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，秋季收获不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "冬季团聚是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "冬季团聚也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，冬季团聚不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "家庭礼俗是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "家庭礼俗也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，家庭礼俗不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "节令食物是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "节令食物也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，节令食物不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "地方差异是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "地方差异也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，地方差异不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "城市庆祝是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "城市庆祝也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，城市庆祝不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "海外传播是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "海外传播也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，海外传播不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+    "时间记忆是理解传统节日与季节的重要习俗内容。",
+    "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "时间记忆也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，时间记忆不仅是一种热闹场面，也帮助人们理解传统节日与季节。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "传统节日与季节",
+        "传统节日",
+        "中国传统节日为什么和季节相连"
+      ],
+      "en": [
+        "traditional festivals and seasons",
+        "Chinese festivals",
+        "traditional festivals and seasons guide"
+      ],
+      "vi": [
+        "lễ hội truyền thống và mùa",
+        "lễ hội Trung Quốc"
+      ],
+      "th": [
+        "เทศกาลดั้งเดิมกับฤดูกาล",
+        "เทศกาลจีน"
+      ],
+      "id": [
+        "festival tradisional dan musim",
+        "festival Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "中国传统节日为什么和季节相连？",
+        "传统节日与季节应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Are Chinese Traditional Festivals Linked to Seasons?",
+        "How should beginners understand traditional festivals and seasons?"
+      ],
+      "vi": [
+        "Vì sao lễ hội truyền thống Trung Quốc gắn với mùa?"
+      ],
+      "th": [
+        "ทำไมเทศกาลจีนจึงเชื่อมกับฤดูกาล?"
+      ],
+      "id": [
+        "Mengapa festival tradisional Tiongkok terkait musim?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/04-festival/traditional-festivals-seasons"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "中国传统节日和季节相连，是因为农事节律、气候变化、家庭礼俗和饮食记忆共同塑造了节日时间。",
+      "en": "Chinese traditional festivals are linked to seasons because farm rhythms, climate changes, family customs, and food memories shape festival timing.",
+      "vi": "Lễ hội truyền thống Trung Quốc gắn với mùa vì nhịp nông nghiệp, khí hậu, lễ tục gia đình và ký ức ẩm thực cùng tạo thời điểm lễ.",
+      "th": "เทศกาลจีนเชื่อมกับฤดูกาลเพราะจังหวะเกษตร ภูมิอากาศ ประเพณีครอบครัว และความทรงจำอาหารกำหนดเวลาเทศกาล",
+      "id": "Festival tradisional Tiongkok terkait musim karena ritme tani, perubahan iklim, adat keluarga, dan ingatan makanan membentuk waktunya."
+    },
+    "entities": [
+      {
+        "type": "concept",
+        "name_zh": "传统节日",
+        "name_en": "traditional festivals"
+      },
+      {
+        "type": "concept",
+        "name_zh": "节气",
+        "name_en": "solar terms"
+      },
+      {
+        "type": "concept",
+        "name_zh": "农事",
+        "name_en": "farm work"
+      },
+      {
+        "type": "concept",
+        "name_zh": "节令食物",
+        "name_en": "seasonal foods"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhōng guó chuán tǒng jié rì hé jì jié xiāng lián shì yīn wèi nóng shì jié lǜ qì hòu biàn huà jiā tíng lǐ sú hé yǐn shí jì yì gòng tóng sù zào le jié rì shí jiān",
+      "content_zh": "中国传统节日和季节相连，是因为农事节律、气候变化、家庭礼俗和饮食记忆共同塑造了节日时间。",
+      "content_en": "Chinese traditional festivals are linked to seasons because farm rhythms, climate changes, family customs, and food memories shape festival timing.",
+      "content_vi": "Lễ hội truyền thống Trung Quốc gắn với mùa vì nhịp nông nghiệp, khí hậu, lễ tục gia đình và ký ức ẩm thực cùng tạo thời điểm lễ.",
+      "content_th": "เทศกาลจีนเชื่อมกับฤดูกาลเพราะจังหวะเกษตร ภูมิอากาศ ประเพณีครอบครัว และความทรงจำอาหารกำหนดเวลาเทศกาล",
+      "content_id": "Festival tradisional Tiongkok terkait musim karena ritme tani, perubahan iklim, adat keluarga, dan ingatan makanan membentuk waktunya."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "nóng shì jié lǜ yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "农事节律也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "farm rhythms also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ nóng shì jié lǜ bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，农事节律不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, farm rhythms is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "jié qì bèi jǐng shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "节气背景是理解传统节日与季节的重要习俗内容。",
+      "content_en": "solar-term background is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "jié qì bèi jǐng yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "节气背景也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "solar-term background also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ jié qì bèi jǐng bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，节气背景不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, solar-term background is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "chūn jì gēng xīn shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "春季更新是理解传统节日与季节的重要习俗内容。",
+      "content_en": "spring renewal is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "chūn jì gēng xīn yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "春季更新也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "spring renewal also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ chūn jì gēng xīn bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，春季更新不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, spring renewal is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "xià jì qí ān shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "夏季祈安是理解传统节日与季节的重要习俗内容。",
+      "content_en": "summer well-being is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "xià jì qí ān yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "夏季祈安也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "summer well-being also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ xià jì qí ān bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，夏季祈安不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, summer well-being is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "qiū jì shōu huò shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "秋季收获是理解传统节日与季节的重要习俗内容。",
+      "content_en": "autumn harvest is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "qiū jì shōu huò yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "秋季收获也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "autumn harvest also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ qiū jì shōu huò bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，秋季收获不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, autumn harvest is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "dōng jì tuán jù shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "冬季团聚是理解传统节日与季节的重要习俗内容。",
+      "content_en": "winter reunion is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "dōng jì tuán jù yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "冬季团聚也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "winter reunion also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ dōng jì tuán jù bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，冬季团聚不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, winter reunion is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "jiā tíng lǐ sú shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "家庭礼俗是理解传统节日与季节的重要习俗内容。",
+      "content_en": "family customs is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "jiā tíng lǐ sú yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "家庭礼俗也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "family customs also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ jiā tíng lǐ sú bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，家庭礼俗不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, family customs is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "jié lìng shí wù shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "节令食物是理解传统节日与季节的重要习俗内容。",
+      "content_en": "seasonal foods is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "jié lìng shí wù yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "节令食物也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "seasonal foods also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ jié lìng shí wù bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，节令食物不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, seasonal foods is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "dì fāng chā yì shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "地方差异是理解传统节日与季节的重要习俗内容。",
+      "content_en": "regional differences is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "dì fāng chā yì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "地方差异也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "regional differences also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ dì fāng chā yì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，地方差异不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, regional differences is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "chéng shì qìng zhù shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "城市庆祝是理解传统节日与季节的重要习俗内容。",
+      "content_en": "urban celebration is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "chéng shì qìng zhù yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "城市庆祝也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "urban celebration also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ chéng shì qìng zhù bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，城市庆祝不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, urban celebration is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "hǎi wài zhuàn bō shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "海外传播是理解传统节日与季节的重要习俗内容。",
+      "content_en": "overseas spread is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "hǎi wài zhuàn bō yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "海外传播也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "overseas spread also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ hǎi wài zhuàn bō bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，海外传播不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, overseas spread is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "shí jiān jì yì shì lǐ jiě chuán tǒng jié rì yǔ jì jié de zhòng yào xí sú nèi róng",
+      "content_zh": "时间记忆是理解传统节日与季节的重要习俗内容。",
+      "content_en": "memory of time is an important custom for understanding traditional festivals and seasons.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu lễ hội truyền thống và mùa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเทศกาลดั้งเดิมกับฤดูกาล",
+      "content_id": "Bagian ini penting untuk memahami festival tradisional dan musim."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ chuán tǒng jié rì yǔ jì jié fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把传统节日与季节放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places traditional festivals and seasons back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt lễ hội truyền thống và mùa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาเทศกาลดั้งเดิมกับฤดูกาลกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan festival tradisional dan musim kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "shí jiān jì yì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "时间记忆也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "memory of time also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy lễ hội truyền thống và mùa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเทศกาลดั้งเดิมกับฤดูกาลเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa festival tradisional dan musim terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ shí jiān jì yì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chuán tǒng jié rì yǔ jì jié",
+      "content_zh": "因此，时间记忆不仅是一种热闹场面，也帮助人们理解传统节日与季节。",
+      "content_en": "Therefore, memory of time is not only a lively scene but also a way to understand traditional festivals and seasons.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lễ hội truyền thống và mùa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทศกาลดั้งเดิมกับฤดูกาลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami festival tradisional dan musim dengan lebih jelas."
+    }
+  ]
+}

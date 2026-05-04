@@ -25,6 +25,16 @@ const categoryCatalog = {
     nameI18n: { zh: '中国美食', en: 'Chinese Cuisine', vi: 'Ẩm thực Trung Quốc', th: 'อาหารจีน', id: 'Kuliner Tiongkok' },
     descriptionI18n: { zh: '八大菜系、地方小吃、饮食文化', en: 'Eight cuisines, local snacks, food culture', vi: 'Tám trường phái, món ăn địa phương, văn hóa ẩm thực', th: 'แปดสำรับ อาหารท้องถิ่น วัฒนธรรมอาหาร', id: 'Delapan masakan, jajanan daerah, budaya kuliner' },
   },
+  '03': {
+    sortOrder: 3,
+    nameI18n: { zh: '名胜风光', en: 'Scenic Wonders', vi: 'Danh lam thắng cảnh', th: 'สถานที่ท่องเที่ยว', id: 'Pemandangan Indah' },
+    descriptionI18n: { zh: '自然奇观、历史遗迹、城市地标', en: 'Natural wonders, historic sites, city landmarks', vi: 'Kỳ quan thiên nhiên, di tích lịch sử, biểu tượng thành phố', th: 'ธรรมชาติ โบราณสถาน แลนด์มาร์ก', id: 'Keajaiban alam, situs sejarah, ikon kota' },
+  },
+  '04': {
+    sortOrder: 4,
+    nameI18n: { zh: '传统节日', en: 'Festivals & Customs', vi: 'Lễ hội truyền thống', th: 'เทศกาลและประเพณี', id: 'Festival & Adat' },
+    descriptionI18n: { zh: '传统节日、节气、民间习俗', en: 'Festivals, solar terms, folk customs', vi: 'Lễ hội, tiết khí, phong tục dân gian', th: 'เทศกาล สารทฤดู ประเพณี', id: 'Festival, musim, adat rakyat' },
+  },
 };
 
 if (!databaseUrl && !args.dryRun) {

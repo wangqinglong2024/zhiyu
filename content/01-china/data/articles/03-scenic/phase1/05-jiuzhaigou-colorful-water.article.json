@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "03",
+  "category_dir": "03-scenic",
+  "article_slug": "05-jiuzhaigou-colorful-water",
+  "article": {
+    "local_id": "scenic-005",
+    "category_code": "03",
+    "title_pinyin": "jiǔ zhài gōu de shuǐ wèi shén me yán sè fēng fù",
+    "title_i18n": {
+      "zh": "九寨沟的水为什么颜色丰富？",
+      "en": "Why Is Jiuzhaigou’s Water So Colorful?",
+      "vi": "Vì sao nước Cửu Trại Câu nhiều màu?",
+      "th": "ทำไมน้ำจิ่วจ้ายโกวจึงมีสีหลากหลาย?",
+      "id": "Mengapa air Jiuzhaigou berwarna kaya?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "九寨沟的水颜色丰富，是因为钙华沉积、清澈水体、森林倒影和光线变化共同作用。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "高山湖泊也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，高山湖泊不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "钙华沉积是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "钙华沉积也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，钙华沉积不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "清澈水体是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "清澈水体也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，清澈水体不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "森林倒影是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "森林倒影也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，森林倒影不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "瀑布台地是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "瀑布台地也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，瀑布台地不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "季节色彩是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "季节色彩也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，季节色彩不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "光线角度是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "光线角度也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，光线角度不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "栈道观景是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "栈道观景也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，栈道观景不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "生态修复是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "生态修复也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，生态修复不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "游客管理是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "游客管理也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，游客管理不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "摄影记忆是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "摄影记忆也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，摄影记忆不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+    "自然保护是理解九寨沟彩色湖水的重要观察点。",
+    "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "自然保护也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，自然保护不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "九寨沟彩色湖水",
+        "名胜风光",
+        "九寨沟的水为什么颜色丰富"
+      ],
+      "en": [
+        "Jiuzhaigou’s colorful waters",
+        "Chinese scenic sites",
+        "Jiuzhaigou’s colorful waters guide"
+      ],
+      "vi": [
+        "nước nhiều màu của Cửu Trại Câu",
+        "danh lam Trung Quốc"
+      ],
+      "th": [
+        "น้ำสีหลากหลายของจิ่วจ้ายโกว",
+        "สถานที่ท่องเที่ยวจีน"
+      ],
+      "id": [
+        "air berwarna di Jiuzhaigou",
+        "wisata Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "九寨沟的水为什么颜色丰富？",
+        "九寨沟彩色湖水应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Is Jiuzhaigou’s Water So Colorful?",
+        "How should beginners understand Jiuzhaigou’s colorful waters?"
+      ],
+      "vi": [
+        "Vì sao nước Cửu Trại Câu nhiều màu?"
+      ],
+      "th": [
+        "ทำไมน้ำจิ่วจ้ายโกวจึงมีสีหลากหลาย?"
+      ],
+      "id": [
+        "Mengapa air Jiuzhaigou berwarna kaya?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/03-scenic/jiuzhaigou-colorful-water"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "九寨沟的水颜色丰富，是因为钙华沉积、清澈水体、森林倒影和光线变化共同作用。",
+      "en": "Jiuzhaigou’s water is colorful because travertine deposits, clear water, forest reflections, and changing light work together.",
+      "vi": "Nước Cửu Trại Câu nhiều màu do trầm tích travertine, nước trong, bóng rừng và ánh sáng thay đổi cùng tạo nên.",
+      "th": "น้ำจิ่วจ้ายโกวมีหลายสีเพราะตะกอนหินปูน น้ำใส เงาป่า และแสงที่เปลี่ยนร่วมกัน",
+      "id": "Air Jiuzhaigou kaya warna karena endapan travertine, air jernih, pantulan hutan, dan cahaya yang berubah bekerja bersama."
+    },
+    "entities": [
+      {
+        "type": "landmark",
+        "name_zh": "九寨沟",
+        "name_en": "Jiuzhaigou"
+      },
+      {
+        "type": "concept",
+        "name_zh": "钙华",
+        "name_en": "travertine"
+      },
+      {
+        "type": "object",
+        "name_zh": "瀑布",
+        "name_en": "waterfall"
+      },
+      {
+        "type": "object",
+        "name_zh": "高山湖泊",
+        "name_en": "alpine lake"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "jiǔ zhài gōu de shuǐ yán sè fēng fù shì yīn wèi gài huá chén jī qīng chè shuǐ tǐ sēn lín dǎo yǐng hé guāng xiàn biàn huà gòng tóng zuò yòng",
+      "content_zh": "九寨沟的水颜色丰富，是因为钙华沉积、清澈水体、森林倒影和光线变化共同作用。",
+      "content_en": "Jiuzhaigou’s water is colorful because travertine deposits, clear water, forest reflections, and changing light work together.",
+      "content_vi": "Nước Cửu Trại Câu nhiều màu do trầm tích travertine, nước trong, bóng rừng và ánh sáng thay đổi cùng tạo nên.",
+      "content_th": "น้ำจิ่วจ้ายโกวมีหลายสีเพราะตะกอนหินปูน น้ำใส เงาป่า และแสงที่เปลี่ยนร่วมกัน",
+      "content_id": "Air Jiuzhaigou kaya warna karena endapan travertine, air jernih, pantulan hutan, dan cahaya yang berubah bekerja bersama."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "gāo shān hú bó yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "高山湖泊也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "alpine lakes also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ gāo shān hú bó bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，高山湖泊不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, alpine lakes is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "gài huá chén jī shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "钙华沉积是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "travertine deposits is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "gài huá chén jī yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "钙华沉积也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "travertine deposits also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ gài huá chén jī bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，钙华沉积不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, travertine deposits is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "qīng chè shuǐ tǐ shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "清澈水体是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "clear water is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "qīng chè shuǐ tǐ yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "清澈水体也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "clear water also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ qīng chè shuǐ tǐ bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，清澈水体不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, clear water is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "sēn lín dǎo yǐng shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "森林倒影是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "forest reflections is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "sēn lín dǎo yǐng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "森林倒影也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "forest reflections also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ sēn lín dǎo yǐng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，森林倒影不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, forest reflections is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "pù bù tái dì shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "瀑布台地是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "waterfall terraces is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "pù bù tái dì yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "瀑布台地也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "waterfall terraces also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ pù bù tái dì bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，瀑布台地不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, waterfall terraces is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "jì jié sè cǎi shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "季节色彩是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "seasonal colors is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "jì jié sè cǎi yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "季节色彩也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "seasonal colors also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ jì jié sè cǎi bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，季节色彩不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, seasonal colors is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "guāng xiàn jiǎo dù shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "光线角度是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "light angles is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "guāng xiàn jiǎo dù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "光线角度也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "light angles also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ guāng xiàn jiǎo dù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，光线角度不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, light angles is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "zhàn dào guàn jǐng shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "栈道观景是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "boardwalk viewing is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "zhàn dào guàn jǐng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "栈道观景也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "boardwalk viewing also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ zhàn dào guàn jǐng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，栈道观景不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, boardwalk viewing is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "shēng tài xiū fù shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "生态修复是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "ecological restoration is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "shēng tài xiū fù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "生态修复也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "ecological restoration also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ shēng tài xiū fù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，生态修复不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, ecological restoration is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "yóu kè guǎn lǐ shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "游客管理是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "visitor management is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "yóu kè guǎn lǐ yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "游客管理也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "visitor management also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ yóu kè guǎn lǐ bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，游客管理不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, visitor management is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "shè yǐng jì yì shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "摄影记忆是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "photographic memory is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "shè yǐng jì yì yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "摄影记忆也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "photographic memory also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ shè yǐng jì yì bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，摄影记忆不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, photographic memory is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "zì rán bǎo hù shì lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ de zhòng yào guān chá diǎn",
+      "content_zh": "自然保护是理解九寨沟彩色湖水的重要观察点。",
+      "content_en": "nature protection is an important viewpoint for understanding Jiuzhaigou’s colorful waters.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nước nhiều màu của Cửu Trại Câu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกว",
+      "content_id": "Bagian ini penting untuk memahami air berwarna di Jiuzhaigou."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ jiǔ zhài gōu cǎi sè hú shuǐ fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把九寨沟彩色湖水放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Jiuzhaigou’s colorful waters back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt nước nhiều màu của Cửu Trại Câu trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาน้ำสีหลากหลายของจิ่วจ้ายโกวกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan air berwarna di Jiuzhaigou kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "zì rán bǎo hù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "自然保护也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "nature protection also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy nước nhiều màu của Cửu Trại Câu được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำสีหลากหลายของจิ่วจ้ายโกวเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa air berwarna di Jiuzhaigou terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ zì rán bǎo hù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě jiǔ zhài gōu cǎi sè hú shuǐ",
+      "content_zh": "因此，自然保护不仅是可观看的景物，也帮助人们理解九寨沟彩色湖水。",
+      "content_en": "Therefore, nature protection is not only something to view but also a way to understand Jiuzhaigou’s colorful waters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nước nhiều màu của Cửu Trại Câu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำสีหลากหลายของจิ่วจ้ายโกวได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami air berwarna di Jiuzhaigou dengan lebih jelas."
+    }
+  ]
+}

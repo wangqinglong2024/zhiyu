@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "03",
+  "category_dir": "03-scenic",
+  "article_slug": "01-chinese-landscape-mountains-waters",
+  "article": {
+    "local_id": "scenic-001",
+    "category_code": "03",
+    "title_pinyin": "zhōng guó fēng jǐng wèi shén me cháng bǎ shān shuǐ fàng zài yì qǐ",
+    "title_i18n": {
+      "zh": "中国风景为什么常把山水放在一起？",
+      "en": "Why Do Chinese Landscapes Pair Mountains and Water?",
+      "vi": "Vì sao phong cảnh Trung Quốc gắn núi với nước?",
+      "th": "ทำไมทิวทัศน์จีนมักรวมภูเขากับน้ำ?",
+      "id": "Mengapa lanskap Tiongkok sering menyandingkan gunung dan air?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "中国风景常把山水放在一起，是因为山塑造空间骨架，水带来流动、生活和审美想象。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "山体轮廓也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，山体轮廓不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "江河湖泊是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "江河湖泊也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，江河湖泊不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "水墨画面是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "水墨画面也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，水墨画面不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "行旅视角是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "行旅视角也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，行旅视角不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "村镇依托是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "村镇依托也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，村镇依托不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "诗词记忆是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "诗词记忆也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，诗词记忆不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "园林借景是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "园林借景也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，园林借景不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "云雾变化是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "云雾变化也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，云雾变化不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "舟桥道路是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "舟桥道路也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，舟桥道路不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "四季色彩是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "四季色彩也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，四季色彩不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "观景秩序是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "观景秩序也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，观景秩序不仅是可观看的景物，也帮助人们理解中国山水风景。",
+    "文化想象是理解中国山水风景的重要观察点。",
+    "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+    "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+    "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+    "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+    "文化想象也说明，名胜风光往往由自然条件和人文经营共同形成。",
+    "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+    "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+    "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+    "因此，文化想象不仅是可观看的景物，也帮助人们理解中国山水风景。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "中国山水风景",
+        "名胜风光",
+        "中国风景为什么常把山水放在一起"
+      ],
+      "en": [
+        "Chinese mountain-and-water landscapes",
+        "Chinese scenic sites",
+        "Chinese mountain-and-water landscapes guide"
+      ],
+      "vi": [
+        "phong cảnh sơn thủy Trung Quốc",
+        "danh lam Trung Quốc"
+      ],
+      "th": [
+        "ภูมิทัศน์ภูเขาและน้ำของจีน",
+        "สถานที่ท่องเที่ยวจีน"
+      ],
+      "id": [
+        "lanskap gunung-air Tiongkok",
+        "wisata Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "中国风景为什么常把山水放在一起？",
+        "中国山水风景应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Do Chinese Landscapes Pair Mountains and Water?",
+        "How should beginners understand Chinese mountain-and-water landscapes?"
+      ],
+      "vi": [
+        "Vì sao phong cảnh Trung Quốc gắn núi với nước?"
+      ],
+      "th": [
+        "ทำไมทิวทัศน์จีนมักรวมภูเขากับน้ำ?"
+      ],
+      "id": [
+        "Mengapa lanskap Tiongkok sering menyandingkan gunung dan air?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/03-scenic/chinese-landscape-mountains-waters"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "中国风景常把山水放在一起，是因为山塑造空间骨架，水带来流动、生活和审美想象。",
+      "en": "Chinese landscapes often pair mountains and water because mountains shape spatial structure while water brings movement, life, and aesthetic imagination.",
+      "vi": "Phong cảnh Trung Quốc thường gắn núi với nước vì núi tạo khung không gian, còn nước đem lại chuyển động, đời sống và tưởng tượng thẩm mỹ.",
+      "th": "ทิวทัศน์จีนมักจับคู่ภูเขากับน้ำ เพราะภูเขาสร้างโครงพื้นที่ ส่วนน้ำนำความเคลื่อนไหว ชีวิต และจินตนาการด้านความงาม",
+      "id": "Lanskap Tiongkok sering memasangkan gunung dan air karena gunung membentuk ruang, sementara air membawa gerak, kehidupan, dan imajinasi estetis."
+    },
+    "entities": [
+      {
+        "type": "concept",
+        "name_zh": "山水",
+        "name_en": "mountains and water"
+      },
+      {
+        "type": "art",
+        "name_zh": "水墨画",
+        "name_en": "ink painting"
+      },
+      {
+        "type": "concept",
+        "name_zh": "借景",
+        "name_en": "borrowed view"
+      },
+      {
+        "type": "object",
+        "name_zh": "江河",
+        "name_en": "rivers"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhōng guó fēng jǐng cháng bǎ shān shuǐ fàng zài yì qǐ shì yīn wèi shān sù zào kōng jiān gǔ jià shuǐ dài lái liú dòng shēng huó hé shěn měi xiǎng xiàng",
+      "content_zh": "中国风景常把山水放在一起，是因为山塑造空间骨架，水带来流动、生活和审美想象。",
+      "content_en": "Chinese landscapes often pair mountains and water because mountains shape spatial structure while water brings movement, life, and aesthetic imagination.",
+      "content_vi": "Phong cảnh Trung Quốc thường gắn núi với nước vì núi tạo khung không gian, còn nước đem lại chuyển động, đời sống và tưởng tượng thẩm mỹ.",
+      "content_th": "ทิวทัศน์จีนมักจับคู่ภูเขากับน้ำ เพราะภูเขาสร้างโครงพื้นที่ ส่วนน้ำนำความเคลื่อนไหว ชีวิต และจินตนาการด้านความงาม",
+      "content_id": "Lanskap Tiongkok sering memasangkan gunung dan air karena gunung membentuk ruang, sementara air membawa gerak, kehidupan, dan imajinasi estetis."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shān tǐ lún kuò yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "山体轮廓也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "mountain silhouettes also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shān tǐ lún kuò bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，山体轮廓不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, mountain silhouettes is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "jiāng hé hú bó shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "江河湖泊是理解中国山水风景的重要观察点。",
+      "content_en": "rivers and lakes is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "jiāng hé hú bó yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "江河湖泊也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "rivers and lakes also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ jiāng hé hú bó bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，江河湖泊不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, rivers and lakes is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "shuǐ mò huà miàn shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "水墨画面是理解中国山水风景的重要观察点。",
+      "content_en": "ink-painting imagery is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "shuǐ mò huà miàn yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "水墨画面也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "ink-painting imagery also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ shuǐ mò huà miàn bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，水墨画面不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, ink-painting imagery is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "xíng lǚ shì jiǎo shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "行旅视角是理解中国山水风景的重要观察点。",
+      "content_en": "traveler viewpoints is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "xíng lǚ shì jiǎo yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "行旅视角也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "traveler viewpoints also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ xíng lǚ shì jiǎo bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，行旅视角不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, traveler viewpoints is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "cūn zhèn yī tuō shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "村镇依托是理解中国山水风景的重要观察点。",
+      "content_en": "towns and villages is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "cūn zhèn yī tuō yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "村镇依托也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "towns and villages also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ cūn zhèn yī tuō bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，村镇依托不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, towns and villages is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "shī cí jì yì shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "诗词记忆是理解中国山水风景的重要观察点。",
+      "content_en": "poetic memory is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "shī cí jì yì yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "诗词记忆也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "poetic memory also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ shī cí jì yì bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，诗词记忆不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, poetic memory is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "yuán lín jiè jǐng shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "园林借景是理解中国山水风景的重要观察点。",
+      "content_en": "borrowed views in gardens is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "yuán lín jiè jǐng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "园林借景也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "borrowed views in gardens also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ yuán lín jiè jǐng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，园林借景不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, borrowed views in gardens is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "yún wù biàn huà shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "云雾变化是理解中国山水风景的重要观察点。",
+      "content_en": "cloud and mist changes is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "yún wù biàn huà yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "云雾变化也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "cloud and mist changes also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ yún wù biàn huà bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，云雾变化不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, cloud and mist changes is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "zhōu qiáo dào lù shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "舟桥道路是理解中国山水风景的重要观察点。",
+      "content_en": "boats, bridges, and paths is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "zhōu qiáo dào lù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "舟桥道路也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "boats, bridges, and paths also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ zhōu qiáo dào lù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，舟桥道路不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, boats, bridges, and paths is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "sì jì sè cǎi shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "四季色彩是理解中国山水风景的重要观察点。",
+      "content_en": "seasonal colors is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "sì jì sè cǎi yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "四季色彩也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "seasonal colors also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ sì jì sè cǎi bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，四季色彩不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, seasonal colors is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "guān jǐng zhì xù shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "观景秩序是理解中国山水风景的重要观察点。",
+      "content_en": "viewing order is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "guān jǐng zhì xù yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "观景秩序也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "viewing order also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ guān jǐng zhì xù bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，观景秩序不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, viewing order is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "wén huà xiǎng xiàng shì lǐ jiě zhōng guó shān shuǐ fēng jǐng de zhòng yào guān chá diǎn",
+      "content_zh": "文化想象是理解中国山水风景的重要观察点。",
+      "content_en": "cultural imagination is an important viewpoint for understanding Chinese mountain-and-water landscapes.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu phong cảnh sơn thủy Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจภูมิทัศน์ภูเขาและน้ำของจีน",
+      "content_id": "Bagian ini penting untuk memahami lanskap gunung-air Tiongkok."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ zhōng guó shān shuǐ fēng jǐng fàng huí jù tǐ de dì mào chéng shì hé yóu shǎng huán jìng zhōng",
+      "content_zh": "它把中国山水风景放回具体的地貌、城市和游赏环境中。",
+      "content_en": "It places Chinese mountain-and-water landscapes back into a concrete setting of landform, city, and travel experience.",
+      "content_vi": "Nó đặt phong cảnh sơn thủy Trung Quốc trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาภูมิทัศน์ภูเขาและน้ำของจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan lanskap gunung-air Tiongkok kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shān tǐ shuǐ miàn dào lù hé jiàn zhù gòng tóng zǔ zhī shì xiàn shǐ fēng jǐng jù yǒu kě tíng liú de céng cì",
+      "content_zh": "山体、水面、道路和建筑共同组织视线，使风景具有可停留的层次。",
+      "content_en": "Mountains, water, paths, and buildings organize sightlines together and give the scene layered depth.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "yóu kè cóng rù kǒu zǒu xiàng shēn chù shí huì bú duàn yù dào xīn de jiǎo dù chǐ dù hé guāng yǐng biàn huà",
+      "content_zh": "游客从入口走向深处时，会不断遇到新的角度、尺度和光影变化。",
+      "content_en": "As visitors move from entrance to inner areas, new angles, scales, and light changes continue to appear.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn zhào piàn rén men róng yì hū lüè dāng dì jiāo tōng shēng huó hé bǎo hù gōng zuò duì jǐng guān de sù zào",
+      "content_zh": "如果只看照片，人们容易忽略当地交通、生活和保护工作对景观的塑造。",
+      "content_en": "If people only look at photos, they may miss how transport, local life, and conservation shape the scenery.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "wén huà xiǎng xiàng yě shuō míng míng shèng fēng guāng wǎng wǎng yóu zì rán tiáo jiàn hé rén wén jīng yíng gòng tóng xíng chéng",
+      "content_zh": "文化想象也说明，名胜风光往往由自然条件和人文经营共同形成。",
+      "content_en": "cultural imagination also shows that scenic sites are often formed by both natural conditions and human care.",
+      "content_vi": "Điều đó cho thấy phong cảnh sơn thủy Trung Quốc được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าภูมิทัศน์ภูเขาและน้ำของจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa lanskap gunung-air Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē jǐng guān bèi shī wén huì huà shè yǐng hé lǚ xíng jīng yàn fǎn fù jì lù zhú jiàn xíng chéng gōng gòng jì yì",
+      "content_zh": "这些景观被诗文、绘画、摄影和旅行经验反复记录，逐渐形成公共记忆。",
+      "content_en": "Poetry, painting, photography, and travel experience repeatedly record these places and turn them into shared memory.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "jīn tiān de bǎo hù gōng zuò qiáng diào ān quán yóu lǎn shēng tài xiū fù hé lì shǐ jiàn zhù de chí xù wéi hù",
+      "content_zh": "今天的保护工作强调安全游览、生态修复和历史建筑的持续维护。",
+      "content_en": "Today, protection work emphasizes safe visits, ecological restoration, and lasting care for historic structures.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng jiǎo dù lián qǐ lái kě yǐ kàn jiàn fēng jǐng rú hé chéng zài dì fāng shēng huó hé wén huà xiǎng xiàng",
+      "content_zh": "把不同角度连起来，可以看见风景如何承载地方生活和文化想象。",
+      "content_en": "When different angles are connected, the scenery shows local life and cultural imagination at once.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ wén huà xiǎng xiàng bù jǐn shì kě guān kàn de jǐng wù yě bāng zhù rén men lǐ jiě zhōng guó shān shuǐ fēng jǐng",
+      "content_zh": "因此，文化想象不仅是可观看的景物，也帮助人们理解中国山水风景。",
+      "content_en": "Therefore, cultural imagination is not only something to view but also a way to understand Chinese mountain-and-water landscapes.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu phong cảnh sơn thủy Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจภูมิทัศน์ภูเขาและน้ำของจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami lanskap gunung-air Tiongkok dengan lebih jelas."
+    }
+  ]
+}

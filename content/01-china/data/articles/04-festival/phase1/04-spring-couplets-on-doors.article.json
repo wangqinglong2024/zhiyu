@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "04",
+  "category_dir": "04-festival",
+  "article_slug": "04-spring-couplets-on-doors",
+  "article": {
+    "local_id": "festival-004",
+    "category_code": "04",
+    "title_pinyin": "chūn lián wèi shén me tiē zài mén shàng",
+    "title_i18n": {
+      "zh": "春联为什么贴在门上？",
+      "en": "Why Are Spring Festival Couplets Posted on Doors?",
+      "vi": "Vì sao câu đối xuân được dán trên cửa?",
+      "th": "ทำไมชุนเหลียนจึงติดบนประตู?",
+      "id": "Mengapa kuplet Imlek ditempel di pintu?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "春联贴在门上，是因为门口是迎接新年的第一处空间，红纸文字把祝福直接呈现在家门前。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "家门空间也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，家门空间不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "红纸颜色是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "红纸颜色也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，红纸颜色不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "对仗文字是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "对仗文字也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，对仗文字不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "横批位置是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "横批位置也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，横批位置不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "辞旧迎新是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "辞旧迎新也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，辞旧迎新不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "手写传统是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "手写传统也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，手写传统不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "印刷春联是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "印刷春联也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，印刷春联不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "邻里观看是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "邻里观看也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，邻里观看不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "城市楼门是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "城市楼门也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，城市楼门不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "乡村院门是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "乡村院门也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，乡村院门不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "书法美感是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "书法美感也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，书法美感不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+    "祝福表达是理解春联贴门习俗的重要习俗内容。",
+    "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "祝福表达也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，祝福表达不仅是一种热闹场面，也帮助人们理解春联贴门习俗。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "春联贴门习俗",
+        "传统节日",
+        "春联为什么贴在门上"
+      ],
+      "en": [
+        "posting Spring Festival couplets on doors",
+        "Chinese festivals",
+        "posting Spring Festival couplets on doors guide"
+      ],
+      "vi": [
+        "tục dán câu đối xuân trên cửa",
+        "lễ hội Trung Quốc"
+      ],
+      "th": [
+        "การติดชุนเหลียนบนประตู",
+        "เทศกาลจีน"
+      ],
+      "id": [
+        "menempel kuplet Imlek di pintu",
+        "festival Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "春联为什么贴在门上？",
+        "春联贴门习俗应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Are Spring Festival Couplets Posted on Doors?",
+        "How should beginners understand posting Spring Festival couplets on doors?"
+      ],
+      "vi": [
+        "Vì sao câu đối xuân được dán trên cửa?"
+      ],
+      "th": [
+        "ทำไมชุนเหลียนจึงติดบนประตู?"
+      ],
+      "id": [
+        "Mengapa kuplet Imlek ditempel di pintu?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/04-festival/spring-couplets-on-doors"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "春联贴在门上，是因为门口是迎接新年的第一处空间，红纸文字把祝福直接呈现在家门前。",
+      "en": "Spring Festival couplets are posted on doors because the doorway is the first space welcoming the new year, and red paper words display blessings at home.",
+      "vi": "Câu đối xuân dán trên cửa vì cửa là nơi đầu tiên đón năm mới, chữ trên giấy đỏ đặt lời chúc ngay trước nhà.",
+      "th": "ชุนเหลียนติดบนประตูเพราะทางเข้าเป็นพื้นที่แรกที่รับปีใหม่ และตัวอักษรบนกระดาษแดงแสดงคำอวยพรหน้าบ้าน",
+      "id": "Kuplet Imlek ditempel di pintu karena pintu adalah ruang pertama menyambut tahun baru, dan kata-kata merah menampilkan berkah di depan rumah."
+    },
+    "entities": [
+      {
+        "type": "custom",
+        "name_zh": "春联",
+        "name_en": "Spring Festival couplets"
+      },
+      {
+        "type": "object",
+        "name_zh": "门",
+        "name_en": "door"
+      },
+      {
+        "type": "concept",
+        "name_zh": "横批",
+        "name_en": "horizontal scroll"
+      },
+      {
+        "type": "art",
+        "name_zh": "书法",
+        "name_en": "calligraphy"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "chūn lián tiē zài mén shàng shì yīn wèi mén kǒu shì yíng jiē xīn nián de dì yī chù kōng jiān hóng zhǐ wén zì bǎ zhù fú zhí jiē chéng xiàn zài jiā mén qián",
+      "content_zh": "春联贴在门上，是因为门口是迎接新年的第一处空间，红纸文字把祝福直接呈现在家门前。",
+      "content_en": "Spring Festival couplets are posted on doors because the doorway is the first space welcoming the new year, and red paper words display blessings at home.",
+      "content_vi": "Câu đối xuân dán trên cửa vì cửa là nơi đầu tiên đón năm mới, chữ trên giấy đỏ đặt lời chúc ngay trước nhà.",
+      "content_th": "ชุนเหลียนติดบนประตูเพราะทางเข้าเป็นพื้นที่แรกที่รับปีใหม่ และตัวอักษรบนกระดาษแดงแสดงคำอวยพรหน้าบ้าน",
+      "content_id": "Kuplet Imlek ditempel di pintu karena pintu adalah ruang pertama menyambut tahun baru, dan kata-kata merah menampilkan berkah di depan rumah."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "jiā mén kōng jiān yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "家门空间也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "doorway space also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ jiā mén kōng jiān bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，家门空间不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, doorway space is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "hóng zhǐ yán sè shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "红纸颜色是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "red paper color is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "hóng zhǐ yán sè yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "红纸颜色也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "red paper color also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ hóng zhǐ yán sè bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，红纸颜色不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, red paper color is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "duì zhàng wén zì shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "对仗文字是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "paired wording is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "duì zhàng wén zì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "对仗文字也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "paired wording also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ duì zhàng wén zì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，对仗文字不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, paired wording is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "héng pī wèi zhì shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "横批位置是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "horizontal scroll is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "héng pī wèi zhì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "横批位置也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "horizontal scroll also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ héng pī wèi zhì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，横批位置不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, horizontal scroll is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "cí jiù yíng xīn shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "辞旧迎新是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "old-to-new transition is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "cí jiù yíng xīn yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "辞旧迎新也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "old-to-new transition also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ cí jiù yíng xīn bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，辞旧迎新不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, old-to-new transition is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "shǒu xiě chuán tǒng shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "手写传统是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "handwritten tradition is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "shǒu xiě chuán tǒng yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "手写传统也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "handwritten tradition also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ shǒu xiě chuán tǒng bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，手写传统不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, handwritten tradition is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "yìn shuā chūn lián shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "印刷春联是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "printed couplets is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "yìn shuā chūn lián yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "印刷春联也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "printed couplets also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ yìn shuā chūn lián bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，印刷春联不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, printed couplets is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "lín lǐ guān kàn shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "邻里观看是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "neighbors seeing them is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "lín lǐ guān kàn yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "邻里观看也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "neighbors seeing them also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ lín lǐ guān kàn bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，邻里观看不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, neighbors seeing them is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "chéng shì lóu mén shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "城市楼门是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "apartment doorways is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "chéng shì lóu mén yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "城市楼门也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "apartment doorways also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ chéng shì lóu mén bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，城市楼门不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, apartment doorways is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "xiāng cūn yuàn mén shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "乡村院门是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "village gates is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "xiāng cūn yuàn mén yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "乡村院门也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "village gates also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ xiāng cūn yuàn mén bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，乡村院门不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, village gates is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "shū fǎ měi gǎn shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "书法美感是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "calligraphic beauty is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "shū fǎ měi gǎn yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "书法美感也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "calligraphic beauty also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ shū fǎ měi gǎn bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，书法美感不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, calligraphic beauty is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "zhù fú biǎo dá shì lǐ jiě chūn lián tiē mén xí sú de zhòng yào xí sú nèi róng",
+      "content_zh": "祝福表达是理解春联贴门习俗的重要习俗内容。",
+      "content_en": "expressing blessings is an important custom for understanding posting Spring Festival couplets on doors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu tục dán câu đối xuân trên cửa.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการติดชุนเหลียนบนประตู",
+      "content_id": "Bagian ini penting untuk memahami menempel kuplet Imlek di pintu."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ chūn lián tiē mén xí sú fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把春联贴门习俗放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places posting Spring Festival couplets on doors back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt tục dán câu đối xuân trên cửa trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาการติดชุนเหลียนบนประตูกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan menempel kuplet Imlek di pintu kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "zhù fú biǎo dá yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "祝福表达也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "expressing blessings also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy tục dán câu đối xuân trên cửa được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการติดชุนเหลียนบนประตูเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa menempel kuplet Imlek di pintu terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ zhù fú biǎo dá bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě chūn lián tiē mén xí sú",
+      "content_zh": "因此，祝福表达不仅是一种热闹场面，也帮助人们理解春联贴门习俗。",
+      "content_en": "Therefore, expressing blessings is not only a lively scene but also a way to understand posting Spring Festival couplets on doors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tục dán câu đối xuân trên cửa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการติดชุนเหลียนบนประตูได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menempel kuplet Imlek di pintu dengan lebih jelas."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "04",
+  "category_dir": "04-festival",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-traditional-festivals-seasons.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "d071d84a1250f769f7368b319ee15274152a5b0f018220eac6a06da80d38090d"
+    },
+    {
+      "path": "02-spring-festival-most-important.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "417168ec5bdb364291e6d0bf6665a66b4e26eb3af25225cc3beeeeb01c3e1a51"
+    },
+    {
+      "path": "03-reunion-dinner-meaning.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "16b2835a39e623e5ff497e5493d143656d3fe29b2ff9381f01b817d0ce170318"
+    },
+    {
+      "path": "04-spring-couplets-on-doors.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "bfc425f2f50d9cec663b33fde31d17fbfe53356fe6d825d8fbd759cc4fbbbe8d"
+    },
+    {
+      "path": "05-red-envelope-blessing.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f8377eb2c4bad6ea15e19122142316548a06a277b5833914e7f60f921afce6af"
+    },
+    {
+      "path": "06-staying-up-for-new-year.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4f759d4391aa38410f54dad5f4b4c4bb3cea1f8dd0e43bb56dc29f8eee831220"
+    },
+    {
+      "path": "07-new-year-greetings-etiquette.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "67ed6a657d86126f3a550d65168f7be5466bdf596c23ba49c7aa6660b8e238fa"
+    },
+    {
+      "path": "08-dragon-lion-dance-spring-festival.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "3a6576827b27d97d58bd4456c3852a73f9025115baa7b39585b9389c99940288"
+    },
+    {
+      "path": "09-temple-fair-food-fun.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "736ae57b1a27f872c420836831796e719836671bdf3467b6516ab235c26ffe00"
+    },
+    {
+      "path": "10-fifth-day-welcome-wealth-god.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "6c76fe773e608d8e0927d1b5e64ddf438472091097797031644ecd0d44fad133"
+    },
+    {
+      "path": "11-lantern-festival-viewing-lights.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "de964e750bd6061947a96714b89a29ff58d53f34172040005fc812d2708d32a5"
+    },
+    {
+      "path": "12-tangyuan-symbol-reunion.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f8d1312a64de1521a75d3df17a44b76d97ba6ff5b88b88a5d1c050a323da20f9"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "2.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

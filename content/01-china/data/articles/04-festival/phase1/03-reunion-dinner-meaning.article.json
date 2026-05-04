@@ -1,0 +1,1326 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "04",
+  "category_dir": "04-festival",
+  "article_slug": "03-reunion-dinner-meaning",
+  "article": {
+    "local_id": "festival-003",
+    "category_code": "04",
+    "title_pinyin": "nián yè fàn wèi shén me dài biǎo tuán yuán",
+    "title_i18n": {
+      "zh": "年夜饭为什么代表团圆？",
+      "en": "Why Does New Year’s Eve Dinner Mean Reunion?",
+      "vi": "Vì sao bữa tất niên tượng trưng đoàn viên?",
+      "th": "ทำไมอาหารค่ำส่งท้ายปีจึงแทนการรวมญาติ?",
+      "id": "Mengapa makan malam Imlek melambangkan reuni?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "年夜饭代表团圆，是因为家人会在旧年最后一晚围坐同桌，用菜肴、座次和祝福确认亲情。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "围桌同坐也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，围桌同坐不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "家人返乡是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "家人返乡也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，家人返乡不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "鱼的寓意是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "鱼的寓意也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，鱼的寓意不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "饺子形状是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "饺子形状也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，饺子形状不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "年糕谐音是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "年糕谐音也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，年糕谐音不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "长辈祝福是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "长辈祝福也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，长辈祝福不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "孩子期待是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "孩子期待也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，孩子期待不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "厨房准备是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "厨房准备也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，厨房准备不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "座次安排是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "座次安排也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，座次安排不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "地方菜肴是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "地方菜肴也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，地方菜肴不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "餐后守岁是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "餐后守岁也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，餐后守岁不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+    "亲情确认是理解年夜饭团圆意义的重要习俗内容。",
+    "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+    "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+    "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+    "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+    "亲情确认也说明，传统节日常用简单物件承载长久祝愿。",
+    "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+    "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+    "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+    "因此，亲情确认不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "年夜饭团圆意义",
+        "传统节日",
+        "年夜饭为什么代表团圆"
+      ],
+      "en": [
+        "the reunion meaning of New Year’s Eve dinner",
+        "Chinese festivals",
+        "the reunion meaning of New Year’s Eve dinner guide"
+      ],
+      "vi": [
+        "ý nghĩa đoàn viên của bữa tất niên",
+        "lễ hội Trung Quốc"
+      ],
+      "th": [
+        "ความหมายการรวมญาติของมื้อส่งท้ายปี",
+        "เทศกาลจีน"
+      ],
+      "id": [
+        "makna reuni makan malam Imlek",
+        "festival Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "年夜饭为什么代表团圆？",
+        "年夜饭团圆意义应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does New Year’s Eve Dinner Mean Reunion?",
+        "How should beginners understand the reunion meaning of New Year’s Eve dinner?"
+      ],
+      "vi": [
+        "Vì sao bữa tất niên tượng trưng đoàn viên?"
+      ],
+      "th": [
+        "ทำไมอาหารค่ำส่งท้ายปีจึงแทนการรวมญาติ?"
+      ],
+      "id": [
+        "Mengapa makan malam Imlek melambangkan reuni?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/04-festival/reunion-dinner-meaning"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "年夜饭代表团圆，是因为家人会在旧年最后一晚围坐同桌，用菜肴、座次和祝福确认亲情。",
+      "en": "New Year’s Eve dinner means reunion because family members sit together on the last night of the old year and affirm kinship through food, seating, and blessings.",
+      "vi": "Bữa tất niên tượng trưng đoàn viên vì gia đình ngồi cùng bàn đêm cuối năm, dùng món ăn, chỗ ngồi và lời chúc để xác nhận tình thân.",
+      "th": "มื้อส่งท้ายปีแทนการรวมญาติเพราะครอบครัวนั่งร่วมโต๊ะคืนสุดท้ายของปีเก่า ใช้อาหาร ที่นั่ง และคำอวยพรยืนยันสายใย",
+      "id": "Makan malam Imlek melambangkan reuni karena keluarga duduk bersama pada malam terakhir tahun lama dan meneguhkan hubungan lewat makanan, tempat duduk, dan doa baik."
+    },
+    "entities": [
+      {
+        "type": "custom",
+        "name_zh": "年夜饭",
+        "name_en": "New Year’s Eve dinner"
+      },
+      {
+        "type": "food",
+        "name_zh": "鱼",
+        "name_en": "fish"
+      },
+      {
+        "type": "food",
+        "name_zh": "饺子",
+        "name_en": "dumplings"
+      },
+      {
+        "type": "food",
+        "name_zh": "年糕",
+        "name_en": "rice cake"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活痕迹和文化影响展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "nián yè fàn dài biǎo tuán yuán shì yīn wèi jiā rén huì zài jiù nián zuì hòu yì wǎn wéi zuò tóng zhuō yòng cài yáo zuò cì hé zhù fú què rèn qīn qíng",
+      "content_zh": "年夜饭代表团圆，是因为家人会在旧年最后一晚围坐同桌，用菜肴、座次和祝福确认亲情。",
+      "content_en": "New Year’s Eve dinner means reunion because family members sit together on the last night of the old year and affirm kinship through food, seating, and blessings.",
+      "content_vi": "Bữa tất niên tượng trưng đoàn viên vì gia đình ngồi cùng bàn đêm cuối năm, dùng món ăn, chỗ ngồi và lời chúc để xác nhận tình thân.",
+      "content_th": "มื้อส่งท้ายปีแทนการรวมญาติเพราะครอบครัวนั่งร่วมโต๊ะคืนสุดท้ายของปีเก่า ใช้อาหาร ที่นั่ง และคำอวยพรยืนยันสายใย",
+      "content_id": "Makan malam Imlek melambangkan reuni karena keluarga duduk bersama pada malam terakhir tahun lama dan meneguhkan hubungan lewat makanan, tempat duduk, dan doa baik."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "wéi zhuō tóng zuò yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "围桌同坐也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "sitting around one table also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ wéi zhuō tóng zuò bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，围桌同坐不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, sitting around one table is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "jiā rén fǎn xiāng shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "家人返乡是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "family returning home is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "jiā rén fǎn xiāng yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "家人返乡也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "family returning home also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ jiā rén fǎn xiāng bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，家人返乡不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, family returning home is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "yú de yù yì shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "鱼的寓意是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "fish symbolism is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "yú de yù yì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "鱼的寓意也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "fish symbolism also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ yú de yù yì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，鱼的寓意不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, fish symbolism is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "jiǎo zǐ xíng zhuàng shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "饺子形状是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "dumpling shape is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "jiǎo zǐ xíng zhuàng yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "饺子形状也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "dumpling shape also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ jiǎo zǐ xíng zhuàng bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，饺子形状不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, dumpling shape is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "nián gāo xié yīn shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "年糕谐音是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "rice-cake homophone is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "nián gāo xié yīn yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "年糕谐音也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "rice-cake homophone also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ nián gāo xié yīn bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，年糕谐音不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, rice-cake homophone is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "zhǎng bèi zhù fú shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "长辈祝福是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "elders’ blessings is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "zhǎng bèi zhù fú yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "长辈祝福也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "elders’ blessings also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ zhǎng bèi zhù fú bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，长辈祝福不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, elders’ blessings is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "hái zi qī dài shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "孩子期待是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "children’s anticipation is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "hái zi qī dài yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "孩子期待也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "children’s anticipation also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ hái zi qī dài bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，孩子期待不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, children’s anticipation is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "chú fáng zhǔn bèi shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "厨房准备是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "kitchen preparation is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "chú fáng zhǔn bèi yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "厨房准备也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "kitchen preparation also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ chú fáng zhǔn bèi bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，厨房准备不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, kitchen preparation is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "zuò cì ān pái shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "座次安排是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "seating arrangement is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "zuò cì ān pái yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "座次安排也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "seating arrangement also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ zuò cì ān pái bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，座次安排不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, seating arrangement is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "dì fāng cài yáo shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "地方菜肴是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "regional dishes is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "dì fāng cài yáo yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "地方菜肴也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "regional dishes also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ dì fāng cài yáo bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，地方菜肴不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, regional dishes is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "cān hòu shǒu suì shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "餐后守岁是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "staying up afterward is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "cān hòu shǒu suì yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "餐后守岁也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "staying up afterward also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ cān hòu shǒu suì bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，餐后守岁不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, staying up afterward is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "qīn qíng què rèn shì lǐ jiě nián yè fàn tuán yuán yì yì de zhòng yào xí sú nèi róng",
+      "content_zh": "亲情确认是理解年夜饭团圆意义的重要习俗内容。",
+      "content_en": "affirming family bonds is an important custom for understanding the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ý nghĩa đoàn viên của bữa tất niên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความหมายการรวมญาติของมื้อส่งท้ายปี",
+      "content_id": "Bagian ini penting untuk memahami makna reuni makan malam Imlek."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ nián yè fàn tuán yuán yì yì fàng huí jù tǐ de shí jiān jiā tíng hé jiē xiàng huán jìng zhōng",
+      "content_zh": "它把年夜饭团圆意义放回具体的时间、家庭和街巷环境中。",
+      "content_en": "It places the reunion meaning of New Year’s Eve dinner back into a concrete setting of time, family, and streets.",
+      "content_vi": "Nó đặt ý nghĩa đoàn viên của bữa tất niên trở lại bối cảnh cụ thể của không gian, thời gian và đời sống.",
+      "content_th": "มันพาความหมายการรวมญาติของมื้อส่งท้ายปีกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan makna reuni makan malam Imlek kembali dalam konteks ruang, waktu, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "jié rì lǐ de shí wù shēng yīn yán sè hé dòng zuò gòng tóng zhì zào chū kě gǎn shòu de yí shì fēn wéi",
+      "content_zh": "节日里的食物、声音、颜色和动作共同制造出可感受的仪式氛围。",
+      "content_en": "Foods, sounds, colors, and gestures together create a festival atmosphere that people can feel.",
+      "content_vi": "Cảnh vật, món ăn, âm thanh và hoạt động cùng tạo nên tầng nghĩa có thể cảm nhận.",
+      "content_th": "ทิวทัศน์ อาหาร เสียง และกิจกรรมร่วมกันสร้างชั้นความหมายที่สัมผัสได้",
+      "content_id": "Pemandangan, makanan, suara, dan kegiatan bersama membentuk lapisan makna yang dapat dirasakan."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "jiā rén lín lǐ hé shè qū zài zhè yì shí kè xiāng yù shǐ jié rì bù zhǐ shì rì lì shàng de rì qī",
+      "content_zh": "家人、邻里和社区在这一时刻相遇，使节日不只是日历上的日期。",
+      "content_en": "Family members, neighbors, and communities meet at this moment, so the festival is more than a calendar date.",
+      "content_vi": "Khi con người bước vào không gian ấy, họ thấy sự thay đổi của góc nhìn, nhịp điệu và ký ức.",
+      "content_th": "เมื่อผู้คนเข้าสู่พื้นที่นั้น พวกเขาจะเห็นมุมมอง จังหวะ และความทรงจำเปลี่ยนไป",
+      "content_id": "Saat orang memasuki ruang itu, sudut pandang, ritme, dan ingatan terus berubah."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn míng chēng rén men róng yì hū lüè zhǔn bèi guò chéng lǐ mào biǎo dá hé dì fāng chā yì",
+      "content_zh": "如果只看名称，人们容易忽略准备过程、礼貌表达和地方差异。",
+      "content_en": "If people only remember the name, they may miss preparation, polite expression, and regional difference.",
+      "content_vi": "Nếu chỉ nhìn vào tên gọi, người học dễ bỏ qua sự chuẩn bị và đời sống địa phương phía sau.",
+      "content_th": "หากดูเพียงชื่อ ผู้เรียนอาจมองข้ามการเตรียมตัวและชีวิตท้องถิ่นเบื้องหลัง",
+      "content_id": "Jika hanya melihat nama, pelajar mudah melewatkan persiapan dan kehidupan lokal di baliknya."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "qīn qíng què rèn yě shuō míng chuán tǒng jié rì cháng yòng jiǎn dān wù jiàn chéng zài cháng jiǔ zhù yuàn",
+      "content_zh": "亲情确认也说明，传统节日常用简单物件承载长久祝愿。",
+      "content_en": "affirming family bonds also shows how traditional festivals use simple objects to carry lasting wishes.",
+      "content_vi": "Điều đó cho thấy ý nghĩa đoàn viên của bữa tất niên được hình thành bởi nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความหมายการรวมญาติของมื้อส่งท้ายปีเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa makna reuni makan malam Imlek terbentuk dari banyak faktor yang bekerja bersama."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē xí sú zài chéng shì gōng yuán jiā tíng cān zhuō hé hǎi wài shè qū zhōng bú duàn tiáo zhěng xíng tài",
+      "content_zh": "这些习俗在城市、公园、家庭餐桌和海外社区中不断调整形态。",
+      "content_en": "These customs keep changing shape in cities, parks, family tables, and overseas communities.",
+      "content_vi": "Thơ văn, hình ảnh, du lịch và sinh hoạt thường ngày tiếp tục bổ sung ký ức chung.",
+      "content_th": "บทกวี ภาพถ่าย การท่องเที่ยว และชีวิตประจำวันยังเติมความทรงจำร่วมต่อไป",
+      "content_id": "Puisi, gambar, perjalanan, dan kehidupan sehari-hari terus menambah ingatan bersama."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "biàn huà bìng méi yǒu qǔ xiāo jié rì yì yì ér shì ràng gèng duō rén yòng shú xī fāng shì cān yù qí zhōng",
+      "content_zh": "变化并没有取消节日意义，而是让更多人用熟悉方式参与其中。",
+      "content_en": "Change does not remove festival meaning; it lets more people join through familiar ways.",
+      "content_vi": "Sự bảo tồn và điều chỉnh hôm nay giúp truyền thống tiếp tục tồn tại trong đời sống mới.",
+      "content_th": "การอนุรักษ์และการปรับตัวในวันนี้ช่วยให้ประเพณีอยู่ต่อในชีวิตใหม่",
+      "content_id": "Pelestarian dan penyesuaian hari ini membantu tradisi tetap hidup dalam kehidupan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ bù tóng chǎng jǐng fàng zài yì qǐ kě yǐ kàn jiàn jié rì rú hé lián jiē shí jiān qīn qíng hé gōng gòng shēng huó",
+      "content_zh": "把不同场景放在一起，可以看见节日如何连接时间、亲情和公共生活。",
+      "content_en": "When different scenes are placed together, festivals connect time, family feeling, and public life.",
+      "content_vi": "Khi đặt các cảnh này cạnh nhau, có thể thấy sự nối tiếp và biến đổi cùng hiện diện.",
+      "content_th": "เมื่อนำฉากต่างๆ มาไว้ด้วยกัน จะเห็นทั้งความต่อเนื่องและความเปลี่ยนแปลง",
+      "content_id": "Ketika adegan-adegan ini disatukan, kesinambungan dan perubahan tampak bersama."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ qīn qíng què rèn bù jǐn shì yì zhǒng rè nào chǎng miàn yě bāng zhù rén men lǐ jiě nián yè fàn tuán yuán yì yì",
+      "content_zh": "因此，亲情确认不仅是一种热闹场面，也帮助人们理解年夜饭团圆意义。",
+      "content_en": "Therefore, affirming family bonds is not only a lively scene but also a way to understand the reunion meaning of New Year’s Eve dinner.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ý nghĩa đoàn viên của bữa tất niên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความหมายการรวมญาติของมื้อส่งท้ายปีได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami makna reuni makan malam Imlek dengan lebih jelas."
+    }
+  ]
+}
