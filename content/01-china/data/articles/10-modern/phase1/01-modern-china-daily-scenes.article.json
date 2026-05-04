@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "10",
+  "category_dir": "10-modern",
+  "article_slug": "01-modern-china-daily-scenes",
+  "article": {
+    "local_id": "modern-001",
+    "category_code": "10",
+    "title_pinyin": "dāng dài zhōng guó kě yǐ cóng nǎ xiē rì cháng huà miàn jìn rù",
+    "title_i18n": {
+      "zh": "当代中国可以从哪些日常画面进入？",
+      "en": "Which Daily Scenes Help Us Enter Modern China?",
+      "vi": "Những cảnh hằng ngày nào giúp hiểu Trung Quốc hiện đại?",
+      "th": "ฉากชีวิตประจำวันใดช่วยเข้าใจจีนสมัยใหม่?",
+      "id": "Adegan harian apa yang membantu memahami Tiongkok modern?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "当代中国可以从高铁站、地铁口、外卖柜、二维码、快递驿站和夜间商圈等日常画面进入。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "高铁站人流也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，高铁站人流不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "地铁口通勤是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "地铁口通勤也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，地铁口通勤不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "外卖柜取餐是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "外卖柜取餐也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，外卖柜取餐不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "二维码服务是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "二维码服务也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，二维码服务不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "快递驿站是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "快递驿站也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，快递驿站不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "夜间商圈是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "夜间商圈也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，夜间商圈不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "手机支付是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "手机支付也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，手机支付不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "社区便利是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "社区便利也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，社区便利不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "城市更新是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "城市更新也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，城市更新不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "年轻消费是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "年轻消费也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，年轻消费不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "公共秩序是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "公共秩序也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，公共秩序不仅是生活细节，也帮助人们理解当代中国日常画面。",
+    "日常观察是理解当代中国日常画面的重要日常场景。",
+    "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "日常观察也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，日常观察不仅是生活细节，也帮助人们理解当代中国日常画面。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "当代中国日常画面",
+        "当代中国",
+        "当代中国可以从哪些日常画面进入"
+      ],
+      "en": [
+        "daily scenes of modern China",
+        "Modern China",
+        "daily scenes of modern China guide"
+      ],
+      "vi": [
+        "cảnh hằng ngày của Trung Quốc hiện đại"
+      ],
+      "th": [
+        "ฉากชีวิตประจำวันของจีนสมัยใหม่"
+      ],
+      "id": [
+        "adegan harian Tiongkok modern"
+      ]
+    },
+    "search_intents": [
+      "what_is",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "当代中国可以从哪些日常画面进入？",
+        "当代中国日常画面应该从哪些方面理解？"
+      ],
+      "en": [
+        "Which Daily Scenes Help Us Enter Modern China?",
+        "How should learners understand daily scenes of modern China?"
+      ],
+      "vi": [
+        "Những cảnh hằng ngày nào giúp hiểu Trung Quốc hiện đại?"
+      ],
+      "th": [
+        "ฉากชีวิตประจำวันใดช่วยเข้าใจจีนสมัยใหม่?"
+      ],
+      "id": [
+        "Adegan harian apa yang membantu memahami Tiongkok modern?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/10-modern/modern-china-daily-scenes"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "当代中国可以从高铁站、地铁口、外卖柜、二维码、快递驿站和夜间商圈等日常画面进入。",
+      "en": "Modern China can be approached through daily scenes such as high-speed rail stations, subway exits, delivery lockers, QR codes, parcel stations, and night shopping districts.",
+      "vi": "Có thể hiểu Trung Quốc hiện đại qua ga tàu cao tốc, cửa metro, tủ giao đồ ăn, mã QR, trạm nhận hàng và khu phố đêm.",
+      "th": "จีนสมัยใหม่เข้าใจได้จากสถานีรถไฟความเร็วสูง ทางออกเมโทร ตู้รับอาหาร รหัสคิวอาร์ จุดรับพัสดุ และย่านกลางคืน",
+      "id": "Tiongkok modern dapat dipahami lewat stasiun kereta cepat, pintu metro, loker makanan, kode QR, pos paket, dan distrik malam."
+    },
+    "entities": [
+      {
+        "type": "concept",
+        "name_zh": "当代中国",
+        "name_en": "modern China"
+      },
+      {
+        "type": "object",
+        "name_zh": "二维码",
+        "name_en": "QR code"
+      },
+      {
+        "type": "place",
+        "name_zh": "高铁站",
+        "name_en": "high-speed rail station"
+      },
+      {
+        "type": "place",
+        "name_zh": "快递驿站",
+        "name_en": "parcel station"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "dāng dài zhōng guó kě yǐ cóng gāo tiě zhàn dì tiě kǒu wài mài guì èr wéi mǎ kuài dì yì zhàn hé yè jiān shāng quān děng rì cháng huà miàn jìn rù",
+      "content_zh": "当代中国可以从高铁站、地铁口、外卖柜、二维码、快递驿站和夜间商圈等日常画面进入。",
+      "content_en": "Modern China can be approached through daily scenes such as high-speed rail stations, subway exits, delivery lockers, QR codes, parcel stations, and night shopping districts.",
+      "content_vi": "Có thể hiểu Trung Quốc hiện đại qua ga tàu cao tốc, cửa metro, tủ giao đồ ăn, mã QR, trạm nhận hàng và khu phố đêm.",
+      "content_th": "จีนสมัยใหม่เข้าใจได้จากสถานีรถไฟความเร็วสูง ทางออกเมโทร ตู้รับอาหาร รหัสคิวอาร์ จุดรับพัสดุ และย่านกลางคืน",
+      "content_id": "Tiongkok modern dapat dipahami lewat stasiun kereta cepat, pintu metro, loker makanan, kode QR, pos paket, dan distrik malam."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "gāo tiě zhàn rén liú yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "高铁站人流也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "high-speed rail crowds also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ gāo tiě zhàn rén liú bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，高铁站人流不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, high-speed rail crowds is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "dì tiě kǒu tōng qín shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "地铁口通勤是理解当代中国日常画面的重要日常场景。",
+      "content_en": "subway commuting is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "dì tiě kǒu tōng qín yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "地铁口通勤也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "subway commuting also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ dì tiě kǒu tōng qín bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，地铁口通勤不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, subway commuting is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "wài mài guì qǔ cān shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "外卖柜取餐是理解当代中国日常画面的重要日常场景。",
+      "content_en": "meal pickup lockers is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "wài mài guì qǔ cān yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "外卖柜取餐也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "meal pickup lockers also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ wài mài guì qǔ cān bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，外卖柜取餐不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, meal pickup lockers is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "èr wéi mǎ fú wù shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "二维码服务是理解当代中国日常画面的重要日常场景。",
+      "content_en": "QR-code services is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "èr wéi mǎ fú wù yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "二维码服务也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "QR-code services also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ èr wéi mǎ fú wù bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，二维码服务不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, QR-code services is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "kuài dì yì zhàn shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "快递驿站是理解当代中国日常画面的重要日常场景。",
+      "content_en": "parcel pickup stations is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "kuài dì yì zhàn yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "快递驿站也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "parcel pickup stations also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ kuài dì yì zhàn bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，快递驿站不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, parcel pickup stations is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "yè jiān shāng quān shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "夜间商圈是理解当代中国日常画面的重要日常场景。",
+      "content_en": "night shopping districts is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "yè jiān shāng quān yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "夜间商圈也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "night shopping districts also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ yè jiān shāng quān bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，夜间商圈不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, night shopping districts is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "shǒu jī zhī fù shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "手机支付是理解当代中国日常画面的重要日常场景。",
+      "content_en": "mobile payment is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "shǒu jī zhī fù yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "手机支付也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "mobile payment also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ shǒu jī zhī fù bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，手机支付不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, mobile payment is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "shè qū biàn lì shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "社区便利是理解当代中国日常画面的重要日常场景。",
+      "content_en": "community convenience is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "shè qū biàn lì yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "社区便利也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "community convenience also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ shè qū biàn lì bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，社区便利不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, community convenience is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "chéng shì gēng xīn shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "城市更新是理解当代中国日常画面的重要日常场景。",
+      "content_en": "urban renewal is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "chéng shì gēng xīn yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "城市更新也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "urban renewal also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ chéng shì gèng xīn bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，城市更新不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, urban renewal is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "nián qīng xiāo fèi shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "年轻消费是理解当代中国日常画面的重要日常场景。",
+      "content_en": "young consumers is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "nián qīng xiāo fèi yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "年轻消费也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "young consumers also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ nián qīng xiāo fèi bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，年轻消费不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, young consumers is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "gōng gòng zhì xù shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "公共秩序是理解当代中国日常画面的重要日常场景。",
+      "content_en": "public order is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "gōng gòng zhì xù yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "公共秩序也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "public order also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ gōng gòng zhì xù bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，公共秩序不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, public order is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "rì cháng guān chá shì lǐ jiě dāng dài zhōng guó rì cháng huà miàn de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "日常观察是理解当代中国日常画面的重要日常场景。",
+      "content_en": "daily observation is an important daily scene for understanding daily scenes of modern China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu cảnh hằng ngày của Trung Quốc hiện đại.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่",
+      "content_id": "Bagian ini penting untuk memahami adegan harian Tiongkok modern."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ dāng dài zhōng guó rì cháng huà miàn fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把当代中国日常画面放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places daily scenes of modern China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt cảnh hằng ngày của Trung Quốc hiện đại trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาฉากชีวิตประจำวันของจีนสมัยใหม่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan adegan harian Tiongkok modern kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "rì cháng guān chá yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "日常观察也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "daily observation also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy cảnh hằng ngày của Trung Quốc hiện đại được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าฉากชีวิตประจำวันของจีนสมัยใหม่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa adegan harian Tiongkok modern dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ rì cháng guān chá bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě dāng dài zhōng guó rì cháng huà miàn",
+      "content_zh": "因此，日常观察不仅是生活细节，也帮助人们理解当代中国日常画面。",
+      "content_en": "Therefore, daily observation is not only a life detail but also a way to understand daily scenes of modern China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu cảnh hằng ngày của Trung Quốc hiện đại rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจฉากชีวิตประจำวันของจีนสมัยใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami adegan harian Tiongkok modern dengan lebih jelas."
+    }
+  ]
+}

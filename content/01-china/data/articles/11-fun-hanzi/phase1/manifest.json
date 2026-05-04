@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "11",
+  "category_dir": "11-fun-hanzi",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-hanzi-graphic-system.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "004b883d7815de632eee4560f28f0415769cef9184795e6a9d65a2968dc19517"
+    },
+    {
+      "path": "02-oracle-bone-script-early-hanzi.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "80bee51617cdacd000cec9fa3210c71957478f57207bfefaebf70e13b6f59887"
+    },
+    {
+      "path": "03-hanzi-from-pictures-to-writing.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "a2cc376a838625591cb9c98c0e527907dcf2ade1ca65791fafdede2bffbde0c4"
+    },
+    {
+      "path": "04-pictographs-easy-memory.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "804776a532ae3c845cb5a6b21898862c7fc15db7d24cacb9de71517cfdcf6d6a"
+    },
+    {
+      "path": "05-indicative-characters-symbol-meaning.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "bbf6a18075e292315c549805af1f58aa39de5a69e81c6eb72115e262fdb37f0e"
+    },
+    {
+      "path": "06-compound-ideographs-puzzle.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4814e54e22b90677488813a0e2adc7cb5bb3b89b59c8be38653c5f04076de8b7"
+    },
+    {
+      "path": "07-phonetic-semantic-majority.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "550892cf20da81796b31f407e84edb5bad6c5c6b704ef787451c8e3c7a3275ce"
+    },
+    {
+      "path": "08-radicals-help-dictionary.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4143ce12c1bdd93b8d9df13eab802e18e663b26cb9891d3424f879a618a93aab"
+    },
+    {
+      "path": "09-stroke-order-writing.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "2ecbaf7a544f60357b6bee29bcf07a808785e8c5e15848152f2e7b14d9728710"
+    },
+    {
+      "path": "10-basic-strokes.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e30345ef53fa9691e37ebfc4d69d3ac04a0b51f1fc0b48433b50a04000dd5167"
+    },
+    {
+      "path": "11-ri-character-sun.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "a6df46538901ca05e3cd5f8e032d3fafff4621f2e3ed86cb2233181e7c39c487"
+    },
+    {
+      "path": "12-yue-character-moon-body.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "c44f59a30fa56682fd931bdddd9d91e7045b92dfbc34bbeb6c21db985cc7ddf7"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "4.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

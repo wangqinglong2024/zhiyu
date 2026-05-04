@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "12",
+  "category_dir": "12-myth",
+  "article_slug": "01-myth-explains-heaven-earth-human-world",
+  "article": {
+    "local_id": "myth-001",
+    "category_code": "12",
+    "title_pinyin": "zhōng guó shén huà wèi shén me cháng jiě shì tiān dì hé rén jiān",
+    "title_i18n": {
+      "zh": "中国神话为什么常解释天地和人间？",
+      "en": "Why Do Chinese Myths Often Explain Heaven, Earth, and Human Life?",
+      "vi": "Vì sao thần thoại Trung Quốc thường giải thích trời đất và nhân gian?",
+      "th": "ทำไมเทพปกรณัมจีนมักอธิบายฟ้าดินและโลกมนุษย์?",
+      "id": "Mengapa mitos Tiongkok sering menjelaskan langit, bumi, dan manusia?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "中国神话常解释天地和人间，是因为古人用故事回答世界起源、自然变化、生命来源和生活秩序。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "世界起源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，世界起源不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "自然变化是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "自然变化也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，自然变化不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "生命来源是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "生命来源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，生命来源不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "生活秩序是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "生活秩序也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，生活秩序不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "神灵形象是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "神灵形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，神灵形象不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "英雄传说是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "英雄传说也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，英雄传说不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "天地结构是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "天地结构也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，天地结构不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "灾害解释是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "灾害解释也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，灾害解释不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "农业想象是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "农业想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，农业想象不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "节日关联是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "节日关联也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，节日关联不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "口头流传是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "口头流传也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，口头流传不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+    "文化记忆是理解中国神话解释天地人间的重要神话画面。",
+    "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "文化记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，文化记忆不仅是传说内容，也帮助人们理解中国神话解释天地人间。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "中国神话解释天地人间",
+        "神话传说",
+        "中国神话为什么常解释天地和人间"
+      ],
+      "en": [
+        "Chinese myths explaining heaven, earth, and human life",
+        "Chinese myths and legends",
+        "Chinese myths explaining heaven, earth, and human life guide"
+      ],
+      "vi": [
+        "thần thoại Trung Quốc giải thích trời đất và nhân gian"
+      ],
+      "th": [
+        "เทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์"
+      ],
+      "id": [
+        "mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "中国神话为什么常解释天地和人间？",
+        "中国神话解释天地人间应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Do Chinese Myths Often Explain Heaven, Earth, and Human Life?",
+        "How should learners understand Chinese myths explaining heaven, earth, and human life?"
+      ],
+      "vi": [
+        "Vì sao thần thoại Trung Quốc thường giải thích trời đất và nhân gian?"
+      ],
+      "th": [
+        "ทำไมเทพปกรณัมจีนมักอธิบายฟ้าดินและโลกมนุษย์?"
+      ],
+      "id": [
+        "Mengapa mitos Tiongkok sering menjelaskan langit, bumi, dan manusia?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/12-myth/myth-explains-heaven-earth-human-world"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "中国神话常解释天地和人间，是因为古人用故事回答世界起源、自然变化、生命来源和生活秩序。",
+      "en": "Chinese myths often explain heaven, earth, and human life because ancient people used stories to answer questions about origins, nature, life, and order.",
+      "vi": "Thần thoại Trung Quốc thường giải thích trời đất và nhân gian vì người xưa dùng chuyện kể để trả lời về nguồn gốc, tự nhiên, sự sống và trật tự.",
+      "th": "เทพปกรณัมจีนมักอธิบายฟ้าดินและโลกมนุษย์เพราะคนโบราณใช้เรื่องเล่าตอบคำถามเรื่องต้นกำเนิด ธรรมชาติ ชีวิต และระเบียบ",
+      "id": "Mitos Tiongkok sering menjelaskan langit, bumi, dan manusia karena orang kuno memakai cerita untuk menjawab asal-usul, alam, kehidupan, dan keteraturan."
+    },
+    "entities": [
+      {
+        "type": "concept",
+        "name_zh": "中国神话",
+        "name_en": "Chinese myth"
+      },
+      {
+        "type": "concept",
+        "name_zh": "天地",
+        "name_en": "heaven and earth"
+      },
+      {
+        "type": "concept",
+        "name_zh": "人间",
+        "name_en": "human world"
+      },
+      {
+        "type": "concept",
+        "name_zh": "自然变化",
+        "name_en": "natural change"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhōng guó shén huà cháng jiě shì tiān dì hé rén jiān shì yīn wèi gǔ rén yòng gù shì huí dá shì jiè qǐ yuán zì rán biàn huà shēng mìng lái yuán hé shēng huó zhì xù",
+      "content_zh": "中国神话常解释天地和人间，是因为古人用故事回答世界起源、自然变化、生命来源和生活秩序。",
+      "content_en": "Chinese myths often explain heaven, earth, and human life because ancient people used stories to answer questions about origins, nature, life, and order.",
+      "content_vi": "Thần thoại Trung Quốc thường giải thích trời đất và nhân gian vì người xưa dùng chuyện kể để trả lời về nguồn gốc, tự nhiên, sự sống và trật tự.",
+      "content_th": "เทพปกรณัมจีนมักอธิบายฟ้าดินและโลกมนุษย์เพราะคนโบราณใช้เรื่องเล่าตอบคำถามเรื่องต้นกำเนิด ธรรมชาติ ชีวิต และระเบียบ",
+      "content_id": "Mitos Tiongkok sering menjelaskan langit, bumi, dan manusia karena orang kuno memakai cerita untuk menjawab asal-usul, alam, kehidupan, dan keteraturan."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shì jiè qǐ yuán yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "世界起源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "world origins also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shì jiè qǐ yuán bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，世界起源不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, world origins is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "zì rán biàn huà shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "自然变化是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "natural change is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "zì rán biàn huà yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "自然变化也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "natural change also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ zì rán biàn huà bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，自然变化不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, natural change is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "shēng mìng lái yuán shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "生命来源是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "origin of life is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "shēng mìng lái yuán yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "生命来源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "origin of life also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ shēng mìng lái yuán bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，生命来源不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, origin of life is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "shēng huó zhì xù shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "生活秩序是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "life order is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "shēng huó zhì xù yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "生活秩序也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "life order also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ shēng huó zhì xù bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，生活秩序不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, life order is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "shén líng xíng xiàng shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "神灵形象是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "divine figures is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "shén líng xíng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "神灵形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "divine figures also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ shén líng xíng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，神灵形象不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, divine figures is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "yīng xióng chuán shuō shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "英雄传说是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "hero legends is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "yīng xióng zhuàn shuō yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "英雄传说也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "hero legends also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ yīng xióng zhuàn shuō bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，英雄传说不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, hero legends is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "tiān dì jié gòu shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "天地结构是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "cosmic structure is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "tiān dì jié gòu yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "天地结构也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "cosmic structure also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ tiān dì jié gòu bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，天地结构不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, cosmic structure is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "zāi hài jiě shì shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "灾害解释是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "disaster explanation is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "zāi hài jiě shì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "灾害解释也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "disaster explanation also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ zāi hài jiě shì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，灾害解释不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, disaster explanation is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "nóng yè xiǎng xiàng shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "农业想象是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "agricultural imagination is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "nóng yè xiǎng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "农业想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "agricultural imagination also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ nóng yè xiǎng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，农业想象不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, agricultural imagination is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "jié rì guān lián shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "节日关联是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "festival links is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "jié rì guān lián yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "节日关联也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "festival links also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ jié rì guān lián bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，节日关联不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, festival links is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "kǒu tóu liú chuán shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "口头流传是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "oral transmission is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "kǒu tóu liú chuán yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "口头流传也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "oral transmission also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ kǒu tóu liú chuán bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，口头流传不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, oral transmission is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "wén huà jì yì shì lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān de zhòng yào shén huà huà miàn",
+      "content_zh": "文化记忆是理解中国神话解释天地人间的重要神话画面。",
+      "content_en": "cultural memory is an important mythic image for understanding Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์",
+      "content_id": "Bagian ini penting untuk memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ zhōng guó shén huà jiě shì tiān dì rén jiān fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把中国神话解释天地人间放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Chinese myths explaining heaven, earth, and human life back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt thần thoại Trung Quốc giải thích trời đất và nhân gian trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "wén huà jì yì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "文化记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "cultural memory also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy thần thoại Trung Quốc giải thích trời đất và nhân gian được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ wén huà jì yì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě zhōng guó shén huà jiě shì tiān dì rén jiān",
+      "content_zh": "因此，文化记忆不仅是传说内容，也帮助人们理解中国神话解释天地人间。",
+      "content_en": "Therefore, cultural memory is not only legend content but also a way to understand Chinese myths explaining heaven, earth, and human life.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu thần thoại Trung Quốc giải thích trời đất và nhân gian rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเทพปกรณัมจีนที่อธิบายฟ้าดินและโลกมนุษย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mitos Tiongkok yang menjelaskan langit, bumi, dan kehidupan manusia dengan lebih jelas."
+    }
+  ]
+}

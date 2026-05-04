@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "11",
+  "category_dir": "11-fun-hanzi",
+  "article_slug": "05-indicative-characters-symbol-meaning",
+  "article": {
+    "local_id": "hanzi-005",
+    "category_code": "11",
+    "title_pinyin": "zhǐ shì zì zěn yàng yòng fú hào biǎo dá yì sī",
+    "title_i18n": {
+      "zh": "指事字怎样用符号表达意思？",
+      "en": "How Do Indicative Characters Use Symbols to Show Meaning?",
+      "vi": "Chữ chỉ sự dùng ký hiệu biểu đạt nghĩa thế nào?",
+      "th": "อักษรชี้ความใช้สัญลักษณ์สื่อความหมายอย่างไร?",
+      "id": "Bagaimana aksara penunjuk memakai simbol untuk makna?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "指事字用符号表达意思，是因为它在基本图形上加点画或位置提示，让抽象概念变得可见。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "符号提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，符号提示不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "位置关系是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "位置关系也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，位置关系不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "上字下字是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "上字下字也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，上字下字不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "本字末字是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "本字末字也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，本字末字不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "抽象概念是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "抽象概念也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，抽象概念不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "点画作用是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "点画作用也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，点画作用不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "图形基础是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "图形基础也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，图形基础不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "理解路径是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "理解路径也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，理解路径不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "字形辨认是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "字形辨认也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，字形辨认不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "造字方法是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "造字方法也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，造字方法不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "学习例子是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "学习例子也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，学习例子不仅是字形知识，也帮助人们理解指事字和符号表达。",
+    "符号思维是理解指事字和符号表达的重要字形入口。",
+    "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "符号思维也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，符号思维不仅是字形知识，也帮助人们理解指事字和符号表达。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "指事字和符号表达",
+        "趣味汉字",
+        "指事字怎样用符号表达意思"
+      ],
+      "en": [
+        "indicative characters and symbolic meaning",
+        "Fun with Chinese characters",
+        "indicative characters and symbolic meaning guide"
+      ],
+      "vi": [
+        "chữ chỉ sự và biểu đạt bằng ký hiệu"
+      ],
+      "th": [
+        "อักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์"
+      ],
+      "id": [
+        "aksara penunjuk dan makna simbolik"
+      ]
+    },
+    "search_intents": [
+      "what_is",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "指事字怎样用符号表达意思？",
+        "指事字和符号表达应该从哪些方面理解？"
+      ],
+      "en": [
+        "How Do Indicative Characters Use Symbols to Show Meaning?",
+        "How should learners understand indicative characters and symbolic meaning?"
+      ],
+      "vi": [
+        "Chữ chỉ sự dùng ký hiệu biểu đạt nghĩa thế nào?"
+      ],
+      "th": [
+        "อักษรชี้ความใช้สัญลักษณ์สื่อความหมายอย่างไร?"
+      ],
+      "id": [
+        "Bagaimana aksara penunjuk memakai simbol untuk makna?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/11-fun-hanzi/indicative-characters-symbol-meaning"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "指事字用符号表达意思，是因为它在基本图形上加点画或位置提示，让抽象概念变得可见。",
+      "en": "Indicative characters use symbols by adding marks or positional hints to basic forms, making abstract ideas visible.",
+      "vi": "Chữ chỉ sự dùng ký hiệu bằng cách thêm nét hoặc vị trí gợi ý vào hình cơ bản, làm khái niệm trừu tượng trở nên thấy được.",
+      "th": "อักษรชี้ความใช้สัญลักษณ์โดยเติมเครื่องหมายหรือตำแหน่งลงบนรูปพื้นฐาน ทำให้แนวคิดนามธรรมมองเห็นได้",
+      "id": "Aksara penunjuk memakai simbol dengan menambah tanda atau petunjuk posisi pada bentuk dasar agar gagasan abstrak terlihat."
+    },
+    "entities": [
+      {
+        "type": "type",
+        "name_zh": "指事字",
+        "name_en": "indicative character"
+      },
+      {
+        "type": "character",
+        "name_zh": "上",
+        "name_en": "up"
+      },
+      {
+        "type": "character",
+        "name_zh": "下",
+        "name_en": "down"
+      },
+      {
+        "type": "concept",
+        "name_zh": "符号",
+        "name_en": "symbol"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhǐ shì zì yòng fú hào biǎo dá yì sī shì yīn wèi tā zài jī běn tú xíng shàng jiā diǎn huà huò wèi zhì tí shì ràng chōu xiàng gài niàn biàn de kě jiàn",
+      "content_zh": "指事字用符号表达意思，是因为它在基本图形上加点画或位置提示，让抽象概念变得可见。",
+      "content_en": "Indicative characters use symbols by adding marks or positional hints to basic forms, making abstract ideas visible.",
+      "content_vi": "Chữ chỉ sự dùng ký hiệu bằng cách thêm nét hoặc vị trí gợi ý vào hình cơ bản, làm khái niệm trừu tượng trở nên thấy được.",
+      "content_th": "อักษรชี้ความใช้สัญลักษณ์โดยเติมเครื่องหมายหรือตำแหน่งลงบนรูปพื้นฐาน ทำให้แนวคิดนามธรรมมองเห็นได้",
+      "content_id": "Aksara penunjuk memakai simbol dengan menambah tanda atau petunjuk posisi pada bentuk dasar agar gagasan abstrak terlihat."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "fú hào tí shì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "符号提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "symbolic hints also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ fú hào tí shì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，符号提示不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, symbolic hints is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "wèi zhì guān xì shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "位置关系是理解指事字和符号表达的重要字形入口。",
+      "content_en": "positional relation is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "wèi zhì guān xì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "位置关系也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "positional relation also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ wèi zhì guān xì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，位置关系不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, positional relation is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "shàng zì xià zì shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "上字下字是理解指事字和符号表达的重要字形入口。",
+      "content_en": "up and down characters is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "shàng zì xià zì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "上字下字也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "up and down characters also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ shàng zì xià zì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，上字下字不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, up and down characters is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "běn zì mò zì shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "本字末字是理解指事字和符号表达的重要字形入口。",
+      "content_en": "root and tip characters is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "běn zì mò zì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "本字末字也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "root and tip characters also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ běn zì mò zì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，本字末字不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, root and tip characters is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "chōu xiàng gài niàn shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "抽象概念是理解指事字和符号表达的重要字形入口。",
+      "content_en": "abstract concepts is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "chōu xiàng gài niàn yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "抽象概念也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "abstract concepts also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ chōu xiàng gài niàn bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，抽象概念不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, abstract concepts is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "diǎn huà zuò yòng shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "点画作用是理解指事字和符号表达的重要字形入口。",
+      "content_en": "role of marks is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "diǎn huà zuò yòng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "点画作用也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "role of marks also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ diǎn huà zuò yòng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，点画作用不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, role of marks is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "tú xíng jī chǔ shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "图形基础是理解指事字和符号表达的重要字形入口。",
+      "content_en": "graphic base is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "tú xíng jī chǔ yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "图形基础也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "graphic base also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ tú xíng jī chǔ bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，图形基础不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, graphic base is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "lǐ jiě lù jìng shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "理解路径是理解指事字和符号表达的重要字形入口。",
+      "content_en": "understanding path is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "lǐ jiě lù jìng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "理解路径也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "understanding path also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ lǐ jiě lù jìng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，理解路径不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, understanding path is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "zì xíng biàn rèn shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "字形辨认是理解指事字和符号表达的重要字形入口。",
+      "content_en": "form recognition is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "zì xíng biàn rèn yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "字形辨认也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "form recognition also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ zì xíng biàn rèn bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，字形辨认不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, form recognition is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "zào zì fāng fǎ shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "造字方法是理解指事字和符号表达的重要字形入口。",
+      "content_en": "character formation is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "zào zì fāng fǎ yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "造字方法也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "character formation also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ zào zì fāng fǎ bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，造字方法不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, character formation is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "xué xí lì zǐ shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "学习例子是理解指事字和符号表达的重要字形入口。",
+      "content_en": "learning examples is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "xué xí lì zǐ yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "学习例子也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "learning examples also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ xué xí lì zǐ bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，学习例子不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, learning examples is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "fú hào sī wéi shì lǐ jiě zhǐ shì zì hé fú hào biǎo dá de zhòng yào zì xíng rù kǒu",
+      "content_zh": "符号思维是理解指事字和符号表达的重要字形入口。",
+      "content_en": "symbolic thinking is an important form entry for understanding indicative characters and symbolic meaning.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ chỉ sự và biểu đạt bằng ký hiệu.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์",
+      "content_id": "Bagian ini penting untuk memahami aksara penunjuk dan makna simbolik."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ zhǐ shì zì hé fú hào biǎo dá fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把指事字和符号表达放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places indicative characters and symbolic meaning back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ chỉ sự và biểu đạt bằng ký hiệu trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara penunjuk dan makna simbolik kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "fú hào sī wéi yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "符号思维也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "symbolic thinking also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ chỉ sự và biểu đạt bằng ký hiệu được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara penunjuk dan makna simbolik dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ fú hào sī wéi bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě zhǐ shì zì hé fú hào biǎo dá",
+      "content_zh": "因此，符号思维不仅是字形知识，也帮助人们理解指事字和符号表达。",
+      "content_en": "Therefore, symbolic thinking is not only form knowledge but also a way to understand indicative characters and symbolic meaning.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ chỉ sự và biểu đạt bằng ký hiệu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรชี้ความกับการสื่อความหมายด้วยสัญลักษณ์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara penunjuk dan makna simbolik dengan lebih jelas."
+    }
+  ]
+}

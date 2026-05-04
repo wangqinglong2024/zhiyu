@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "12",
+  "category_dir": "12-myth",
+  "article_slug": "07-yellow-emperor-memory",
+  "article": {
+    "local_id": "myth-007",
+    "category_code": "12",
+    "title_pinyin": "huáng dì chuán shuō wèi shén me yǐng xiǎng huá xià jì yì",
+    "title_i18n": {
+      "zh": "黄帝传说为什么影响华夏记忆？",
+      "en": "Why Does the Yellow Emperor Legend Shape Huaxia Memory?",
+      "vi": "Vì sao truyền thuyết Hoàng Đế ảnh hưởng ký ức Hoa Hạ?",
+      "th": "ทำไมตำนานหวงตี้จึงมีผลต่อความทรงจำหัวเซี่ย?",
+      "id": "Mengapa legenda Kaisar Kuning membentuk ingatan Huaxia?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "黄帝传说影响华夏记忆，是因为它把族群起源、制度发明、战争胜利和文化祖先形象连接起来。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "文化祖先也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，文化祖先不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "华夏记忆是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "华夏记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，华夏记忆不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "族群起源是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "族群起源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，族群起源不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "制度发明是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "制度发明也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，制度发明不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "阪泉涿鹿是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "阪泉涿鹿也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，阪泉涿鹿不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "与炎帝关系是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "与炎帝关系也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，与炎帝关系不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "轩辕形象是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "轩辕形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，轩辕形象不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "技术传说是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "技术传说也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，技术传说不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "祭祀记忆是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "祭祀记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，祭祀记忆不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "历史化过程是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "历史化过程也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，历史化过程不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "共同想象是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "共同想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，共同想象不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+    "身份象征是理解黄帝传说与华夏记忆的重要神话画面。",
+    "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "身份象征也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，身份象征不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "黄帝传说与华夏记忆",
+        "神话传说",
+        "黄帝传说为什么影响华夏记忆"
+      ],
+      "en": [
+        "the Yellow Emperor legend and Huaxia memory",
+        "Chinese myths and legends",
+        "the Yellow Emperor legend and Huaxia memory guide"
+      ],
+      "vi": [
+        "truyền thuyết Hoàng Đế và ký ức Hoa Hạ"
+      ],
+      "th": [
+        "ตำนานหวงตี้กับความทรงจำหัวเซี่ย"
+      ],
+      "id": [
+        "legenda Kaisar Kuning dan ingatan Huaxia"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "黄帝传说为什么影响华夏记忆？",
+        "黄帝传说与华夏记忆应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does the Yellow Emperor Legend Shape Huaxia Memory?",
+        "How should learners understand the Yellow Emperor legend and Huaxia memory?"
+      ],
+      "vi": [
+        "Vì sao truyền thuyết Hoàng Đế ảnh hưởng ký ức Hoa Hạ?"
+      ],
+      "th": [
+        "ทำไมตำนานหวงตี้จึงมีผลต่อความทรงจำหัวเซี่ย?"
+      ],
+      "id": [
+        "Mengapa legenda Kaisar Kuning membentuk ingatan Huaxia?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/12-myth/yellow-emperor-memory"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "黄帝传说影响华夏记忆，是因为它把族群起源、制度发明、战争胜利和文化祖先形象连接起来。",
+      "en": "The Yellow Emperor legend shapes Huaxia memory because it links group origins, institutional inventions, victory stories, and the image of a cultural ancestor.",
+      "vi": "Truyền thuyết Hoàng Đế ảnh hưởng ký ức Hoa Hạ vì nối nguồn gốc cộng đồng, phát minh chế độ, chiến thắng và hình tượng tổ văn hóa.",
+      "th": "ตำนานหวงตี้มีผลต่อความทรงจำหัวเซี่ยเพราะเชื่อมต้นกำเนิดกลุ่มชน สิ่งประดิษฐ์ด้านระเบียบสังคม เรื่องชัยชนะ และภาพบรรพชนวัฒนธรรม",
+      "id": "Legenda Kaisar Kuning membentuk ingatan Huaxia karena menghubungkan asal komunitas, penemuan tatanan, kemenangan, dan citra leluhur budaya."
+    },
+    "entities": [
+      {
+        "type": "figure",
+        "name_zh": "黄帝",
+        "name_en": "Yellow Emperor"
+      },
+      {
+        "type": "concept",
+        "name_zh": "华夏",
+        "name_en": "Huaxia"
+      },
+      {
+        "type": "figure",
+        "name_zh": "炎帝",
+        "name_en": "Yandi"
+      },
+      {
+        "type": "place",
+        "name_zh": "涿鹿",
+        "name_en": "Zhuolu"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "huáng dì chuán shuō yǐng xiǎng huá xià jì yì shì yīn wèi tā bǎ zú qún qǐ yuán zhì dù fā míng zhàn zhēng shèng lì hé wén huà zǔ xiān xíng xiàng lián jiē qǐ lái",
+      "content_zh": "黄帝传说影响华夏记忆，是因为它把族群起源、制度发明、战争胜利和文化祖先形象连接起来。",
+      "content_en": "The Yellow Emperor legend shapes Huaxia memory because it links group origins, institutional inventions, victory stories, and the image of a cultural ancestor.",
+      "content_vi": "Truyền thuyết Hoàng Đế ảnh hưởng ký ức Hoa Hạ vì nối nguồn gốc cộng đồng, phát minh chế độ, chiến thắng và hình tượng tổ văn hóa.",
+      "content_th": "ตำนานหวงตี้มีผลต่อความทรงจำหัวเซี่ยเพราะเชื่อมต้นกำเนิดกลุ่มชน สิ่งประดิษฐ์ด้านระเบียบสังคม เรื่องชัยชนะ และภาพบรรพชนวัฒนธรรม",
+      "content_id": "Legenda Kaisar Kuning membentuk ingatan Huaxia karena menghubungkan asal komunitas, penemuan tatanan, kemenangan, dan citra leluhur budaya."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "wén huà zǔ xiān yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "文化祖先也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "cultural ancestor also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ wén huà zǔ xiān bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，文化祖先不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, cultural ancestor is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "huá xià jì yì shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "华夏记忆是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "Huaxia memory is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "huá xià jì yì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "华夏记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "Huaxia memory also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ huá xià jì yì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，华夏记忆不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, Huaxia memory is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "zú qún qǐ yuán shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "族群起源是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "group origins is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "zú qún qǐ yuán yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "族群起源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "group origins also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ zú qún qǐ yuán bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，族群起源不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, group origins is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "zhì dù fā míng shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "制度发明是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "institutional inventions is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "zhì dù fā míng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "制度发明也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "institutional inventions also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ zhì dù fā míng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，制度发明不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, institutional inventions is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "bǎn quán zhuō lù shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "阪泉涿鹿是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "Banquan and Zhuolu is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "bǎn quán zhuō lù yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "阪泉涿鹿也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "Banquan and Zhuolu also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ bǎn quán zhuō lù bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，阪泉涿鹿不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, Banquan and Zhuolu is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "yǔ yán dì guān xì shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "与炎帝关系是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "relation with Yandi is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "yǔ yán dì guān xì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "与炎帝关系也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "relation with Yandi also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ yǔ yán dì guān xì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，与炎帝关系不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, relation with Yandi is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "xuān yuán xíng xiàng shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "轩辕形象是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "Xuanyuan image is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "xuān yuán xíng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "轩辕形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "Xuanyuan image also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ xuān yuán xíng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，轩辕形象不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, Xuanyuan image is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "jì shù chuán shuō shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "技术传说是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "technology legends is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "jì shù chuán shuō yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "技术传说也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "technology legends also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ jì shù chuán shuō bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，技术传说不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, technology legends is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "jì sì jì yì shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "祭祀记忆是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "ritual memory is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "jì sì jì yì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "祭祀记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "ritual memory also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ jì sì jì yì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，祭祀记忆不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, ritual memory is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "lì shǐ huà guò chéng shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "历史化过程是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "historicizing process is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "lì shǐ huà guò chéng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "历史化过程也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "historicizing process also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ lì shǐ huà guò chéng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，历史化过程不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, historicizing process is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "gòng tóng xiǎng xiàng shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "共同想象是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "shared imagination is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "gòng tóng xiǎng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "共同想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "shared imagination also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ gòng tóng xiǎng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，共同想象不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, shared imagination is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "shēn fèn xiàng zhēng shì lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì de zhòng yào shén huà huà miàn",
+      "content_zh": "身份象征是理解黄帝传说与华夏记忆的重要神话画面。",
+      "content_en": "identity symbol is an important mythic image for understanding the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ย",
+      "content_id": "Bagian ini penting untuk memahami legenda Kaisar Kuning dan ingatan Huaxia."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ huáng dì chuán shuō yǔ huá xià jì yì fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把黄帝传说与华夏记忆放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yellow Emperor legend and Huaxia memory back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Hoàng Đế và ký ức Hoa Hạ trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานหวงตี้กับความทรงจำหัวเซี่ยกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Kaisar Kuning dan ingatan Huaxia kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "shēn fèn xiàng zhēng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "身份象征也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "identity symbol also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Hoàng Đế và ký ức Hoa Hạ được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานหวงตี้กับความทรงจำหัวเซี่ยเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Kaisar Kuning dan ingatan Huaxia dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ shēn fèn xiàng zhēng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě huáng dì chuán shuō yǔ huá xià jì yì",
+      "content_zh": "因此，身份象征不仅是传说内容，也帮助人们理解黄帝传说与华夏记忆。",
+      "content_en": "Therefore, identity symbol is not only legend content but also a way to understand the Yellow Emperor legend and Huaxia memory.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Hoàng Đế và ký ức Hoa Hạ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานหวงตี้กับความทรงจำหัวเซี่ยได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Kaisar Kuning dan ingatan Huaxia dengan lebih jelas."
+    }
+  ]
+}

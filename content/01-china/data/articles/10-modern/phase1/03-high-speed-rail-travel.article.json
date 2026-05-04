@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "10",
+  "category_dir": "10-modern",
+  "article_slug": "03-high-speed-rail-travel",
+  "article": {
+    "local_id": "modern-003",
+    "category_code": "10",
+    "title_pinyin": "gāo tiě zěn yàng gǎi biàn zhōng guó rén de chū xíng",
+    "title_i18n": {
+      "zh": "高铁怎样改变中国人的出行？",
+      "en": "How Has High-Speed Rail Changed Travel in China?",
+      "vi": "Tàu cao tốc đã thay đổi việc đi lại ở Trung Quốc thế nào?",
+      "th": "รถไฟความเร็วสูงเปลี่ยนการเดินทางในจีนอย่างไร?",
+      "id": "Bagaimana kereta cepat mengubah perjalanan di Tiongkok?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "高铁改变中国人的出行，是因为它把许多城市之间的时间距离缩短，让商务、探亲和旅游更容易安排。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "时间距离也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，时间距离不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "城际连接是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "城际连接也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，城际连接不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "商务出行是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "商务出行也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，商务出行不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "探亲安排是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "探亲安排也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，探亲安排不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "周末旅游是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "周末旅游也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，周末旅游不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "车站换乘是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "车站换乘也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，车站换乘不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "准点印象是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "准点印象也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，准点印象不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "购票流程是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "购票流程也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，购票流程不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "沿线城市是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "沿线城市也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，沿线城市不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "区域联动是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "区域联动也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，区域联动不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "乘坐体验是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "乘坐体验也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，乘坐体验不仅是生活细节，也帮助人们理解高铁与中国出行。",
+    "出行选择是理解高铁与中国出行的重要日常场景。",
+    "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "出行选择也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，出行选择不仅是生活细节，也帮助人们理解高铁与中国出行。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "高铁与中国出行",
+        "当代中国",
+        "高铁怎样改变中国人的出行"
+      ],
+      "en": [
+        "high-speed rail and travel in China",
+        "Modern China",
+        "high-speed rail and travel in China guide"
+      ],
+      "vi": [
+        "tàu cao tốc và đi lại ở Trung Quốc"
+      ],
+      "th": [
+        "รถไฟความเร็วสูงกับการเดินทางในจีน"
+      ],
+      "id": [
+        "kereta cepat dan perjalanan di Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "what_is",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "高铁怎样改变中国人的出行？",
+        "高铁与中国出行应该从哪些方面理解？"
+      ],
+      "en": [
+        "How Has High-Speed Rail Changed Travel in China?",
+        "How should learners understand high-speed rail and travel in China?"
+      ],
+      "vi": [
+        "Tàu cao tốc đã thay đổi việc đi lại ở Trung Quốc thế nào?"
+      ],
+      "th": [
+        "รถไฟความเร็วสูงเปลี่ยนการเดินทางในจีนอย่างไร?"
+      ],
+      "id": [
+        "Bagaimana kereta cepat mengubah perjalanan di Tiongkok?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/10-modern/high-speed-rail-travel"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "高铁改变中国人的出行，是因为它把许多城市之间的时间距离缩短，让商务、探亲和旅游更容易安排。",
+      "en": "High-speed rail changed travel in China by shortening the time distance between many cities and making business, family visits, and tourism easier to arrange.",
+      "vi": "Tàu cao tốc rút ngắn khoảng cách thời gian giữa nhiều thành phố, giúp công tác, thăm thân và du lịch dễ sắp xếp hơn.",
+      "th": "รถไฟความเร็วสูงเปลี่ยนการเดินทางในจีนเพราะลดระยะเวลาเมืองต่อเมือง ทำให้ธุรกิจ เยี่ยมญาติ และท่องเที่ยวจัดง่ายขึ้น",
+      "id": "Kereta cepat mengubah perjalanan di Tiongkok dengan memendekkan jarak waktu antar kota dan memudahkan bisnis, kunjungan keluarga, serta wisata."
+    },
+    "entities": [
+      {
+        "type": "transport",
+        "name_zh": "高铁",
+        "name_en": "high-speed rail"
+      },
+      {
+        "type": "concept",
+        "name_zh": "城际交通",
+        "name_en": "intercity transport"
+      },
+      {
+        "type": "place",
+        "name_zh": "高铁站",
+        "name_en": "high-speed rail station"
+      },
+      {
+        "type": "concept",
+        "name_zh": "时间距离",
+        "name_en": "time distance"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "gāo tiě gǎi biàn zhōng guó rén de chū xíng shì yīn wèi tā bǎ xǔ duō chéng shì zhī jiān de shí jiān jù lí suō duǎn ràng shāng wù tàn qīn hé lǚ yóu gèng róng yì ān pái",
+      "content_zh": "高铁改变中国人的出行，是因为它把许多城市之间的时间距离缩短，让商务、探亲和旅游更容易安排。",
+      "content_en": "High-speed rail changed travel in China by shortening the time distance between many cities and making business, family visits, and tourism easier to arrange.",
+      "content_vi": "Tàu cao tốc rút ngắn khoảng cách thời gian giữa nhiều thành phố, giúp công tác, thăm thân và du lịch dễ sắp xếp hơn.",
+      "content_th": "รถไฟความเร็วสูงเปลี่ยนการเดินทางในจีนเพราะลดระยะเวลาเมืองต่อเมือง ทำให้ธุรกิจ เยี่ยมญาติ และท่องเที่ยวจัดง่ายขึ้น",
+      "content_id": "Kereta cepat mengubah perjalanan di Tiongkok dengan memendekkan jarak waktu antar kota dan memudahkan bisnis, kunjungan keluarga, serta wisata."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shí jiān jù lí yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "时间距离也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "time distance also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shí jiān jù lí bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，时间距离不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, time distance is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "chéng jì lián jiē shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "城际连接是理解高铁与中国出行的重要日常场景。",
+      "content_en": "intercity links is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "chéng jì lián jiē yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "城际连接也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "intercity links also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ chéng jì lián jiē bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，城际连接不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, intercity links is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "shāng wù chū xíng shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "商务出行是理解高铁与中国出行的重要日常场景。",
+      "content_en": "business travel is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "shāng wù chū xíng yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "商务出行也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "business travel also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ shāng wù chū xíng bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，商务出行不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, business travel is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "tàn qīn ān pái shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "探亲安排是理解高铁与中国出行的重要日常场景。",
+      "content_en": "family visits is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "tàn qīn ān pái yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "探亲安排也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "family visits also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ tàn qīn ān pái bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，探亲安排不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, family visits is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "zhōu mò lǚ yóu shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "周末旅游是理解高铁与中国出行的重要日常场景。",
+      "content_en": "weekend tourism is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "zhōu mò lǚ yóu yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "周末旅游也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "weekend tourism also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ zhōu mò lǚ yóu bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，周末旅游不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, weekend tourism is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "chē zhàn huàn chéng shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "车站换乘是理解高铁与中国出行的重要日常场景。",
+      "content_en": "station transfers is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "chē zhàn huàn chéng yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "车站换乘也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "station transfers also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ chē zhàn huàn chéng bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，车站换乘不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, station transfers is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "zhǔn diǎn yìn xiàng shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "准点印象是理解高铁与中国出行的重要日常场景。",
+      "content_en": "punctuality impression is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "zhǔn diǎn yìn xiàng yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "准点印象也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "punctuality impression also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ zhǔn diǎn yìn xiàng bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，准点印象不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, punctuality impression is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "gòu piào liú chéng shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "购票流程是理解高铁与中国出行的重要日常场景。",
+      "content_en": "ticketing process is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "gòu piào liú chéng yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "购票流程也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "ticketing process also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ gòu piào liú chéng bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，购票流程不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, ticketing process is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "yán xiàn chéng shì shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "沿线城市是理解高铁与中国出行的重要日常场景。",
+      "content_en": "cities along lines is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "yán xiàn chéng shì yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "沿线城市也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "cities along lines also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yán xiàn chéng shì bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，沿线城市不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, cities along lines is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "qū yù lián dòng shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "区域联动是理解高铁与中国出行的重要日常场景。",
+      "content_en": "regional linkage is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "qū yù lián dòng yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "区域联动也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "regional linkage also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ qū yù lián dòng bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，区域联动不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, regional linkage is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "chéng zuò tǐ yàn shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "乘坐体验是理解高铁与中国出行的重要日常场景。",
+      "content_en": "riding experience is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "chéng zuò tǐ yàn yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "乘坐体验也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "riding experience also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ chéng zuò tǐ yàn bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，乘坐体验不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, riding experience is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "chū xíng xuǎn zé shì lǐ jiě gāo tiě yǔ zhōng guó chū xíng de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "出行选择是理解高铁与中国出行的重要日常场景。",
+      "content_en": "travel choices is an important daily scene for understanding high-speed rail and travel in China.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tàu cao tốc và đi lại ở Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจรถไฟความเร็วสูงกับการเดินทางในจีน",
+      "content_id": "Bagian ini penting untuk memahami kereta cepat dan perjalanan di Tiongkok."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ gāo tiě yǔ zhōng guó chū xíng fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把高铁与中国出行放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places high-speed rail and travel in China back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt tàu cao tốc và đi lại ở Trung Quốc trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพารถไฟความเร็วสูงกับการเดินทางในจีนกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan kereta cepat dan perjalanan di Tiongkok kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "chū xíng xuǎn zé yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "出行选择也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "travel choices also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy tàu cao tốc và đi lại ở Trung Quốc được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ารถไฟความเร็วสูงกับการเดินทางในจีนเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa kereta cepat dan perjalanan di Tiongkok dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ chū xíng xuǎn zé bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě gāo tiě yǔ zhōng guó chū xíng",
+      "content_zh": "因此，出行选择不仅是生活细节，也帮助人们理解高铁与中国出行。",
+      "content_en": "Therefore, travel choices is not only a life detail but also a way to understand high-speed rail and travel in China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tàu cao tốc và đi lại ở Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจรถไฟความเร็วสูงกับการเดินทางในจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kereta cepat dan perjalanan di Tiongkok dengan lebih jelas."
+    }
+  ]
+}

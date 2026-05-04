@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "11",
+  "category_dir": "11-fun-hanzi",
+  "article_slug": "11-ri-character-sun",
+  "article": {
+    "local_id": "hanzi-011",
+    "category_code": "11",
+    "title_pinyin": "rì zì wèi shén me xiàng tài yáng",
+    "title_i18n": {
+      "zh": "日字为什么像太阳？",
+      "en": "Why Does the Character Ri Look Like the Sun?",
+      "vi": "Vì sao chữ nhật giống mặt trời?",
+      "th": "ทำไมอักษร ri จึงเหมือนดวงอาทิตย์?",
+      "id": "Mengapa karakter ri terlihat seperti matahari?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "日字像太阳，是因为早期字形来自太阳圆形，中间一点或短画表示太阳内部的光亮。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "早期圆形也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，早期圆形不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "中间短画是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "中间短画也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，中间短画不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "太阳意象是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "太阳意象也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，太阳意象不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "甲骨文字形是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "甲骨文字形也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，甲骨文字形不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "篆书变化是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "篆书变化也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，篆书变化不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "方块化过程是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "方块化过程也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，方块化过程不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "日期意义是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "日期意义也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，日期意义不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "白昼意义是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "白昼意义也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，白昼意义不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "相关字族是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "相关字族也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，相关字族不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "认读记忆是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "认读记忆也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，认读记忆不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "象形特点是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "象形特点也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，象形特点不仅是字形知识，也帮助人们理解日字和太阳形象。",
+    "现代字形是理解日字和太阳形象的重要字形入口。",
+    "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "现代字形也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，现代字形不仅是字形知识，也帮助人们理解日字和太阳形象。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "日字和太阳形象",
+        "趣味汉字",
+        "日字为什么像太阳"
+      ],
+      "en": [
+        "the character ri and the sun image",
+        "Fun with Chinese characters",
+        "the character ri and the sun image guide"
+      ],
+      "vi": [
+        "chữ nhật và hình ảnh mặt trời"
+      ],
+      "th": [
+        "อักษร ri กับภาพดวงอาทิตย์"
+      ],
+      "id": [
+        "karakter ri dan citra matahari"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "日字为什么像太阳？",
+        "日字和太阳形象应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does the Character Ri Look Like the Sun?",
+        "How should learners understand the character ri and the sun image?"
+      ],
+      "vi": [
+        "Vì sao chữ nhật giống mặt trời?"
+      ],
+      "th": [
+        "ทำไมอักษร ri จึงเหมือนดวงอาทิตย์?"
+      ],
+      "id": [
+        "Mengapa karakter ri terlihat seperti matahari?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/11-fun-hanzi/ri-character-sun"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "日字像太阳，是因为早期字形来自太阳圆形，中间一点或短画表示太阳内部的光亮。",
+      "en": "The character ri looks like the sun because early forms came from a round sun shape, with a dot or short mark suggesting inner brightness.",
+      "vi": "Chữ nhật giống mặt trời vì dạng sớm xuất phát từ hình mặt trời tròn, điểm hoặc nét ngắn ở giữa gợi ánh sáng bên trong.",
+      "th": "อักษร ri เหมือนดวงอาทิตย์เพราะรูปยุคต้นมาจากวงกลมดวงอาทิตย์ และจุดหรือเส้นสั้นกลางรูปสื่อแสงภายใน",
+      "id": "Karakter ri tampak seperti matahari karena bentuk awalnya berasal dari lingkaran matahari dengan titik atau garis pendek sebagai cahaya di dalam."
+    },
+    "entities": [
+      {
+        "type": "character",
+        "name_zh": "日",
+        "name_en": "ri"
+      },
+      {
+        "type": "object",
+        "name_zh": "太阳",
+        "name_en": "sun"
+      },
+      {
+        "type": "script",
+        "name_zh": "甲骨文",
+        "name_en": "oracle bone script"
+      },
+      {
+        "type": "type",
+        "name_zh": "象形字",
+        "name_en": "pictograph"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "rì zì xiàng tài yáng shì yīn wèi zǎo qī zì xíng lái zì tài yáng yuán xíng zhōng jiān yì diǎn huò duǎn huà biǎo shì tài yáng nèi bù de guāng liàng",
+      "content_zh": "日字像太阳，是因为早期字形来自太阳圆形，中间一点或短画表示太阳内部的光亮。",
+      "content_en": "The character ri looks like the sun because early forms came from a round sun shape, with a dot or short mark suggesting inner brightness.",
+      "content_vi": "Chữ nhật giống mặt trời vì dạng sớm xuất phát từ hình mặt trời tròn, điểm hoặc nét ngắn ở giữa gợi ánh sáng bên trong.",
+      "content_th": "อักษร ri เหมือนดวงอาทิตย์เพราะรูปยุคต้นมาจากวงกลมดวงอาทิตย์ และจุดหรือเส้นสั้นกลางรูปสื่อแสงภายใน",
+      "content_id": "Karakter ri tampak seperti matahari karena bentuk awalnya berasal dari lingkaran matahari dengan titik atau garis pendek sebagai cahaya di dalam."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "zǎo qī yuán xíng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "早期圆形也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "early round form also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ zǎo qī yuán xíng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，早期圆形不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, early round form is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "zhōng jiān duǎn huà shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "中间短画是理解日字和太阳形象的重要字形入口。",
+      "content_en": "inner short mark is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "zhōng jiān duǎn huà yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "中间短画也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "inner short mark also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ zhōng jiān duǎn huà bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，中间短画不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, inner short mark is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "tài yáng yì xiàng shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "太阳意象是理解日字和太阳形象的重要字形入口。",
+      "content_en": "sun image is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "tài yáng yì xiàng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "太阳意象也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "sun image also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ tài yáng yì xiàng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，太阳意象不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, sun image is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "jiǎ gǔ wén zì xíng shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "甲骨文字形是理解日字和太阳形象的重要字形入口。",
+      "content_en": "oracle-bone form is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "jiǎ gǔ wén zì xíng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "甲骨文字形也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "oracle-bone form also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ jiǎ gǔ wén zì xíng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，甲骨文字形不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, oracle-bone form is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "zhuàn shū biàn huà shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "篆书变化是理解日字和太阳形象的重要字形入口。",
+      "content_en": "seal-script change is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "zhuàn shū biàn huà yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "篆书变化也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "seal-script change also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ zhuàn shū biàn huà bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，篆书变化不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, seal-script change is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "fāng kuài huà guò chéng shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "方块化过程是理解日字和太阳形象的重要字形入口。",
+      "content_en": "squaring process is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "fāng kuài huà guò chéng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "方块化过程也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "squaring process also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ fāng kuài huà guò chéng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，方块化过程不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, squaring process is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "rì qī yì yì shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "日期意义是理解日字和太阳形象的重要字形入口。",
+      "content_en": "date meaning is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "rì qī yì yì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "日期意义也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "date meaning also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ rì qī yì yì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，日期意义不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, date meaning is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "bái zhòu yì yì shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "白昼意义是理解日字和太阳形象的重要字形入口。",
+      "content_en": "daytime meaning is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "bái zhòu yì yì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "白昼意义也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "daytime meaning also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ bái zhòu yì yì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，白昼意义不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, daytime meaning is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "xiāng guān zì zú shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "相关字族是理解日字和太阳形象的重要字形入口。",
+      "content_en": "related character family is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "xiāng guān zì zú yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "相关字族也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "related character family also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ xiāng guān zì zú bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，相关字族不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, related character family is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "rèn dú jì yì shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "认读记忆是理解日字和太阳形象的重要字形入口。",
+      "content_en": "recognition memory is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "rèn dú jì yì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "认读记忆也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "recognition memory also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ rèn dú jì yì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，认读记忆不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, recognition memory is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "xiàng xíng tè diǎn shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "象形特点是理解日字和太阳形象的重要字形入口。",
+      "content_en": "pictographic feature is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "xiàng xíng tè diǎn yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "象形特点也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "pictographic feature also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ xiàng xíng tè diǎn bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，象形特点不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, pictographic feature is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xiàn dài zì xíng shì lǐ jiě rì zì hé tài yáng xíng xiàng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "现代字形是理解日字和太阳形象的重要字形入口。",
+      "content_en": "modern form is an important form entry for understanding the character ri and the sun image.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ nhật và hình ảnh mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษร ri กับภาพดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami karakter ri dan citra matahari."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ rì zì hé tài yáng xíng xiàng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把日字和太阳形象放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places the character ri and the sun image back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ nhật và hình ảnh mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษร ri กับภาพดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan karakter ri dan citra matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xiàn dài zì xíng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "现代字形也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "modern form also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ nhật và hình ảnh mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษร ri กับภาพดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa karakter ri dan citra matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xiàn dài zì xíng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě rì zì hé tài yáng xíng xiàng",
+      "content_zh": "因此，现代字形不仅是字形知识，也帮助人们理解日字和太阳形象。",
+      "content_en": "Therefore, modern form is not only form knowledge but also a way to understand the character ri and the sun image.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ nhật và hình ảnh mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษร ri กับภาพดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami karakter ri dan citra matahari dengan lebih jelas."
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "12",
+  "category_dir": "12-myth",
+  "article_slug": "08-yandi-agriculture",
+  "article": {
+    "local_id": "myth-008",
+    "category_code": "12",
+    "title_pinyin": "yán dì chuán shuō wèi shén me hé nóng yè xiāng lián",
+    "title_i18n": {
+      "zh": "炎帝传说为什么和农业相连？",
+      "en": "Why Is the Yandi Legend Connected to Agriculture?",
+      "vi": "Vì sao truyền thuyết Viêm Đế gắn với nông nghiệp?",
+      "th": "ทำไมตำนานเหยียนตี้จึงเชื่อมกับเกษตร?",
+      "id": "Mengapa legenda Yandi terkait pertanian?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "炎帝传说和农业相连，是因为他常与神农形象重合，被用来解释农耕、草药和早期生活技能。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "炎帝形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，炎帝形象不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "神农重合是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "神农重合也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，神农重合不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "农耕起源是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "农耕起源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，农耕起源不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "草药知识是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "草药知识也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，草药知识不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "部落记忆是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "部落记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，部落记忆不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "火德想象是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "火德想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，火德想象不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "生活技能是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "生活技能也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，生活技能不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "文化祖先是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "文化祖先也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，文化祖先不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "与黄帝关系是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "与黄帝关系也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，与黄帝关系不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "民间祭祀是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "民间祭祀也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，民间祭祀不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "农业象征是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "农业象征也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，农业象征不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+    "身份记忆是理解炎帝传说和农业的重要神话画面。",
+    "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "身份记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，身份记忆不仅是传说内容，也帮助人们理解炎帝传说和农业。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "炎帝传说和农业",
+        "神话传说",
+        "炎帝传说为什么和农业相连"
+      ],
+      "en": [
+        "the Yandi legend and agriculture",
+        "Chinese myths and legends",
+        "the Yandi legend and agriculture guide"
+      ],
+      "vi": [
+        "truyền thuyết Viêm Đế và nông nghiệp"
+      ],
+      "th": [
+        "ตำนานเหยียนตี้กับเกษตร"
+      ],
+      "id": [
+        "legenda Yandi dan pertanian"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "炎帝传说为什么和农业相连？",
+        "炎帝传说和农业应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Is the Yandi Legend Connected to Agriculture?",
+        "How should learners understand the Yandi legend and agriculture?"
+      ],
+      "vi": [
+        "Vì sao truyền thuyết Viêm Đế gắn với nông nghiệp?"
+      ],
+      "th": [
+        "ทำไมตำนานเหยียนตี้จึงเชื่อมกับเกษตร?"
+      ],
+      "id": [
+        "Mengapa legenda Yandi terkait pertanian?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/12-myth/yandi-agriculture"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "炎帝传说和农业相连，是因为他常与神农形象重合，被用来解释农耕、草药和早期生活技能。",
+      "en": "The Yandi legend connects with agriculture because he often overlaps with Shennong and explains farming, herbs, and early life skills.",
+      "vi": "Truyền thuyết Viêm Đế gắn nông nghiệp vì thường hòa với hình tượng Thần Nông, giải thích canh tác, cây thuốc và kỹ năng sống sớm.",
+      "th": "ตำนานเหยียนตี้เชื่อมกับเกษตรเพราะมักซ้อนกับภาพเสินหนง ใช้อธิบายการเพาะปลูก สมุนไพร และทักษะชีวิตยุคต้น",
+      "id": "Legenda Yandi terkait pertanian karena sering bertemu dengan citra Shennong dan menjelaskan bercocok tanam, herba, serta keterampilan awal."
+    },
+    "entities": [
+      {
+        "type": "figure",
+        "name_zh": "炎帝",
+        "name_en": "Yandi"
+      },
+      {
+        "type": "figure",
+        "name_zh": "神农",
+        "name_en": "Shennong"
+      },
+      {
+        "type": "concept",
+        "name_zh": "农业",
+        "name_en": "agriculture"
+      },
+      {
+        "type": "figure",
+        "name_zh": "黄帝",
+        "name_en": "Yellow Emperor"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "yán dì chuán shuō hé nóng yè xiāng lián shì yīn wèi tā cháng yǔ shén nóng xíng xiàng chóng hé bèi yòng lái jiě shì nóng gēng cǎo yào hé zǎo qī shēng huó jì néng",
+      "content_zh": "炎帝传说和农业相连，是因为他常与神农形象重合，被用来解释农耕、草药和早期生活技能。",
+      "content_en": "The Yandi legend connects with agriculture because he often overlaps with Shennong and explains farming, herbs, and early life skills.",
+      "content_vi": "Truyền thuyết Viêm Đế gắn nông nghiệp vì thường hòa với hình tượng Thần Nông, giải thích canh tác, cây thuốc và kỹ năng sống sớm.",
+      "content_th": "ตำนานเหยียนตี้เชื่อมกับเกษตรเพราะมักซ้อนกับภาพเสินหนง ใช้อธิบายการเพาะปลูก สมุนไพร และทักษะชีวิตยุคต้น",
+      "content_id": "Legenda Yandi terkait pertanian karena sering bertemu dengan citra Shennong dan menjelaskan bercocok tanam, herba, serta keterampilan awal."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "yán dì xíng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "炎帝形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "Yandi image also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ yán dì xíng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，炎帝形象不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, Yandi image is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "shén nóng chóng hé shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "神农重合是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "overlap with Shennong is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "shén nóng chóng hé yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "神农重合也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "overlap with Shennong also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ shén nóng zhòng hé bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，神农重合不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, overlap with Shennong is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "nóng gēng qǐ yuán shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "农耕起源是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "origin of farming is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "nóng gēng qǐ yuán yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "农耕起源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "origin of farming also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ nóng gēng qǐ yuán bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，农耕起源不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, origin of farming is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "cǎo yào zhī shi shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "草药知识是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "herbal knowledge is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "cǎo yào zhī shi yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "草药知识也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "herbal knowledge also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ cǎo yào zhī shí bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，草药知识不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, herbal knowledge is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "bù luò jì yì shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "部落记忆是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "tribal memory is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "bù luò jì yì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "部落记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "tribal memory also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ bù luò jì yì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，部落记忆不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, tribal memory is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "huǒ dé xiǎng xiàng shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "火德想象是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "fire virtue image is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "huǒ dé xiǎng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "火德想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "fire virtue image also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ huǒ dé xiǎng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，火德想象不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, fire virtue image is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "shēng huó jì néng shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "生活技能是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "life skills is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "shēng huó jì néng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "生活技能也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "life skills also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ shēng huó jì néng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，生活技能不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, life skills is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "wén huà zǔ xiān shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "文化祖先是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "cultural ancestor is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "wén huà zǔ xiān yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "文化祖先也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "cultural ancestor also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ wén huà zǔ xiān bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，文化祖先不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, cultural ancestor is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "yǔ huáng dì guān xì shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "与黄帝关系是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "relation with Yellow Emperor is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "yǔ huáng dì guān xì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "与黄帝关系也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "relation with Yellow Emperor also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yǔ huáng dì guān xì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，与黄帝关系不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, relation with Yellow Emperor is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "mín jiān jì sì shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "民间祭祀是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "folk ritual is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "mín jiān jì sì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "民间祭祀也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "folk ritual also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ mín jiān jì sì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，民间祭祀不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, folk ritual is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "nóng yè xiàng zhēng shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "农业象征是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "agricultural symbol is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "nóng yè xiàng zhēng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "农业象征也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "agricultural symbol also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ nóng yè xiàng zhēng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，农业象征不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, agricultural symbol is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "shēn fèn jì yì shì lǐ jiě yán dì chuán shuō hé nóng yè de zhòng yào shén huà huà miàn",
+      "content_zh": "身份记忆是理解炎帝传说和农业的重要神话画面。",
+      "content_en": "identity memory is an important mythic image for understanding the Yandi legend and agriculture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu truyền thuyết Viêm Đế và nông nghiệp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจตำนานเหยียนตี้กับเกษตร",
+      "content_id": "Bagian ini penting untuk memahami legenda Yandi dan pertanian."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ yán dì chuán shuō hé nóng yè fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把炎帝传说和农业放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places the Yandi legend and agriculture back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt truyền thuyết Viêm Đế và nông nghiệp trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาตำนานเหยียนตี้กับเกษตรกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan legenda Yandi dan pertanian kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "shēn fèn jì yì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "身份记忆也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "identity memory also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy truyền thuyết Viêm Đế và nông nghiệp được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าตำนานเหยียนตี้กับเกษตรเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa legenda Yandi dan pertanian dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ shēn fèn jì yì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě yán dì chuán shuō hé nóng yè",
+      "content_zh": "因此，身份记忆不仅是传说内容，也帮助人们理解炎帝传说和农业。",
+      "content_en": "Therefore, identity memory is not only legend content but also a way to understand the Yandi legend and agriculture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu truyền thuyết Viêm Đế và nông nghiệp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจตำนานเหยียนตี้กับเกษตรได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami legenda Yandi dan pertanian dengan lebih jelas."
+    }
+  ]
+}

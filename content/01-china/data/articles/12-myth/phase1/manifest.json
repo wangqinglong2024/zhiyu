@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "12",
+  "category_dir": "12-myth",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-myth-explains-heaven-earth-human-world.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "9d7577c3c3dacc55b55b7beeabcbce9c35459944fc4814dd93a12979c7ab73e6"
+    },
+    {
+      "path": "02-pangu-creates-heaven-earth.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "ba7234571d80c1e7269fb0b98348f4d0e1e5093fac0f5c0362f97cbca5bb7c37"
+    },
+    {
+      "path": "03-nuwa-creates-humans.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "b92d401cf7983a34bfa31a55c6ae8cde69fe85f3ff4ef06dc35d20dd6cbed89c"
+    },
+    {
+      "path": "04-nuwa-repairs-sky.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "34f870988e5ef581213cecec11f0796350ab3d81f7a152a4c8aa78a5a82dda82"
+    },
+    {
+      "path": "05-fuxi-bagua-fishing-hunting.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "d8e7cba9eeb1be5f2b3f4f462ad4390d1ccf8cb294a3ab5ff065c347bf2885b4"
+    },
+    {
+      "path": "06-shennong-tastes-herbs.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e29e2816ee171b64bc33778d892ba08f9e6b12b7223aea7f7341f4903273dd00"
+    },
+    {
+      "path": "07-yellow-emperor-memory.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "9aa44648423375e8642895660c1c93fc1f9e0bf61ada1541781671708c4150e0"
+    },
+    {
+      "path": "08-yandi-agriculture.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e107f84615fe5c8bf218aa3c04efbf3ca6ab2497602e24c160ccfd806b703047"
+    },
+    {
+      "path": "09-cangjie-creates-writing.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "958435ab79eac766bd312d20d134a131b0cda6951d7b3599e1b49d752a84c411"
+    },
+    {
+      "path": "10-yu-controls-flood.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "cd721883913ac39a42e4242f68f9a18c0826b34ab4b709ef91af92f6f6cd4b4b"
+    },
+    {
+      "path": "11-houyi-shoots-suns.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "fcc2bc3afc56f68a392b3a8c973f35ce99b75aacfd14a7baff5c942983101510"
+    },
+    {
+      "path": "12-change-flies-to-moon-mid-autumn.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "d79783520501ca7e44135685e187b7776569dc5a0f3d7e4f7b88dd0043a2a8e9"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "4.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "11",
+  "category_dir": "11-fun-hanzi",
+  "article_slug": "07-phonetic-semantic-majority",
+  "article": {
+    "local_id": "hanzi-007",
+    "category_code": "11",
+    "title_pinyin": "xíng shēng zì wèi shén me zhàn hàn zì duō shù",
+    "title_i18n": {
+      "zh": "形声字为什么占汉字多数？",
+      "en": "Why Do Phono-Semantic Characters Make Up Most Hanzi?",
+      "vi": "Vì sao chữ hình thanh chiếm đa số chữ Hán?",
+      "th": "ทำไมอักษรบอกเสียงและความหมายจึงเป็นส่วนใหญ่ของอักษรจีน?",
+      "id": "Mengapa aksara bentuk-bunyi menjadi mayoritas Hanzi?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "形声字占汉字多数，是因为它用形旁提示意义范围、声旁提示读音方向，适合大量创造新字。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "形旁提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，形旁提示不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "声旁提示是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "声旁提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，声旁提示不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "造字效率是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "造字效率也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，造字效率不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "河湖海例是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "河湖海例也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，河湖海例不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "清情晴例是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "清情晴例也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，清情晴例不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "读音变化是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "读音变化也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，读音变化不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "意义范围是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "意义范围也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，意义范围不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "字族学习是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "字族学习也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，字族学习不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "偏旁作用是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "偏旁作用也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，偏旁作用不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "古今差异是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "古今差异也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，古今差异不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "认字策略是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "认字策略也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，认字策略不仅是字形知识，也帮助人们理解形声字数量优势。",
+    "数量优势是理解形声字数量优势的重要字形入口。",
+    "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "数量优势也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，数量优势不仅是字形知识，也帮助人们理解形声字数量优势。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "形声字数量优势",
+        "趣味汉字",
+        "形声字为什么占汉字多数"
+      ],
+      "en": [
+        "why phono-semantic characters dominate Hanzi",
+        "Fun with Chinese characters",
+        "why phono-semantic characters dominate Hanzi guide"
+      ],
+      "vi": [
+        "lý do chữ hình thanh chiếm đa số"
+      ],
+      "th": [
+        "เหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่"
+      ],
+      "id": [
+        "mengapa aksara bentuk-bunyi mendominasi Hanzi"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "形声字为什么占汉字多数？",
+        "形声字数量优势应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Do Phono-Semantic Characters Make Up Most Hanzi?",
+        "How should learners understand why phono-semantic characters dominate Hanzi?"
+      ],
+      "vi": [
+        "Vì sao chữ hình thanh chiếm đa số chữ Hán?"
+      ],
+      "th": [
+        "ทำไมอักษรบอกเสียงและความหมายจึงเป็นส่วนใหญ่ของอักษรจีน?"
+      ],
+      "id": [
+        "Mengapa aksara bentuk-bunyi menjadi mayoritas Hanzi?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/11-fun-hanzi/phonetic-semantic-majority"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "形声字占汉字多数，是因为它用形旁提示意义范围、声旁提示读音方向，适合大量创造新字。",
+      "en": "Phono-semantic characters dominate Hanzi because semantic parts hint at meaning and phonetic parts hint at sound, making new characters easier to create.",
+      "vi": "Chữ hình thanh chiếm đa số vì bộ nghĩa gợi phạm vi nghĩa, phần âm gợi hướng đọc, thuận tiện tạo chữ mới.",
+      "th": "อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เพราะส่วนบอกความหมายชี้ขอบเขต และส่วนบอกเสียงชี้ทิศทางเสียง จึงสร้างตัวใหม่ได้มาก",
+      "id": "Aksara bentuk-bunyi dominan karena bagian makna memberi petunjuk arti dan bagian bunyi memberi arah bacaan, sehingga mudah membentuk aksara baru."
+    },
+    "entities": [
+      {
+        "type": "type",
+        "name_zh": "形声字",
+        "name_en": "phono-semantic character"
+      },
+      {
+        "type": "concept",
+        "name_zh": "形旁",
+        "name_en": "semantic component"
+      },
+      {
+        "type": "concept",
+        "name_zh": "声旁",
+        "name_en": "phonetic component"
+      },
+      {
+        "type": "concept",
+        "name_zh": "偏旁",
+        "name_en": "radical"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "xíng shēng zì zhàn hàn zì duō shù shì yīn wèi tā yòng xíng páng tí shì yì yì fàn wéi shēng páng tí shì dú yīn fāng xiàng shì hé dà liàng chuàng zào xīn zì",
+      "content_zh": "形声字占汉字多数，是因为它用形旁提示意义范围、声旁提示读音方向，适合大量创造新字。",
+      "content_en": "Phono-semantic characters dominate Hanzi because semantic parts hint at meaning and phonetic parts hint at sound, making new characters easier to create.",
+      "content_vi": "Chữ hình thanh chiếm đa số vì bộ nghĩa gợi phạm vi nghĩa, phần âm gợi hướng đọc, thuận tiện tạo chữ mới.",
+      "content_th": "อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เพราะส่วนบอกความหมายชี้ขอบเขต และส่วนบอกเสียงชี้ทิศทางเสียง จึงสร้างตัวใหม่ได้มาก",
+      "content_id": "Aksara bentuk-bunyi dominan karena bagian makna memberi petunjuk arti dan bagian bunyi memberi arah bacaan, sehingga mudah membentuk aksara baru."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "xíng páng tí shì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "形旁提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "semantic hint also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ xíng páng tí shì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，形旁提示不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, semantic hint is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "shēng páng tí shì shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "声旁提示是理解形声字数量优势的重要字形入口。",
+      "content_en": "phonetic hint is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "shēng páng tí shì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "声旁提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "phonetic hint also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ shēng páng tí shì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，声旁提示不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, phonetic hint is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "zào zì xiào lǜ shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "造字效率是理解形声字数量优势的重要字形入口。",
+      "content_en": "formation efficiency is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "zào zì xiào lǜ yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "造字效率也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "formation efficiency also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ zào zì xiào lǜ bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，造字效率不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, formation efficiency is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "hé hú hǎi lì shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "河湖海例是理解形声字数量优势的重要字形入口。",
+      "content_en": "river-water examples is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "hé hú hǎi lì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "河湖海例也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "river-water examples also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ hé hú hǎi lì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，河湖海例不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, river-water examples is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "qīng qíng qíng lì shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "清情晴例是理解形声字数量优势的重要字形入口。",
+      "content_en": "qing examples is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "qīng qíng qíng lì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "清情晴例也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "qing examples also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ qīng qíng qíng lì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，清情晴例不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, qing examples is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "dú yīn biàn huà shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "读音变化是理解形声字数量优势的重要字形入口。",
+      "content_en": "sound changes is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "dú yīn biàn huà yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "读音变化也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "sound changes also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ dú yīn biàn huà bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，读音变化不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, sound changes is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "yì yì fàn wéi shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "意义范围是理解形声字数量优势的重要字形入口。",
+      "content_en": "meaning range is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "yì yì fàn wéi yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "意义范围也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "meaning range also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ yì yì fàn wéi bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，意义范围不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, meaning range is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "zì zú xué xí shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "字族学习是理解形声字数量优势的重要字形入口。",
+      "content_en": "character-family learning is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "zì zú xué xí yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "字族学习也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "character-family learning also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ zì zú xué xí bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，字族学习不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, character-family learning is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "piān páng zuò yòng shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "偏旁作用是理解形声字数量优势的重要字形入口。",
+      "content_en": "radical role is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "piān páng zuò yòng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "偏旁作用也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "radical role also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ piān páng zuò yòng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，偏旁作用不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, radical role is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "gǔ jīn chā yì shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "古今差异是理解形声字数量优势的重要字形入口。",
+      "content_en": "ancient-modern difference is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "gǔ jīn chā yì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "古今差异也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "ancient-modern difference also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ gǔ jīn chā yì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，古今差异不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, ancient-modern difference is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "rèn zì cè lüè shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "认字策略是理解形声字数量优势的重要字形入口。",
+      "content_en": "recognition strategy is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "rèn zì cè lüè yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "认字策略也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "recognition strategy also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ rèn zì cè lüè bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，认字策略不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, recognition strategy is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "shù liàng yōu shì shì lǐ jiě xíng shēng zì shù liàng yōu shì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "数量优势是理解形声字数量优势的重要字形入口。",
+      "content_en": "numerical dominance is an important form entry for understanding why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu lý do chữ hình thanh chiếm đa số.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่",
+      "content_id": "Bagian ini penting untuk memahami mengapa aksara bentuk-bunyi mendominasi Hanzi."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ xíng shēng zì shù liàng yōu shì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把形声字数量优势放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places why phono-semantic characters dominate Hanzi back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt lý do chữ hình thanh chiếm đa số trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan mengapa aksara bentuk-bunyi mendominasi Hanzi kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "shù liàng yōu shì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "数量优势也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "numerical dominance also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy lý do chữ hình thanh chiếm đa số được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa mengapa aksara bentuk-bunyi mendominasi Hanzi dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ shù liáng yōu shì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě xíng shēng zì shù liàng yōu shì",
+      "content_zh": "因此，数量优势不仅是字形知识，也帮助人们理解形声字数量优势。",
+      "content_en": "Therefore, numerical dominance is not only form knowledge but also a way to understand why phono-semantic characters dominate Hanzi.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu lý do chữ hình thanh chiếm đa số rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเหตุที่อักษรบอกเสียงและความหมายเป็นส่วนใหญ่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami mengapa aksara bentuk-bunyi mendominasi Hanzi dengan lebih jelas."
+    }
+  ]
+}

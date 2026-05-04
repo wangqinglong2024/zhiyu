@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "10",
+  "category_dir": "10-modern",
+  "article_slug": "11-ecommerce-shopping-festival-scale",
+  "article": {
+    "local_id": "modern-011",
+    "category_code": "10",
+    "title_pinyin": "diàn shāng gòu wù jié wèi shén me guī mó hěn dà",
+    "title_i18n": {
+      "zh": "电商购物节为什么规模很大？",
+      "en": "Why Are E-Commerce Shopping Festivals So Large?",
+      "vi": "Vì sao lễ hội mua sắm điện tử có quy mô lớn?",
+      "th": "ทำไมเทศกาลช้อปปิงออนไลน์จึงใหญ่มาก?",
+      "id": "Mengapa festival belanja e-commerce sangat besar?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "电商购物节规模很大，是因为平台促销、品牌备货、物流协同和消费者集中下单叠加在同一时间。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "平台促销也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，平台促销不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "品牌备货是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "品牌备货也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，品牌备货不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "集中下单是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "集中下单也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，集中下单不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "物流协同是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "物流协同也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，物流协同不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "直播预热是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "直播预热也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，直播预热不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "优惠规则是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "优惠规则也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，优惠规则不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "消费者计划是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "消费者计划也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，消费者计划不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "数据调度是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "数据调度也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，数据调度不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "仓储压力是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "仓储压力也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，仓储压力不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "售后服务是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "售后服务也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，售后服务不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "消费节奏是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "消费节奏也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，消费节奏不仅是生活细节，也帮助人们理解电商购物节规模。",
+    "商业景观是理解电商购物节规模的重要日常场景。",
+    "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+    "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+    "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+    "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+    "商业景观也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+    "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+    "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+    "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+    "因此，商业景观不仅是生活细节，也帮助人们理解电商购物节规模。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "电商购物节规模",
+        "当代中国",
+        "电商购物节为什么规模很大"
+      ],
+      "en": [
+        "the scale of e-commerce shopping festivals",
+        "Modern China",
+        "the scale of e-commerce shopping festivals guide"
+      ],
+      "vi": [
+        "quy mô lễ hội mua sắm điện tử"
+      ],
+      "th": [
+        "ขนาดของเทศกาลช้อปปิงออนไลน์"
+      ],
+      "id": [
+        "skala festival belanja e-commerce"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "电商购物节为什么规模很大？",
+        "电商购物节规模应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Are E-Commerce Shopping Festivals So Large?",
+        "How should learners understand the scale of e-commerce shopping festivals?"
+      ],
+      "vi": [
+        "Vì sao lễ hội mua sắm điện tử có quy mô lớn?"
+      ],
+      "th": [
+        "ทำไมเทศกาลช้อปปิงออนไลน์จึงใหญ่มาก?"
+      ],
+      "id": [
+        "Mengapa festival belanja e-commerce sangat besar?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/10-modern/ecommerce-shopping-festival-scale"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "电商购物节规模很大，是因为平台促销、品牌备货、物流协同和消费者集中下单叠加在同一时间。",
+      "en": "E-commerce shopping festivals are large because platform promotions, brand inventory, logistics coordination, and concentrated orders converge at the same time.",
+      "vi": "Lễ hội mua sắm điện tử lớn vì khuyến mãi nền tảng, hàng dự trữ, phối hợp logistics và đơn hàng tập trung cùng lúc.",
+      "th": "เทศกาลช้อปปิงออนไลน์ใหญ่มากเพราะโปรโมชันแพลตฟอร์ม สต็อกแบรนด์ โลจิสติกส์ และคำสั่งซื้อจำนวนมากมาพร้อมกัน",
+      "id": "Festival belanja e-commerce besar karena promosi platform, stok merek, koordinasi logistik, dan pesanan terkonsentrasi terjadi bersamaan."
+    },
+    "entities": [
+      {
+        "type": "event",
+        "name_zh": "电商购物节",
+        "name_en": "e-commerce shopping festival"
+      },
+      {
+        "type": "concept",
+        "name_zh": "物流",
+        "name_en": "logistics"
+      },
+      {
+        "type": "concept",
+        "name_zh": "促销",
+        "name_en": "promotion"
+      },
+      {
+        "type": "platform",
+        "name_zh": "电商平台",
+        "name_en": "e-commerce platform"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "diàn shāng gòu wù jié guī mó hěn dà shì yīn wèi píng tái cù xiāo pǐn pái bèi huò wù liú xié tóng hé xiāo fèi zhě jí zhōng xià dān dié jiā zài tóng yì shí jiān",
+      "content_zh": "电商购物节规模很大，是因为平台促销、品牌备货、物流协同和消费者集中下单叠加在同一时间。",
+      "content_en": "E-commerce shopping festivals are large because platform promotions, brand inventory, logistics coordination, and concentrated orders converge at the same time.",
+      "content_vi": "Lễ hội mua sắm điện tử lớn vì khuyến mãi nền tảng, hàng dự trữ, phối hợp logistics và đơn hàng tập trung cùng lúc.",
+      "content_th": "เทศกาลช้อปปิงออนไลน์ใหญ่มากเพราะโปรโมชันแพลตฟอร์ม สต็อกแบรนด์ โลจิสติกส์ และคำสั่งซื้อจำนวนมากมาพร้อมกัน",
+      "content_id": "Festival belanja e-commerce besar karena promosi platform, stok merek, koordinasi logistik, dan pesanan terkonsentrasi terjadi bersamaan."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "píng tái cù xiāo yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "平台促销也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "platform promotions also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ píng tái cù xiāo bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，平台促销不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, platform promotions is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "pǐn pái bèi huò shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "品牌备货是理解电商购物节规模的重要日常场景。",
+      "content_en": "brand inventory is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "pǐn pái bèi huò yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "品牌备货也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "brand inventory also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ pǐn pái bèi huò bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，品牌备货不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, brand inventory is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "jí zhōng xià dān shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "集中下单是理解电商购物节规模的重要日常场景。",
+      "content_en": "concentrated orders is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "jí zhōng xià dān yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "集中下单也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "concentrated orders also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ jí zhōng xià dān bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，集中下单不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, concentrated orders is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "wù liú xié tóng shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "物流协同是理解电商购物节规模的重要日常场景。",
+      "content_en": "logistics coordination is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "wù liú xié tóng yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "物流协同也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "logistics coordination also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ wù liú xié tóng bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，物流协同不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, logistics coordination is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "zhí bō yù rè shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "直播预热是理解电商购物节规模的重要日常场景。",
+      "content_en": "livestream warm-up is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "zhí bō yù rè yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "直播预热也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "livestream warm-up also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ zhí bō yù rè bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，直播预热不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, livestream warm-up is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "yōu huì guī zé shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "优惠规则是理解电商购物节规模的重要日常场景。",
+      "content_en": "discount rules is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "yōu huì guī zé yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "优惠规则也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "discount rules also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ yōu huì guī zé bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，优惠规则不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, discount rules is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "xiāo fèi zhě jì huà shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "消费者计划是理解电商购物节规模的重要日常场景。",
+      "content_en": "consumer planning is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "xiāo fèi zhě jì huà yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "消费者计划也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "consumer planning also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ xiāo fèi zhě jì huà bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，消费者计划不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, consumer planning is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "shù jù diào dù shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "数据调度是理解电商购物节规模的重要日常场景。",
+      "content_en": "data scheduling is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "shù jù diào dù yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "数据调度也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "data scheduling also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ shù jù tiáo dù bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，数据调度不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, data scheduling is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "cāng chǔ yā lì shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "仓储压力是理解电商购物节规模的重要日常场景。",
+      "content_en": "warehouse pressure is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "cāng chǔ yā lì yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "仓储压力也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "warehouse pressure also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ cāng chǔ yā lì bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，仓储压力不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, warehouse pressure is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "shòu hòu fú wù shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "售后服务是理解电商购物节规模的重要日常场景。",
+      "content_en": "after-sales service is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "shòu hòu fú wù yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "售后服务也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "after-sales service also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ shòu hòu fú wù bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，售后服务不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, after-sales service is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "xiāo fèi jié zòu shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "消费节奏是理解电商购物节规模的重要日常场景。",
+      "content_en": "consumption rhythm is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "xiāo fèi jié zòu yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "消费节奏也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "consumption rhythm also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ xiāo fèi jié zòu bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，消费节奏不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, consumption rhythm is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "shāng yè jǐng guān shì lǐ jiě diàn shāng gòu wù jié guī mó de zhòng yào rì cháng chǎng jǐng",
+      "content_zh": "商业景观是理解电商购物节规模的重要日常场景。",
+      "content_en": "commercial scene is an important daily scene for understanding the scale of e-commerce shopping festivals.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu quy mô lễ hội mua sắm điện tử.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจขนาดของเทศกาลช้อปปิงออนไลน์",
+      "content_id": "Bagian ini penting untuk memahami skala festival belanja e-commerce."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ diàn shāng gòu wù jié guī mó fàng huí chéng shì kōng jiān shù zì gōng jù hé shēng huó jié zòu zhī zhōng",
+      "content_zh": "它把电商购物节规模放回城市空间、数字工具和生活节奏之中。",
+      "content_en": "It places the scale of e-commerce shopping festivals back into urban space, digital tools, and the rhythm of life.",
+      "content_vi": "Nó đặt quy mô lễ hội mua sắm điện tử trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาขนาดของเทศกาลช้อปปิงออนไลน์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan skala festival belanja e-commerce kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zhè xiē biàn huà tōng cháng bù zhī fā shēng zài píng mù shàng yě huì gǎi biàn jiē dào shè qū hé rén yǔ fú wù de guān xì",
+      "content_zh": "这些变化通常不只发生在屏幕上，也会改变街道、社区和人与服务的关系。",
+      "content_en": "These changes do not happen only on screens; they also reshape streets, communities, and access to services.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "jū mín zài tōng qín gòu wù chī fàn hé bàn shì shí huì bú duàn gǎn shòu dào jī chǔ shè shī yǔ píng tái fú wù de pèi hé",
+      "content_zh": "居民在通勤、购物、吃饭和办事时，会不断感受到基础设施与平台服务的配合。",
+      "content_en": "Residents feel the coordination of infrastructure and platforms while commuting, shopping, eating, and handling tasks.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī kàn jì shù míng chēng rén men róng yì hū lüè bèi hòu de shí jiān ān pái láo dòng zǔ zhī hé chéng shì guǎn lǐ",
+      "content_zh": "如果只看技术名称，人们容易忽略背后的时间安排、劳动组织和城市管理。",
+      "content_en": "If people only see the technology name, they may miss timing, labor organization, and urban management behind it.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "shāng yè jǐng guān yě shuō míng dāng dài shēng huó cháng yóu xiǎo gōng jù gōng gòng xì tǒng hé gè rén xí guàn gòng tóng sù zào",
+      "content_zh": "商业景观也说明，当代生活常由小工具、公共系统和个人习惯共同塑造。",
+      "content_en": "commercial scene also shows how modern life is shaped by tools, public systems, and personal habits together.",
+      "content_vi": "Điều đó cho thấy quy mô lễ hội mua sắm điện tử được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าขนาดของเทศกาลช้อปปิงออนไลน์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa skala festival belanja e-commerce dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "bù tóng chéng shì hé bù tóng nián líng de rén shǐ yòng fāng shì bìng bù wán quán yí yàng biàn lì bèi hòu yě xū yào guī zé zhī chí",
+      "content_zh": "不同城市和不同年龄的人使用方式并不完全一样，便利背后也需要规则支持。",
+      "content_en": "Different cities and age groups use these services differently, and convenience still needs rules to support it.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "guān chá zhè xiē chǎng jǐng kě yǐ gèng jù tǐ dì lǐ jiě dāng dài zhōng guó de chéng shì sù dù hé shēng huó mì dù",
+      "content_zh": "观察这些场景，可以更具体地理解当代中国的城市速度和生活密度。",
+      "content_en": "Observing these scenes makes the speed and density of modern Chinese urban life more concrete.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ kōng jiān shè bèi hé xíng wéi lián qǐ lái rì cháng huà miàn jiù néng chéng xiàn shè huì biàn huà de zhēn shí wén lǐ",
+      "content_zh": "把空间、设备和行为连起来，日常画面就能呈现社会变化的真实纹理。",
+      "content_en": "When space, devices, and behavior are connected, daily scenes show the texture of social change.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ shāng yè jǐng guān bù jǐn shì shēng huó xì jié yě bāng zhù rén men lǐ jiě diàn shāng gòu wù jié guī mó",
+      "content_zh": "因此，商业景观不仅是生活细节，也帮助人们理解电商购物节规模。",
+      "content_en": "Therefore, commercial scene is not only a life detail but also a way to understand the scale of e-commerce shopping festivals.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu quy mô lễ hội mua sắm điện tử rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจขนาดของเทศกาลช้อปปิงออนไลน์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami skala festival belanja e-commerce dengan lebih jelas."
+    }
+  ]
+}

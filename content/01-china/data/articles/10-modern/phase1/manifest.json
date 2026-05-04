@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "10",
+  "category_dir": "10-modern",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-modern-china-daily-scenes.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "dbbcc98bee8300873ff57b3a28cf3cbd0a55105d2d65e1749bea38148005948b"
+    },
+    {
+      "path": "02-chinese-cities-fast-change.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "5fd83d61d9afb4752126413a8c5531f544a690507b8cc799a257675ee10cdb47"
+    },
+    {
+      "path": "03-high-speed-rail-travel.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "1169be185b84b0a5657e25d1fca2b36a0dd8a1171bb08fd4a5357674a6fc3b08"
+    },
+    {
+      "path": "04-high-speed-rail-station-city-gateway.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "d3bf0be867f2126871839ffa428ee43f7c425b2832464f88502c294be4878ad8"
+    },
+    {
+      "path": "05-metro-big-city-life.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "b3634187de49b91c1d2574035d98edf9e60e51bb59122d2b3fe0d5b795989cb2"
+    },
+    {
+      "path": "06-shared-bikes-urban-commute.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e0635b5d67d81e402d1c28f432d9ffa0a018a8d0be4b2da70beef3e85c9af753"
+    },
+    {
+      "path": "07-mobile-payment-common.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "2a3205c46480b7c64dcd004938662992335013eca1b1bd4eed58383a4a6f1afe"
+    },
+    {
+      "path": "08-qr-codes-connect-services.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "b2e174f3bf2d7d127ddaca3f37c9fdd9c2a537e600ef0e22d676be10f554de15"
+    },
+    {
+      "path": "09-food-delivery-platforms.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "fd2004077ce75294b4c432f91c96549c339db2cc6e912145ef865a017d8c1dc5"
+    },
+    {
+      "path": "10-parcel-stations-community.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "aeba0d28a2275bc60737979b4956fa034b58b337a7d47aa9e04b318e48f1d96c"
+    },
+    {
+      "path": "11-ecommerce-shopping-festival-scale.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "99c0d22a7f0e4c5ae1482c2c346e077d1011f46f028cc9752c71bad682bafa24"
+    },
+    {
+      "path": "12-livestream-commerce-sales.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "cd9c182f0463c7dce9cc29a8a6e17553de459a52e2d4c064ba52f7b62aa65a65"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "4.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

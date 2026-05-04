@@ -60,6 +60,21 @@ const categoryCatalog = {
     nameI18n: { zh: '哲学思想', en: 'Philosophy & Wisdom', vi: 'Triết học & Trí tuệ', th: 'ปรัชญาและภูมิปัญญา', id: 'Filsafat & Kebijaksanaan' },
     descriptionI18n: { zh: '儒释道、诸子百家', en: 'Confucianism, Buddhism, Daoism, Hundred Schools', vi: 'Nho-Phật-Đạo, bách gia chư tử', th: 'ขงจื๊อ พุทธ เต๋า นักปราชญ์ร้อยสำนัก', id: 'Konfusianisme, Buddhisme, Taoisme, Seratus Aliran' },
   },
+  '10': {
+    sortOrder: 10,
+    nameI18n: { zh: '当代中国', en: 'Modern China', vi: 'Trung Quốc hiện đại', th: 'จีนสมัยใหม่', id: 'Tiongkok Modern' },
+    descriptionI18n: { zh: '科技、城市生活、流行文化', en: 'Technology, urban life, pop culture', vi: 'Công nghệ, đời sống đô thị, văn hóa đại chúng', th: 'เทคโนโลยี ชีวิตเมือง วัฒนธรรมป๊อป', id: 'Teknologi, kehidupan kota, budaya pop' },
+  },
+  '11': {
+    sortOrder: 11,
+    nameI18n: { zh: '趣味汉字', en: 'Fun with Chinese', vi: 'Hán tự thú vị', th: 'อักษรจีนสนุก', id: 'Aksara Tiongkok Seru' },
+    descriptionI18n: { zh: '汉字演变、数字密码、网络用语', en: 'Character evolution, number codes, internet slang', vi: 'Diễn biến chữ Hán, mật mã số, tiếng lóng mạng', th: 'วิวัฒนาการอักษร รหัสตัวเลข ศัพท์เน็ต', id: 'Evolusi aksara, kode angka, slang internet' },
+  },
+  '12': {
+    sortOrder: 12,
+    nameI18n: { zh: '神话传说', en: 'Myths & Legends', vi: 'Thần thoại & Truyền thuyết', th: 'เทพปกรณัมและตำนาน', id: 'Mitos & Legenda' },
+    descriptionI18n: { zh: '创世神话、神仙体系、民间传说', en: 'Creation myths, pantheon, folk legends', vi: 'Thần thoại sáng thế, hệ thống thần tiên, truyền thuyết dân gian', th: 'ปกรณัมการสร้างโลก เทพเจ้า ตำนานพื้นบ้าน', id: 'Mitos penciptaan, panteon, legenda rakyat' },
+  },
 };
 
 if (!databaseUrl && !args.dryRun) {

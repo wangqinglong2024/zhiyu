@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "12",
+  "category_dir": "12-myth",
+  "article_slug": "11-houyi-shoots-suns",
+  "article": {
+    "local_id": "myth-011",
+    "category_code": "12",
+    "title_pinyin": "hòu yì shè rì jiǎng le zěn yàng de tiān dì xiǎng xiàng",
+    "title_i18n": {
+      "zh": "后羿射日讲了怎样的天地想象？",
+      "en": "What Cosmic Imagination Does Hou Yi Shooting the Suns Show?",
+      "vi": "Hậu Nghệ bắn mặt trời thể hiện tưởng tượng trời đất nào?",
+      "th": "โฮ่วอี้ยิงดวงอาทิตย์แสดงจินตนาการจักรวาลแบบใด?",
+      "id": "Imajinasi kosmis apa dalam Hou Yi memanah matahari?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "后羿射日讲的是多个太阳造成灾害、英雄射落多余太阳、天地恢复秩序的强烈想象。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "十日并出也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，十日并出不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "酷热灾害是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "酷热灾害也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，酷热灾害不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "英雄射箭是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "英雄射箭也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，英雄射箭不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "多余太阳是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "多余太阳也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，多余太阳不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "天地秩序是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "天地秩序也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，天地秩序不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "生民困境是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "生民困境也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，生民困境不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "神弓形象是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "神弓形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，神弓形象不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "太阳想象是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "太阳想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，太阳想象不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "灾害解释是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "灾害解释也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，灾害解释不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "英雄责任是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "英雄责任也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，英雄责任不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "叙事张力是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "叙事张力也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，叙事张力不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+    "后世图像是理解后羿射日的天地想象的重要神话画面。",
+    "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "后世图像也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，后世图像不仅是传说内容，也帮助人们理解后羿射日的天地想象。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "后羿射日的天地想象",
+        "神话传说",
+        "后羿射日讲了怎样的天地想象"
+      ],
+      "en": [
+        "cosmic imagination in Hou Yi shooting the suns",
+        "Chinese myths and legends",
+        "cosmic imagination in Hou Yi shooting the suns guide"
+      ],
+      "vi": [
+        "tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời"
+      ],
+      "th": [
+        "จินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์"
+      ],
+      "id": [
+        "imajinasi kosmis dalam Hou Yi memanah matahari"
+      ]
+    },
+    "search_intents": [
+      "what_is",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "后羿射日讲了怎样的天地想象？",
+        "后羿射日的天地想象应该从哪些方面理解？"
+      ],
+      "en": [
+        "What Cosmic Imagination Does Hou Yi Shooting the Suns Show?",
+        "How should learners understand cosmic imagination in Hou Yi shooting the suns?"
+      ],
+      "vi": [
+        "Hậu Nghệ bắn mặt trời thể hiện tưởng tượng trời đất nào?"
+      ],
+      "th": [
+        "โฮ่วอี้ยิงดวงอาทิตย์แสดงจินตนาการจักรวาลแบบใด?"
+      ],
+      "id": [
+        "Imajinasi kosmis apa dalam Hou Yi memanah matahari?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/12-myth/houyi-shoots-suns"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "后羿射日讲的是多个太阳造成灾害、英雄射落多余太阳、天地恢复秩序的强烈想象。",
+      "en": "Hou Yi shooting the suns imagines many suns causing disaster, a hero shooting down the excess suns, and order returning to the world.",
+      "vi": "Hậu Nghệ bắn mặt trời tưởng tượng nhiều mặt trời gây tai họa, anh hùng bắn rơi phần thừa và trật tự trời đất được khôi phục.",
+      "th": "โฮ่วอี้ยิงดวงอาทิตย์จินตนาการว่าดวงอาทิตย์หลายดวงก่อภัย วีรบุรุษยิงส่วนเกินลง และโลกกลับสู่ระเบียบ",
+      "id": "Hou Yi memanah matahari membayangkan banyak matahari membawa bencana, pahlawan menjatuhkan yang berlebih, dan tatanan dunia pulih."
+    },
+    "entities": [
+      {
+        "type": "figure",
+        "name_zh": "后羿",
+        "name_en": "Hou Yi"
+      },
+      {
+        "type": "object",
+        "name_zh": "太阳",
+        "name_en": "sun"
+      },
+      {
+        "type": "concept",
+        "name_zh": "射日",
+        "name_en": "shooting the suns"
+      },
+      {
+        "type": "concept",
+        "name_zh": "天地秩序",
+        "name_en": "cosmic order"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "hòu yì shè rì jiǎng de shì duō gè tài yáng zào chéng zāi hài yīng xióng shè luò duō yú tài yáng tiān dì huī fù zhì xù de qiáng liè xiǎng xiàng",
+      "content_zh": "后羿射日讲的是多个太阳造成灾害、英雄射落多余太阳、天地恢复秩序的强烈想象。",
+      "content_en": "Hou Yi shooting the suns imagines many suns causing disaster, a hero shooting down the excess suns, and order returning to the world.",
+      "content_vi": "Hậu Nghệ bắn mặt trời tưởng tượng nhiều mặt trời gây tai họa, anh hùng bắn rơi phần thừa và trật tự trời đất được khôi phục.",
+      "content_th": "โฮ่วอี้ยิงดวงอาทิตย์จินตนาการว่าดวงอาทิตย์หลายดวงก่อภัย วีรบุรุษยิงส่วนเกินลง และโลกกลับสู่ระเบียบ",
+      "content_id": "Hou Yi memanah matahari membayangkan banyak matahari membawa bencana, pahlawan menjatuhkan yang berlebih, dan tatanan dunia pulih."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shí rì bìng chū yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "十日并出也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "ten suns together also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shí rì bìng chū bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，十日并出不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, ten suns together is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "kù rè zāi hài shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "酷热灾害是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "scorching disaster is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "kù rè zāi hài yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "酷热灾害也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "scorching disaster also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ kù rè zāi hài bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，酷热灾害不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, scorching disaster is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "yīng xióng shè jiàn shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "英雄射箭是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "heroic archery is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "yīng xióng shè jiàn yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "英雄射箭也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "heroic archery also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ yīng xióng shè jiàn bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，英雄射箭不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, heroic archery is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "duō yú tài yáng shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "多余太阳是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "excess suns is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "duō yú tài yáng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "多余太阳也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "excess suns also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ duō yú tài yáng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，多余太阳不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, excess suns is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "tiān dì zhì xù shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "天地秩序是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "cosmic order is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "tiān dì zhì xù yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "天地秩序也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "cosmic order also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ tiān dì zhì xù bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，天地秩序不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, cosmic order is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "shēng mín kùn jìng shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "生民困境是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "human suffering is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "shēng mín kùn jìng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "生民困境也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "human suffering also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ shēng mín kùn jìng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，生民困境不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, human suffering is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "shén gōng xíng xiàng shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "神弓形象是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "divine bow image is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "shén gōng xíng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "神弓形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "divine bow image also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ shén gōng xíng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，神弓形象不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, divine bow image is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "tài yáng xiǎng xiàng shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "太阳想象是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "sun imagination is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "tài yáng xiǎng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "太阳想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "sun imagination also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ tài yáng xiǎng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，太阳想象不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, sun imagination is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "zāi hài jiě shì shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "灾害解释是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "disaster explanation is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "zāi hài jiě shì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "灾害解释也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "disaster explanation also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ zāi hài jiě shì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，灾害解释不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, disaster explanation is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "yīng xióng zé rèn shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "英雄责任是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "heroic responsibility is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "yīng xióng zé rèn yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "英雄责任也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "heroic responsibility also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ yīng xióng zé rèn bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，英雄责任不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, heroic responsibility is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "xù shì zhāng lì shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "叙事张力是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "narrative tension is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "xù shì zhāng lì yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "叙事张力也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "narrative tension also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ xù shì zhāng lì bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，叙事张力不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, narrative tension is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "hòu shì tú xiàng shì lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng de zhòng yào shén huà huà miàn",
+      "content_zh": "后世图像是理解后羿射日的天地想象的重要神话画面。",
+      "content_en": "later images is an important mythic image for understanding cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์",
+      "content_id": "Bagian ini penting untuk memahami imajinasi kosmis dalam Hou Yi memanah matahari."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ hòu yì shè rì de tiān dì xiǎng xiàng fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把后羿射日的天地想象放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places cosmic imagination in Hou Yi shooting the suns back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์กลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi kosmis dalam Hou Yi memanah matahari kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "hòu shì tú xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "后世图像也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "later images also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์เกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi kosmis dalam Hou Yi memanah matahari dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ hòu shì tú xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě hòu yì shè rì de tiān dì xiǎng xiàng",
+      "content_zh": "因此，后世图像不仅是传说内容，也帮助人们理解后羿射日的天地想象。",
+      "content_en": "Therefore, later images is not only legend content but also a way to understand cosmic imagination in Hou Yi shooting the suns.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tưởng tượng trời đất trong Hậu Nghệ bắn mặt trời rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการจักรวาลในโฮ่วอี้ยิงดวงอาทิตย์ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi kosmis dalam Hou Yi memanah matahari dengan lebih jelas."
+    }
+  ]
+}

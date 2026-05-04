@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "12",
+  "category_dir": "12-myth",
+  "article_slug": "03-nuwa-creates-humans",
+  "article": {
+    "local_id": "myth-003",
+    "category_code": "12",
+    "title_pinyin": "nǚ wā zào rén wèi shén me dài biǎo shēng mìng qǐ yuán xiǎng xiàng",
+    "title_i18n": {
+      "zh": "女娲造人为什么代表生命起源想象？",
+      "en": "Why Does Nuwa Creating Humans Represent Life-Origin Imagination?",
+      "vi": "Vì sao Nữ Oa tạo người tượng trưng tưởng tượng nguồn gốc sự sống?",
+      "th": "ทำไมนวี่วาสร้างมนุษย์จึงแทนจินตนาการกำเนิดชีวิต?",
+      "id": "Mengapa Nuwa menciptakan manusia mewakili imajinasi asal kehidupan?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "女娲造人代表生命起源想象，是因为故事用泥土、双手和造物神力解释人类从哪里来。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "泥土造人也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，泥土造人不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "女神形象是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "女神形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，女神形象不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "生命来源是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "生命来源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，生命来源不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "双手创造是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "双手创造也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，双手创造不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "人类出现是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "人类出现也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，人类出现不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "孤独世界是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "孤独世界也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，孤独世界不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "繁衍想象是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "繁衍想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，繁衍想象不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "母性象征是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "母性象征也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，母性象征不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "民间讲述是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "民间讲述也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，民间讲述不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "艺术表现是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "艺术表现也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，艺术表现不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "文化亲近是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "文化亲近也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，文化亲近不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+    "起源问题是理解女娲造人与生命起源的重要神话画面。",
+    "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+    "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+    "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+    "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+    "起源问题也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+    "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+    "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+    "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+    "因此，起源问题不仅是传说内容，也帮助人们理解女娲造人与生命起源。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "女娲造人与生命起源",
+        "神话传说",
+        "女娲造人为什么代表生命起源想象"
+      ],
+      "en": [
+        "Nuwa creating humans and life origins",
+        "Chinese myths and legends",
+        "Nuwa creating humans and life origins guide"
+      ],
+      "vi": [
+        "Nữ Oa tạo người và nguồn gốc sự sống"
+      ],
+      "th": [
+        "นวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต"
+      ],
+      "id": [
+        "Nuwa menciptakan manusia dan asal kehidupan"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "女娲造人为什么代表生命起源想象？",
+        "女娲造人与生命起源应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Nuwa Creating Humans Represent Life-Origin Imagination?",
+        "How should learners understand Nuwa creating humans and life origins?"
+      ],
+      "vi": [
+        "Vì sao Nữ Oa tạo người tượng trưng tưởng tượng nguồn gốc sự sống?"
+      ],
+      "th": [
+        "ทำไมนวี่วาสร้างมนุษย์จึงแทนจินตนาการกำเนิดชีวิต?"
+      ],
+      "id": [
+        "Mengapa Nuwa menciptakan manusia mewakili imajinasi asal kehidupan?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/12-myth/nuwa-creates-humans"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "女娲造人代表生命起源想象，是因为故事用泥土、双手和造物神力解释人类从哪里来。",
+      "en": "Nuwa creating humans represents life-origin imagination because the story uses clay, hands, and creative power to explain where humans came from.",
+      "vi": "Nữ Oa tạo người tượng trưng nguồn gốc sự sống vì câu chuyện dùng đất, đôi tay và sức sáng tạo để giải thích con người từ đâu đến.",
+      "th": "นวี่วาสร้างมนุษย์แทนจินตนาการกำเนิดชีวิต เพราะเรื่องใช้ดิน มือ และพลังสร้างสรรค์อธิบายว่ามนุษย์มาจากไหน",
+      "id": "Nuwa menciptakan manusia mewakili imajinasi asal kehidupan karena kisahnya memakai tanah liat, tangan, dan daya cipta untuk menjelaskan asal manusia."
+    },
+    "entities": [
+      {
+        "type": "figure",
+        "name_zh": "女娲",
+        "name_en": "Nuwa"
+      },
+      {
+        "type": "concept",
+        "name_zh": "造人",
+        "name_en": "creating humans"
+      },
+      {
+        "type": "material",
+        "name_zh": "泥土",
+        "name_en": "clay"
+      },
+      {
+        "type": "concept",
+        "name_zh": "生命起源",
+        "name_en": "origin of life"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "nǚ wā zào rén dài biǎo shēng mìng qǐ yuán xiǎng xiàng shì yīn wèi gù shì yòng ní tǔ shuāng shǒu hé zào wù shén lì jiě shì rén lèi cóng nǎ lǐ lái",
+      "content_zh": "女娲造人代表生命起源想象，是因为故事用泥土、双手和造物神力解释人类从哪里来。",
+      "content_en": "Nuwa creating humans represents life-origin imagination because the story uses clay, hands, and creative power to explain where humans came from.",
+      "content_vi": "Nữ Oa tạo người tượng trưng nguồn gốc sự sống vì câu chuyện dùng đất, đôi tay và sức sáng tạo để giải thích con người từ đâu đến.",
+      "content_th": "นวี่วาสร้างมนุษย์แทนจินตนาการกำเนิดชีวิต เพราะเรื่องใช้ดิน มือ และพลังสร้างสรรค์อธิบายว่ามนุษย์มาจากไหน",
+      "content_id": "Nuwa menciptakan manusia mewakili imajinasi asal kehidupan karena kisahnya memakai tanah liat, tangan, dan daya cipta untuk menjelaskan asal manusia."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "ní tǔ zào rén yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "泥土造人也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "making humans from clay also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ ní tǔ zào rén bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，泥土造人不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, making humans from clay is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "nǚ shén xíng xiàng shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "女神形象是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "goddess image is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "nǚ shén xíng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "女神形象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "goddess image also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ nǚ shén xíng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，女神形象不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, goddess image is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "shēng mìng lái yuán shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "生命来源是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "origin of life is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "shēng mìng lái yuán yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "生命来源也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "origin of life also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ shēng mìng lái yuán bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，生命来源不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, origin of life is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "shuāng shǒu chuàng zào shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "双手创造是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "creation by hands is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "shuāng shǒu chuàng zào yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "双手创造也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "creation by hands also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ shuāng shǒu chuàng zào bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，双手创造不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, creation by hands is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "rén lèi chū xiàn shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "人类出现是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "appearance of humans is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "rén lèi chū xiàn yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "人类出现也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "appearance of humans also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ rén lèi chū xiàn bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，人类出现不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, appearance of humans is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "gū dú shì jiè shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "孤独世界是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "lonely world is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "gū dú shì jiè yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "孤独世界也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "lonely world also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ gū dú shì jiè bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，孤独世界不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, lonely world is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "fán yǎn xiǎng xiàng shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "繁衍想象是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "imagination of reproduction is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "fán yǎn xiǎng xiàng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "繁衍想象也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "imagination of reproduction also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ fán yǎn xiǎng xiàng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，繁衍想象不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, imagination of reproduction is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "mǔ xìng xiàng zhēng shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "母性象征是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "maternal symbol is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "mǔ xìng xiàng zhēng yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "母性象征也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "maternal symbol also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ mǔ xìng xiàng zhēng bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，母性象征不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, maternal symbol is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "mín jiān jiǎng shù shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "民间讲述是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "folk telling is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "mín jiān jiǎng shù yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "民间讲述也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "folk telling also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ mín jiān jiǎng shù bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，民间讲述不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, folk telling is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "yì shù biǎo xiàn shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "艺术表现是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "artistic representation is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "yì shù biǎo xiàn yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "艺术表现也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "artistic representation also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ yì shù biǎo xiàn bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，艺术表现不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, artistic representation is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "wén huà qīn jìn shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "文化亲近是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "cultural closeness is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "wén huà qīn jìn yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "文化亲近也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "cultural closeness also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ wén huà qīn jìn bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，文化亲近不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, cultural closeness is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "qǐ yuán wèn tí shì lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán de zhòng yào shén huà huà miàn",
+      "content_zh": "起源问题是理解女娲造人与生命起源的重要神话画面。",
+      "content_en": "origin question is an important mythic image for understanding Nuwa creating humans and life origins.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Nữ Oa tạo người và nguồn gốc sự sống.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิต",
+      "content_id": "Bagian ini penting untuk memahami Nuwa menciptakan manusia dan asal kehidupan."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ nǚ wā zào rén yǔ shēng mìng qǐ yuán fàng huí tiān dì qǐ yuán zì rán biàn huà hé rén lèi shēng huó xiǎng xiàng zhī zhōng",
+      "content_zh": "它把女娲造人与生命起源放回天地起源、自然变化和人类生活想象之中。",
+      "content_en": "It places Nuwa creating humans and life origins back into origins, natural change, and imagination about human life.",
+      "content_vi": "Nó đặt Nữ Oa tạo người và nguồn gốc sự sống trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพานวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan Nuwa menciptakan manusia dan asal kehidupan kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "shén huà bìng bù děng tóng yú shì shí jì lù ér shì yòng gù shì biǎo dá gǔ rén miàn duì shì jiè shí de lǐ jiě fāng shì",
+      "content_zh": "神话并不等同于事实记录，而是用故事表达古人面对世界时的理解方式。",
+      "content_en": "Myth is not the same as factual record; it uses stories to express how ancient people understood the world.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù shén lì zāi hài hé xiū fù xíng dòng cháng bèi fàng zài tóng yí duàn xù shì lǐ xíng chéng qiáng liè huà miàn",
+      "content_zh": "人物、神力、灾害和修复行动常被放在同一段叙事里，形成强烈画面。",
+      "content_en": "Figures, divine power, disasters, and repair actions often appear together and create vivid images.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù míng zì rén men róng yì hū lüè gù shì bèi hòu de zì rán guān chá hé shēng huó yuàn wàng",
+      "content_zh": "如果只记住名字，人们容易忽略故事背后的自然观察和生活愿望。",
+      "content_en": "If people only remember names, they may miss the natural observation and life wishes behind the stories.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "qǐ yuán wèn tí yě shuō míng shén huà cháng yòng kuā zhāng xíng xiàng huí dá qǐ yuán zhì xù hé shēng cún wèn tí",
+      "content_zh": "起源问题也说明，神话常用夸张形象回答起源、秩序和生存问题。",
+      "content_en": "origin question also shows how myths use exaggerated images to answer questions of origin, order, and survival.",
+      "content_vi": "Điều đó cho thấy Nữ Oa tạo người và nguồn gốc sự sống được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่านวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa Nuwa menciptakan manusia dan asal kehidupan dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē gù shì tōng guò kǒu tóu jiǎng shù tú xiàng jié rì hé ér tóng dú wù bú duàn liú chuán",
+      "content_zh": "这些故事通过口头讲述、图像、节日和儿童读物不断流传。",
+      "content_en": "These stories continue through oral telling, images, festivals, and children’s books.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě shén huà shí kě yǐ tóng shí kàn dào xiǎng xiàng lì xiàng zhēng yì yì hé wén huà jì yì",
+      "content_zh": "当代理解神话时，可以同时看到想象力、象征意义和文化记忆。",
+      "content_en": "Modern understanding of myth can see imagination, symbolism, and cultural memory at the same time.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ jué sè qíng jié hé jiě shì gōng néng lián qǐ lái shén huà jiù bù zhǐ shì qí yì gù shì",
+      "content_zh": "把角色、情节和解释功能连起来，神话就不只是奇异故事。",
+      "content_en": "When roles, plots, and explanatory functions are connected, myths are more than strange tales.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ qǐ yuán wèn tí bù jǐn shì chuán shuō nèi róng yě bāng zhù rén men lǐ jiě nǚ wā zào rén yǔ shēng mìng qǐ yuán",
+      "content_zh": "因此，起源问题不仅是传说内容，也帮助人们理解女娲造人与生命起源。",
+      "content_en": "Therefore, origin question is not only legend content but also a way to understand Nuwa creating humans and life origins.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Nữ Oa tạo người và nguồn gốc sự sống rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจนวี่วาสร้างมนุษย์กับต้นกำเนิดชีวิตได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Nuwa menciptakan manusia dan asal kehidupan dengan lebih jelas."
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "11",
+  "category_dir": "11-fun-hanzi",
+  "article_slug": "01-hanzi-graphic-system",
+  "article": {
+    "local_id": "hanzi-001",
+    "category_code": "11",
+    "title_pinyin": "hàn zì wèi shén me kàn qǐ lái xiàng yí tào tú xíng xì tǒng",
+    "title_i18n": {
+      "zh": "汉字为什么看起来像一套图形系统？",
+      "en": "Why Do Chinese Characters Look Like a Graphic System?",
+      "vi": "Vì sao chữ Hán giống một hệ thống hình họa?",
+      "th": "ทำไมอักษรจีนดูเหมือนระบบภาพ?",
+      "id": "Mengapa aksara Han terlihat seperti sistem grafis?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "汉字看起来像一套图形系统，是因为它用笔画、部件、结构和空间布局共同承载声音与意义。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "笔画单位也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，笔画单位不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "部件组合是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "部件组合也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，部件组合不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "方块结构是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "方块结构也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，方块结构不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "空间布局是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "空间布局也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，空间布局不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "形音义关系是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "形音义关系也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，形音义关系不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "偏旁提示是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "偏旁提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，偏旁提示不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "书写顺序是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "书写顺序也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，书写顺序不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "视觉记忆是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "视觉记忆也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，视觉记忆不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "字形演变是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "字形演变也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，字形演变不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "印刷字体是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "印刷字体也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，印刷字体不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "手写差异是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "手写差异也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，手写差异不仅是字形知识，也帮助人们理解汉字图形系统。",
+    "学习方法是理解汉字图形系统的重要字形入口。",
+    "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "学习方法也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，学习方法不仅是字形知识，也帮助人们理解汉字图形系统。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "汉字图形系统",
+        "趣味汉字",
+        "汉字为什么看起来像一套图形系统"
+      ],
+      "en": [
+        "Chinese characters as a graphic system",
+        "Fun with Chinese characters",
+        "Chinese characters as a graphic system guide"
+      ],
+      "vi": [
+        "chữ Hán như hệ thống hình họa"
+      ],
+      "th": [
+        "อักษรจีนในฐานะระบบภาพ"
+      ],
+      "id": [
+        "aksara Han sebagai sistem grafis"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "汉字为什么看起来像一套图形系统？",
+        "汉字图形系统应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Do Chinese Characters Look Like a Graphic System?",
+        "How should learners understand Chinese characters as a graphic system?"
+      ],
+      "vi": [
+        "Vì sao chữ Hán giống một hệ thống hình họa?"
+      ],
+      "th": [
+        "ทำไมอักษรจีนดูเหมือนระบบภาพ?"
+      ],
+      "id": [
+        "Mengapa aksara Han terlihat seperti sistem grafis?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/11-fun-hanzi/hanzi-graphic-system"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "汉字看起来像一套图形系统，是因为它用笔画、部件、结构和空间布局共同承载声音与意义。",
+      "en": "Chinese characters look like a graphic system because strokes, components, structure, and spatial layout carry sound and meaning together.",
+      "vi": "Chữ Hán giống hệ thống hình họa vì nét, bộ phận, cấu trúc và bố cục không gian cùng mang âm và nghĩa.",
+      "th": "อักษรจีนดูเหมือนระบบภาพเพราะเส้น ส่วนประกอบ โครงสร้าง และพื้นที่ร่วมกันบรรทุกเสียงกับความหมาย",
+      "id": "Aksara Han tampak seperti sistem grafis karena goresan, komponen, struktur, dan tata ruang membawa bunyi serta makna."
+    },
+    "entities": [
+      {
+        "type": "script",
+        "name_zh": "汉字",
+        "name_en": "Chinese characters"
+      },
+      {
+        "type": "concept",
+        "name_zh": "笔画",
+        "name_en": "stroke"
+      },
+      {
+        "type": "concept",
+        "name_zh": "部件",
+        "name_en": "component"
+      },
+      {
+        "type": "concept",
+        "name_zh": "偏旁",
+        "name_en": "radical"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "hàn zì kàn qǐ lái xiàng yí tào tú xíng xì tǒng shì yīn wèi tā yòng bǐ huà bù jiàn jié gòu hé kōng jiān bù jú gòng tóng chéng zài shēng yīn yǔ yì yì",
+      "content_zh": "汉字看起来像一套图形系统，是因为它用笔画、部件、结构和空间布局共同承载声音与意义。",
+      "content_en": "Chinese characters look like a graphic system because strokes, components, structure, and spatial layout carry sound and meaning together.",
+      "content_vi": "Chữ Hán giống hệ thống hình họa vì nét, bộ phận, cấu trúc và bố cục không gian cùng mang âm và nghĩa.",
+      "content_th": "อักษรจีนดูเหมือนระบบภาพเพราะเส้น ส่วนประกอบ โครงสร้าง และพื้นที่ร่วมกันบรรทุกเสียงกับความหมาย",
+      "content_id": "Aksara Han tampak seperti sistem grafis karena goresan, komponen, struktur, dan tata ruang membawa bunyi serta makna."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "bǐ huà dān wèi yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "笔画单位也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "stroke units also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ bǐ huà dān wèi bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，笔画单位不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, stroke units is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "bù jiàn zǔ hé shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "部件组合是理解汉字图形系统的重要字形入口。",
+      "content_en": "component combination is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "bù jiàn zǔ hé yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "部件组合也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "component combination also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ bù jiàn zǔ hé bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，部件组合不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, component combination is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "fāng kuài jié gòu shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "方块结构是理解汉字图形系统的重要字形入口。",
+      "content_en": "square structure is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "fāng kuài jié gòu yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "方块结构也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "square structure also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ fāng kuài jié gòu bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，方块结构不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, square structure is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "kōng jiān bù jú shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "空间布局是理解汉字图形系统的重要字形入口。",
+      "content_en": "spatial layout is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "kōng jiān bù jú yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "空间布局也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "spatial layout also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ kōng jiān bù jú bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，空间布局不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, spatial layout is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "xíng yīn yì guān xì shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "形音义关系是理解汉字图形系统的重要字形入口。",
+      "content_en": "form-sound-meaning relation is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "xíng yīn yì guān xì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "形音义关系也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "form-sound-meaning relation also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ xíng yīn yì guān xì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，形音义关系不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, form-sound-meaning relation is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "piān páng tí shì shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "偏旁提示是理解汉字图形系统的重要字形入口。",
+      "content_en": "radical hints is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "piān páng tí shì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "偏旁提示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "radical hints also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ piān páng tí shì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，偏旁提示不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, radical hints is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "shū xiě shùn xù shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "书写顺序是理解汉字图形系统的重要字形入口。",
+      "content_en": "writing order is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "shū xiě shùn xù yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "书写顺序也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "writing order also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ shū xiě shùn xù bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，书写顺序不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, writing order is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "shì jué jì yì shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "视觉记忆是理解汉字图形系统的重要字形入口。",
+      "content_en": "visual memory is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "shì jué jì yì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "视觉记忆也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "visual memory also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ shì jué jì yì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，视觉记忆不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, visual memory is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "zì xíng yǎn biàn shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "字形演变是理解汉字图形系统的重要字形入口。",
+      "content_en": "form evolution is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "zì xíng yǎn biàn yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "字形演变也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "form evolution also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ zì xíng yǎn biàn bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，字形演变不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, form evolution is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "yìn shuā zì tǐ shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "印刷字体是理解汉字图形系统的重要字形入口。",
+      "content_en": "printed fonts is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "yìn shuā zì tǐ yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "印刷字体也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "printed fonts also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ yìn shuā zì tǐ bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，印刷字体不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, printed fonts is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "shǒu xiě chā yì shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "手写差异是理解汉字图形系统的重要字形入口。",
+      "content_en": "handwriting differences is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "shǒu xiě chā yì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "手写差异也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "handwriting differences also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ shǒu xiě chā yì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，手写差异不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, handwriting differences is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xué xí fāng fǎ shì lǐ jiě hàn zì tú xíng xì tǒng de zhòng yào zì xíng rù kǒu",
+      "content_zh": "学习方法是理解汉字图形系统的重要字形入口。",
+      "content_en": "learning methods is an important form entry for understanding Chinese characters as a graphic system.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu chữ Hán như hệ thống hình họa.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรจีนในฐานะระบบภาพ",
+      "content_id": "Bagian ini penting untuk memahami aksara Han sebagai sistem grafis."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ hàn zì tú xíng xì tǒng fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把汉字图形系统放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places Chinese characters as a graphic system back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt chữ Hán như hệ thống hình họa trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรจีนในฐานะระบบภาพกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara Han sebagai sistem grafis kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xué xí fāng fǎ yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "学习方法也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "learning methods also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy chữ Hán như hệ thống hình họa được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรจีนในฐานะระบบภาพเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara Han sebagai sistem grafis dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xué xí fāng fǎ bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě hàn zì tú xíng xì tǒng",
+      "content_zh": "因此，学习方法不仅是字形知识，也帮助人们理解汉字图形系统。",
+      "content_en": "Therefore, learning methods is not only form knowledge but also a way to understand Chinese characters as a graphic system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu chữ Hán như hệ thống hình họa rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรจีนในฐานะระบบภาพได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara Han sebagai sistem grafis dengan lebih jelas."
+    }
+  ]
+}

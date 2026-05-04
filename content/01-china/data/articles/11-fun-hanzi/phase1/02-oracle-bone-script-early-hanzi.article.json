@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "11",
+  "category_dir": "11-fun-hanzi",
+  "article_slug": "02-oracle-bone-script-early-hanzi",
+  "article": {
+    "local_id": "hanzi-002",
+    "category_code": "11",
+    "title_pinyin": "jiǎ gǔ wén wèi shén me néng kàn dào zǎo qī hàn zì",
+    "title_i18n": {
+      "zh": "甲骨文为什么能看到早期汉字？",
+      "en": "Why Can Oracle Bone Script Show Early Chinese Characters?",
+      "vi": "Vì sao giáp cốt văn cho thấy chữ Hán sớm?",
+      "th": "ทำไมอักษรกระดองกระดูกจึงเผยอักษรจีนยุคต้น?",
+      "id": "Mengapa aksara tulang ramalan menunjukkan aksara Han awal?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "甲骨文能看到早期汉字，是因为它把商代刻写文字保存在龟甲兽骨上，留下了可辨认的字形来源。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "商代材料也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，商代材料不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "龟甲兽骨是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "龟甲兽骨也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，龟甲兽骨不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "刻写痕迹是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "刻写痕迹也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，刻写痕迹不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "占卜记录是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "占卜记录也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，占卜记录不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "象形特征是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "象形特征也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，象形特征不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "字形来源是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "字形来源也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，字形来源不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "考古发现是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "考古发现也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，考古发现不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "释读工作是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "释读工作也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，释读工作不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "文字连续是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "文字连续也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，文字连续不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "博物馆展示是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "博物馆展示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，博物馆展示不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "学习价值是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "学习价值也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，学习价值不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+    "历史证据是理解甲骨文和早期汉字的重要字形入口。",
+    "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+    "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+    "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+    "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+    "历史证据也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+    "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+    "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+    "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+    "因此，历史证据不仅是字形知识，也帮助人们理解甲骨文和早期汉字。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "甲骨文和早期汉字",
+        "趣味汉字",
+        "甲骨文为什么能看到早期汉字"
+      ],
+      "en": [
+        "oracle bone script and early Chinese characters",
+        "Fun with Chinese characters",
+        "oracle bone script and early Chinese characters guide"
+      ],
+      "vi": [
+        "giáp cốt văn và chữ Hán sớm"
+      ],
+      "th": [
+        "อักษรกระดองกระดูกกับอักษรจีนยุคต้น"
+      ],
+      "id": [
+        "aksara tulang ramalan dan aksara Han awal"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "甲骨文为什么能看到早期汉字？",
+        "甲骨文和早期汉字应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Can Oracle Bone Script Show Early Chinese Characters?",
+        "How should learners understand oracle bone script and early Chinese characters?"
+      ],
+      "vi": [
+        "Vì sao giáp cốt văn cho thấy chữ Hán sớm?"
+      ],
+      "th": [
+        "ทำไมอักษรกระดองกระดูกจึงเผยอักษรจีนยุคต้น?"
+      ],
+      "id": [
+        "Mengapa aksara tulang ramalan menunjukkan aksara Han awal?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/11-fun-hanzi/oracle-bone-script-early-hanzi"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "甲骨文能看到早期汉字，是因为它把商代刻写文字保存在龟甲兽骨上，留下了可辨认的字形来源。",
+      "en": "Oracle bone script shows early Chinese characters because Shang writing was carved on shells and bones, preserving recognizable sources of character forms.",
+      "vi": "Giáp cốt văn cho thấy chữ Hán sớm vì chữ thời Thương khắc trên mai rùa xương thú, lưu nguồn hình chữ có thể nhận ra.",
+      "th": "อักษรกระดองกระดูกเผยอักษรจีนยุคต้นเพราะตัวเขียนสมัยซางถูกแกะสลักบนกระดองและกระดูก จึงเก็บที่มารูปอักษรไว้",
+      "id": "Aksara tulang ramalan menunjukkan aksara Han awal karena tulisan Shang diukir pada tempurung dan tulang, menyimpan asal bentuk yang dapat dikenali."
+    },
+    "entities": [
+      {
+        "type": "script",
+        "name_zh": "甲骨文",
+        "name_en": "oracle bone script"
+      },
+      {
+        "type": "period",
+        "name_zh": "商代",
+        "name_en": "Shang period"
+      },
+      {
+        "type": "material",
+        "name_zh": "龟甲",
+        "name_en": "turtle shell"
+      },
+      {
+        "type": "concept",
+        "name_zh": "占卜",
+        "name_en": "divination"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、典型特征、生活场景、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "jiǎ gǔ wén néng kàn dào zǎo qī hàn zì shì yīn wèi tā bǎ shāng dài kè xiě wén zì bǎo cún zài guī jiǎ shòu gǔ shàng liú xià le kě biàn rèn de zì xíng lái yuán",
+      "content_zh": "甲骨文能看到早期汉字，是因为它把商代刻写文字保存在龟甲兽骨上，留下了可辨认的字形来源。",
+      "content_en": "Oracle bone script shows early Chinese characters because Shang writing was carved on shells and bones, preserving recognizable sources of character forms.",
+      "content_vi": "Giáp cốt văn cho thấy chữ Hán sớm vì chữ thời Thương khắc trên mai rùa xương thú, lưu nguồn hình chữ có thể nhận ra.",
+      "content_th": "อักษรกระดองกระดูกเผยอักษรจีนยุคต้นเพราะตัวเขียนสมัยซางถูกแกะสลักบนกระดองและกระดูก จึงเก็บที่มารูปอักษรไว้",
+      "content_id": "Aksara tulang ramalan menunjukkan aksara Han awal karena tulisan Shang diukir pada tempurung dan tulang, menyimpan asal bentuk yang dapat dikenali."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shāng dài cái liào yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "商代材料也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "Shang materials also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shāng dài cái liào bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，商代材料不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, Shang materials is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "guī jiǎ shòu gǔ shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "龟甲兽骨是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "shells and bones is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "guī jiǎ shòu gǔ yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "龟甲兽骨也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "shells and bones also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ guī jiǎ shòu gǔ bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，龟甲兽骨不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, shells and bones is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "kè xiě hén jì shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "刻写痕迹是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "carved traces is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "kè xiě hén jì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "刻写痕迹也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "carved traces also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ kè xiě hén jì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，刻写痕迹不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, carved traces is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "zhān bǔ jì lù shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "占卜记录是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "divination records is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "zhān bǔ jì lù yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "占卜记录也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "divination records also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ zhān bǔ jì lù bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，占卜记录不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, divination records is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "xiàng xíng tè zhēng shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "象形特征是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "pictographic features is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "xiàng xíng tè zhēng yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "象形特征也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "pictographic features also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ xiàng xíng tè zhēng bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，象形特征不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, pictographic features is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "zì xíng lái yuán shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "字形来源是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "form sources is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "zì xíng lái yuán yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "字形来源也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "form sources also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ zì xíng lái yuán bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，字形来源不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, form sources is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "kǎo gǔ fā xiàn shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "考古发现是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "archaeological finds is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "kǎo gǔ fā xiàn yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "考古发现也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "archaeological finds also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ kǎo gǔ fā xiàn bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，考古发现不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, archaeological finds is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "shì dú gōng zuò shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "释读工作是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "deciphering work is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "shì dú gōng zuò yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "释读工作也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "deciphering work also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ shì dú gōng zuò bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，释读工作不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, deciphering work is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "wén zì lián xù shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "文字连续是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "script continuity is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "wén zì lián xù yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "文字连续也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "script continuity also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ wén zì lián xù bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，文字连续不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, script continuity is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "bó wù guǎn zhǎn shì shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "博物馆展示是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "museum display is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "bó wù guǎn zhǎn shì yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "博物馆展示也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "museum display also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ bó wù guǎn zhǎn shì bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，博物馆展示不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, museum display is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "xué xí jià zhí shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "学习价值是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "learning value is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "xué xí jià zhí yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "学习价值也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "learning value also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ xué xí jià zhí bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，学习价值不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, learning value is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "lì shǐ zhèng jù shì lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì de zhòng yào zì xíng rù kǒu",
+      "content_zh": "历史证据是理解甲骨文和早期汉字的重要字形入口。",
+      "content_en": "historical evidence is an important form entry for understanding oracle bone script and early Chinese characters.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu giáp cốt văn và chữ Hán sớm.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้น",
+      "content_id": "Bagian ini penting untuk memahami aksara tulang ramalan dan aksara Han awal."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ jiǎ gǔ wén hé zǎo qī hàn zì fàng huí bǐ huà bù jiàn jié gòu hé yì yì guān xì zhī zhōng",
+      "content_zh": "它把甲骨文和早期汉字放回笔画、部件、结构和意义关系之中。",
+      "content_en": "It places oracle bone script and early Chinese characters back into strokes, components, structure, and meaning relations.",
+      "content_vi": "Nó đặt giáp cốt văn và chữ Hán sớm trở lại trong bối cảnh không gian, ký hiệu và đời sống.",
+      "content_th": "มันพาอักษรกระดองกระดูกกับอักษรจีนยุคต้นกลับไปอยู่ในบริบทของพื้นที่ สัญลักษณ์ และชีวิตจริง",
+      "content_id": "Ia menempatkan aksara tulang ramalan dan aksara Han awal kembali dalam konteks ruang, simbol, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "hàn zì de qù wèi cháng lái zì kě jiàn xíng tǐ hé chōu xiàng yì yì zhī jiān de jù lí",
+      "content_zh": "汉字的趣味常来自可见形体和抽象意义之间的距离。",
+      "content_en": "The fun of Hanzi often comes from the distance between visible form and abstract meaning.",
+      "content_vi": "Hình ảnh, thao tác, công cụ và thói quen cùng tạo nên kinh nghiệm có thể quan sát.",
+      "content_th": "ภาพ การกระทำ เครื่องมือ และความเคยชินร่วมกันสร้างประสบการณ์ที่สังเกตได้",
+      "content_id": "Gambar, tindakan, alat, dan kebiasaan bersama membentuk pengalaman yang dapat diamati."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "xué xí zhě xiān kàn xíng zhuàng zài kàn zǔ chéng fāng shì jiù gèng róng yì lǐ jiě yí gè zì wèi shén me zhè yàng xiě",
+      "content_zh": "学习者先看形状，再看组成方式，就更容易理解一个字为什么这样写。",
+      "content_en": "When learners first look at shape and then at construction, they can better understand why a character is written this way.",
+      "content_vi": "Những thay đổi nhỏ trong đời thường thường cho thấy cách xã hội vận hành.",
+      "content_th": "การเปลี่ยนเล็กๆ ในชีวิตประจำวันมักเผยให้เห็นวิธีที่สังคมทำงาน",
+      "content_id": "Perubahan kecil dalam keseharian sering memperlihatkan cara masyarakat bekerja."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi dú yīn rén men róng yì cuò guò zì xíng lǐ bǎo cún de guān chá fāng shì hé fēn lèi xí guàn",
+      "content_zh": "如果只背读音，人们容易错过字形里保存的观察方式和分类习惯。",
+      "content_en": "If people only memorize pronunciation, they may miss the observation and classification habits preserved in forms.",
+      "content_vi": "Nếu chỉ nhớ tên gọi, người học dễ bỏ qua bối cảnh và cách dùng cụ thể.",
+      "content_th": "หากจำเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mengingat nama, pelajar mudah melewatkan konteks dan cara pakai konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "lì shǐ zhèng jù yě shuō míng hàn zì xué xí kě yǐ cóng tú xíng gǎn shǒu shì gǎn hé xì tǒng gǎn tóng shí zhǎn kāi",
+      "content_zh": "历史证据也说明，汉字学习可以从图形感、手势感和系统感同时展开。",
+      "content_en": "historical evidence also shows that Hanzi learning can begin with graphic sense, hand movement, and system awareness together.",
+      "content_vi": "Điều đó cho thấy giáp cốt văn và chữ Hán sớm được hình thành từ nhiều lớp kinh nghiệm lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอักษรกระดองกระดูกกับอักษรจีนยุคต้นเกิดจากประสบการณ์ยาวนานหลายชั้น",
+      "content_id": "Hal ini menunjukkan bahwa aksara tulang ramalan dan aksara Han awal dibentuk oleh banyak lapisan pengalaman panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "gǔ wén zì xiàn dài zì xíng hé rì cháng cí yǔ fàng zài yì qǐ huì ràng yí gè zì de biàn huà gèng qīng chǔ",
+      "content_zh": "古文字、现代字形和日常词语放在一起，会让一个字的变化更清楚。",
+      "content_en": "Ancient forms, modern forms, and daily words together make character change clearer.",
+      "content_vi": "Nội dung này tiếp tục truyền qua lớp học, truyền thông, gia đình và quan sát hằng ngày.",
+      "content_th": "เนื้อหานี้ยังส่งต่อผ่านห้องเรียน สื่อ ครอบครัว และการสังเกตประจำวัน",
+      "content_id": "Isi ini terus diwariskan melalui kelas, media, keluarga, dan pengamatan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "zhè zhǒng guān chá bú yāo qiú měi gè zì dōu xiàng tú huà ér shì bāng zhù chū xué zhě jiàn lì bù jiàn yì shí",
+      "content_zh": "这种观察不要求每个字都像图画，而是帮助初学者建立部件意识。",
+      "content_en": "This observation does not require every character to be a picture; it helps beginners build component awareness.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ xíng yīn yì lián qǐ lái hàn zì jiù huì cóng jì yì fù dān biàn chéng kě tàn suǒ de jié gòu",
+      "content_zh": "把形、音、义连起来，汉字就会从记忆负担变成可探索的结构。",
+      "content_en": "When form, sound, and meaning are connected, Hanzi becomes an explorable structure rather than only a memory burden.",
+      "content_vi": "Khi đặt hình ảnh, hành động và ý nghĩa cạnh nhau, truyền thống trở nên gần hơn.",
+      "content_th": "เมื่อนำภาพ การกระทำ และความหมายมาไว้ด้วยกัน ประเพณีจะใกล้ตัวขึ้น",
+      "content_id": "Ketika gambar, tindakan, dan makna ditempatkan bersama, tradisi menjadi lebih dekat."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ lì shǐ zhèng jù bù jǐn shì zì xíng zhī shi yě bāng zhù rén men lǐ jiě jiǎ gǔ wén hé zǎo qī hàn zì",
+      "content_zh": "因此，历史证据不仅是字形知识，也帮助人们理解甲骨文和早期汉字。",
+      "content_en": "Therefore, historical evidence is not only form knowledge but also a way to understand oracle bone script and early Chinese characters.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu giáp cốt văn và chữ Hán sớm rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอักษรกระดองกระดูกกับอักษรจีนยุคต้นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami aksara tulang ramalan dan aksara Han awal dengan lebih jelas."
+    }
+  ]
+}

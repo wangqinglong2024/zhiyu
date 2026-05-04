@@ -453,7 +453,7 @@ insert into zhiyu.china_categories (code, sort_order, name_i18n, description_i18
  '{"zh":"汉字演变、数字密码、网络用语","en":"Character evolution, number codes, internet slang","vi":"Diễn biến chữ Hán, mật mã số, tiếng lóng mạng","th":"วิวัฒนาการอักษร รหัสตัวเลข ศัพท์เน็ต","id":"Evolusi aksara, kode angka, slang internet"}'::jsonb),
 ('12', 12,
  '{"zh":"神话传说","en":"Myths & Legends","vi":"Thần thoại & Truyền thuyết","th":"เทพปกรณัมและตำนาน","id":"Mitos & Legenda"}'::jsonb,
- '{"zh":"创世神话、神仙体系、民间传说、四大民间故事","en":"Creation myths, pantheon, folk legends, the Four Folk Tales","vi":"Thần thoại sáng thế, hệ thống thần tiên, truyền thuyết dân gian, tứ đại truyền thuyết","th":"ปกรณัมการสร้างโลก เทพเจ้า ตำนานพื้นบ้าน สี่ตำนานใหญ่","id":"Mitos penciptaan, panteon, legenda rakyat, Empat Kisah Rakyat"}'::jsonb)
+ '{"zh":"创世神话、神仙体系、民间传说","en":"Creation myths, pantheon, folk legends","vi":"Thần thoại sáng thế, hệ thống thần tiên, truyền thuyết dân gian","th":"ปกรณัมการสร้างโลก เทพเจ้า ตำนานพื้นบ้าน","id":"Mitos penciptaan, panteon, legenda rakyat"}'::jsonb)
 on conflict (code) do update set
   sort_order       = excluded.sort_order,
   name_i18n        = excluded.name_i18n,
