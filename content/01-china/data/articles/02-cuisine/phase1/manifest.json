@@ -1,8 +1,8 @@
 {
   "schema": "china.article_manifest.v2",
   "domain": "china",
-  "category_code": "01",
-  "category_dir": "01-history",
+  "category_code": "02",
+  "category_dir": "02-cuisine",
   "phase": "phase1",
   "generated_at": "2026-05-04T00:00:00+08:00",
   "update_mode": "append_only_infinite",
@@ -19,11 +19,11 @@
   ],
   "files": [
     {
-      "path": "01-chinese-history-evolution.article.json",
+      "path": "01-eight-cuisines-food-map.article.json",
       "kind": "article",
       "rows": 1,
       "sentences": 24,
-      "sha256": "da3fcd5e088da6a83c52a55c75f96d1240367ee9f322f4ca1c70bab4a4bdf9e9"
+      "sha256": "9f73b185d0510f923144334fdbe9c812d4dbb980cb591fc6eea6cc97fadcb129"
     }
   ],
   "generator": {

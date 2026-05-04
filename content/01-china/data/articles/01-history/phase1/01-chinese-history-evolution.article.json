@@ -1,0 +1,318 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1-seed",
+  "category_code": "01",
+  "category_dir": "01-history",
+  "article_slug": "01-chinese-history-evolution",
+  "article": {
+    "local_id": "hist-001",
+    "category_code": "01",
+    "title_pinyin": "zhōng guó lì shǐ shì zěn yàng yí bù bù yǎn huà de",
+    "title_i18n": {
+      "zh": "中国历史是怎样一步步演化的？",
+      "en": "How Did Chinese History Evolve Step by Step?",
+      "vi": "Lịch sử Trung Quốc đã từng bước phát triển như thế nào?",
+      "th": "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?",
+      "id": "Bagaimana Sejarah Tiongkok Berkembang Tahap demi Tahap?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 24,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
+    "它不是简单的朝代排列，而是地理、制度、技术和日常生活共同变化的结果。",
+    "最早的材料常从黄河、长江流域的聚落和农耕开始。",
+    "人们在村落中种植粮食、制作陶器，也开始形成更稳定的社会关系。",
+    "到夏商周时期，早期国家、青铜礼器和礼制秩序逐渐进入历史画面。",
+    "商周青铜器上的纹样和铭文，让后人看见权力、祭祀和家族记忆。",
+    "春秋战国时期，旧秩序松动，诸侯竞争、制度改革和思想讨论同时展开。",
+    "孔子、老子、墨子、孟子等思想家，让这个时代留下了丰富的精神遗产。",
+    "秦朝完成统一，把文字、度量衡、道路和郡县制度推向更一致的形态。",
+    "汉朝延续统一框架，也通过丝绸之路把中国和更广阔的世界连接起来。",
+    "魏晋南北朝时期，分合交替，但文化交流、佛教艺术和士人风度不断发展。",
+    "隋朝重新连接南北，大运河和制度建设为唐朝的繁盛准备了条件。",
+    "唐代长安展示出开放的都城气象，诗歌、贸易和多元文化都十分活跃。",
+    "宋代把城市商业、印刷书籍、茶馆酒楼和市民生活推到新的高度。",
+    "元明清时期，草原、海洋、都城和地方社会都进入更复杂的互动。",
+    "明代的航海、瓷器和小说，清代的宫廷工程、商贸和文学，都留下鲜明痕迹。",
+    "进入近代以后，铁路、电报、报刊、学校和新式工厂改变了人们认识世界的方式。",
+    "考古发现又把目光带回更早的时代，甲骨文、简牍和敦煌文书不断补充历史图像。",
+    "从制度看，中国历史经历了封建、郡县、科举、漕运等多种治理方式的变化。",
+    "从生活看，饮食、服饰、节日、书籍和城市空间一直随着时代调整。",
+    "从文化看，诗词、书法、哲学、宗教艺术和民间技艺共同保存历史记忆。",
+    "因此理解中国历史，不能只背年份，也要看山河、道路、器物和普通人的日常。",
+    "这些内容连接起来，才能看见中国历史怎样在延续中变化、在变化中延续。",
+    "中国历史的演化，正是由这些长期积累的制度、文化和生活经验共同构成的。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": ["中国历史演化", "中国历史入门", "中国历史发展脉络"],
+      "en": ["Chinese history evolution", "Chinese history for beginners", "development of Chinese history"],
+      "vi": ["sự phát triển của lịch sử Trung Quốc", "lịch sử Trung Quốc cơ bản"],
+      "th": ["พัฒนาการประวัติศาสตร์จีน", "ประวัติศาสตร์จีนเบื้องต้น"],
+      "id": ["evolusi sejarah Tiongkok", "sejarah Tiongkok untuk pemula"]
+    },
+    "search_intents": ["why", "timeline", "beginner_learning"],
+    "long_tail_questions": {
+      "zh": ["中国历史的发展脉络是什么？", "初学者怎样理解中国历史演化？"],
+      "en": ["How did Chinese history develop over time?", "What is the basic outline of Chinese history for beginners?"],
+      "vi": ["Lịch sử Trung Quốc phát triển theo mạch nào?"],
+      "th": ["ประวัติศาสตร์จีนพัฒนามาอย่างไร?"],
+      "id": ["Bagaimana sejarah Tiongkok berkembang dari waktu ke waktu?"]
+    },
+    "pseo_paths": ["/china/01-history/chinese-history-evolution"]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
+      "en": "Chinese history is a long process that evolved from early settlements, dynastic institutions, and urban life to modern society.",
+      "vi": "Lịch sử Trung Quốc là một quá trình dài, phát triển từ các khu cư trú sơ kỳ, thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
+      "th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานที่พัฒนาจากชุมชนยุคแรก ระบบราชวงศ์ และชีวิตเมืองไปสู่สังคมสมัยใหม่",
+      "id": "Sejarah Tiongkok adalah proses panjang yang berkembang dari permukiman awal, lembaga dinasti, dan kehidupan kota menuju masyarakat modern."
+    },
+    "entities": [
+      { "type": "place", "name_zh": "黄河", "name_en": "Yellow River" },
+      { "type": "place", "name_zh": "长江", "name_en": "Yangtze River" },
+      { "type": "dynasty_group", "name_zh": "夏商周", "name_en": "Xia, Shang, and Zhou" },
+      { "type": "dynasty", "name_zh": "秦朝", "name_en": "Qin Dynasty" },
+      { "type": "dynasty", "name_zh": "汉朝", "name_en": "Han Dynasty" },
+      { "type": "place", "name_zh": "长安", "name_en": "Chang'an" }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答中国历史如何演化的概括性问题。",
+      "第 3 至 18 句按早期聚落、王朝、城市、交流和近代变化推进。",
+      "正文使用历史文化学习语境，不做现实政治类比。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhōng guó lì shǐ shì yí bù cóng zǎo qī jù luò wáng cháo zhì dù chéng shì shēng huó dào xiàn dài shè huì bú duàn yǎn huà de cháng shí duàn guò chéng",
+      "content_zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
+      "content_en": "Chinese history is a long process that evolved from early settlements, dynastic institutions, and urban life to modern society.",
+      "content_vi": "Lịch sử Trung Quốc là một quá trình dài, phát triển từ các khu cư trú sơ kỳ, thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
+      "content_th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานที่พัฒนาจากชุมชนยุคแรก ระบบราชวงศ์ และชีวิตเมืองไปสู่สังคมสมัยใหม่",
+      "content_id": "Sejarah Tiongkok adalah proses panjang yang berkembang dari permukiman awal, lembaga dinasti, dan kehidupan kota menuju masyarakat modern."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bú shì jiǎn dān de cháo dài pái liè ér shì dì lǐ zhì dù jì shù hé rì cháng shēng huó gòng tóng biàn huà de jié guǒ",
+      "content_zh": "它不是简单的朝代排列，而是地理、制度、技术和日常生活共同变化的结果。",
+      "content_en": "It is not a simple sequence of dynasties, but the result of geography, institutions, technology, and daily life changing together.",
+      "content_vi": "Đó không phải là sự sắp xếp triều đại đơn giản, mà là kết quả của địa lý, thể chế, kỹ thuật và đời sống hằng ngày cùng thay đổi.",
+      "content_th": "มันไม่ใช่เพียงการเรียงราชวงศ์ แต่เป็นผลจากภูมิศาสตร์ ระบบ เทคโนโลยี และชีวิตประจำวันที่เปลี่ยนไปพร้อมกัน",
+      "content_id": "Ini bukan urutan dinasti yang sederhana, melainkan hasil perubahan bersama antara geografi, lembaga, teknologi, dan kehidupan sehari-hari."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zuì zǎo de cái liào cháng cóng huáng hé cháng jiāng liú yù de jù luò hé nóng gēng kāi shǐ",
+      "content_zh": "最早的材料常从黄河、长江流域的聚落和农耕开始。",
+      "content_en": "The earliest materials often begin with settlements and farming in the Yellow River and Yangtze River basins.",
+      "content_vi": "Những tư liệu sớm nhất thường bắt đầu từ các khu cư trú và nông nghiệp ở lưu vực Hoàng Hà và Trường Giang.",
+      "content_th": "หลักฐานยุคแรกมักเริ่มจากชุมชนและการเกษตรในลุ่มแม่น้ำหวงเหอและแยงซี",
+      "content_id": "Bahan paling awal sering bermula dari permukiman dan pertanian di lembah Sungai Kuning dan Sungai Yangtze."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén men zài cūn luò zhōng zhǒng zhí liáng shí zhì zuò táo qì yě kāi shǐ xíng chéng gèng wěn dìng de shè huì guān xì",
+      "content_zh": "人们在村落中种植粮食、制作陶器，也开始形成更稳定的社会关系。",
+      "content_en": "People planted grain, made pottery, and began forming more stable social relationships in villages.",
+      "content_vi": "Con người trồng lương thực, làm đồ gốm trong làng xóm và bắt đầu hình thành quan hệ xã hội ổn định hơn.",
+      "content_th": "ผู้คนปลูกธัญพืช ทำเครื่องปั้นดินเผา และเริ่มสร้างความสัมพันธ์ทางสังคมที่มั่นคงขึ้นในหมู่บ้าน",
+      "content_id": "Orang menanam biji-bijian, membuat tembikar, dan mulai membentuk hubungan sosial yang lebih stabil di desa."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "dào xià shāng zhōu shí qī zǎo qī guó jiā qīng tóng lǐ qì hé lǐ zhì zhì xù zhú jiàn jìn rù lì shǐ huà miàn",
+      "content_zh": "到夏商周时期，早期国家、青铜礼器和礼制秩序逐渐进入历史画面。",
+      "content_en": "By the Xia, Shang, and Zhou periods, early states, bronze ritual vessels, and ritual order gradually entered the historical picture.",
+      "content_vi": "Đến thời Hạ, Thương, Chu, nhà nước sơ kỳ, đồ đồng lễ nghi và trật tự lễ chế dần bước vào bức tranh lịch sử.",
+      "content_th": "เมื่อถึงสมัยเซี่ย ซาง และโจว รัฐยุคแรก เครื่องสัมฤทธิ์ในพิธี และระเบียบพิธีกรรมค่อยๆ เข้ามาในภาพประวัติศาสตร์",
+      "content_id": "Pada masa Xia, Shang, dan Zhou, negara awal, bejana perunggu ritual, dan tata upacara perlahan masuk ke gambaran sejarah."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shāng zhōu qīng tóng qì shàng de wén yàng hé míng wén ràng hòu rén kàn jiàn quán lì jì sì hé jiā zú jì yì",
+      "content_zh": "商周青铜器上的纹样和铭文，让后人看见权力、祭祀和家族记忆。",
+      "content_en": "The patterns and inscriptions on Shang and Zhou bronzes let later generations see power, ritual, and family memory.",
+      "content_vi": "Hoa văn và minh văn trên đồ đồng Thương Chu giúp hậu thế nhìn thấy quyền lực, nghi lễ và ký ức gia tộc.",
+      "content_th": "ลวดลายและจารึกบนเครื่องสัมฤทธิ์สมัยซางโจวทำให้คนรุ่นหลังเห็นอำนาจ พิธีกรรม และความทรงจำของตระกูล",
+      "content_id": "Pola dan prasasti pada perunggu Shang dan Zhou membuat generasi kemudian melihat kekuasaan, ritual, dan ingatan keluarga."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "chūn qiū zhàn guó shí qī jiù zhì xù sōng dòng zhū hóu jìng zhēng zhì dù gǎi gé hé sī xiǎng tǎo lùn tóng shí zhǎn kāi",
+      "content_zh": "春秋战国时期，旧秩序松动，诸侯竞争、制度改革和思想讨论同时展开。",
+      "content_en": "During the Spring and Autumn and Warring States periods, old order loosened while regional rivalry, institutional reform, and intellectual debate unfolded together.",
+      "content_vi": "Trong thời Xuân Thu Chiến Quốc, trật tự cũ lỏng dần, cạnh tranh giữa các chư hầu, cải cách thể chế và thảo luận tư tưởng diễn ra đồng thời.",
+      "content_th": "ในยุคชุนชิวจ้านกั๋ว ระเบียบเดิมเริ่มคลายตัว การแข่งขันของรัฐ การปฏิรูประบบ และการถกเถียงทางความคิดเกิดขึ้นพร้อมกัน",
+      "content_id": "Pada masa Chunqiu dan Zhanguo, tatanan lama melonggar, sementara persaingan daerah, reformasi lembaga, dan diskusi pemikiran berlangsung bersamaan."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "kǒng zǐ lǎo zǐ mò zǐ mèng zǐ děng sī xiǎng jiā ràng zhè ge shí dài liú xià le fēng fù de jīng shén yí chǎn",
+      "content_zh": "孔子、老子、墨子、孟子等思想家，让这个时代留下了丰富的精神遗产。",
+      "content_en": "Thinkers such as Confucius, Laozi, Mozi, and Mencius left this era with a rich intellectual legacy.",
+      "content_vi": "Các nhà tư tưởng như Khổng Tử, Lão Tử, Mặc Tử và Mạnh Tử đã để lại cho thời đại này một di sản tinh thần phong phú.",
+      "content_th": "นักคิดอย่างขงจื่อ เหลาจื่อ ม่อจื่อ และเมิ่งจื่อ ทำให้ยุคนี้ทิ้งมรดกทางความคิดไว้อย่างอุดม",
+      "content_id": "Para pemikir seperti Confucius, Laozi, Mozi, dan Mencius meninggalkan warisan intelektual yang kaya bagi masa ini."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "qín cháo wán chéng tǒng yī bǎ wén zì dù liàng héng dào lù hé jùn xiàn zhì dù tuī xiàng gèng yí zhì de xíng tài",
+      "content_zh": "秦朝完成统一，把文字、度量衡、道路和郡县制度推向更一致的形态。",
+      "content_en": "The Qin Dynasty completed unification and pushed writing, weights and measures, roads, and the commandery-county system toward greater consistency.",
+      "content_vi": "Nhà Tần hoàn thành thống nhất, đưa chữ viết, đo lường, đường sá và chế độ quận huyện đến hình thái thống nhất hơn.",
+      "content_th": "ราชวงศ์ฉินทำให้การรวมเป็นหนึ่งเสร็จสมบูรณ์ และผลักดันตัวอักษร มาตราชั่งตวงวัด ถนน และระบบจวิ้นเซี่ยนให้เป็นแบบเดียวกันมากขึ้น",
+      "content_id": "Dinasti Qin menyelesaikan penyatuan dan mendorong tulisan, ukuran, jalan, serta sistem junxian menuju bentuk yang lebih seragam."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "hàn cháo yán xù tǒng yī kuàng jià yě tōng guò sī chóu zhī lù bǎ zhōng guó hé gèng guǎng kuò de shì jiè lián jiē qǐ lái",
+      "content_zh": "汉朝延续统一框架，也通过丝绸之路把中国和更广阔的世界连接起来。",
+      "content_en": "The Han Dynasty continued the unified framework and connected China with a broader world through the Silk Road.",
+      "content_vi": "Nhà Hán tiếp nối khung thống nhất và kết nối Trung Quốc với thế giới rộng lớn hơn qua Con đường Tơ lụa.",
+      "content_th": "ราชวงศ์ฮั่นสืบต่อกรอบการรวมเป็นหนึ่ง และเชื่อมจีนกับโลกที่กว้างขึ้นผ่านเส้นทางสายไหม",
+      "content_id": "Dinasti Han melanjutkan kerangka penyatuan dan menghubungkan Tiongkok dengan dunia yang lebih luas melalui Jalur Sutra."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "wèi jìn nán běi cháo shí qī fēn hé jiāo tì dàn wén huà jiāo liú fó jiào yì shù hé shì rén fēng dù bú duàn fā zhǎn",
+      "content_zh": "魏晋南北朝时期，分合交替，但文化交流、佛教艺术和士人风度不断发展。",
+      "content_en": "During the Wei, Jin, and Northern and Southern Dynasties, division and reunification alternated, yet cultural exchange, Buddhist art, and literati style continued to develop.",
+      "content_vi": "Trong thời Ngụy Tấn Nam Bắc triều, phân hợp thay nhau diễn ra, nhưng giao lưu văn hóa, nghệ thuật Phật giáo và phong thái sĩ nhân vẫn tiếp tục phát triển.",
+      "content_th": "ในสมัยเว่ย จิ้น และราชวงศ์เหนือใต้ การแยกและรวมสลับกัน แต่การแลกเปลี่ยนวัฒนธรรม ศิลปะพุทธ และท่วงท่าของบัณฑิตยังพัฒนาต่อเนื่อง",
+      "content_id": "Pada masa Wei, Jin, serta Dinasti Utara dan Selatan, perpecahan dan penyatuan bergantian, tetapi pertukaran budaya, seni Buddha, dan gaya kaum terpelajar terus berkembang."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "suí cháo chóng xīn lián jiē nán běi dà yùn hé hé zhì dù jiàn shè wèi táng cháo de fán shèng zhǔn bèi le tiáo jiàn",
+      "content_zh": "隋朝重新连接南北，大运河和制度建设为唐朝的繁盛准备了条件。",
+      "content_en": "The Sui Dynasty reconnected north and south, and the Grand Canal and institutional construction prepared conditions for Tang prosperity.",
+      "content_vi": "Nhà Tùy nối lại nam bắc, còn Đại Vận Hà và xây dựng thể chế đã chuẩn bị điều kiện cho sự phồn thịnh của nhà Đường.",
+      "content_th": "ราชวงศ์สุยเชื่อมเหนือใต้ขึ้นใหม่ และคลองใหญ่กับการสร้างระบบได้เตรียมเงื่อนไขให้ความรุ่งเรืองของราชวงศ์ถัง",
+      "content_id": "Dinasti Sui menyambungkan kembali utara dan selatan, sementara Kanal Besar dan pembangunan lembaga menyiapkan kondisi bagi kemakmuran Tang."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "táng dài cháng ān zhǎn shì chū kāi fàng de dū chéng qì xiàng shī gē mào yì hé duō yuán wén huà dōu shí fēn huó yuè",
+      "content_zh": "唐代长安展示出开放的都城气象，诗歌、贸易和多元文化都十分活跃。",
+      "content_en": "Tang Chang'an displayed the atmosphere of an open capital, where poetry, trade, and diverse cultures were highly active.",
+      "content_vi": "Trường An thời Đường thể hiện khí tượng của một kinh đô mở, nơi thơ ca, thương mại và văn hóa đa dạng đều rất sôi động.",
+      "content_th": "ฉางอันสมัยถังแสดงบรรยากาศของเมืองหลวงที่เปิดกว้าง ที่ซึ่งบทกวี การค้า และวัฒนธรรมหลากหลายล้วนคึกคัก",
+      "content_id": "Chang'an pada masa Tang menampilkan suasana ibu kota yang terbuka, tempat puisi, perdagangan, dan budaya beragam sangat aktif."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "sòng dài bǎ chéng shì shāng yè yìn shuā shū jí chá guǎn jiǔ lóu hé shì mín shēng huó tuī dào xīn de gāo dù",
+      "content_zh": "宋代把城市商业、印刷书籍、茶馆酒楼和市民生活推到新的高度。",
+      "content_en": "The Song period raised urban commerce, printed books, teahouses, restaurants, and city life to a new level.",
+      "content_vi": "Thời Tống đưa thương mại đô thị, sách in, trà quán, tửu lâu và đời sống thị dân lên một tầm cao mới.",
+      "content_th": "สมัยซ่งยกระดับการค้าในเมือง หนังสือพิมพ์ โรงน้ำชา ร้านอาหาร และชีวิตชาวเมืองขึ้นอีกขั้น",
+      "content_id": "Masa Song membawa perdagangan kota, buku cetak, kedai teh, restoran, dan kehidupan warga kota ke tingkat baru."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "yuán míng qīng shí qī cǎo yuán hǎi yáng dū chéng hé dì fāng shè huì dōu jìn rù gèng fù zá de hù dòng",
+      "content_zh": "元明清时期，草原、海洋、都城和地方社会都进入更复杂的互动。",
+      "content_en": "In the Yuan, Ming, and Qing periods, steppe, sea, capital cities, and local society all entered more complex interaction.",
+      "content_vi": "Trong thời Nguyên, Minh, Thanh, thảo nguyên, biển cả, kinh đô và xã hội địa phương đều bước vào những tương tác phức tạp hơn.",
+      "content_th": "ในสมัยหยวน หมิง และชิง ทุ่งหญ้า ทะเล เมืองหลวง และสังคมท้องถิ่นต่างเข้าสู่ความสัมพันธ์ที่ซับซ้อนยิ่งขึ้น",
+      "content_id": "Pada masa Yuan, Ming, dan Qing, padang rumput, laut, ibu kota, dan masyarakat lokal masuk ke interaksi yang lebih kompleks."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "míng dài de háng hǎi cí qì hé xiǎo shuō qīng dài de gōng tíng gōng chéng shāng mào hé wén xué dōu liú xià xiān míng hén jì",
+      "content_zh": "明代的航海、瓷器和小说，清代的宫廷工程、商贸和文学，都留下鲜明痕迹。",
+      "content_en": "Ming navigation, porcelain, and novels, as well as Qing court projects, trade, and literature, all left clear marks.",
+      "content_vi": "Hàng hải, đồ sứ và tiểu thuyết thời Minh, cùng công trình cung đình, thương mại và văn học thời Thanh, đều để lại dấu ấn rõ rệt.",
+      "content_th": "การเดินเรือ เครื่องเคลือบ และนวนิยายสมัยหมิง รวมถึงงานราชสำนัก การค้า และวรรณกรรมสมัยชิง ล้วนทิ้งร่องรอยชัดเจน",
+      "content_id": "Pelayaran, porselen, dan novel Ming, serta proyek istana, perdagangan, dan sastra Qing, semuanya meninggalkan jejak yang jelas."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "jìn rù jìn dài yǐ hòu tiě lù diàn bào bào kān xué xiào hé xīn shì gōng chǎng gǎi biàn le rén men rèn shi shì jiè de fāng shì",
+      "content_zh": "进入近代以后，铁路、电报、报刊、学校和新式工厂改变了人们认识世界的方式。",
+      "content_en": "After entering the modern era, railways, telegraphs, newspapers, schools, and new factories changed how people understood the world.",
+      "content_vi": "Khi bước vào thời cận đại, đường sắt, điện báo, báo chí, trường học và nhà máy kiểu mới đã thay đổi cách con người nhận biết thế giới.",
+      "content_th": "เมื่อเข้าสู่ยุคใกล้สมัยใหม่ ทางรถไฟ โทรเลข หนังสือพิมพ์ โรงเรียน และโรงงานแบบใหม่ได้เปลี่ยนวิธีที่ผู้คนเข้าใจโลก",
+      "content_id": "Setelah memasuki era modern, kereta api, telegraf, surat kabar, sekolah, dan pabrik baru mengubah cara orang memahami dunia."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "kǎo gǔ fā xiàn yòu bǎ mù guāng dài huí gèng zǎo de shí dài jiǎ gǔ wén jiǎn dú hé dūn huáng wén shū bú duàn bǔ chōng lì shǐ tú xiàng",
+      "content_zh": "考古发现又把目光带回更早的时代，甲骨文、简牍和敦煌文书不断补充历史图像。",
+      "content_en": "Archaeological discoveries also turn attention back to earlier times, as oracle bones, bamboo slips, and Dunhuang manuscripts keep enriching the historical picture.",
+      "content_vi": "Các phát hiện khảo cổ lại đưa ánh nhìn về những thời đại sớm hơn, khi giáp cốt văn, thẻ tre và văn thư Đôn Hoàng không ngừng bổ sung bức tranh lịch sử.",
+      "content_th": "การค้นพบทางโบราณคดียังพาสายตากลับไปสู่ยุคที่เก่ากว่า ขณะที่อักษรกระดูกเสี่ยงทาย แผ่นไม้ไผ่ และเอกสารตุนหวงช่วยเติมภาพประวัติศาสตร์อย่างต่อเนื่อง",
+      "content_id": "Temuan arkeologi juga membawa perhatian kembali ke masa lebih awal, ketika tulang orakel, bilah bambu, dan naskah Dunhuang terus memperkaya gambaran sejarah."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "cóng zhì dù kàn zhōng guó lì shǐ jīng lì le fēng jiàn jùn xiàn kē jǔ cáo yùn děng duō zhǒng zhì lǐ fāng shì de biàn huà",
+      "content_zh": "从制度看，中国历史经历了封建、郡县、科举、漕运等多种治理方式的变化。",
+      "content_en": "Viewed through institutions, Chinese history saw changes in many forms of governance, including enfeoffment, commanderies and counties, civil exams, and grain transport.",
+      "content_vi": "Nhìn từ thể chế, lịch sử Trung Quốc trải qua nhiều thay đổi về cách quản trị, như phong kiến phân phong, quận huyện, khoa cử và vận chuyển lương thực bằng đường thủy.",
+      "content_th": "เมื่อมองผ่านระบบ ประวัติศาสตร์จีนผ่านการเปลี่ยนแปลงของวิธีปกครองหลายแบบ ทั้งการแบ่งที่ดินศักดินา ระบบจวิ้นเซี่ยน การสอบคัดเลือก และการขนส่งธัญพืช",
+      "content_id": "Dilihat dari lembaga, sejarah Tiongkok mengalami perubahan banyak cara tata kelola, termasuk enfeoffment, junxian, ujian pegawai, dan pengangkutan gandum."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "cóng shēng huó kàn yǐn shí fú shì jié rì shū jí hé chéng shì kōng jiān yì zhí suí zhe shí dài tiáo zhěng",
+      "content_zh": "从生活看，饮食、服饰、节日、书籍和城市空间一直随着时代调整。",
+      "content_en": "Viewed through life, food, clothing, festivals, books, and urban space kept adjusting with the times.",
+      "content_vi": "Nhìn từ đời sống, ẩm thực, trang phục, lễ hội, sách vở và không gian đô thị luôn điều chỉnh theo thời đại.",
+      "content_th": "เมื่อมองจากชีวิตประจำวัน อาหาร เครื่องแต่งกาย เทศกาล หนังสือ และพื้นที่เมืองต่างปรับตัวตามยุคสมัยเสมอ",
+      "content_id": "Dilihat dari kehidupan, makanan, pakaian, festival, buku, dan ruang kota terus menyesuaikan diri dengan zaman."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "cóng wén huà kàn shī cí shū fǎ zhé xué zōng jiào yì shù hé mín jiān jì yì gòng tóng bǎo cún lì shǐ jì yì",
+      "content_zh": "从文化看，诗词、书法、哲学、宗教艺术和民间技艺共同保存历史记忆。",
+      "content_en": "Viewed through culture, poetry, calligraphy, philosophy, religious art, and folk crafts together preserve historical memory.",
+      "content_vi": "Nhìn từ văn hóa, thơ từ, thư pháp, triết học, nghệ thuật tôn giáo và kỹ nghệ dân gian cùng lưu giữ ký ức lịch sử.",
+      "content_th": "เมื่อมองจากวัฒนธรรม บทกวี การคัดพู่กัน ปรัชญา ศิลปะทางศาสนา และงานช่างพื้นบ้านร่วมกันเก็บรักษาความทรงจำทางประวัติศาสตร์",
+      "content_id": "Dilihat dari budaya, puisi, kaligrafi, filsafat, seni religius, dan kerajinan rakyat bersama-sama menyimpan ingatan sejarah."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "yīn cǐ lǐ jiě zhōng guó lì shǐ bù néng zhī bèi nián fèn yě yào kàn shān hé dào lù qì wù hé pǔ tōng rén de rì cháng",
+      "content_zh": "因此理解中国历史，不能只背年份，也要看山河、道路、器物和普通人的日常。",
+      "content_en": "Therefore, understanding Chinese history cannot rely only on memorizing dates; it also requires seeing rivers, mountains, roads, objects, and ordinary daily life.",
+      "content_vi": "Vì vậy, hiểu lịch sử Trung Quốc không thể chỉ học thuộc năm tháng, mà còn phải nhìn vào núi sông, đường sá, đồ vật và đời sống thường ngày của người bình thường.",
+      "content_th": "ดังนั้นการเข้าใจประวัติศาสตร์จีนจึงไม่อาจพึ่งการท่องปีเท่านั้น แต่ต้องมองภูเขาแม่น้ำ ถนน สิ่งของ และชีวิตประจำวันของคนทั่วไปด้วย",
+      "content_id": "Karena itu, memahami sejarah Tiongkok tidak cukup hanya menghafal tahun; perlu juga melihat sungai dan gunung, jalan, benda, serta kehidupan harian orang biasa."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zhè xiē nèi róng lián jiē qǐ lái cái néng kàn jiàn zhōng guó lì shǐ zěn yàng zài yán xù zhōng biàn huà zài biàn huà zhōng yán xù",
+      "content_zh": "这些内容连接起来，才能看见中国历史怎样在延续中变化、在变化中延续。",
+      "content_en": "Only when these contents are connected can one see how Chinese history changed within continuity and continued within change.",
+      "content_vi": "Chỉ khi nối những nội dung này lại, ta mới thấy lịch sử Trung Quốc biến đổi trong sự tiếp nối và tiếp nối trong sự biến đổi như thế nào.",
+      "content_th": "เมื่อนำเนื้อหาเหล่านี้มาเชื่อมกัน จึงจะเห็นว่าประวัติศาสตร์จีนเปลี่ยนแปลงในความต่อเนื่อง และต่อเนื่องอยู่ในความเปลี่ยนแปลงอย่างไร",
+      "content_id": "Hanya ketika semua isi ini dihubungkan, kita dapat melihat bagaimana sejarah Tiongkok berubah dalam kesinambungan dan berlanjut dalam perubahan."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "zhōng guó lì shǐ de yǎn huà zhèng shì yóu zhè xiē cháng qī jī lěi de zhì dù wén huà hé shēng huó jīng yàn gòng tóng gòu chéng de",
+      "content_zh": "中国历史的演化，正是由这些长期积累的制度、文化和生活经验共同构成的。",
+      "content_en": "The evolution of Chinese history is formed precisely by these long-accumulated institutions, cultures, and experiences of life.",
+      "content_vi": "Sự phát triển của lịch sử Trung Quốc chính được tạo nên bởi những thể chế, văn hóa và kinh nghiệm sống tích lũy lâu dài ấy.",
+      "content_th": "พัฒนาการของประวัติศาสตร์จีนจึงประกอบขึ้นจากระบบ วัฒนธรรม และประสบการณ์ชีวิตที่สะสมมายาวนานเหล่านี้",
+      "content_id": "Evolusi sejarah Tiongkok justru terbentuk dari lembaga, budaya, dan pengalaman hidup yang terkumpul lama ini."
+    }
+  ]
+}

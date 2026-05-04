@@ -1,0 +1,320 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1-seed",
+  "category_code": "02",
+  "category_dir": "02-cuisine",
+  "article_slug": "01-eight-cuisines-food-map",
+  "article": {
+    "local_id": "cuisine-001",
+    "category_code": "02",
+    "title_pinyin": "bā dà cài xì rú hé gòu chéng zhōng guó měi shí dì tú",
+    "title_i18n": {
+      "zh": "八大菜系如何构成中国美食地图？",
+      "en": "How Do the Eight Cuisines Form China's Food Map?",
+      "vi": "Tám trường phái ẩm thực tạo nên bản đồ món ăn Trung Quốc như thế nào?",
+      "th": "แปดสำรับจีนประกอบเป็นแผนที่อาหารจีนอย่างไร?",
+      "id": "Bagaimana Delapan Masakan Membentuk Peta Kuliner Tiongkok?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 24,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上，展示中国饮食的地域差异。",
+    "这张地图不是行政表格，而是由气候、物产、交通和生活习惯共同塑造的风味网络。",
+    "鲁菜扎根山东，重视汤、火候和咸鲜，是许多北方宴席的重要基础。",
+    "川菜来自四川盆地，花椒的麻香和辣椒的热度形成鲜明记忆。",
+    "粤菜来自广东，讲究清鲜、原味和细致处理，常把食材本身放在中心。",
+    "苏菜多见于江苏一带，刀工细、味道柔，呈现江南水乡的雅致。",
+    "闽菜临近海洋，汤羹、海味和清甜口感构成重要特点。",
+    "浙菜依靠湖鲜、河鲜和时令蔬菜，常给人轻快清雅的印象。",
+    "湘菜来自湖南，酸辣、腊味和烟火气让它更直接热烈。",
+    "徽菜来自安徽山乡，擅长炖、烧、焖，常使用山珍和腌鲜。",
+    "八大菜系的形成，首先和山海河湖的物产有关。",
+    "靠海地区容易发展海味，河湖地区擅长鱼虾，山地地区常保留干货和菌类。",
+    "气候也会影响味觉，湿润地区更常用辛香、酸味或辣味打开胃口。",
+    "交通和城市商业让地方菜走出原产地，也让不同技法彼此借鉴。",
+    "同样是鲜，粤菜常突出食材本味，鲁菜更重视汤底和火候带出的厚度。",
+    "同样是辣，川菜常有麻香层次，湘菜更突出直接的辣味和酸香。",
+    "同样是精细，苏菜偏向柔和雅致，浙菜偏向清爽明快。",
+    "闽菜和徽菜都重视地方物产，但一个更多连接海洋，一个更多连接山地。",
+    "因此八大菜系不是互相隔开的八个盒子，而是不断交流的八个风味区域。",
+    "今天的餐馆菜单常把这些传统重新组合，让不同地区的味道在同一张桌上相遇。",
+    "对学习者来说，八大菜系也是认识中国地理和生活方式的入口。",
+    "看一盘菜的调味、食材和做法，常常能看见它背后的河流、山地、港口或城市。",
+    "当这些风味被放在一起，中国美食地图就从名称变成了可以品尝的文化经验。",
+    "八大菜系的意义，正在于用一桌桌菜把地域、物产和生活连接起来。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": ["八大菜系", "中国美食地图", "中国菜系"],
+      "en": ["eight Chinese cuisines", "Chinese food map", "regional Chinese cuisine"],
+      "vi": ["tám trường phái ẩm thực Trung Quốc", "bản đồ ẩm thực Trung Quốc"],
+      "th": ["แปดอาหารจีน", "แผนที่อาหารจีน"],
+      "id": ["delapan masakan Tiongkok", "peta kuliner Tiongkok"]
+    },
+    "search_intents": ["what_is", "comparison", "beginner_learning"],
+    "long_tail_questions": {
+      "zh": ["八大菜系怎样体现中国地域差异？", "中国美食地图应该从哪里开始看？"],
+      "en": ["How do the eight Chinese cuisines show regional differences?", "Where should beginners start with China's food map?"],
+      "vi": ["Tám trường phái ẩm thực thể hiện khác biệt vùng miền Trung Quốc như thế nào?"],
+      "th": ["แปดสำรับจีนแสดงความแตกต่างของภูมิภาคอย่างไร?"],
+      "id": ["Bagaimana delapan masakan menunjukkan perbedaan daerah di Tiongkok?"]
+    },
+    "pseo_paths": ["/china/02-cuisine/eight-cuisines-food-map"]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上，展示中国饮食的地域差异。",
+      "en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map to show regional differences in Chinese dining.",
+      "vi": "Tám trường phái ẩm thực đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn để thể hiện khác biệt vùng miền.",
+      "th": "แปดสำรับจีนวางอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยไว้บนแผนที่อาหารเดียวกัน เพื่อแสดงความต่างด้านอาหารของแต่ละภูมิภาค",
+      "id": "Delapan masakan Tiongkok menempatkan masakan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner untuk menunjukkan perbedaan daerah."
+    },
+    "entities": [
+      { "type": "cuisine", "name_zh": "鲁菜", "name_en": "Shandong cuisine" },
+      { "type": "cuisine", "name_zh": "川菜", "name_en": "Sichuan cuisine" },
+      { "type": "cuisine", "name_zh": "粤菜", "name_en": "Cantonese cuisine" },
+      { "type": "cuisine", "name_zh": "苏菜", "name_en": "Jiangsu cuisine" },
+      { "type": "cuisine", "name_zh": "闽菜", "name_en": "Fujian cuisine" },
+      { "type": "cuisine", "name_zh": "浙菜", "name_en": "Zhejiang cuisine" },
+      { "type": "cuisine", "name_zh": "湘菜", "name_en": "Hunan cuisine" },
+      { "type": "cuisine", "name_zh": "徽菜", "name_en": "Anhui cuisine" }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答八大菜系如何构成中国美食地图。",
+      "第 3 至 10 句逐一说明八个菜系的地域和风味印象。",
+      "正文聚焦饮食文化和学习场景，不涉及敏感议题。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "bā dà cài xì bǎ lǔ cài chuān cài yuè cài sū cài mǐn cài zhè cài xiāng cài hé huī cài fàng zài tóng yì zhāng měi shí dì tú shàng zhǎn shì zhōng guó yǐn shí de dì yù chā yì",
+      "content_zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上，展示中国饮食的地域差异。",
+      "content_en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map, showing regional differences in Chinese dining.",
+      "content_vi": "Tám trường phái ẩm thực đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn, thể hiện khác biệt vùng miền.",
+      "content_th": "แปดสำรับจีนวางอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยไว้บนแผนที่อาหารเดียวกัน แสดงความต่างของอาหารตามภูมิภาค",
+      "content_id": "Delapan masakan Tiongkok menempatkan masakan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner, menunjukkan perbedaan daerah."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "zhè zhāng dì tú bú shì xíng zhèng biǎo gé ér shì yóu qì hòu wù chǎn jiāo tōng hé shēng huó xí guàn gòng tóng sù zào de fēng wèi wǎng luò",
+      "content_zh": "这张地图不是行政表格，而是由气候、物产、交通和生活习惯共同塑造的风味网络。",
+      "content_en": "This map is not an administrative table, but a network of flavors shaped by climate, local products, transport, and habits of life.",
+      "content_vi": "Bản đồ này không phải bảng hành chính, mà là mạng lưới hương vị do khí hậu, sản vật, giao thông và thói quen sống cùng tạo nên.",
+      "content_th": "แผนที่นี้ไม่ใช่ตารางการปกครอง แต่เป็นเครือข่ายรสชาติที่เกิดจากภูมิอากาศ ผลผลิต การคมนาคม และวิถีชีวิตร่วมกัน",
+      "content_id": "Peta ini bukan tabel administratif, melainkan jaringan rasa yang dibentuk bersama oleh iklim, hasil bumi, transportasi, dan kebiasaan hidup."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "lǔ cài zhā gēn shān dōng zhòng shì tāng huǒ hòu hé xián xiān shì xǔ duō běi fāng yàn xí de zhòng yào jī chǔ",
+      "content_zh": "鲁菜扎根山东，重视汤、火候和咸鲜，是许多北方宴席的重要基础。",
+      "content_en": "Shandong cuisine is rooted in Shandong, values soup, heat control, and savory freshness, and is an important foundation for many northern banquets.",
+      "content_vi": "Ẩm thực Lỗ bắt rễ ở Sơn Đông, coi trọng nước dùng, độ lửa và vị mặn tươi, là nền tảng quan trọng của nhiều bàn tiệc phương bắc.",
+      "content_th": "อาหารหลู่มีรากอยู่ที่ซานตง ให้ความสำคัญกับน้ำซุป ไฟ และรสเค็มสด เป็นฐานสำคัญของงานเลี้ยงภาคเหนือหลายแบบ",
+      "content_id": "Masakan Shandong berakar di Shandong, menghargai sup, kendali api, dan rasa gurih segar, serta menjadi dasar penting bagi banyak jamuan utara."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "chuān cài lái zì sì chuān pén dì huā jiāo de má xiāng hé là jiāo de rè dù xíng chéng xiān míng jì yì",
+      "content_zh": "川菜来自四川盆地，花椒的麻香和辣椒的热度形成鲜明记忆。",
+      "content_en": "Sichuan cuisine comes from the Sichuan Basin, where the numbing aroma of peppercorns and the heat of chilies create a vivid memory.",
+      "content_vi": "Ẩm thực Xuyên đến từ bồn địa Tứ Xuyên, nơi hương tê của hoa tiêu và độ cay của ớt tạo nên ký ức rõ rệt.",
+      "content_th": "อาหารชวนมาจากแอ่งเสฉวน กลิ่นชาของฮวาเจียวและความเผ็ดร้อนของพริกสร้างความทรงจำที่ชัดเจน",
+      "content_id": "Masakan Sichuan berasal dari Cekungan Sichuan, tempat aroma kebas lada Sichuan dan panas cabai membentuk ingatan yang kuat."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "yuè cài lái zì guǎng dōng jiǎng jiū qīng xiān yuán wèi hé xì zhì chǔ lǐ cháng bǎ shí cái běn shēn fàng zài zhōng xīn",
+      "content_zh": "粤菜来自广东，讲究清鲜、原味和细致处理，常把食材本身放在中心。",
+      "content_en": "Cantonese cuisine comes from Guangdong and values clear freshness, original taste, and careful handling, often placing the ingredient itself at the center.",
+      "content_vi": "Ẩm thực Quảng Đông đến từ Quảng Đông, chú trọng vị thanh tươi, nguyên bản và xử lý tinh tế, thường đặt chính nguyên liệu ở trung tâm.",
+      "content_th": "อาหารกวางตุ้งมาจากกวางตุ้ง เน้นความสดใส รสดั้งเดิม และการจัดการอย่างประณีต โดยมักวางตัววัตถุดิบไว้ตรงกลาง",
+      "content_id": "Masakan Kanton berasal dari Guangdong dan menghargai kesegaran jernih, rasa asli, serta penanganan teliti, sering menempatkan bahan itu sendiri sebagai pusat."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "sū cài duō jiàn yú jiāng sū yí dài dāo gōng xì wèi dào róu chéng xiàn jiāng nán shuǐ xiāng de yǎ zhì",
+      "content_zh": "苏菜多见于江苏一带，刀工细、味道柔，呈现江南水乡的雅致。",
+      "content_en": "Jiangsu cuisine is common around Jiangsu, with fine knife work and gentle flavors that show the elegance of Jiangnan water towns.",
+      "content_vi": "Ẩm thực Tô thường thấy ở vùng Giang Tô, dao pháp tinh tế, vị mềm dịu, thể hiện nét thanh nhã của miền sông nước Giang Nam.",
+      "content_th": "อาหารซูพบมากแถบเจียงซู มีฝีมือการหั่นละเอียดและรสนุ่มนวล แสดงความสง่างามของเมืองน้ำเจียงหนาน",
+      "content_id": "Masakan Jiangsu banyak ditemui di sekitar Jiangsu, dengan teknik potong halus dan rasa lembut yang menampilkan keanggunan kota air Jiangnan."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "mǐn cài lín jìn hǎi yáng tāng gēng hǎi wèi hé qīng tián kǒu gǎn gòu chéng zhòng yào tè diǎn",
+      "content_zh": "闽菜临近海洋，汤羹、海味和清甜口感构成重要特点。",
+      "content_en": "Fujian cuisine is close to the sea, and soups, seafood flavors, and a light sweetness form its important traits.",
+      "content_vi": "Ẩm thực Mân gần biển; canh súp, hải vị và vị ngọt thanh tạo thành những đặc điểm quan trọng.",
+      "content_th": "อาหารหมิ่นอยู่ใกล้ทะเล ซุป รสทะเล และความหวานใสเป็นลักษณะสำคัญ",
+      "content_id": "Masakan Fujian dekat dengan laut, dan sup, cita rasa laut, serta manis ringan membentuk ciri pentingnya."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "zhè cài yī kào hú xiān hé xiān hé shí lìng shū cài cháng gěi rén qīng kuài qīng yǎ de yìn xiàng",
+      "content_zh": "浙菜依靠湖鲜、河鲜和时令蔬菜，常给人轻快清雅的印象。",
+      "content_en": "Zhejiang cuisine relies on lake produce, river produce, and seasonal vegetables, often giving a light and elegant impression.",
+      "content_vi": "Ẩm thực Chiết dựa vào sản vật hồ, sông và rau theo mùa, thường tạo cảm giác nhẹ nhàng thanh nhã.",
+      "content_th": "อาหารเจ้อพึ่งพาของสดจากทะเลสาบ แม่น้ำ และผักตามฤดูกาล มักให้ความรู้สึกเบาและสง่างาม",
+      "content_id": "Masakan Zhejiang mengandalkan hasil danau, hasil sungai, dan sayuran musiman, sering memberi kesan ringan dan anggun."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "xiāng cài lái zì hú nán suān là là wèi hé yān huǒ qì ràng tā gèng zhí jiē rè liè",
+      "content_zh": "湘菜来自湖南，酸辣、腊味和烟火气让它更直接热烈。",
+      "content_en": "Hunan cuisine comes from Hunan, where sour heat, cured flavors, and kitchen warmth make it more direct and lively.",
+      "content_vi": "Ẩm thực Tương đến từ Hồ Nam, nơi vị chua cay, đồ ướp xông và hơi thở bếp núc làm nó trực diện và sôi nổi hơn.",
+      "content_th": "อาหารเซียงมาจากหูหนาน รสเปรี้ยวเผ็ด กลิ่นหมักรม และบรรยากาศครัวทำให้มันตรงและคึกคักยิ่งขึ้น",
+      "content_id": "Masakan Hunan berasal dari Hunan; rasa asam pedas, cita rasa awetan, dan suasana dapur membuatnya lebih langsung dan hidup."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "huī cài lái zì ān huī shān xiāng shàn cháng dùn shāo mèn cháng shǐ yòng shān zhēn hé yān xiān",
+      "content_zh": "徽菜来自安徽山乡，擅长炖、烧、焖，常使用山珍和腌鲜。",
+      "content_en": "Anhui cuisine comes from the mountain villages of Anhui, excels at stewing, braising, and covered simmering, and often uses mountain produce and preserved ingredients.",
+      "content_vi": "Ẩm thực Huy đến từ vùng núi An Huy, giỏi hầm, kho, om và thường dùng sản vật núi cùng nguyên liệu ướp muối.",
+      "content_th": "อาหารฮุยมาจากหมู่บ้านภูเขาในอานฮุย ถนัดการตุ๋น เคี่ยว และอบปิดฝา มักใช้ของป่าและวัตถุดิบหมักเค็ม",
+      "content_id": "Masakan Anhui berasal dari desa pegunungan Anhui, unggul dalam rebus lama, braise, dan simmer tertutup, serta sering memakai hasil gunung dan bahan awetan."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "bā dà cài xì de xíng chéng shǒu xiān hé shān hǎi hé hú de wù chǎn yǒu guān",
+      "content_zh": "八大菜系的形成，首先和山海河湖的物产有关。",
+      "content_en": "The formation of the eight cuisines is first related to the products of mountains, seas, rivers, and lakes.",
+      "content_vi": "Sự hình thành của tám trường phái ẩm thực trước hết liên quan đến sản vật của núi, biển, sông và hồ.",
+      "content_th": "การก่อตัวของแปดสำรับจีนเกี่ยวข้องก่อนอื่นกับผลผลิตจากภูเขา ทะเล แม่น้ำ และทะเลสาบ",
+      "content_id": "Pembentukan delapan masakan ini pertama-tama terkait dengan hasil dari gunung, laut, sungai, dan danau."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "kào hǎi dì qū róng yì fā zhǎn hǎi wèi hé hú dì qū shàn cháng yú xiā shān dì dì qū cháng bǎo liú gān huò hé jūn lèi",
+      "content_zh": "靠海地区容易发展海味，河湖地区擅长鱼虾，山地地区常保留干货和菌类。",
+      "content_en": "Coastal areas easily develop seafood flavors, river and lake regions specialize in fish and shrimp, and mountain areas often preserve dried goods and mushrooms.",
+      "content_vi": "Vùng ven biển dễ phát triển hải vị, vùng sông hồ giỏi cá tôm, còn vùng núi thường giữ lại đồ khô và nấm.",
+      "content_th": "พื้นที่ริมทะเลพัฒนารสทะเลได้ง่าย พื้นที่แม่น้ำทะเลสาบถนัดปลาและกุ้ง ส่วนพื้นที่ภูเขามักเก็บของแห้งและเห็ดไว้ใช้",
+      "content_id": "Daerah pesisir mudah mengembangkan cita rasa laut, wilayah sungai dan danau unggul dalam ikan dan udang, sementara daerah pegunungan sering menyimpan bahan kering dan jamur."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "qì hòu yě huì yǐng xiǎng wèi jué shī rùn dì qū gèng cháng yòng xīn xiāng suān wèi huò là wèi dǎ kāi wèi kǒu",
+      "content_zh": "气候也会影响味觉，湿润地区更常用辛香、酸味或辣味打开胃口。",
+      "content_en": "Climate also affects taste, and humid regions more often use aromatics, sourness, or heat to awaken the appetite.",
+      "content_vi": "Khí hậu cũng ảnh hưởng đến vị giác; vùng ẩm thường dùng hương cay, vị chua hoặc vị cay để mở khẩu vị.",
+      "content_th": "ภูมิอากาศก็ส่งผลต่อรสชาติ พื้นที่ชื้นมักใช้เครื่องหอม รสเปรี้ยว หรือรสเผ็ดเพื่อเปิดความอยากอาหาร",
+      "content_id": "Iklim juga memengaruhi rasa, dan daerah lembap lebih sering memakai aroma rempah, rasa asam, atau pedas untuk membuka selera."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "jiāo tōng hé chéng shì shāng yè ràng dì fāng cài zǒu chū yuán chǎn dì yě ràng bù tóng jì fǎ bǐ cǐ jiè jiàn",
+      "content_zh": "交通和城市商业让地方菜走出原产地，也让不同技法彼此借鉴。",
+      "content_en": "Transport and urban commerce let local dishes move beyond their places of origin and allowed different techniques to learn from one another.",
+      "content_vi": "Giao thông và thương mại đô thị giúp món địa phương rời khỏi nơi gốc, đồng thời khiến các kỹ pháp khác nhau học hỏi lẫn nhau.",
+      "content_th": "การคมนาคมและการค้าในเมืองทำให้อาหารท้องถิ่นออกจากถิ่นกำเนิด และทำให้เทคนิคต่างๆ เรียนรู้จากกัน",
+      "content_id": "Transportasi dan perdagangan kota membuat masakan daerah keluar dari tempat asalnya dan membuat teknik berbeda saling belajar."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "tóng yàng shì xiān yuè cài cháng tū chū shí cái běn wèi lǔ cài gèng zhòng shì tāng dǐ hé huǒ hòu dài chū de hòu dù",
+      "content_zh": "同样是鲜，粤菜常突出食材本味，鲁菜更重视汤底和火候带出的厚度。",
+      "content_en": "For freshness, Cantonese cuisine often highlights the original taste of ingredients, while Shandong cuisine values the depth brought by stock and heat control.",
+      "content_vi": "Cùng nói về vị tươi, ẩm thực Quảng Đông thường làm nổi bật vị nguyên bản của nguyên liệu, còn ẩm thực Lỗ coi trọng độ dày do nước dùng và độ lửa tạo ra.",
+      "content_th": "เมื่อพูดถึงความสด อาหารกวางตุ้งมักเน้นรสดั้งเดิมของวัตถุดิบ ส่วนอาหารหลู่ให้ความสำคัญกับความลึกจากน้ำซุปและการคุมไฟ",
+      "content_id": "Untuk rasa segar, masakan Kanton sering menonjolkan rasa asli bahan, sedangkan masakan Shandong menghargai kedalaman dari kaldu dan kendali api."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "tóng yàng shì là chuān cài cháng yǒu má xiāng céng cì xiāng cài gèng tū chū zhí jiē de là wèi hé suān xiāng",
+      "content_zh": "同样是辣，川菜常有麻香层次，湘菜更突出直接的辣味和酸香。",
+      "content_en": "For heat, Sichuan cuisine often has layers of numbing aroma, while Hunan cuisine stresses direct spiciness and sour fragrance.",
+      "content_vi": "Cùng nói về cay, ẩm thực Xuyên thường có tầng hương tê, còn ẩm thực Tương nhấn mạnh vị cay trực tiếp và hương chua.",
+      "content_th": "เมื่อพูดถึงความเผ็ด อาหารชวนมักมีชั้นกลิ่นชาลิ้น ส่วนอาหารเซียงเน้นความเผ็ดตรงและกลิ่นเปรี้ยว",
+      "content_id": "Untuk pedas, masakan Sichuan sering memiliki lapisan aroma kebas, sedangkan masakan Hunan menekankan pedas langsung dan aroma asam."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "tóng yàng shì jīng xì sū cài piān xiàng róu hé yǎ zhì zhè cài piān xiàng qīng shuǎng míng kuài",
+      "content_zh": "同样是精细，苏菜偏向柔和雅致，浙菜偏向清爽明快。",
+      "content_en": "For refinement, Jiangsu cuisine leans toward softness and elegance, while Zhejiang cuisine leans toward freshness and brightness.",
+      "content_vi": "Cùng nói về sự tinh tế, ẩm thực Tô nghiêng về mềm mại thanh nhã, còn ẩm thực Chiết nghiêng về tươi mát và sáng rõ.",
+      "content_th": "เมื่อพูดถึงความประณีต อาหารซูโน้มไปทางความนุ่มนวลสง่างาม ส่วนอาหารเจ้อโน้มไปทางความสดใสชัดเจน",
+      "content_id": "Untuk kehalusan, masakan Jiangsu cenderung lembut dan elegan, sedangkan masakan Zhejiang cenderung segar dan cerah."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "mǐn cài hé huī cài dōu zhòng shì dì fāng wù chǎn dàn yí gè gèng duō lián jiē hǎi yáng yí gè gèng duō lián jiē shān dì",
+      "content_zh": "闽菜和徽菜都重视地方物产，但一个更多连接海洋，一个更多连接山地。",
+      "content_en": "Fujian and Anhui cuisines both value local products, but one is more connected to the sea and the other more connected to mountains.",
+      "content_vi": "Ẩm thực Mân và Huy đều coi trọng sản vật địa phương, nhưng một bên gắn nhiều hơn với biển, bên kia gắn nhiều hơn với núi.",
+      "content_th": "อาหารหมิ่นและอาหารฮุยต่างให้ความสำคัญกับผลผลิตท้องถิ่น แต่อย่างหนึ่งเชื่อมกับทะเลมากกว่า อีกอย่างเชื่อมกับภูเขามากกว่า",
+      "content_id": "Masakan Fujian dan Anhui sama-sama menghargai hasil lokal, tetapi yang satu lebih terhubung dengan laut dan yang lain lebih terhubung dengan gunung."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "yīn cǐ bā dà cài xì bú shì hù xiāng gé kāi de bā gè hé zi ér shì bú duàn jiāo liú de bā gè fēng wèi qū yù",
+      "content_zh": "因此八大菜系不是互相隔开的八个盒子，而是不断交流的八个风味区域。",
+      "content_en": "Therefore, the eight cuisines are not eight separate boxes, but eight flavor regions that keep interacting.",
+      "content_vi": "Vì vậy, tám trường phái ẩm thực không phải tám chiếc hộp tách rời, mà là tám vùng hương vị không ngừng giao lưu.",
+      "content_th": "ดังนั้นแปดสำรับจีนจึงไม่ใช่กล่องแยกกันแปดใบ แต่เป็นแปดภูมิภาครสชาติที่แลกเปลี่ยนกันไม่หยุด",
+      "content_id": "Karena itu, delapan masakan bukan delapan kotak yang terpisah, melainkan delapan wilayah rasa yang terus berinteraksi."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "jīn tiān de cān guǎn cài dān cháng bǎ zhè xiē chuán tǒng chóng xīn zǔ hé ràng bù tóng dì qū de wèi dào zài tóng yì zhāng zhuō shàng xiāng yù",
+      "content_zh": "今天的餐馆菜单常把这些传统重新组合，让不同地区的味道在同一张桌上相遇。",
+      "content_en": "Restaurant menus today often recombine these traditions, letting flavors from different regions meet at one table.",
+      "content_vi": "Thực đơn nhà hàng ngày nay thường kết hợp lại các truyền thống này, để hương vị từ những vùng khác nhau gặp nhau trên cùng một bàn ăn.",
+      "content_th": "เมนูร้านอาหารวันนี้มักนำประเพณีเหล่านี้มาจัดรวมใหม่ ทำให้รสชาติจากภูมิภาคต่างๆ พบกันบนโต๊ะเดียวกัน",
+      "content_id": "Menu restoran hari ini sering menyusun ulang tradisi ini, membuat rasa dari berbagai daerah bertemu di satu meja."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "duì xué xí zhě lái shuō bā dà cài xì yě shì rèn shi zhōng guó dì lǐ hé shēng huó fāng shì de rù kǒu",
+      "content_zh": "对学习者来说，八大菜系也是认识中国地理和生活方式的入口。",
+      "content_en": "For learners, the eight cuisines are also an entry point for understanding Chinese geography and ways of life.",
+      "content_vi": "Đối với người học, tám trường phái ẩm thực cũng là lối vào để hiểu địa lý và lối sống Trung Quốc.",
+      "content_th": "สำหรับผู้เรียน แปดสำรับจีนยังเป็นทางเข้าสู่การเข้าใจภูมิศาสตร์และวิถีชีวิตจีน",
+      "content_id": "Bagi pelajar, delapan masakan ini juga menjadi pintu masuk untuk memahami geografi dan cara hidup Tiongkok."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "kàn yì pán cài de tiáo wèi shí cái hé zuò fǎ cháng cháng néng kàn jiàn tā bèi hòu de hé liú shān dì gǎng kǒu huò chéng shì",
+      "content_zh": "看一盘菜的调味、食材和做法，常常能看见它背后的河流、山地、港口或城市。",
+      "content_en": "By looking at a dish's seasoning, ingredients, and method, one can often see the rivers, mountains, ports, or cities behind it.",
+      "content_vi": "Khi nhìn vào gia vị, nguyên liệu và cách làm của một món ăn, ta thường thấy những dòng sông, vùng núi, bến cảng hoặc thành phố phía sau nó.",
+      "content_th": "เมื่อมองรสปรุง วัตถุดิบ และวิธีทำของอาหารจานหนึ่ง มักจะเห็นแม่น้ำ ภูเขา ท่าเรือ หรือเมืองที่อยู่เบื้องหลัง",
+      "content_id": "Dengan melihat bumbu, bahan, dan cara membuat sebuah hidangan, orang sering dapat melihat sungai, gunung, pelabuhan, atau kota di baliknya."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "dāng zhè xiē fēng wèi bèi fàng zài yì qǐ zhōng guó měi shí dì tú jiù cóng míng chēng biàn chéng le kě yǐ pǐn cháng de wén huà jīng yàn",
+      "content_zh": "当这些风味被放在一起，中国美食地图就从名称变成了可以品尝的文化经验。",
+      "content_en": "When these flavors are placed together, China's food map changes from a set of names into a cultural experience that can be tasted.",
+      "content_vi": "Khi những hương vị này được đặt cạnh nhau, bản đồ ẩm thực Trung Quốc từ những cái tên trở thành kinh nghiệm văn hóa có thể nếm được.",
+      "content_th": "เมื่อรสชาติเหล่านี้ถูกวางไว้ด้วยกัน แผนที่อาหารจีนก็เปลี่ยนจากรายชื่อเป็นประสบการณ์ทางวัฒนธรรมที่ลิ้มรสได้",
+      "content_id": "Ketika rasa-rasa ini diletakkan bersama, peta kuliner Tiongkok berubah dari nama-nama menjadi pengalaman budaya yang dapat dicicipi."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "bā dà cài xì de yì yì zhèng zài yú yòng yì zhuō zhuō cài bǎ dì yù wù chǎn hé shēng huó lián jiē qǐ lái",
+      "content_zh": "八大菜系的意义，正在于用一桌桌菜把地域、物产和生活连接起来。",
+      "content_en": "The meaning of the eight cuisines lies in using table after table of dishes to connect regions, products, and life.",
+      "content_vi": "Ý nghĩa của tám trường phái ẩm thực nằm ở việc dùng từng bàn món ăn để nối kết vùng miền, sản vật và đời sống.",
+      "content_th": "ความหมายของแปดสำรับจีนอยู่ที่การใช้อาหารทีละโต๊ะเชื่อมภูมิภาค ผลผลิต และชีวิตเข้าด้วยกัน",
+      "content_id": "Makna delapan masakan ini terletak pada penggunaan meja demi meja hidangan untuk menghubungkan daerah, hasil bumi, dan kehidupan."
+    }
+  ]
+}
