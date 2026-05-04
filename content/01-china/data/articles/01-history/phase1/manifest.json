@@ -6,9 +6,9 @@
   "phase": "phase1",
   "generated_at": "2026-05-04T00:00:00+08:00",
   "update_mode": "append_only_infinite",
-  "article_count": 1,
-  "sentence_target_per_article": 24,
-  "total_sentences": 24,
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
   "risk_controls": [
     "sea_market_safe",
     "no_politics",
@@ -22,13 +22,90 @@
       "path": "01-chinese-history-evolution.article.json",
       "kind": "article",
       "rows": 1,
-      "sentences": 24,
-      "sha256": "da3fcd5e088da6a83c52a55c75f96d1240367ee9f322f4ca1c70bab4a4bdf9e9"
+      "sentences": 120,
+      "sha256": "27e1b6de00a0b4a996dbb427df01849ee9598c49b301228e0504288562c82892"
+    },
+    {
+      "path": "02-yellow-river-yangtze-early-china.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4cb5dea5fc82dc82c16de9fa552311d3317f193de0ffeb225d23c7bd9921f95f"
+    },
+    {
+      "path": "03-neolithic-settlements-clues.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "512bcc3ea042a9f5397c022784a8a9f372ce2ba71d82ef8957392e28e1dce078"
+    },
+    {
+      "path": "04-xia-shang-zhou-foundations.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "9fcbce76c598c5c4fe6cb87152892a1cffe47502ee93e44d16d601c7927feff0"
+    },
+    {
+      "path": "05-bronzes-shang-zhou-society.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e046c06c0f732814cc4e3e72d592db7d3132c0f7ca9e9c71fac7dc58d0b4e651"
+    },
+    {
+      "path": "06-western-zhou-ritual-system.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "85c8abbcb606a175c67f8986b3a5f0415e6267293958700c66cd0e168c648d35"
+    },
+    {
+      "path": "07-spring-autumn-hegemony.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "efb0127e30696658556ae8da74b072fa3083c6b04851224e068c2fa5c5d094aa"
+    },
+    {
+      "path": "08-guan-zhong-duke-huan-hegemony.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e42171e4a92349cc8372dca2d62644b77138cb06a7dde2e674e0850d3deccbb6"
+    },
+    {
+      "path": "09-duke-wen-jin-hegemon.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "5fa4d83e40e18f3390dce3368de093dce293851627202c43cba1fd259cd46342"
+    },
+    {
+      "path": "10-king-zhuang-yimingjingren.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "b0d3308872b8aa0b68a40b28f857ddbb31959d8467c942221df36be5d85ff943"
+    },
+    {
+      "path": "11-wu-yue-rivalry-allusions.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "28756a391ba0bf1789f19d0072a192dc103b44142be2da6b4f2e55bbcae6f0ca"
+    },
+    {
+      "path": "12-confucius-spring-autumn-era.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "fbd5e0cdcf3613741e838397dd71eca3bb97501a76ba60df40dff42a22b732e8"
     }
   ],
   "generator": {
     "name": "github-copilot-direct-authoring",
-    "version": "1.0.0",
-    "note": "Direct-authored seed article: structured as china.article.v2 with embedded SEO/GEO metadata."
+    "version": "2.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
   }
 }

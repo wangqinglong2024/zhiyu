@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "02",
   "category_dir": "02-cuisine",
-  "article_slug": "01-eight-cuisines-food-map",
+  "article_slug": "03-sichuan-mala-origins",
   "article": {
-    "local_id": "cuisine-001",
+    "local_id": "cuisine-003",
     "category_code": "02",
-    "title_pinyin": "bā dà cài xì rú hé gòu chéng zhōng guó měi shí dì tú",
+    "title_pinyin": "chuān cài de má là cóng nǎ lǐ lái",
     "title_i18n": {
-      "zh": "八大菜系如何构成中国美食地图？",
-      "en": "How Do the Eight Cuisines Form China’s Food Map?",
-      "vi": "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?",
-      "th": "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?",
-      "id": "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+      "zh": "川菜的麻辣从哪里来？",
+      "en": "Where Does Sichuan Cuisine’s Mala Flavor Come From?",
+      "vi": "Vị tê cay của ẩm thực Xuyên đến từ đâu?",
+      "th": "รสชาหม่าล่าของอาหารชวนมาจากไหน?",
+      "id": "Dari mana rasa mala masakan Sichuan berasal?"
     }
   },
   "content_policy": {
@@ -31,228 +31,213 @@
     ]
   },
   "source_story_zh": [
-    "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "川菜的麻辣来自四川盆地气候、花椒传统、辣椒传播和复合调味共同形成的味觉体系。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "四川盆地也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，四川盆地不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "花椒麻香是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "花椒麻香也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，花椒麻香不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "辣椒进入是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "辣椒进入也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，辣椒进入不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "豆瓣酱是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "豆瓣酱也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，豆瓣酱不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "复合味型是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "复合味型也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，复合味型不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "火锅锅底是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "火锅锅底也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，火锅锅底不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "家常小炒是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "家常小炒也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，家常小炒不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "江湖菜是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "江湖菜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "山海物产是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，江湖菜不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "湿润气候是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "湿润气候也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "交通传播是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，湿润气候不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "码头餐饮是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "码头餐饮也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，码头餐饮不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "调味层次是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "调味层次也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "地域经验是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，调味层次不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+    "现代传播是理解川菜麻辣来源的重要味觉内容。",
+    "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "现代传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。"
+    "因此，现代传播不仅是一种做法，也帮助今天的人理解川菜麻辣来源。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "八大菜系美食地图",
+        "川菜麻辣来源",
         "中国美食",
-        "八大菜系如何构成中国美食地图"
+        "川菜的麻辣从哪里来"
       ],
       "en": [
-        "the food map of the eight Chinese cuisines",
+        "the origins of Sichuan mala flavor",
         "Chinese cuisine",
-        "the food map of the eight Chinese cuisines guide"
+        "the origins of Sichuan mala flavor guide"
       ],
       "vi": [
-        "bản đồ ẩm thực tám trường phái Trung Quốc",
+        "nguồn gốc vị tê cay ẩm thực Xuyên",
         "ẩm thực Trung Quốc"
       ],
       "th": [
-        "แผนที่อาหารของแปดสำรับจีน",
+        "ที่มาของรสชาหม่าล่าอาหารชวน",
         "อาหารจีน"
       ],
       "id": [
-        "peta kuliner delapan masakan Tiongkok",
+        "asal rasa mala masakan Sichuan",
         "kuliner Tiongkok"
       ]
     },
     "search_intents": [
-      "how_to",
-      "beginner_learning"
+      "what_is",
+      "comparison"
     ],
     "long_tail_questions": {
       "zh": [
-        "八大菜系如何构成中国美食地图？",
-        "八大菜系美食地图应该从哪些方面理解？"
+        "川菜的麻辣从哪里来？",
+        "川菜麻辣来源应该从哪些方面理解？"
       ],
       "en": [
-        "How Do the Eight Cuisines Form China’s Food Map?",
-        "How should beginners understand the food map of the eight Chinese cuisines?"
+        "Where Does Sichuan Cuisine’s Mala Flavor Come From?",
+        "How should beginners understand the origins of Sichuan mala flavor?"
       ],
       "vi": [
-        "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?"
+        "Vị tê cay của ẩm thực Xuyên đến từ đâu?"
       ],
       "th": [
-        "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?"
+        "รสชาหม่าล่าของอาหารชวนมาจากไหน?"
       ],
       "id": [
-        "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+        "Dari mana rasa mala masakan Sichuan berasal?"
       ]
     },
     "pseo_paths": [
-      "/china/02-cuisine/eight-cuisines-food-map"
+      "/china/02-cuisine/sichuan-mala-origins"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "zh": "川菜的麻辣来自四川盆地气候、花椒传统、辣椒传播和复合调味共同形成的味觉体系。",
+      "en": "Sichuan mala flavor comes from the basin climate, Sichuan pepper tradition, chili spread, and layered seasoning.",
+      "vi": "Vị tê cay ẩm thực Xuyên đến từ khí hậu bồn địa, truyền thống hoa tiêu, sự lan truyền ớt và nêm nếm phức hợp.",
+      "th": "รสหม่าล่าของอาหารชวนมาจากภูมิอากาศแอ่งเสฉวน ประเพณีฮวาเจียว การแพร่ของพริก และการปรุงรสหลายชั้น",
+      "id": "Rasa mala Sichuan berasal dari iklim cekungan, tradisi lada Sichuan, penyebaran cabai, dan bumbu berlapis."
     },
     "entities": [
-      {
-        "type": "cuisine",
-        "name_zh": "鲁菜",
-        "name_en": "Shandong cuisine"
-      },
       {
         "type": "cuisine",
         "name_zh": "川菜",
         "name_en": "Sichuan cuisine"
       },
       {
-        "type": "cuisine",
-        "name_zh": "粤菜",
-        "name_en": "Cantonese cuisine"
+        "type": "place",
+        "name_zh": "四川盆地",
+        "name_en": "Sichuan Basin"
       },
       {
-        "type": "cuisine",
-        "name_zh": "苏菜",
-        "name_en": "Jiangsu cuisine"
+        "type": "ingredient",
+        "name_zh": "花椒",
+        "name_en": "Sichuan pepper"
       },
       {
-        "type": "cuisine",
-        "name_zh": "闽菜",
-        "name_en": "Fujian cuisine"
+        "type": "ingredient",
+        "name_zh": "辣椒",
+        "name_en": "chili"
       },
       {
-        "type": "cuisine",
-        "name_zh": "浙菜",
-        "name_en": "Zhejiang cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "湘菜",
-        "name_en": "Hunan cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "徽菜",
-        "name_en": "Anhui cuisine"
+        "type": "ingredient",
+        "name_zh": "豆瓣酱",
+        "name_en": "doubanjiang"
       }
     ],
     "citation_notes": [
@@ -264,21 +249,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "bā dà cài xì bǎ lǔ cài chuān cài yuè cài sū cài mǐn cài zhè cài xiāng cài hé huī cài fàng zài tóng yì zhāng měi shí dì tú shàng",
-      "content_zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "content_en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "content_vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "content_th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "content_id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "pinyin": "chuān cài de má là lái zì sì chuān pén dì qì hòu huā jiāo chuán tǒng là jiāo chuán bō hé fù hé tiáo wèi gòng tóng xíng chéng de wèi jué tǐ xì",
+      "content_zh": "川菜的麻辣来自四川盆地气候、花椒传统、辣椒传播和复合调味共同形成的味觉体系。",
+      "content_en": "Sichuan mala flavor comes from the basin climate, Sichuan pepper tradition, chili spread, and layered seasoning.",
+      "content_vi": "Vị tê cay ẩm thực Xuyên đến từ khí hậu bồn địa, truyền thống hoa tiêu, sự lan truyền ớt và nêm nếm phức hợp.",
+      "content_th": "รสหม่าล่าของอาหารชวนมาจากภูมิอากาศแอ่งเสฉวน ประเพณีฮวาเจียว การแพร่ของพริก และการปรุงรสหลายชั้น",
+      "content_id": "Rasa mala Sichuan berasal dari iklim cekungan, tradisi lada Sichuan, penyebaran cabai, dan bumbu berlapis."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -309,12 +294,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "lǔ cài jī chǔ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Shandong cuisine foundation also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "sì chuān pén dì yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "四川盆地也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "Sichuan Basin also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -345,30 +330,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ lǔ cài jī chǔ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Shandong cuisine foundation is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ sì chuān pén dì bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，四川盆地不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, Sichuan Basin is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "chuān cài má là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Sichuan mala flavor is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "huā jiāo má xiāng shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "花椒麻香是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "Sichuan pepper numbness is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -399,12 +384,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "chuān cài má là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Sichuan mala flavor also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "huā jiāo má xiāng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "花椒麻香也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "Sichuan pepper numbness also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -435,30 +420,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ chuān cài má là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Sichuan mala flavor is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ huā jiāo má xiāng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，花椒麻香不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, Sichuan pepper numbness is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "yuè cài qīng xiān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Cantonese freshness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "là jiāo jìn rù shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "辣椒进入是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "arrival of chilies is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -489,12 +474,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "yuè cài qīng xiān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Cantonese freshness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "là jiāo jìn rù yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "辣椒进入也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "arrival of chilies also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -525,30 +510,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ yuè cài qīng xiān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Cantonese freshness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ là jiāo jìn rù bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，辣椒进入不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, arrival of chilies is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "sū cài róu hé shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Jiangsu gentleness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "dòu bàn jiàng shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "豆瓣酱是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "doubanjiang paste is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -579,12 +564,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "sū cài róu hé yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Jiangsu gentleness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "dòu bàn jiàng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "豆瓣酱也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "doubanjiang paste also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -615,30 +600,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ sū cài róu hé bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Jiangsu gentleness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ dòu bàn jiàng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，豆瓣酱不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, doubanjiang paste is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "mǐn cài tāng gēng shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Fujian soups is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "fù hé wèi xíng shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "复合味型是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "compound flavor types is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -669,12 +654,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "mǐn cài tāng gēng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Fujian soups also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fù hé wèi xíng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "复合味型也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "compound flavor types also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -705,30 +690,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ mǐn cài tāng gēng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Fujian soups is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fù hé wèi xíng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，复合味型不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, compound flavor types is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "zhè cài qīng yǎ shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Zhejiang elegance is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "huǒ guō guō dǐ shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "火锅锅底是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "hot pot base is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -759,12 +744,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "zhè cài qīng yǎ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Zhejiang elegance also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "huǒ guō guō dǐ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "火锅锅底也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "hot pot base also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -795,30 +780,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ zhè cài qīng yǎ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Zhejiang elegance is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ huǒ guō guō dǐ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，火锅锅底不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, hot pot base is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "xiāng cài suān là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Hunan sour heat is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "jiā cháng xiǎo chǎo shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "家常小炒是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "home-style stir-fry is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -849,12 +834,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "xiāng cài suān là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Hunan sour heat also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiā cháng xiǎo chǎo yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "家常小炒也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "home-style stir-fry also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -885,30 +870,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ xiāng cài suān là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Hunan sour heat is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiā cháng xiǎo chǎo bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，家常小炒不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, home-style stir-fry is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "huī cài dùn shāo shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Anhui stewing is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "jiāng hú cài shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "江湖菜是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "bold local dishes is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -939,12 +924,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "huī cài dùn shāo yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Anhui stewing also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiāng hú cài yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "江湖菜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "bold local dishes also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -975,30 +960,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ huī cài dùn shāo bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Anhui stewing is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiāng hú cài bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，江湖菜不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, bold local dishes is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "shān hǎi wù chǎn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "山海物产是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "mountain and sea resources is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "shī rùn qì hòu shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "湿润气候是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "humid climate is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1029,12 +1014,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "shān hǎi wù chǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "mountain and sea resources also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "shī rùn qì hòu yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "湿润气候也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "humid climate also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1065,30 +1050,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ shān hǎi wù chǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, mountain and sea resources is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ shī rùn qì hòu bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，湿润气候不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, humid climate is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "jiāo tōng chuán bō shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "交通传播是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "transport and spread is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "mǎ tóu cān yǐn shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "码头餐饮是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "dockside dining is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1119,12 +1104,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "jiāo tōng chuán bō yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "transport and spread also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "mǎ tóu cān yǐn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "码头餐饮也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "dockside dining also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1155,30 +1140,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ jiāo tōng chuán bō bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, transport and spread is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ mǎ tóu cān yǐn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，码头餐饮不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, dockside dining is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "cān guǎn cài dān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "restaurant menus is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "tiáo wèi céng cì shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "调味层次是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "layers of seasoning is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1209,12 +1194,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "cān guǎn cài dān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "restaurant menus also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "tiáo wèi céng cì yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "调味层次也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "layers of seasoning also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1245,30 +1230,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ cān guǎn cài dān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, restaurant menus is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ tiáo wèi céng cì bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，调味层次不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, layers of seasoning is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "dì yù jīng yàn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "地域经验是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "regional experience is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "xiàn dài chuán bō shì lǐ jiě chuān cài má là lái yuán de zhòng yào wèi jué nèi róng",
+      "content_zh": "现代传播是理解川菜麻辣来源的重要味觉内容。",
+      "content_en": "modern spread is an important flavor element for understanding the origins of Sichuan mala flavor.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu nguồn gốc vị tê cay ẩm thực Xuyên.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจที่มาของรสชาหม่าล่าอาหารชวน",
+      "content_id": "Bagian ini penting untuk memahami asal rasa mala masakan Sichuan."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ chuān cài má là lái yuán fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把川菜麻辣来源放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places the origins of Sichuan mala flavor back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt nguồn gốc vị tê cay ẩm thực Xuyên vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ที่มาของรสชาหม่าล่าอาหารชวนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan asal rasa mala masakan Sichuan kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1299,12 +1284,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "dì yù jīng yàn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "regional experience also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "xiàn dài chuán bō yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "现代传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "modern spread also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy nguồn gốc vị tê cay ẩm thực Xuyên được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าที่มาของรสชาหม่าล่าอาหารชวนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa asal rasa mala masakan Sichuan terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1335,12 +1320,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ dì yù jīng yàn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, regional experience is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ xiàn dài chuán bō bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě chuān cài má là lái yuán",
+      "content_zh": "因此，现代传播不仅是一种做法，也帮助今天的人理解川菜麻辣来源。",
+      "content_en": "Therefore, modern spread is not only a method but also a way to understand the origins of Sichuan mala flavor.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nguồn gốc vị tê cay ẩm thực Xuyên rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจที่มาของรสชาหม่าล่าอาหารชวนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami asal rasa mala masakan Sichuan dengan lebih jelas."
     }
   ]
 }

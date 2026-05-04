@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "02",
   "category_dir": "02-cuisine",
-  "article_slug": "01-eight-cuisines-food-map",
+  "article_slug": "10-chinese-cuisine-heat-control",
   "article": {
-    "local_id": "cuisine-001",
+    "local_id": "cuisine-010",
     "category_code": "02",
-    "title_pinyin": "bā dà cài xì rú hé gòu chéng zhōng guó měi shí dì tú",
+    "title_pinyin": "zhōng guó cài wèi shén me zhòng shì huǒ hòu",
     "title_i18n": {
-      "zh": "八大菜系如何构成中国美食地图？",
-      "en": "How Do the Eight Cuisines Form China’s Food Map?",
-      "vi": "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?",
-      "th": "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?",
-      "id": "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+      "zh": "中国菜为什么重视火候？",
+      "en": "Why Does Chinese Cooking Value Heat Control?",
+      "vi": "Vì sao món Trung Quốc coi trọng độ lửa?",
+      "th": "ทำไมอาหารจีนจึงให้ความสำคัญกับไฟ?",
+      "id": "Mengapa masakan Tiongkok menghargai kendali api?"
     }
   },
   "content_policy": {
@@ -31,228 +31,208 @@
     ]
   },
   "source_story_zh": [
-    "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "中国菜重视火候，是因为火力、时间和食材状态共同决定口感、香气、汁水和成菜节奏。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "旺火快炒也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，旺火快炒不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "小火慢炖是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "小火慢炖也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，小火慢炖不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "中火收汁是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "中火收汁也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，中火收汁不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "油温判断是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "油温判断也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，油温判断不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "锅气形成是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "锅气形成也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，锅气形成不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "肉类嫩度是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "肉类嫩度也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，肉类嫩度不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "蔬菜脆感是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "蔬菜脆感也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，蔬菜脆感不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "汤品清浊是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "汤品清浊也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "山海物产是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，汤品清浊不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "蒸煮时间是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "蒸煮时间也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "交通传播是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，蒸煮时间不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "厨师经验是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "厨师经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，厨师经验不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "家常练习是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "家常练习也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "地域经验是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，家常练习不仅是一种做法，也帮助今天的人理解中国菜火候。",
+    "菜系差异是理解中国菜火候的重要味觉内容。",
+    "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "菜系差异也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。"
+    "因此，菜系差异不仅是一种做法，也帮助今天的人理解中国菜火候。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "八大菜系美食地图",
+        "中国菜火候",
         "中国美食",
-        "八大菜系如何构成中国美食地图"
+        "中国菜为什么重视火候"
       ],
       "en": [
-        "the food map of the eight Chinese cuisines",
+        "heat control in Chinese cooking",
         "Chinese cuisine",
-        "the food map of the eight Chinese cuisines guide"
+        "heat control in Chinese cooking guide"
       ],
       "vi": [
-        "bản đồ ẩm thực tám trường phái Trung Quốc",
+        "độ lửa trong món Trung Quốc",
         "ẩm thực Trung Quốc"
       ],
       "th": [
-        "แผนที่อาหารของแปดสำรับจีน",
+        "การควบคุมไฟในอาหารจีน",
         "อาหารจีน"
       ],
       "id": [
-        "peta kuliner delapan masakan Tiongkok",
+        "kendali api dalam masakan Tiongkok",
         "kuliner Tiongkok"
       ]
     },
     "search_intents": [
-      "how_to",
+      "why",
       "beginner_learning"
     ],
     "long_tail_questions": {
       "zh": [
-        "八大菜系如何构成中国美食地图？",
-        "八大菜系美食地图应该从哪些方面理解？"
+        "中国菜为什么重视火候？",
+        "中国菜火候应该从哪些方面理解？"
       ],
       "en": [
-        "How Do the Eight Cuisines Form China’s Food Map?",
-        "How should beginners understand the food map of the eight Chinese cuisines?"
+        "Why Does Chinese Cooking Value Heat Control?",
+        "How should beginners understand heat control in Chinese cooking?"
       ],
       "vi": [
-        "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?"
+        "Vì sao món Trung Quốc coi trọng độ lửa?"
       ],
       "th": [
-        "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?"
+        "ทำไมอาหารจีนจึงให้ความสำคัญกับไฟ?"
       ],
       "id": [
-        "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+        "Mengapa masakan Tiongkok menghargai kendali api?"
       ]
     },
     "pseo_paths": [
-      "/china/02-cuisine/eight-cuisines-food-map"
+      "/china/02-cuisine/chinese-cuisine-heat-control"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "zh": "中国菜重视火候，是因为火力、时间和食材状态共同决定口感、香气、汁水和成菜节奏。",
+      "en": "Chinese cooking values heat control because flame, timing, and ingredient condition together decide texture, aroma, juices, and cooking rhythm.",
+      "vi": "Món Trung Quốc coi trọng độ lửa vì lửa, thời gian và trạng thái nguyên liệu cùng quyết định kết cấu, hương, nước và nhịp nấu.",
+      "th": "อาหารจีนให้ความสำคัญกับไฟเพราะแรงไฟ เวลา และสภาพวัตถุดิบร่วมกันกำหนดสัมผัส กลิ่น น้ำ汁 และจังหวะอาหาร",
+      "id": "Masakan Tiongkok menghargai kendali api karena api, waktu, dan kondisi bahan bersama menentukan tekstur, aroma, sari, dan ritme masak."
     },
     "entities": [
       {
-        "type": "cuisine",
-        "name_zh": "鲁菜",
-        "name_en": "Shandong cuisine"
+        "type": "concept",
+        "name_zh": "火候",
+        "name_en": "heat control"
       },
       {
-        "type": "cuisine",
-        "name_zh": "川菜",
-        "name_en": "Sichuan cuisine"
+        "type": "technique",
+        "name_zh": "爆炒",
+        "name_en": "quick stir-fry"
       },
       {
-        "type": "cuisine",
-        "name_zh": "粤菜",
-        "name_en": "Cantonese cuisine"
+        "type": "technique",
+        "name_zh": "炖",
+        "name_en": "stewing"
       },
       {
-        "type": "cuisine",
-        "name_zh": "苏菜",
-        "name_en": "Jiangsu cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "闽菜",
-        "name_en": "Fujian cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "浙菜",
-        "name_en": "Zhejiang cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "湘菜",
-        "name_en": "Hunan cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "徽菜",
-        "name_en": "Anhui cuisine"
+        "type": "concept",
+        "name_zh": "锅气",
+        "name_en": "wok aroma"
       }
     ],
     "citation_notes": [
@@ -264,21 +244,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "bā dà cài xì bǎ lǔ cài chuān cài yuè cài sū cài mǐn cài zhè cài xiāng cài hé huī cài fàng zài tóng yì zhāng měi shí dì tú shàng",
-      "content_zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "content_en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "content_vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "content_th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "content_id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "pinyin": "zhōng guó cài zhòng shì huǒ hòu shì yīn wèi huǒ lì shí jiān hé shí cái zhuàng tài gòng tóng jué dìng kǒu gǎn xiāng qì zhī shuǐ hé chéng cài jié zòu",
+      "content_zh": "中国菜重视火候，是因为火力、时间和食材状态共同决定口感、香气、汁水和成菜节奏。",
+      "content_en": "Chinese cooking values heat control because flame, timing, and ingredient condition together decide texture, aroma, juices, and cooking rhythm.",
+      "content_vi": "Món Trung Quốc coi trọng độ lửa vì lửa, thời gian và trạng thái nguyên liệu cùng quyết định kết cấu, hương, nước và nhịp nấu.",
+      "content_th": "อาหารจีนให้ความสำคัญกับไฟเพราะแรงไฟ เวลา และสภาพวัตถุดิบร่วมกันกำหนดสัมผัส กลิ่น น้ำ汁 และจังหวะอาหาร",
+      "content_id": "Masakan Tiongkok menghargai kendali api karena api, waktu, dan kondisi bahan bersama menentukan tekstur, aroma, sari, dan ritme masak."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -309,12 +289,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "lǔ cài jī chǔ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Shandong cuisine foundation also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "wàng huǒ kuài chǎo yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "旺火快炒也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "high-heat quick stir-fry also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -345,30 +325,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ lǔ cài jī chǔ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Shandong cuisine foundation is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ wàng huǒ kuài chǎo bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，旺火快炒不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, high-heat quick stir-fry is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "chuān cài má là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Sichuan mala flavor is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "xiǎo huǒ màn dùn shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "小火慢炖是理解中国菜火候的重要味觉内容。",
+      "content_en": "low-heat slow stew is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -399,12 +379,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "chuān cài má là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Sichuan mala flavor also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "xiǎo huǒ màn dùn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "小火慢炖也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "low-heat slow stew also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -435,30 +415,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ chuān cài má là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Sichuan mala flavor is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ xiǎo huǒ màn dùn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，小火慢炖不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, low-heat slow stew is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "yuè cài qīng xiān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Cantonese freshness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "zhōng huǒ shōu zhī shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "中火收汁是理解中国菜火候的重要味觉内容。",
+      "content_en": "medium-heat reduction is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -489,12 +469,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "yuè cài qīng xiān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Cantonese freshness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "zhōng huǒ shōu zhī yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "中火收汁也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "medium-heat reduction also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -525,30 +505,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ yuè cài qīng xiān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Cantonese freshness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ zhōng huǒ shōu zhī bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，中火收汁不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, medium-heat reduction is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "sū cài róu hé shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Jiangsu gentleness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "yóu wēn pàn duàn shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "油温判断是理解中国菜火候的重要味觉内容。",
+      "content_en": "oil temperature judgment is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -579,12 +559,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "sū cài róu hé yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Jiangsu gentleness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yóu wēn pàn duàn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "油温判断也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "oil temperature judgment also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -615,30 +595,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ sū cài róu hé bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Jiangsu gentleness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yóu wēn pàn duàn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，油温判断不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, oil temperature judgment is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "mǐn cài tāng gēng shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Fujian soups is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "guō qì xíng chéng shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "锅气形成是理解中国菜火候的重要味觉内容。",
+      "content_en": "wok aroma is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -669,12 +649,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "mǐn cài tāng gēng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Fujian soups also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "guō qì xíng chéng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "锅气形成也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "wok aroma also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -705,30 +685,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ mǐn cài tāng gēng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Fujian soups is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ guō qì xíng chéng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，锅气形成不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, wok aroma is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "zhè cài qīng yǎ shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Zhejiang elegance is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "ròu lèi nèn dù shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "肉类嫩度是理解中国菜火候的重要味觉内容。",
+      "content_en": "meat tenderness is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -759,12 +739,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "zhè cài qīng yǎ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Zhejiang elegance also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "ròu lèi nèn dù yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "肉类嫩度也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "meat tenderness also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -795,30 +775,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ zhè cài qīng yǎ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Zhejiang elegance is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ ròu lèi nèn dù bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，肉类嫩度不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, meat tenderness is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "xiāng cài suān là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Hunan sour heat is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "shū cài cuì gǎn shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "蔬菜脆感是理解中国菜火候的重要味觉内容。",
+      "content_en": "vegetable crispness is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -849,12 +829,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "xiāng cài suān là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Hunan sour heat also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "shū cài cuì gǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "蔬菜脆感也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "vegetable crispness also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -885,30 +865,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ xiāng cài suān là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Hunan sour heat is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ shū cài cuì gǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，蔬菜脆感不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, vegetable crispness is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "huī cài dùn shāo shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Anhui stewing is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "tāng pǐn qīng zhuó shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "汤品清浊是理解中国菜火候的重要味觉内容。",
+      "content_en": "clarity of soups is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -939,12 +919,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "huī cài dùn shāo yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Anhui stewing also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "tāng pǐn qīng zhuó yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "汤品清浊也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "clarity of soups also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -975,30 +955,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ huī cài dùn shāo bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Anhui stewing is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ tāng pǐn qīng zhuó bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，汤品清浊不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, clarity of soups is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "shān hǎi wù chǎn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "山海物产是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "mountain and sea resources is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "zhēng zhǔ shí jiān shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "蒸煮时间是理解中国菜火候的重要味觉内容。",
+      "content_en": "steaming and boiling time is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1029,12 +1009,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "shān hǎi wù chǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "mountain and sea resources also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "zhēng zhǔ shí jiān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "蒸煮时间也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "steaming and boiling time also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1065,30 +1045,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ shān hǎi wù chǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, mountain and sea resources is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ zhēng zhǔ shí jiān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，蒸煮时间不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, steaming and boiling time is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "jiāo tōng chuán bō shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "交通传播是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "transport and spread is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "chú shī jīng yàn shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "厨师经验是理解中国菜火候的重要味觉内容。",
+      "content_en": "cook’s experience is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1119,12 +1099,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "jiāo tōng chuán bō yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "transport and spread also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "chú shī jīng yàn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "厨师经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "cook’s experience also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1155,30 +1135,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ jiāo tōng chuán bō bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, transport and spread is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ chú shī jīng yàn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，厨师经验不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, cook’s experience is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "cān guǎn cài dān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "restaurant menus is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "jiā cháng liàn xí shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "家常练习是理解中国菜火候的重要味觉内容。",
+      "content_en": "home practice is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1209,12 +1189,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "cān guǎn cài dān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "restaurant menus also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiā cháng liàn xí yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "家常练习也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "home practice also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1245,30 +1225,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ cān guǎn cài dān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, restaurant menus is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiā cháng liàn xí bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，家常练习不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, home practice is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "dì yù jīng yàn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "地域经验是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "regional experience is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "cài xì chā yì shì lǐ jiě zhōng guó cài huǒ hòu de zhòng yào wèi jué nèi róng",
+      "content_zh": "菜系差异是理解中国菜火候的重要味觉内容。",
+      "content_en": "regional differences is an important flavor element for understanding heat control in Chinese cooking.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu độ lửa trong món Trung Quốc.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจการควบคุมไฟในอาหารจีน",
+      "content_id": "Bagian ini penting untuk memahami kendali api dalam masakan Tiongkok."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ zhōng guó cài huǒ hòu fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把中国菜火候放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places heat control in Chinese cooking back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt độ lửa trong món Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้การควบคุมไฟในอาหารจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kendali api dalam masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1299,12 +1279,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "dì yù jīng yàn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "regional experience also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "cài xì chā yì yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "菜系差异也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "regional differences also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy độ lửa trong món Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าการควบคุมไฟในอาหารจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kendali api dalam masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1335,12 +1315,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ dì yù jīng yàn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, regional experience is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ cài xì chà yì bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó cài huǒ hòu",
+      "content_zh": "因此，菜系差异不仅是一种做法，也帮助今天的人理解中国菜火候。",
+      "content_en": "Therefore, regional differences is not only a method but also a way to understand heat control in Chinese cooking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu độ lửa trong món Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการควบคุมไฟในอาหารจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kendali api dalam masakan Tiongkok dengan lebih jelas."
     }
   ]
 }

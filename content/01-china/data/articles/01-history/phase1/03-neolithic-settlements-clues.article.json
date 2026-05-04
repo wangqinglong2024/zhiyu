@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "01",
   "category_dir": "01-history",
-  "article_slug": "01-chinese-history-evolution",
+  "article_slug": "03-neolithic-settlements-clues",
   "article": {
-    "local_id": "hist-001",
+    "local_id": "hist-003",
     "category_code": "01",
-    "title_pinyin": "zhōng guó lì shǐ shì zěn yàng yí bù bù yǎn huà de",
+    "title_pinyin": "xīn shí qì shí dài de jù luò liú xià le shén me xiàn suǒ",
     "title_i18n": {
-      "zh": "中国历史是怎样一步步演化的？",
-      "en": "How Did Chinese History Evolve Step by Step?",
-      "vi": "Lịch sử Trung Quốc phát triển từng bước ra sao?",
-      "th": "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?",
-      "id": "Bagaimana sejarah Tiongkok berkembang bertahap?"
+      "zh": "新石器时代的聚落留下了什么线索？",
+      "en": "What Traces Did Neolithic Settlements Leave?",
+      "vi": "Các khu cư trú thời Đá mới để lại dấu vết gì?",
+      "th": "ชุมชนยุคหินใหม่ทิ้งร่องรอยอะไรไว้?",
+      "id": "Jejak apa yang ditinggalkan permukiman Neolitik?"
     }
   },
   "content_policy": {
@@ -31,218 +31,208 @@
     ]
   },
   "source_story_zh": [
-    "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "新石器时代聚落留下了房屋、墓葬、陶器、粮食和社会分工等早期社会痕迹。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
+    "半地穴房屋也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "黄河长江是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，半地穴房屋不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "陶器纹样是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
+    "陶器纹样也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "夏商周三代是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，陶器纹样不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "磨制石器是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
+    "磨制石器也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "春秋战国是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，磨制石器不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "粮食遗存是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
+    "粮食遗存也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "秦汉统一是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，粮食遗存不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "墓葬差异是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
+    "墓葬差异也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "丝绸之路是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，墓葬差异不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "公共空间是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
+    "公共空间也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "魏晋南北朝是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，公共空间不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "手工制作是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
+    "手工制作也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "隋唐都城是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，手工制作不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "家畜饲养是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
+    "家畜饲养也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "宋代城市是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，家畜饲养不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "防护设施是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
+    "防护设施也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "元明清互动是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，防护设施不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "交换物品是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
+    "交换物品也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "近代转型是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，交换物品不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "祭祀遗迹是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
+    "祭祀遗迹也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "考古补充是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，祭祀遗迹不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+    "村落布局是理解新石器时代聚落的重要内容。",
+    "它把新石器时代聚落放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
+    "村落布局也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。"
+    "因此，村落布局不仅属于过去，也帮助今天的人理解新石器时代聚落。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "中国历史演化",
+        "新石器时代聚落",
         "中国历史",
-        "中国历史是怎样一步步演化的"
+        "新石器时代的聚落留下了什么线索"
       ],
       "en": [
-        "the evolution of Chinese history",
+        "Neolithic settlements",
         "Chinese history",
-        "the evolution of Chinese history guide"
+        "Neolithic settlements guide"
       ],
       "vi": [
-        "sự phát triển của lịch sử Trung Quốc",
+        "khu cư trú thời Đá mới",
         "lịch sử Trung Quốc"
       ],
       "th": [
-        "พัฒนาการประวัติศาสตร์จีน",
+        "ชุมชนยุคหินใหม่",
         "ประวัติศาสตร์จีน"
       ],
       "id": [
-        "perkembangan sejarah Tiongkok",
+        "permukiman Neolitik",
         "sejarah Tiongkok"
       ]
     },
     "search_intents": [
-      "how_to",
+      "what_is",
       "beginner_learning"
     ],
     "long_tail_questions": {
       "zh": [
-        "中国历史是怎样一步步演化的？",
-        "中国历史演化应该从哪些方面理解？"
+        "新石器时代的聚落留下了什么线索？",
+        "新石器时代聚落应该从哪些方面理解？"
       ],
       "en": [
-        "How Did Chinese History Evolve Step by Step?",
-        "How should beginners understand the evolution of Chinese history?"
+        "What Traces Did Neolithic Settlements Leave?",
+        "How should beginners understand Neolithic settlements?"
       ],
       "vi": [
-        "Lịch sử Trung Quốc phát triển từng bước ra sao?"
+        "Các khu cư trú thời Đá mới để lại dấu vết gì?"
       ],
       "th": [
-        "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?"
+        "ชุมชนยุคหินใหม่ทิ้งร่องรอยอะไรไว้?"
       ],
       "id": [
-        "Bagaimana sejarah Tiongkok berkembang bertahap?"
+        "Jejak apa yang ditinggalkan permukiman Neolitik?"
       ]
     },
     "pseo_paths": [
-      "/china/01-history/chinese-history-evolution"
+      "/china/01-history/neolithic-settlements-clues"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "zh": "新石器时代聚落留下了房屋、墓葬、陶器、粮食和社会分工等早期社会痕迹。",
+      "en": "Neolithic settlements left traces of early society in houses, burials, pottery, grain, and social division of labor.",
+      "vi": "Khu cư trú thời Đá mới để lại dấu vết xã hội sơ kỳ qua nhà ở, mộ táng, đồ gốm, lương thực và phân công xã hội.",
+      "th": "ชุมชนยุคหินใหม่ทิ้งร่องรอยสังคมยุคแรกไว้ในบ้าน หลุมศพ เครื่องปั้นดินเผา เมล็ดพืช และการแบ่งงาน",
+      "id": "Permukiman Neolitik meninggalkan jejak masyarakat awal melalui rumah, makam, tembikar, biji-bijian, dan pembagian kerja."
     },
     "entities": [
       {
-        "type": "place",
-        "name_zh": "黄河",
-        "name_en": "Yellow River"
+        "type": "era",
+        "name_zh": "新石器时代",
+        "name_en": "Neolithic Age"
       },
       {
-        "type": "place",
-        "name_zh": "长江",
-        "name_en": "Yangtze River"
+        "type": "object",
+        "name_zh": "陶器",
+        "name_en": "pottery"
       },
       {
-        "type": "dynasty_group",
-        "name_zh": "夏商周",
-        "name_en": "Xia, Shang, and Zhou"
+        "type": "object",
+        "name_zh": "石器",
+        "name_en": "stone tools"
       },
       {
-        "type": "dynasty",
-        "name_zh": "秦朝",
-        "name_en": "Qin Dynasty"
-      },
-      {
-        "type": "dynasty",
-        "name_zh": "汉朝",
-        "name_en": "Han Dynasty"
-      },
-      {
-        "type": "place",
-        "name_zh": "长安",
-        "name_en": "Chang’an"
+        "type": "concept",
+        "name_zh": "聚落",
+        "name_en": "settlement"
       }
     ],
     "citation_notes": [
@@ -254,21 +244,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "zhōng guó lì shǐ shì yí bù cóng zǎo qī jù luò wáng cháo zhì dù chéng shì shēng huó dào xiàn dài shè huì bú duàn yǎn huà de cháng shí duàn guò chéng",
-      "content_zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "content_en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "content_vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "content_th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "content_id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "pinyin": "xīn shí qì shí dài jù luò liú xià le fáng wū mù zàng táo qì liáng shí hé shè huì fēn gōng děng zǎo qī shè huì hén jì",
+      "content_zh": "新石器时代聚落留下了房屋、墓葬、陶器、粮食和社会分工等早期社会痕迹。",
+      "content_en": "Neolithic settlements left traces of early society in houses, burials, pottery, grain, and social division of labor.",
+      "content_vi": "Khu cư trú thời Đá mới để lại dấu vết xã hội sơ kỳ qua nhà ở, mộ táng, đồ gốm, lương thực và phân công xã hội.",
+      "content_th": "ชุมชนยุคหินใหม่ทิ้งร่องรอยสังคมยุคแรกไว้ในบ้าน หลุมศพ เครื่องปั้นดินเผา เมล็ดพืช และการแบ่งงาน",
+      "content_id": "Permukiman Neolitik meninggalkan jejak masyarakat awal melalui rumah, makam, tembikar, biji-bijian, dan pembagian kerja."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -299,12 +289,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "zǎo qī jù luò yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "early settlements also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "bàn dì xué fáng wū yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "半地穴房屋也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "semi-subterranean houses also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -335,30 +325,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ zǎo qī jù luò bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, early settlements belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ bàn dì xué fáng wū bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，半地穴房屋不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, semi-subterranean houses belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "huáng hé cháng jiāng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "黄河长江是理解中国历史演化的重要内容。",
-      "content_en": "the Yellow and Yangtze rivers is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "táo qì wén yàng shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "陶器纹样是理解新石器时代聚落的重要内容。",
+      "content_en": "pottery patterns is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -389,12 +379,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "huáng hé cháng jiāng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Yellow and Yangtze rivers also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "táo qì wén yàng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "陶器纹样也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "pottery patterns also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -425,30 +415,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ huáng hé cháng jiāng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Yellow and Yangtze rivers belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ táo qì wén yàng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，陶器纹样不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, pottery patterns belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "xià shāng zhōu sān dài shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "夏商周三代是理解中国历史演化的重要内容。",
-      "content_en": "the Xia, Shang, and Zhou periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "mó zhì shí qì shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "磨制石器是理解新石器时代聚落的重要内容。",
+      "content_en": "polished stone tools is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -479,12 +469,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "xià shāng zhōu sān dài yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Xia, Shang, and Zhou periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "mó zhì shí qì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "磨制石器也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "polished stone tools also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -515,30 +505,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ xià shāng zhōu sān dài bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Xia, Shang, and Zhou periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ mó zhì shí qì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，磨制石器不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, polished stone tools belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "chūn qiū zhàn guó shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "春秋战国是理解中国历史演化的重要内容。",
-      "content_en": "the Spring and Autumn and Warring States periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "liáng shí yí cún shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "粮食遗存是理解新石器时代聚落的重要内容。",
+      "content_en": "grain remains is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -569,12 +559,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "chūn qiū zhàn guó yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Spring and Autumn and Warring States periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "liáng shí yí cún yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "粮食遗存也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "grain remains also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -605,30 +595,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ chūn qiū zhàn guó bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Spring and Autumn and Warring States periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ liáng shí yí cún bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，粮食遗存不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, grain remains belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "qín hàn tǒng yī shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "秦汉统一是理解中国历史演化的重要内容。",
-      "content_en": "Qin and Han unification is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "mù zàng chā yì shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "墓葬差异是理解新石器时代聚落的重要内容。",
+      "content_en": "burial differences is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -659,12 +649,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "qín hàn tǒng yī yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Qin and Han unification also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "mù zàng chà yì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "墓葬差异也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "burial differences also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -695,30 +685,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ qín hàn tǒng yí bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Qin and Han unification belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ mù zàng chà yì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，墓葬差异不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, burial differences belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "sī chóu zhī lù shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "丝绸之路是理解中国历史演化的重要内容。",
-      "content_en": "the Silk Road is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "gōng gòng kōng jiān shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "公共空间是理解新石器时代聚落的重要内容。",
+      "content_en": "public spaces is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -749,12 +739,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "sī chóu zhī lù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Silk Road also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "gōng gòng kōng jiān yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "公共空间也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "public spaces also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -785,30 +775,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ sī chóu zhī lù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Silk Road belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ gōng gòng kōng jiān bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，公共空间不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, public spaces belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "wèi jìn nán běi cháo shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "魏晋南北朝是理解中国历史演化的重要内容。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "shǒu gōng zhì zuò shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "手工制作是理解新石器时代聚落的重要内容。",
+      "content_en": "craft production is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -839,12 +829,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "wèi jìn nán běi cháo yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "shǒu gōng zhì zuò yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "手工制作也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "craft production also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -875,30 +865,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ wèi jìn nán běi cháo bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Wei-Jin and Northern-Southern Dynasties belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ shǒu gōng zhì zuò bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，手工制作不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, craft production belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "suí táng dū chéng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "隋唐都城是理解中国历史演化的重要内容。",
-      "content_en": "Sui and Tang capitals is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "jiā chù sì yǎng shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "家畜饲养是理解新石器时代聚落的重要内容。",
+      "content_en": "animal keeping is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -929,12 +919,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "suí táng dōu chéng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Sui and Tang capitals also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiā chù sì yǎng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "家畜饲养也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "animal keeping also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -965,30 +955,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ suí táng dōu chéng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Sui and Tang capitals belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiā chù sì yǎng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，家畜饲养不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, animal keeping belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "sòng dài chéng shì shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "宋代城市是理解中国历史演化的重要内容。",
-      "content_en": "Song urban life is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "fáng hù shè shī shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "防护设施是理解新石器时代聚落的重要内容。",
+      "content_en": "defensive features is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1019,12 +1009,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "sòng dài chéng shì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Song urban life also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fáng hù shè shī yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "防护设施也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "defensive features also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1055,30 +1045,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ sòng dài chéng shì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Song urban life belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fáng hù shè shī bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，防护设施不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, defensive features belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "yuán míng qīng hù dòng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "元明清互动是理解中国历史演化的重要内容。",
-      "content_en": "Yuan-Ming-Qing interactions is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "jiāo huàn wù pǐn shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "交换物品是理解新石器时代聚落的重要内容。",
+      "content_en": "exchange goods is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1109,12 +1099,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "yuán míng qīng hù dòng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Yuan-Ming-Qing interactions also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiāo huàn wù pǐn yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "交换物品也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "exchange goods also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1145,30 +1135,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ yuán míng qīng hù dòng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Yuan-Ming-Qing interactions belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiāo huàn wù pǐn bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，交换物品不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, exchange goods belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "jìn dài zhuǎn xíng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "近代转型是理解中国历史演化的重要内容。",
-      "content_en": "modern transition is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "jì sì yí jì shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "祭祀遗迹是理解新石器时代聚落的重要内容。",
+      "content_en": "ritual remains is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1199,12 +1189,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "jìn dài zhuǎn xíng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "modern transition also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jì sì yí jì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "祭祀遗迹也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "ritual remains also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1235,30 +1225,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ jìn dài zhuǎn xíng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, modern transition belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jì sì yí jì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，祭祀遗迹不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, ritual remains belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "kǎo gǔ bǔ chōng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "考古补充是理解中国历史演化的重要内容。",
-      "content_en": "archaeological evidence is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "cūn luò bù jú shì lǐ jiě xīn shí qì shí dài jù luò de zhòng yào nèi róng",
+      "content_zh": "村落布局是理解新石器时代聚落的重要内容。",
+      "content_en": "village layout is an important part of understanding Neolithic settlements.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu khu cư trú thời Đá mới.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจชุมชนยุคหินใหม่",
+      "content_id": "Bagian ini penting untuk memahami permukiman Neolitik."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xīn shí qì shí dài jù luò fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把新石器时代聚落放入具体的时间和地域背景中。",
+      "content_en": "It places Neolithic settlements in a concrete setting of time and place.",
+      "content_vi": "Nó đặt khu cư trú thời Đá mới vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ชุมชนยุคหินใหม่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan permukiman Neolitik kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1289,12 +1279,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "kǎo gǔ bǔ chōng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "archaeological evidence also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "cūn luò bù jú yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "村落布局也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "village layout also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy khu cư trú thời Đá mới được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าชุมชนยุคหินใหม่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa permukiman Neolitik terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1325,12 +1315,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ kǎo gǔ bǔ chōng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, archaeological evidence belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ cūn luò bù jú bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xīn shí qì shí dài jù luò",
+      "content_zh": "因此，村落布局不仅属于过去，也帮助今天的人理解新石器时代聚落。",
+      "content_en": "Therefore, village layout belongs to the past while helping people today understand Neolithic settlements.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khu cư trú thời Đá mới rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชุมชนยุคหินใหม่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami permukiman Neolitik dengan lebih jelas."
     }
   ]
 }

@@ -6,9 +6,9 @@
   "phase": "phase1",
   "generated_at": "2026-05-04T00:00:00+08:00",
   "update_mode": "append_only_infinite",
-  "article_count": 1,
-  "sentence_target_per_article": 24,
-  "total_sentences": 24,
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
   "risk_controls": [
     "sea_market_safe",
     "no_politics",
@@ -22,13 +22,90 @@
       "path": "01-eight-cuisines-food-map.article.json",
       "kind": "article",
       "rows": 1,
-      "sentences": 24,
-      "sha256": "9f73b185d0510f923144334fdbe9c812d4dbb980cb591fc6eea6cc97fadcb129"
+      "sentences": 120,
+      "sha256": "a372376a14e5cedc6b2c2fb13518ee202b86dfa02a2bccfea52ce3f6dd810379"
+    },
+    {
+      "path": "02-shandong-cuisine-northern-banquet.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "953cbabfd046f0f5de4804f5c01314042bea62c7ca3c530071e41577da040666"
+    },
+    {
+      "path": "03-sichuan-mala-origins.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f1ac23cbc4866886225b64daaa13715358d719315b4b9b66fb7a41e29099c076"
+    },
+    {
+      "path": "04-cantonese-freshness.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "77905bbd87e69e76184ab999c2a0a2b766bcdafb7bcce64894b5eb631399d2d2"
+    },
+    {
+      "path": "05-jiangsu-cuisine-gentle.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "592aafc084c5f197af039140f628ced1f3370708ba1b496bbd65285ad7ac23ef"
+    },
+    {
+      "path": "06-fujian-soups-seafood.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4c3b9c16877fa60c81ec1dba6f9d1537875ac1846ae4b755e26c894f2bd2e6aa"
+    },
+    {
+      "path": "07-zhejiang-cuisine-elegant.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "cbc10dc6ff026fb7d6b0264f2e20529e7c4c6481ab0b13b2a72ef27bb35f93ea"
+    },
+    {
+      "path": "08-hunan-sour-spicy-wok-life.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "726933e949a5e7eb5665bc8b67f1eb74de5a1083ef6719313255d148fb79145a"
+    },
+    {
+      "path": "09-anhui-stewing-mountain-produce.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "c48408733bb0caad66612f6b84df834a340891dda7829618626be6b5debde0c8"
+    },
+    {
+      "path": "10-chinese-cuisine-heat-control.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4d9b30f46813d806404e16ff3057c1071acfc8da01b7b3c9b0ea2f79ee5d7480"
+    },
+    {
+      "path": "11-xian-freshness-chinese-cuisine.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e7b19ed584e798671cab1d5f5999dcf480b422dc3e789d3fd96d3f764572e127"
+    },
+    {
+      "path": "12-chinese-banquet-order.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "685f52d5dbff6fffead0e1e41d72342a9ff7cf4c4a4a6f3860f0ca904f71ec45"
     }
   ],
   "generator": {
     "name": "github-copilot-direct-authoring",
-    "version": "1.0.0",
-    "note": "Direct-authored seed article: structured as china.article.v2 with embedded SEO/GEO metadata."
+    "version": "2.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
   }
 }

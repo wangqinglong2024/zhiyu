@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "01",
   "category_dir": "01-history",
-  "article_slug": "01-chinese-history-evolution",
+  "article_slug": "11-wu-yue-rivalry-allusions",
   "article": {
-    "local_id": "hist-001",
+    "local_id": "hist-011",
     "category_code": "01",
-    "title_pinyin": "zhōng guó lì shǐ shì zěn yàng yí bù bù yǎn huà de",
+    "title_pinyin": "wú yuè zhēng bà wèi shén me liú xià hěn duō diǎn gù",
     "title_i18n": {
-      "zh": "中国历史是怎样一步步演化的？",
-      "en": "How Did Chinese History Evolve Step by Step?",
-      "vi": "Lịch sử Trung Quốc phát triển từng bước ra sao?",
-      "th": "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?",
-      "id": "Bagaimana sejarah Tiongkok berkembang bertahap?"
+      "zh": "吴越争霸为什么留下很多典故？",
+      "en": "Why Did the Wu-Yue Rivalry Leave So Many Allusions?",
+      "vi": "Vì sao tranh bá Ngô Việt để lại nhiều điển cố?",
+      "th": "ทำไมการชิงอำนาจอู๋เยว่จึงเหลือเรื่องเล่ามากมาย?",
+      "id": "Mengapa persaingan Wu-Yue meninggalkan banyak kiasan?"
     }
   },
   "content_policy": {
@@ -31,218 +31,213 @@
     ]
   },
   "source_story_zh": [
-    "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "吴越争霸留下很多典故，是因为长期对抗、复国记忆、谋臣故事和地域文化被后世反复讲述。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
+    "吴国兴起也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "黄河长江是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，吴国兴起不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "越国复兴是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
+    "越国复兴也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "夏商周三代是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，越国复兴不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "夫差故事是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
+    "夫差故事也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "春秋战国是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，夫差故事不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "勾践经历是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
+    "勾践经历也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "秦汉统一是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，勾践经历不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "卧薪尝胆是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
+    "卧薪尝胆也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "丝绸之路是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，卧薪尝胆不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "范蠡谋略是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
+    "范蠡谋略也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "魏晋南北朝是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，范蠡谋略不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "西施传说是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
+    "西施传说也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "隋唐都城是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，西施传说不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "水乡地理是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
+    "水乡地理也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "宋代城市是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，水乡地理不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "战争记忆是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
+    "战争记忆也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "元明清互动是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，战争记忆不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "复国叙事是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
+    "复国叙事也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "近代转型是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，复国叙事不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "成语来源是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
+    "成语来源也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "考古补充是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，成语来源不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+    "民间讲述是理解吴越争霸典故的重要内容。",
+    "它把吴越争霸典故放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
+    "民间讲述也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。"
+    "因此，民间讲述不仅属于过去，也帮助今天的人理解吴越争霸典故。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "中国历史演化",
+        "吴越争霸典故",
         "中国历史",
-        "中国历史是怎样一步步演化的"
+        "吴越争霸为什么留下很多典故"
       ],
       "en": [
-        "the evolution of Chinese history",
+        "allusions from the Wu-Yue rivalry",
         "Chinese history",
-        "the evolution of Chinese history guide"
+        "allusions from the Wu-Yue rivalry guide"
       ],
       "vi": [
-        "sự phát triển của lịch sử Trung Quốc",
+        "điển cố từ tranh bá Ngô Việt",
         "lịch sử Trung Quốc"
       ],
       "th": [
-        "พัฒนาการประวัติศาสตร์จีน",
+        "เรื่องเล่าจากการแข่งขันอู๋เยว่",
         "ประวัติศาสตร์จีน"
       ],
       "id": [
-        "perkembangan sejarah Tiongkok",
+        "kiasan dari persaingan Wu-Yue",
         "sejarah Tiongkok"
       ]
     },
     "search_intents": [
-      "how_to",
+      "why",
       "beginner_learning"
     ],
     "long_tail_questions": {
       "zh": [
-        "中国历史是怎样一步步演化的？",
-        "中国历史演化应该从哪些方面理解？"
+        "吴越争霸为什么留下很多典故？",
+        "吴越争霸典故应该从哪些方面理解？"
       ],
       "en": [
-        "How Did Chinese History Evolve Step by Step?",
-        "How should beginners understand the evolution of Chinese history?"
+        "Why Did the Wu-Yue Rivalry Leave So Many Allusions?",
+        "How should beginners understand allusions from the Wu-Yue rivalry?"
       ],
       "vi": [
-        "Lịch sử Trung Quốc phát triển từng bước ra sao?"
+        "Vì sao tranh bá Ngô Việt để lại nhiều điển cố?"
       ],
       "th": [
-        "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?"
+        "ทำไมการชิงอำนาจอู๋เยว่จึงเหลือเรื่องเล่ามากมาย?"
       ],
       "id": [
-        "Bagaimana sejarah Tiongkok berkembang bertahap?"
+        "Mengapa persaingan Wu-Yue meninggalkan banyak kiasan?"
       ]
     },
     "pseo_paths": [
-      "/china/01-history/chinese-history-evolution"
+      "/china/01-history/wu-yue-rivalry-allusions"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "zh": "吴越争霸留下很多典故，是因为长期对抗、复国记忆、谋臣故事和地域文化被后世反复讲述。",
+      "en": "The Wu-Yue rivalry left many allusions because long conflict, restoration memory, adviser stories, and regional culture were retold for generations.",
+      "vi": "Tranh bá Ngô Việt để lại nhiều điển cố vì đối kháng lâu dài, ký ức phục quốc, chuyện mưu thần và văn hóa vùng được kể lại nhiều đời.",
+      "th": "การแข่งขันอู๋เยว่เหลือเรื่องเล่ามากเพราะความขัดแย้งยาวนาน ความทรงจำการฟื้นรัฐ เรื่องที่ปรึกษา และวัฒนธรรมภูมิภาคถูกเล่าซ้ำ",
+      "id": "Persaingan Wu-Yue meninggalkan banyak kiasan karena konflik panjang, ingatan pemulihan negara, kisah penasihat, dan budaya daerah terus diceritakan."
     },
     "entities": [
       {
-        "type": "place",
-        "name_zh": "黄河",
-        "name_en": "Yellow River"
+        "type": "state",
+        "name_zh": "吴国",
+        "name_en": "State of Wu"
       },
       {
-        "type": "place",
-        "name_zh": "长江",
-        "name_en": "Yangtze River"
+        "type": "state",
+        "name_zh": "越国",
+        "name_en": "State of Yue"
       },
       {
-        "type": "dynasty_group",
-        "name_zh": "夏商周",
-        "name_en": "Xia, Shang, and Zhou"
+        "type": "person",
+        "name_zh": "夫差",
+        "name_en": "Fuchai"
       },
       {
-        "type": "dynasty",
-        "name_zh": "秦朝",
-        "name_en": "Qin Dynasty"
+        "type": "person",
+        "name_zh": "勾践",
+        "name_en": "Goujian"
       },
       {
-        "type": "dynasty",
-        "name_zh": "汉朝",
-        "name_en": "Han Dynasty"
-      },
-      {
-        "type": "place",
-        "name_zh": "长安",
-        "name_en": "Chang’an"
+        "type": "person",
+        "name_zh": "范蠡",
+        "name_en": "Fan Li"
       }
     ],
     "citation_notes": [
@@ -254,21 +249,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "zhōng guó lì shǐ shì yí bù cóng zǎo qī jù luò wáng cháo zhì dù chéng shì shēng huó dào xiàn dài shè huì bú duàn yǎn huà de cháng shí duàn guò chéng",
-      "content_zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "content_en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "content_vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "content_th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "content_id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "pinyin": "wú yuè zhēng bà liú xià hěn duō diǎn gù shì yīn wèi cháng qī duì kàng fù guó jì yì móu chén gù shì hé dì yù wén huà bèi hòu shì fǎn fù jiǎng shù",
+      "content_zh": "吴越争霸留下很多典故，是因为长期对抗、复国记忆、谋臣故事和地域文化被后世反复讲述。",
+      "content_en": "The Wu-Yue rivalry left many allusions because long conflict, restoration memory, adviser stories, and regional culture were retold for generations.",
+      "content_vi": "Tranh bá Ngô Việt để lại nhiều điển cố vì đối kháng lâu dài, ký ức phục quốc, chuyện mưu thần và văn hóa vùng được kể lại nhiều đời.",
+      "content_th": "การแข่งขันอู๋เยว่เหลือเรื่องเล่ามากเพราะความขัดแย้งยาวนาน ความทรงจำการฟื้นรัฐ เรื่องที่ปรึกษา และวัฒนธรรมภูมิภาคถูกเล่าซ้ำ",
+      "content_id": "Persaingan Wu-Yue meninggalkan banyak kiasan karena konflik panjang, ingatan pemulihan negara, kisah penasihat, dan budaya daerah terus diceritakan."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -299,12 +294,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "zǎo qī jù luò yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "early settlements also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "wú guó xīng qǐ yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "吴国兴起也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "rise of Wu also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -335,30 +330,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ zǎo qī jù luò bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, early settlements belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ wú guó xīng qǐ bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，吴国兴起不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, rise of Wu belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "huáng hé cháng jiāng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "黄河长江是理解中国历史演化的重要内容。",
-      "content_en": "the Yellow and Yangtze rivers is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "yuè guó fù xīng shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "越国复兴是理解吴越争霸典故的重要内容。",
+      "content_en": "revival of Yue is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -389,12 +384,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "huáng hé cháng jiāng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Yellow and Yangtze rivers also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yuè guó fù xīng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "越国复兴也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "revival of Yue also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -425,30 +420,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ huáng hé cháng jiāng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Yellow and Yangtze rivers belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yuè guó fù xīng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，越国复兴不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, revival of Yue belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "xià shāng zhōu sān dài shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "夏商周三代是理解中国历史演化的重要内容。",
-      "content_en": "the Xia, Shang, and Zhou periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "fū chà gù shì shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "夫差故事是理解吴越争霸典故的重要内容。",
+      "content_en": "stories of Fuchai is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -479,12 +474,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "xià shāng zhōu sān dài yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Xia, Shang, and Zhou periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fū chà gù shì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "夫差故事也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "stories of Fuchai also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -515,30 +510,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ xià shāng zhōu sān dài bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Xia, Shang, and Zhou periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fū chà gù shì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，夫差故事不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, stories of Fuchai belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "chūn qiū zhàn guó shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "春秋战国是理解中国历史演化的重要内容。",
-      "content_en": "the Spring and Autumn and Warring States periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "gōu jiàn jīng lì shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "勾践经历是理解吴越争霸典故的重要内容。",
+      "content_en": "Goujian’s experience is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -569,12 +564,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "chūn qiū zhàn guó yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Spring and Autumn and Warring States periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "gōu jiàn jīng lì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "勾践经历也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "Goujian’s experience also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -605,30 +600,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ chūn qiū zhàn guó bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Spring and Autumn and Warring States periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ gōu jiàn jīng lì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，勾践经历不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, Goujian’s experience belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "qín hàn tǒng yī shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "秦汉统一是理解中国历史演化的重要内容。",
-      "content_en": "Qin and Han unification is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "wò xīn cháng dǎn shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "卧薪尝胆是理解吴越争霸典故的重要内容。",
+      "content_en": "sleeping on brushwood and tasting gall is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -659,12 +654,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "qín hàn tǒng yī yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Qin and Han unification also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "wò xīn cháng dǎn yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "卧薪尝胆也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "sleeping on brushwood and tasting gall also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -695,30 +690,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ qín hàn tǒng yí bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Qin and Han unification belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ wò xīn cháng dǎn bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，卧薪尝胆不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, sleeping on brushwood and tasting gall belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "sī chóu zhī lù shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "丝绸之路是理解中国历史演化的重要内容。",
-      "content_en": "the Silk Road is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "fàn lí móu lüè shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "范蠡谋略是理解吴越争霸典故的重要内容。",
+      "content_en": "Fan Li’s strategy is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -749,12 +744,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "sī chóu zhī lù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Silk Road also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fàn lí móu lüè yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "范蠡谋略也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "Fan Li’s strategy also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -785,30 +780,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ sī chóu zhī lù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Silk Road belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fàn lí móu lüè bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，范蠡谋略不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, Fan Li’s strategy belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "wèi jìn nán běi cháo shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "魏晋南北朝是理解中国历史演化的重要内容。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "xī shī chuán shuō shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "西施传说是理解吴越争霸典故的重要内容。",
+      "content_en": "legend of Xishi is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -839,12 +834,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "wèi jìn nán běi cháo yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "xī shī chuán shuō yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "西施传说也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "legend of Xishi also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -875,30 +870,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ wèi jìn nán běi cháo bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Wei-Jin and Northern-Southern Dynasties belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ xī shī chuán shuō bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，西施传说不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, legend of Xishi belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "suí táng dū chéng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "隋唐都城是理解中国历史演化的重要内容。",
-      "content_en": "Sui and Tang capitals is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "shuǐ xiāng dì lǐ shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "水乡地理是理解吴越争霸典故的重要内容。",
+      "content_en": "water-region geography is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -929,12 +924,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "suí táng dōu chéng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Sui and Tang capitals also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "shuǐ xiāng dì lǐ yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "水乡地理也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "water-region geography also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -965,30 +960,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ suí táng dōu chéng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Sui and Tang capitals belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ shuǐ xiāng dì lǐ bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，水乡地理不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, water-region geography belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "sòng dài chéng shì shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "宋代城市是理解中国历史演化的重要内容。",
-      "content_en": "Song urban life is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "zhàn zhēng jì yì shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "战争记忆是理解吴越争霸典故的重要内容。",
+      "content_en": "memory of warfare is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1019,12 +1014,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "sòng dài chéng shì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Song urban life also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "zhàn zhēng jì yì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "战争记忆也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "memory of warfare also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1055,30 +1050,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ sòng dài chéng shì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Song urban life belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ zhàn zhēng jì yì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，战争记忆不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, memory of warfare belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "yuán míng qīng hù dòng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "元明清互动是理解中国历史演化的重要内容。",
-      "content_en": "Yuan-Ming-Qing interactions is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "fù guó xù shì shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "复国叙事是理解吴越争霸典故的重要内容。",
+      "content_en": "restoration narrative is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1109,12 +1104,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "yuán míng qīng hù dòng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Yuan-Ming-Qing interactions also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fù guó xù shì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "复国叙事也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "restoration narrative also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1145,30 +1140,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ yuán míng qīng hù dòng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Yuan-Ming-Qing interactions belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fù guó xù shì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，复国叙事不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, restoration narrative belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "jìn dài zhuǎn xíng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "近代转型是理解中国历史演化的重要内容。",
-      "content_en": "modern transition is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "chéng yǔ lái yuán shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "成语来源是理解吴越争霸典故的重要内容。",
+      "content_en": "origins of idioms is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1199,12 +1194,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "jìn dài zhuǎn xíng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "modern transition also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "chéng yǔ lái yuán yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "成语来源也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "origins of idioms also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1235,30 +1230,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ jìn dài zhuǎn xíng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, modern transition belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ chéng yǔ lái yuán bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，成语来源不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, origins of idioms belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "kǎo gǔ bǔ chōng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "考古补充是理解中国历史演化的重要内容。",
-      "content_en": "archaeological evidence is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "mín jiān jiǎng shù shì lǐ jiě wú yuè zhēng bà diǎn gù de zhòng yào nèi róng",
+      "content_zh": "民间讲述是理解吴越争霸典故的重要内容。",
+      "content_en": "popular retelling is an important part of understanding allusions from the Wu-Yue rivalry.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu điển cố từ tranh bá Ngô Việt.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่",
+      "content_id": "Bagian ini penting untuk memahami kiasan dari persaingan Wu-Yue."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ wú yuè zhēng bà diǎn gù fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把吴越争霸典故放入具体的时间和地域背景中。",
+      "content_en": "It places allusions from the Wu-Yue rivalry in a concrete setting of time and place.",
+      "content_vi": "Nó đặt điển cố từ tranh bá Ngô Việt vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้เรื่องเล่าจากการแข่งขันอู๋เยว่กลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan kiasan dari persaingan Wu-Yue kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1289,12 +1284,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "kǎo gǔ bǔ chōng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "archaeological evidence also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "mín jiān jiǎng shù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "民间讲述也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "popular retelling also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy điển cố từ tranh bá Ngô Việt được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าเรื่องเล่าจากการแข่งขันอู๋เยว่เกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa kiasan dari persaingan Wu-Yue terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1325,12 +1320,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ kǎo gǔ bǔ chōng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, archaeological evidence belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ mín jiān jiǎng shù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě wú yuè zhēng bà diǎn gù",
+      "content_zh": "因此，民间讲述不仅属于过去，也帮助今天的人理解吴越争霸典故。",
+      "content_en": "Therefore, popular retelling belongs to the past while helping people today understand allusions from the Wu-Yue rivalry.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu điển cố từ tranh bá Ngô Việt rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจเรื่องเล่าจากการแข่งขันอู๋เยว่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami kiasan dari persaingan Wu-Yue dengan lebih jelas."
     }
   ]
 }

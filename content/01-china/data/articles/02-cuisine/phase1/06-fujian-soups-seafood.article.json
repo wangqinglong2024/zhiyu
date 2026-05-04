@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "02",
   "category_dir": "02-cuisine",
-  "article_slug": "01-eight-cuisines-food-map",
+  "article_slug": "06-fujian-soups-seafood",
   "article": {
-    "local_id": "cuisine-001",
+    "local_id": "cuisine-006",
     "category_code": "02",
-    "title_pinyin": "bā dà cài xì rú hé gòu chéng zhōng guó měi shí dì tú",
+    "title_pinyin": "mǐn cài de tāng gēng hé hǎi wèi yǒu shén me tè diǎn",
     "title_i18n": {
-      "zh": "八大菜系如何构成中国美食地图？",
-      "en": "How Do the Eight Cuisines Form China’s Food Map?",
-      "vi": "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?",
-      "th": "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?",
-      "id": "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+      "zh": "闽菜的汤羹和海味有什么特点？",
+      "en": "What Features Do Fujian Soups and Seafood Have?",
+      "vi": "Canh súp và hải vị Mân có đặc điểm gì?",
+      "th": "ซุปและรสทะเลของอาหารหมิ่นมีลักษณะอะไร?",
+      "id": "Apa ciri sup dan rasa laut masakan Fujian?"
     }
   },
   "content_policy": {
@@ -31,228 +31,208 @@
     ]
   },
   "source_story_zh": [
-    "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "闽菜的汤羹和海味讲究清、鲜、香、醇，常把山海物产融进细致的汤汁之中。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "沿海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，沿海物产不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "汤羹层次是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "汤羹层次也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，汤羹层次不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "海鲜鲜甜是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "海鲜鲜甜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，海鲜鲜甜不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "红糟风味是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "红糟风味也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，红糟风味不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "佛跳墙是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "佛跳墙也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，佛跳墙不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "山海结合是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "山海结合也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，山海结合不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "刀工细碎是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "刀工细碎也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，刀工细碎不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "清淡口感是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "清淡口感也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "山海物产是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，清淡口感不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "福州风味是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "福州风味也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "交通传播是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，福州风味不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "闽南小吃是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "闽南小吃也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，闽南小吃不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "侨乡交流是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "侨乡交流也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "地域经验是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，侨乡交流不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+    "宴席汤品是理解闽菜汤羹和海味的重要味觉内容。",
+    "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "宴席汤品也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。"
+    "因此，宴席汤品不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "八大菜系美食地图",
+        "闽菜汤羹和海味",
         "中国美食",
-        "八大菜系如何构成中国美食地图"
+        "闽菜的汤羹和海味有什么特点"
       ],
       "en": [
-        "the food map of the eight Chinese cuisines",
+        "Fujian soups and seafood flavors",
         "Chinese cuisine",
-        "the food map of the eight Chinese cuisines guide"
+        "Fujian soups and seafood flavors guide"
       ],
       "vi": [
-        "bản đồ ẩm thực tám trường phái Trung Quốc",
+        "canh súp và hải vị ẩm thực Mân",
         "ẩm thực Trung Quốc"
       ],
       "th": [
-        "แผนที่อาหารของแปดสำรับจีน",
+        "ซุปและรสทะเลอาหารหมิ่น",
         "อาหารจีน"
       ],
       "id": [
-        "peta kuliner delapan masakan Tiongkok",
+        "sup dan rasa laut masakan Fujian",
         "kuliner Tiongkok"
       ]
     },
     "search_intents": [
-      "how_to",
+      "what_is",
       "beginner_learning"
     ],
     "long_tail_questions": {
       "zh": [
-        "八大菜系如何构成中国美食地图？",
-        "八大菜系美食地图应该从哪些方面理解？"
+        "闽菜的汤羹和海味有什么特点？",
+        "闽菜汤羹和海味应该从哪些方面理解？"
       ],
       "en": [
-        "How Do the Eight Cuisines Form China’s Food Map?",
-        "How should beginners understand the food map of the eight Chinese cuisines?"
+        "What Features Do Fujian Soups and Seafood Have?",
+        "How should beginners understand Fujian soups and seafood flavors?"
       ],
       "vi": [
-        "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?"
+        "Canh súp và hải vị Mân có đặc điểm gì?"
       ],
       "th": [
-        "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?"
+        "ซุปและรสทะเลของอาหารหมิ่นมีลักษณะอะไร?"
       ],
       "id": [
-        "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+        "Apa ciri sup dan rasa laut masakan Fujian?"
       ]
     },
     "pseo_paths": [
-      "/china/02-cuisine/eight-cuisines-food-map"
+      "/china/02-cuisine/fujian-soups-seafood"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "zh": "闽菜的汤羹和海味讲究清、鲜、香、醇，常把山海物产融进细致的汤汁之中。",
+      "en": "Fujian soups and seafood value clarity, freshness, aroma, and mellow depth, often blending mountain and sea products into delicate broths.",
+      "vi": "Canh súp và hải vị Mân coi trọng vị trong, tươi, thơm và đậm dịu, thường đưa sản vật núi biển vào nước dùng tinh tế.",
+      "th": "ซุปและรสทะเลหมิ่นเน้นความใส สด หอม และกลมกล่อม มักผสานผลผลิตภูเขาและทะเลในน้ำซุปละเอียด",
+      "id": "Sup dan rasa laut Fujian menghargai kejernihan, kesegaran, aroma, dan kedalaman lembut, sering memadukan hasil gunung dan laut dalam kuah halus."
     },
     "entities": [
-      {
-        "type": "cuisine",
-        "name_zh": "鲁菜",
-        "name_en": "Shandong cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "川菜",
-        "name_en": "Sichuan cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "粤菜",
-        "name_en": "Cantonese cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "苏菜",
-        "name_en": "Jiangsu cuisine"
-      },
       {
         "type": "cuisine",
         "name_zh": "闽菜",
         "name_en": "Fujian cuisine"
       },
       {
-        "type": "cuisine",
-        "name_zh": "浙菜",
-        "name_en": "Zhejiang cuisine"
+        "type": "place",
+        "name_zh": "福建",
+        "name_en": "Fujian"
       },
       {
-        "type": "cuisine",
-        "name_zh": "湘菜",
-        "name_en": "Hunan cuisine"
+        "type": "food",
+        "name_zh": "佛跳墙",
+        "name_en": "Buddha Jumps Over the Wall"
       },
       {
-        "type": "cuisine",
-        "name_zh": "徽菜",
-        "name_en": "Anhui cuisine"
+        "type": "place",
+        "name_zh": "福州",
+        "name_en": "Fuzhou"
       }
     ],
     "citation_notes": [
@@ -264,21 +244,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "bā dà cài xì bǎ lǔ cài chuān cài yuè cài sū cài mǐn cài zhè cài xiāng cài hé huī cài fàng zài tóng yì zhāng měi shí dì tú shàng",
-      "content_zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "content_en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "content_vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "content_th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "content_id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "pinyin": "mǐn cài de tāng gēng hé hǎi wèi jiǎng jiū qīng xiān xiāng chún cháng bǎ shān hǎi wù chǎn róng jìn xì zhì de tāng zhī zhī zhōng",
+      "content_zh": "闽菜的汤羹和海味讲究清、鲜、香、醇，常把山海物产融进细致的汤汁之中。",
+      "content_en": "Fujian soups and seafood value clarity, freshness, aroma, and mellow depth, often blending mountain and sea products into delicate broths.",
+      "content_vi": "Canh súp và hải vị Mân coi trọng vị trong, tươi, thơm và đậm dịu, thường đưa sản vật núi biển vào nước dùng tinh tế.",
+      "content_th": "ซุปและรสทะเลหมิ่นเน้นความใส สด หอม และกลมกล่อม มักผสานผลผลิตภูเขาและทะเลในน้ำซุปละเอียด",
+      "content_id": "Sup dan rasa laut Fujian menghargai kejernihan, kesegaran, aroma, dan kedalaman lembut, sering memadukan hasil gunung dan laut dalam kuah halus."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -309,12 +289,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "lǔ cài jī chǔ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Shandong cuisine foundation also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yán hǎi wù chǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "沿海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "coastal products also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -345,30 +325,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ lǔ cài jī chǔ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Shandong cuisine foundation is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yán hǎi wù chǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，沿海物产不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, coastal products is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "chuān cài má là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Sichuan mala flavor is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "tāng gēng céng cì shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "汤羹层次是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "layers of soup is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -399,12 +379,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "chuān cài má là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Sichuan mala flavor also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "tāng gēng céng cì yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "汤羹层次也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "layers of soup also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -435,30 +415,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ chuān cài má là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Sichuan mala flavor is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ tāng gēng céng cì bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，汤羹层次不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, layers of soup is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "yuè cài qīng xiān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Cantonese freshness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "hǎi xiān xiān tián shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "海鲜鲜甜是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "seafood sweetness is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -489,12 +469,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "yuè cài qīng xiān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Cantonese freshness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "hǎi xiān xiān tián yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "海鲜鲜甜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "seafood sweetness also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -525,30 +505,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ yuè cài qīng xiān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Cantonese freshness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ hǎi xiān xiān tián bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，海鲜鲜甜不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, seafood sweetness is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "sū cài róu hé shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Jiangsu gentleness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "hóng zāo fēng wèi shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "红糟风味是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "red-rice-yeast flavor is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -579,12 +559,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "sū cài róu hé yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Jiangsu gentleness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "hóng zāo fēng wèi yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "红糟风味也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "red-rice-yeast flavor also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -615,30 +595,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ sū cài róu hé bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Jiangsu gentleness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ hóng zāo fēng wèi bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，红糟风味不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, red-rice-yeast flavor is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "mǐn cài tāng gēng shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Fujian soups is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "fó tiào qiáng shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "佛跳墙是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "Buddha Jumps Over the Wall is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -669,12 +649,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "mǐn cài tāng gēng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Fujian soups also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fó tiào qiáng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "佛跳墙也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "Buddha Jumps Over the Wall also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -705,30 +685,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ mǐn cài tāng gēng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Fujian soups is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fó tiào qiáng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，佛跳墙不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, Buddha Jumps Over the Wall is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "zhè cài qīng yǎ shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Zhejiang elegance is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "shān hǎi jié hé shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "山海结合是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "mountain-sea combination is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -759,12 +739,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "zhè cài qīng yǎ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Zhejiang elegance also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "shān hǎi jié hé yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "山海结合也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "mountain-sea combination also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -795,30 +775,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ zhè cài qīng yǎ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Zhejiang elegance is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ shān hǎi jié hé bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，山海结合不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, mountain-sea combination is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "xiāng cài suān là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Hunan sour heat is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "dāo gōng xì suì shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "刀工细碎是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "fine cutting is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -849,12 +829,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "xiāng cài suān là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Hunan sour heat also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "dāo gōng xì suì yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "刀工细碎也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "fine cutting also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -885,30 +865,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ xiāng cài suān là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Hunan sour heat is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ dāo gōng xì suì bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，刀工细碎不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, fine cutting is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "huī cài dùn shāo shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Anhui stewing is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "qīng dàn kǒu gǎn shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "清淡口感是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "light mouthfeel is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -939,12 +919,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "huī cài dùn shāo yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Anhui stewing also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "qīng dàn kǒu gǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "清淡口感也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "light mouthfeel also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -975,30 +955,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ huī cài dùn shāo bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Anhui stewing is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ qīng dàn kǒu gǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，清淡口感不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, light mouthfeel is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "shān hǎi wù chǎn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "山海物产是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "mountain and sea resources is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "fú zhōu fēng wèi shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "福州风味是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "Fuzhou flavor is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1029,12 +1009,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "shān hǎi wù chǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "mountain and sea resources also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fú zhōu fēng wèi yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "福州风味也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "Fuzhou flavor also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1065,30 +1045,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ shān hǎi wù chǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, mountain and sea resources is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fú zhōu fēng wèi bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，福州风味不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, Fuzhou flavor is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "jiāo tōng chuán bō shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "交通传播是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "transport and spread is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "mǐn nán xiǎo chī shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "闽南小吃是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "southern Fujian snacks is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1119,12 +1099,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "jiāo tōng chuán bō yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "transport and spread also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "mǐn nán xiǎo chī yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "闽南小吃也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "southern Fujian snacks also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1155,30 +1135,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ jiāo tōng chuán bō bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, transport and spread is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ mǐn nán xiǎo chī bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，闽南小吃不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, southern Fujian snacks is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "cān guǎn cài dān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "restaurant menus is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "qiáo xiāng jiāo liú shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "侨乡交流是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "overseas-community exchange is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1209,12 +1189,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "cān guǎn cài dān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "restaurant menus also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "qiáo xiāng jiāo liú yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "侨乡交流也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "overseas-community exchange also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1245,30 +1225,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ cān guǎn cài dān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, restaurant menus is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ qiáo xiāng jiāo liú bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，侨乡交流不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, overseas-community exchange is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "dì yù jīng yàn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "地域经验是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "regional experience is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "yàn xí tāng pǐn shì lǐ jiě mǐn cài tāng gēng hé hǎi wèi de zhòng yào wèi jué nèi róng",
+      "content_zh": "宴席汤品是理解闽菜汤羹和海味的重要味觉内容。",
+      "content_en": "banquet soups is an important flavor element for understanding Fujian soups and seafood flavors.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu canh súp và hải vị ẩm thực Mân.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจซุปและรสทะเลอาหารหมิ่น",
+      "content_id": "Bagian ini penting untuk memahami sup dan rasa laut masakan Fujian."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ mǐn cài tāng gēng hé hǎi wèi fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把闽菜汤羹和海味放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Fujian soups and seafood flavors back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt canh súp và hải vị ẩm thực Mân vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ซุปและรสทะเลอาหารหมิ่นกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan sup dan rasa laut masakan Fujian kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1299,12 +1279,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "dì yù jīng yàn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "regional experience also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yàn xí tāng pǐn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "宴席汤品也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "banquet soups also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy canh súp và hải vị ẩm thực Mân được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าซุปและรสทะเลอาหารหมิ่นเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa sup dan rasa laut masakan Fujian terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1335,12 +1315,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ dì yù jīng yàn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, regional experience is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yàn xí tāng pǐn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě mǐn cài tāng gēng hé hǎi wèi",
+      "content_zh": "因此，宴席汤品不仅是一种做法，也帮助今天的人理解闽菜汤羹和海味。",
+      "content_en": "Therefore, banquet soups is not only a method but also a way to understand Fujian soups and seafood flavors.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu canh súp và hải vị ẩm thực Mân rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจซุปและรสทะเลอาหารหมิ่นได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami sup dan rasa laut masakan Fujian dengan lebih jelas."
     }
   ]
 }

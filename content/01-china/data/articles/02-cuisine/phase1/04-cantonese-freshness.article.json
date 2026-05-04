@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "02",
   "category_dir": "02-cuisine",
-  "article_slug": "01-eight-cuisines-food-map",
+  "article_slug": "04-cantonese-freshness",
   "article": {
-    "local_id": "cuisine-001",
+    "local_id": "cuisine-004",
     "category_code": "02",
-    "title_pinyin": "bā dà cài xì rú hé gòu chéng zhōng guó měi shí dì tú",
+    "title_pinyin": "yuè cài wèi shén me tè bié jiǎng jiū xiān",
     "title_i18n": {
-      "zh": "八大菜系如何构成中国美食地图？",
-      "en": "How Do the Eight Cuisines Form China’s Food Map?",
-      "vi": "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?",
-      "th": "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?",
-      "id": "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+      "zh": "粤菜为什么特别讲究鲜？",
+      "en": "Why Does Cantonese Cuisine Care So Much About Freshness?",
+      "vi": "Vì sao ẩm thực Quảng Đông coi trọng vị tươi?",
+      "th": "ทำไมอาหารกวางตุ้งจึงให้ความสำคัญกับความสด?",
+      "id": "Mengapa masakan Kanton sangat menghargai kesegaran?"
     }
   },
   "content_policy": {
@@ -31,228 +31,213 @@
     ]
   },
   "source_story_zh": [
-    "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "粤菜特别讲究鲜，是因为岭南物产丰富、海陆食材多样，并形成了突出原味的烹调习惯。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "岭南物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，岭南物产不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "海鲜活养是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "海鲜活养也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，海鲜活养不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "清蒸技法是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "清蒸技法也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，清蒸技法不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "白切做法是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "白切做法也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，白切做法不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "早茶点心是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "早茶点心也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，早茶点心不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "老火靓汤是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "老火靓汤也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，老火靓汤不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "原味观念是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "原味观念也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，原味观念不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "酱汁克制是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "酱汁克制也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "山海物产是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，酱汁克制不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "食材季节是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "食材季节也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "交通传播是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，食材季节不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "港口交流是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "港口交流也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，港口交流不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "宴席精细是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "宴席精细也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-    "地域经验是理解八大菜系美食地图的重要味觉内容。",
-    "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
+    "因此，宴席精细不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+    "海外传播是理解粤菜讲究鲜的重要味觉内容。",
+    "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
     "食材、火候和调味在这里相互配合，形成稳定的风味印象。",
     "一道菜的香气、口感和色泽，常常来自长期积累的厨房经验。",
     "如果只看菜名，人们容易忽略背后的气候、市场和生活习惯。",
-    "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+    "海外传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
     "餐馆、家宴和街边小吃不断传播这些味道，使传统保持活力。",
     "不同地区会调整做法，却仍然保留各自熟悉的风味判断。",
     "把这些味道放在同一张餐桌上，可以看见地域之间的差异与交流。",
-    "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。"
+    "因此，海外传播不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "八大菜系美食地图",
+        "粤菜讲究鲜",
         "中国美食",
-        "八大菜系如何构成中国美食地图"
+        "粤菜为什么特别讲究鲜"
       ],
       "en": [
-        "the food map of the eight Chinese cuisines",
+        "Cantonese cuisine’s focus on freshness",
         "Chinese cuisine",
-        "the food map of the eight Chinese cuisines guide"
+        "Cantonese cuisine’s focus on freshness guide"
       ],
       "vi": [
-        "bản đồ ẩm thực tám trường phái Trung Quốc",
+        "sự coi trọng vị tươi của ẩm thực Quảng Đông",
         "ẩm thực Trung Quốc"
       ],
       "th": [
-        "แผนที่อาหารของแปดสำรับจีน",
+        "ความสำคัญของความสดในอาหารกวางตุ้ง",
         "อาหารจีน"
       ],
       "id": [
-        "peta kuliner delapan masakan Tiongkok",
+        "perhatian masakan Kanton pada kesegaran",
         "kuliner Tiongkok"
       ]
     },
     "search_intents": [
-      "how_to",
+      "why",
       "beginner_learning"
     ],
     "long_tail_questions": {
       "zh": [
-        "八大菜系如何构成中国美食地图？",
-        "八大菜系美食地图应该从哪些方面理解？"
+        "粤菜为什么特别讲究鲜？",
+        "粤菜讲究鲜应该从哪些方面理解？"
       ],
       "en": [
-        "How Do the Eight Cuisines Form China’s Food Map?",
-        "How should beginners understand the food map of the eight Chinese cuisines?"
+        "Why Does Cantonese Cuisine Care So Much About Freshness?",
+        "How should beginners understand Cantonese cuisine’s focus on freshness?"
       ],
       "vi": [
-        "Tám trường phái tạo nên bản đồ ẩm thực Trung Quốc ra sao?"
+        "Vì sao ẩm thực Quảng Đông coi trọng vị tươi?"
       ],
       "th": [
-        "แปดสำรับสร้างแผนที่อาหารจีนอย่างไร?"
+        "ทำไมอาหารกวางตุ้งจึงให้ความสำคัญกับความสด?"
       ],
       "id": [
-        "Bagaimana delapan masakan membentuk peta kuliner Tiongkok?"
+        "Mengapa masakan Kanton sangat menghargai kesegaran?"
       ]
     },
     "pseo_paths": [
-      "/china/02-cuisine/eight-cuisines-food-map"
+      "/china/02-cuisine/cantonese-freshness"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "zh": "粤菜特别讲究鲜，是因为岭南物产丰富、海陆食材多样，并形成了突出原味的烹调习惯。",
+      "en": "Cantonese cuisine values freshness because Lingnan has rich products, varied land-and-sea ingredients, and cooking habits that highlight original taste.",
+      "vi": "Ẩm thực Quảng Đông coi trọng vị tươi vì Lĩnh Nam giàu sản vật, nguyên liệu biển đất đa dạng và thói quen nấu giữ vị gốc.",
+      "th": "อาหารกวางตุ้งเน้นความสดเพราะหลิงหนานมีผลผลิตอุดม วัตถุดิบทะเลและบกหลากหลาย และวิธีปรุงที่ชูรสดั้งเดิม",
+      "id": "Masakan Kanton menghargai kesegaran karena Lingnan kaya hasil bumi, bahan darat-laut beragam, dan kebiasaan memasak menonjolkan rasa asli."
     },
     "entities": [
-      {
-        "type": "cuisine",
-        "name_zh": "鲁菜",
-        "name_en": "Shandong cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "川菜",
-        "name_en": "Sichuan cuisine"
-      },
       {
         "type": "cuisine",
         "name_zh": "粤菜",
         "name_en": "Cantonese cuisine"
       },
       {
-        "type": "cuisine",
-        "name_zh": "苏菜",
-        "name_en": "Jiangsu cuisine"
+        "type": "place",
+        "name_zh": "广东",
+        "name_en": "Guangdong"
       },
       {
-        "type": "cuisine",
-        "name_zh": "闽菜",
-        "name_en": "Fujian cuisine"
+        "type": "region",
+        "name_zh": "岭南",
+        "name_en": "Lingnan"
       },
       {
-        "type": "cuisine",
-        "name_zh": "浙菜",
-        "name_en": "Zhejiang cuisine"
+        "type": "concept",
+        "name_zh": "早茶",
+        "name_en": "morning tea"
       },
       {
-        "type": "cuisine",
-        "name_zh": "湘菜",
-        "name_en": "Hunan cuisine"
-      },
-      {
-        "type": "cuisine",
-        "name_zh": "徽菜",
-        "name_en": "Anhui cuisine"
+        "type": "food",
+        "name_zh": "点心",
+        "name_en": "dim sum"
       }
     ],
     "citation_notes": [
@@ -264,21 +249,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "bā dà cài xì bǎ lǔ cài chuān cài yuè cài sū cài mǐn cài zhè cài xiāng cài hé huī cài fàng zài tóng yì zhāng měi shí dì tú shàng",
-      "content_zh": "八大菜系把鲁菜、川菜、粤菜、苏菜、闽菜、浙菜、湘菜和徽菜放在同一张美食地图上。",
-      "content_en": "The eight Chinese cuisines place Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan, and Anhui cuisines on one food map.",
-      "content_vi": "Tám trường phái đặt ẩm thực Lỗ, Xuyên, Quảng Đông, Tô, Mân, Chiết, Tương và Huy trên cùng một bản đồ món ăn.",
-      "content_th": "แปดสำรับจีนนำอาหารหลู่ ชวน กวางตุ้ง ซู หมิ่น เจ้อ เซียง และฮุยมาไว้บนแผนที่เดียวกัน",
-      "content_id": "Delapan masakan Tiongkok menempatkan Shandong, Sichuan, Kanton, Jiangsu, Fujian, Zhejiang, Hunan, dan Anhui dalam satu peta kuliner."
+      "pinyin": "yuè cài tè bié jiǎng jiū xiān shì yīn wèi lǐng nán wù chǎn fēng fù hǎi lù shí cái duō yàng bìng xíng chéng le tū chū yuán wèi de pēng tiáo xí guàn",
+      "content_zh": "粤菜特别讲究鲜，是因为岭南物产丰富、海陆食材多样，并形成了突出原味的烹调习惯。",
+      "content_en": "Cantonese cuisine values freshness because Lingnan has rich products, varied land-and-sea ingredients, and cooking habits that highlight original taste.",
+      "content_vi": "Ẩm thực Quảng Đông coi trọng vị tươi vì Lĩnh Nam giàu sản vật, nguyên liệu biển đất đa dạng và thói quen nấu giữ vị gốc.",
+      "content_th": "อาหารกวางตุ้งเน้นความสดเพราะหลิงหนานมีผลผลิตอุดม วัตถุดิบทะเลและบกหลากหลาย และวิธีปรุงที่ชูรสดั้งเดิม",
+      "content_id": "Masakan Kanton menghargai kesegaran karena Lingnan kaya hasil bumi, bahan darat-laut beragam, dan kebiasaan memasak menonjolkan rasa asli."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -309,12 +294,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "lǔ cài jī chǔ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "鲁菜基础也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Shandong cuisine foundation also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "lǐng nán wù chǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "岭南物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "Lingnan products also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -345,30 +330,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ lǔ cài jī chǔ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，鲁菜基础不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Shandong cuisine foundation is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ lǐng nán wù chǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，岭南物产不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, Lingnan products is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "chuān cài má là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "川菜麻辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Sichuan mala flavor is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "hǎi xiān huó yǎng shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "海鲜活养是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "keeping seafood alive is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -399,12 +384,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "chuān cài má là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "川菜麻辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Sichuan mala flavor also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "hǎi xiān huó yǎng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "海鲜活养也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "keeping seafood alive also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -435,30 +420,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ chuān cài má là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，川菜麻辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Sichuan mala flavor is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ hǎi xiān huó yǎng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，海鲜活养不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, keeping seafood alive is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "yuè cài qīng xiān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "粤菜清鲜是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Cantonese freshness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "qīng zhēng jì fǎ shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "清蒸技法是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "steaming is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -489,12 +474,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "yuè cài qīng xiān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "粤菜清鲜也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Cantonese freshness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "qīng zhēng jì fǎ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "清蒸技法也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "steaming also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -525,30 +510,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ yuè cài qīng xiān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，粤菜清鲜不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Cantonese freshness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ qīng zhēng jì fǎ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，清蒸技法不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, steaming is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "sū cài róu hé shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "苏菜柔和是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Jiangsu gentleness is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "bái qiè zuò fǎ shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "白切做法是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "plain-poached method is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -579,12 +564,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "sū cài róu hé yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "苏菜柔和也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Jiangsu gentleness also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "bái qiè zuò fǎ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "白切做法也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "plain-poached method also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -615,30 +600,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ sū cài róu hé bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，苏菜柔和不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Jiangsu gentleness is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ bái qiè zuò fǎ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，白切做法不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, plain-poached method is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "mǐn cài tāng gēng shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "闽菜汤羹是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Fujian soups is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "zǎo chá diǎn xīn shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "早茶点心是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "morning tea dim sum is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -669,12 +654,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "mǐn cài tāng gēng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "闽菜汤羹也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Fujian soups also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "zǎo chá diǎn xīn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "早茶点心也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "morning tea dim sum also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -705,30 +690,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ mǐn cài tāng gēng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，闽菜汤羹不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Fujian soups is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ zǎo chá diǎn xīn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，早茶点心不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, morning tea dim sum is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "zhè cài qīng yǎ shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "浙菜清雅是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Zhejiang elegance is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "lǎo huǒ liàng tāng shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "老火靓汤是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "slow-cooked soup is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -759,12 +744,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "zhè cài qīng yǎ yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "浙菜清雅也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Zhejiang elegance also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "lǎo huǒ liàng tāng yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "老火靓汤也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "slow-cooked soup also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -795,30 +780,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ zhè cài qīng yǎ bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，浙菜清雅不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Zhejiang elegance is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ lǎo huǒ liàng tāng bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，老火靓汤不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, slow-cooked soup is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "xiāng cài suān là shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "湘菜酸辣是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Hunan sour heat is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "yuán wèi guān niàn shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "原味观念是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "original taste is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -849,12 +834,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "xiāng cài suān là yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "湘菜酸辣也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Hunan sour heat also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yuán wèi guān niàn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "原味观念也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "original taste also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -885,30 +870,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ xiāng cài suān là bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，湘菜酸辣不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Hunan sour heat is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yuán wèi guān niàn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，原味观念不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, original taste is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "huī cài dùn shāo shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "徽菜炖烧是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "Anhui stewing is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "jiàng zhī kè zhì shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "酱汁克制是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "restrained sauces is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -939,12 +924,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "huī cài dùn shāo yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "徽菜炖烧也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "Anhui stewing also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiàng zhī kè zhì yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "酱汁克制也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "restrained sauces also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -975,30 +960,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ huī cài dùn shāo bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，徽菜炖烧不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, Anhui stewing is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiàng zhī kè zhì bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，酱汁克制不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, restrained sauces is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "shān hǎi wù chǎn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "山海物产是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "mountain and sea resources is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "shí cái jì jié shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "食材季节是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "seasonal ingredients is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1029,12 +1014,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "shān hǎi wù chǎn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "山海物产也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "mountain and sea resources also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "shí cái jì jié yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "食材季节也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "seasonal ingredients also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1065,30 +1050,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ shān hǎi wù chǎn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，山海物产不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, mountain and sea resources is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ shí cái jì jié bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，食材季节不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, seasonal ingredients is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "jiāo tōng chuán bō shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "交通传播是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "transport and spread is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "gǎng kǒu jiāo liú shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "港口交流是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "port exchange is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1119,12 +1104,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "jiāo tōng chuán bō yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "交通传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "transport and spread also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "gǎng kǒu jiāo liú yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "港口交流也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "port exchange also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1155,30 +1140,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ jiāo tōng chuán bō bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，交通传播不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, transport and spread is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ gǎng kǒu jiāo liú bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，港口交流不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, port exchange is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "cān guǎn cài dān shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "餐馆菜单是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "restaurant menus is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "yàn xí jīng xì shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "宴席精细是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "banquet refinement is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1209,12 +1194,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "cān guǎn cài dān yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "餐馆菜单也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "restaurant menus also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yàn xí jīng xì yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "宴席精细也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "banquet refinement also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1245,30 +1230,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ cān guǎn cài dān bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，餐馆菜单不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, restaurant menus is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yàn xí jīng xì bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，宴席精细不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, banquet refinement is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "dì yù jīng yàn shì lǐ jiě bā dà cài xì měi shí dì tú de zhòng yào wèi jué nèi róng",
-      "content_zh": "地域经验是理解八大菜系美食地图的重要味觉内容。",
-      "content_en": "regional experience is an important flavor element for understanding the food map of the eight Chinese cuisines.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu bản đồ ẩm thực tám trường phái Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจแผนที่อาหารของแปดสำรับจีน",
-      "content_id": "Bagian ini penting untuk memahami peta kuliner delapan masakan Tiongkok."
+      "pinyin": "hǎi wài zhuàn bō shì lǐ jiě yuè cài jiǎng jiū xiān de zhòng yào wèi jué nèi róng",
+      "content_zh": "海外传播是理解粤菜讲究鲜的重要味觉内容。",
+      "content_en": "overseas spread is an important flavor element for understanding Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจความสำคัญของความสดในอาหารกวางตุ้ง",
+      "content_id": "Bagian ini penting untuk memahami perhatian masakan Kanton pada kesegaran."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ bā dà cài xì měi shí dì tú fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
-      "content_zh": "它把八大菜系美食地图放回具体的地域、物产和餐桌环境中。",
-      "content_en": "It places the food map of the eight Chinese cuisines back into a concrete setting of region, products, and table life.",
-      "content_vi": "Nó đặt bản đồ ẩm thực tám trường phái Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้แผนที่อาหารของแปดสำรับจีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan peta kuliner delapan masakan Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ yuè cài jiǎng jiū xiān fàng huí jù tǐ de dì yù wù chǎn hé cān zhuō huán jìng zhōng",
+      "content_zh": "它把粤菜讲究鲜放回具体的地域、物产和餐桌环境中。",
+      "content_en": "It places Cantonese cuisine’s focus on freshness back into a concrete setting of region, products, and table life.",
+      "content_vi": "Nó đặt sự coi trọng vị tươi của ẩm thực Quảng Đông vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้ความสำคัญของความสดในอาหารกวางตุ้งกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan perhatian masakan Kanton pada kesegaran kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1299,12 +1284,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "dì yù jīng yàn yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
-      "content_zh": "地域经验也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
-      "content_en": "regional experience also shows how Chinese food turns local products into edible cultural memory.",
-      "content_vi": "Điều đó cho thấy bản đồ ẩm thực tám trường phái Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าแผนที่อาหารของแปดสำรับจีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa peta kuliner delapan masakan Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "hǎi wài zhuàn bō yě shuō míng zhōng guó měi shí cháng bǎ dì fāng wù chǎn zhuǎn huà wéi kě pǐn cháng de wén huà jì yì",
+      "content_zh": "海外传播也说明，中国美食常把地方物产转化为可品尝的文化记忆。",
+      "content_en": "overseas spread also shows how Chinese food turns local products into edible cultural memory.",
+      "content_vi": "Điều đó cho thấy sự coi trọng vị tươi của ẩm thực Quảng Đông được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความสดในอาหารกวางตุ้งเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa perhatian masakan Kanton pada kesegaran terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1335,12 +1320,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ dì yù jīng yàn bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě bā dà cài xì měi shí dì tú",
-      "content_zh": "因此，地域经验不仅是一种做法，也帮助今天的人理解八大菜系美食地图。",
-      "content_en": "Therefore, regional experience is not only a method but also a way to understand the food map of the eight Chinese cuisines.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu bản đồ ẩm thực tám trường phái Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจแผนที่อาหารของแปดสำรับจีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami peta kuliner delapan masakan Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ hǎi wài chuán bō bù jǐn shì yì zhǒng zuò fǎ yě bāng zhù jīn tiān de rén lǐ jiě yuè cài jiǎng jiū xiān",
+      "content_zh": "因此，海外传播不仅是一种做法，也帮助今天的人理解粤菜讲究鲜。",
+      "content_en": "Therefore, overseas spread is not only a method but also a way to understand Cantonese cuisine’s focus on freshness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự coi trọng vị tươi của ẩm thực Quảng Đông rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความสดในอาหารกวางตุ้งได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perhatian masakan Kanton pada kesegaran dengan lebih jelas."
     }
   ]
 }

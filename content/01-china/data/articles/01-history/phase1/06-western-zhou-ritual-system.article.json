@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "01",
   "category_dir": "01-history",
-  "article_slug": "01-chinese-history-evolution",
+  "article_slug": "06-western-zhou-ritual-system",
   "article": {
-    "local_id": "hist-001",
+    "local_id": "hist-006",
     "category_code": "01",
-    "title_pinyin": "zhōng guó lì shǐ shì zěn yàng yí bù bù yǎn huà de",
+    "title_pinyin": "xī zhōu lǐ zhì zěn yàng yǐng xiǎng hòu lái de zhōng guó",
     "title_i18n": {
-      "zh": "中国历史是怎样一步步演化的？",
-      "en": "How Did Chinese History Evolve Step by Step?",
-      "vi": "Lịch sử Trung Quốc phát triển từng bước ra sao?",
-      "th": "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?",
-      "id": "Bagaimana sejarah Tiongkok berkembang bertahap?"
+      "zh": "西周礼制怎样影响后来的中国？",
+      "en": "How Did the Western Zhou Ritual System Influence Later China?",
+      "vi": "Lễ chế Tây Chu ảnh hưởng Trung Quốc đời sau thế nào?",
+      "th": "ระบบพิธีโจวตะวันตกมีอิทธิพลต่อจีนรุ่นหลังอย่างไร?",
+      "id": "Bagaimana tata ritus Zhou Barat memengaruhi Tiongkok kemudian?"
     }
   },
   "content_policy": {
@@ -31,150 +31,150 @@
     ]
   },
   "source_story_zh": [
-    "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "西周礼制影响后来的中国，是因为它把等级、亲族、仪式和政治秩序结合成可延续的规范。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
+    "宗法关系也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "黄河长江是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，宗法关系不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "分封秩序是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
+    "分封秩序也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "夏商周三代是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，分封秩序不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "礼器等级是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
+    "礼器等级也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "春秋战国是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，礼器等级不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "乐舞制度是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
+    "乐舞制度也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "秦汉统一是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，乐舞制度不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "祖先祭祀是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
+    "祖先祭祀也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "丝绸之路是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，祖先祭祀不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "君臣关系是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
+    "君臣关系也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "魏晋南北朝是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，君臣关系不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "家国观念是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
+    "家国观念也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "隋唐都城是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，家国观念不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "仪式空间是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
+    "仪式空间也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "宋代城市是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，仪式空间不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "典章记忆是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
+    "典章记忆也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "元明清互动是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，典章记忆不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "教育传统是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
+    "教育传统也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "近代转型是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，教育传统不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "儒家吸收是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
+    "儒家吸收也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "考古补充是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，儒家吸收不仅属于过去，也帮助今天的人理解西周礼制影响。",
+    "日常礼仪是理解西周礼制影响的重要内容。",
+    "它把西周礼制影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
+    "日常礼仪也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。"
+    "因此，日常礼仪不仅属于过去，也帮助今天的人理解西周礼制影响。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "中国历史演化",
+        "西周礼制影响",
         "中国历史",
-        "中国历史是怎样一步步演化的"
+        "西周礼制怎样影响后来的中国"
       ],
       "en": [
-        "the evolution of Chinese history",
+        "the influence of the Western Zhou ritual system",
         "Chinese history",
-        "the evolution of Chinese history guide"
+        "the influence of the Western Zhou ritual system guide"
       ],
       "vi": [
-        "sự phát triển của lịch sử Trung Quốc",
+        "ảnh hưởng của lễ chế Tây Chu",
         "lịch sử Trung Quốc"
       ],
       "th": [
-        "พัฒนาการประวัติศาสตร์จีน",
+        "อิทธิพลของระบบพิธีโจวตะวันตก",
         "ประวัติศาสตร์จีน"
       ],
       "id": [
-        "perkembangan sejarah Tiongkok",
+        "pengaruh tata ritus Zhou Barat",
         "sejarah Tiongkok"
       ]
     },
@@ -184,65 +184,55 @@
     ],
     "long_tail_questions": {
       "zh": [
-        "中国历史是怎样一步步演化的？",
-        "中国历史演化应该从哪些方面理解？"
+        "西周礼制怎样影响后来的中国？",
+        "西周礼制影响应该从哪些方面理解？"
       ],
       "en": [
-        "How Did Chinese History Evolve Step by Step?",
-        "How should beginners understand the evolution of Chinese history?"
+        "How Did the Western Zhou Ritual System Influence Later China?",
+        "How should beginners understand the influence of the Western Zhou ritual system?"
       ],
       "vi": [
-        "Lịch sử Trung Quốc phát triển từng bước ra sao?"
+        "Lễ chế Tây Chu ảnh hưởng Trung Quốc đời sau thế nào?"
       ],
       "th": [
-        "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?"
+        "ระบบพิธีโจวตะวันตกมีอิทธิพลต่อจีนรุ่นหลังอย่างไร?"
       ],
       "id": [
-        "Bagaimana sejarah Tiongkok berkembang bertahap?"
+        "Bagaimana tata ritus Zhou Barat memengaruhi Tiongkok kemudian?"
       ]
     },
     "pseo_paths": [
-      "/china/01-history/chinese-history-evolution"
+      "/china/01-history/western-zhou-ritual-system"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "zh": "西周礼制影响后来的中国，是因为它把等级、亲族、仪式和政治秩序结合成可延续的规范。",
+      "en": "The Western Zhou ritual system influenced later China by joining rank, kinship, ceremony, and political order into lasting norms.",
+      "vi": "Lễ chế Tây Chu ảnh hưởng đời sau vì kết hợp đẳng cấp, thân tộc, nghi thức và trật tự chính trị thành chuẩn mực lâu dài.",
+      "th": "ระบบพิธีโจวตะวันตกมีอิทธิพลต่อจีนรุ่นหลังเพราะรวมลำดับชั้น เครือญาติ พิธี และระเบียบการเมืองเป็นบรรทัดฐานยาวนาน",
+      "id": "Tata ritus Zhou Barat memengaruhi Tiongkok kemudian karena menyatukan peringkat, kekerabatan, upacara, dan tatanan politik menjadi norma tahan lama."
     },
     "entities": [
       {
-        "type": "place",
-        "name_zh": "黄河",
-        "name_en": "Yellow River"
-      },
-      {
-        "type": "place",
-        "name_zh": "长江",
-        "name_en": "Yangtze River"
-      },
-      {
-        "type": "dynasty_group",
-        "name_zh": "夏商周",
-        "name_en": "Xia, Shang, and Zhou"
-      },
-      {
         "type": "dynasty",
-        "name_zh": "秦朝",
-        "name_en": "Qin Dynasty"
+        "name_zh": "西周",
+        "name_en": "Western Zhou"
       },
       {
-        "type": "dynasty",
-        "name_zh": "汉朝",
-        "name_en": "Han Dynasty"
+        "type": "concept",
+        "name_zh": "礼制",
+        "name_en": "ritual system"
       },
       {
-        "type": "place",
-        "name_zh": "长安",
-        "name_en": "Chang’an"
+        "type": "concept",
+        "name_zh": "宗法",
+        "name_en": "lineage order"
+      },
+      {
+        "type": "concept",
+        "name_zh": "分封制",
+        "name_en": "enfeoffment"
       }
     ],
     "citation_notes": [
@@ -254,21 +244,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "zhōng guó lì shǐ shì yí bù cóng zǎo qī jù luò wáng cháo zhì dù chéng shì shēng huó dào xiàn dài shè huì bú duàn yǎn huà de cháng shí duàn guò chéng",
-      "content_zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "content_en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "content_vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "content_th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "content_id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "pinyin": "xī zhōu lǐ zhì yǐng xiǎng hòu lái de zhōng guó shì yīn wèi tā bǎ děng jí qīn zú yí shì hé zhèng zhì zhì xù jié hé chéng kě yán xù de guī fàn",
+      "content_zh": "西周礼制影响后来的中国，是因为它把等级、亲族、仪式和政治秩序结合成可延续的规范。",
+      "content_en": "The Western Zhou ritual system influenced later China by joining rank, kinship, ceremony, and political order into lasting norms.",
+      "content_vi": "Lễ chế Tây Chu ảnh hưởng đời sau vì kết hợp đẳng cấp, thân tộc, nghi thức và trật tự chính trị thành chuẩn mực lâu dài.",
+      "content_th": "ระบบพิธีโจวตะวันตกมีอิทธิพลต่อจีนรุ่นหลังเพราะรวมลำดับชั้น เครือญาติ พิธี และระเบียบการเมืองเป็นบรรทัดฐานยาวนาน",
+      "content_id": "Tata ritus Zhou Barat memengaruhi Tiongkok kemudian karena menyatukan peringkat, kekerabatan, upacara, dan tatanan politik menjadi norma tahan lama."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -299,12 +289,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "zǎo qī jù luò yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "early settlements also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "zōng fǎ guān xì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "宗法关系也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "lineage relations also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -335,30 +325,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ zǎo qī jù luò bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, early settlements belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ zōng fǎ guān xì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，宗法关系不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, lineage relations belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "huáng hé cháng jiāng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "黄河长江是理解中国历史演化的重要内容。",
-      "content_en": "the Yellow and Yangtze rivers is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "fēn fēng zhì xù shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "分封秩序是理解西周礼制影响的重要内容。",
+      "content_en": "enfeoffment order is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -389,12 +379,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "huáng hé cháng jiāng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Yellow and Yangtze rivers also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "fēn fēng zhì xù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "分封秩序也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "enfeoffment order also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -425,30 +415,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ huáng hé cháng jiāng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Yellow and Yangtze rivers belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ fēn fēng zhì xù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，分封秩序不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, enfeoffment order belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "xià shāng zhōu sān dài shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "夏商周三代是理解中国历史演化的重要内容。",
-      "content_en": "the Xia, Shang, and Zhou periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "lǐ qì děng jí shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "礼器等级是理解西周礼制影响的重要内容。",
+      "content_en": "ritual vessel ranks is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -479,12 +469,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "xià shāng zhōu sān dài yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Xia, Shang, and Zhou periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "lǐ qì děng jí yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "礼器等级也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "ritual vessel ranks also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -515,30 +505,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ xià shāng zhōu sān dài bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Xia, Shang, and Zhou periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ lǐ qì děng jí bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，礼器等级不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, ritual vessel ranks belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "chūn qiū zhàn guó shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "春秋战国是理解中国历史演化的重要内容。",
-      "content_en": "the Spring and Autumn and Warring States periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "yuè wǔ zhì dù shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "乐舞制度是理解西周礼制影响的重要内容。",
+      "content_en": "music and dance rites is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -569,12 +559,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "chūn qiū zhàn guó yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Spring and Autumn and Warring States periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yuè wǔ zhì dù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "乐舞制度也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "music and dance rites also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -605,30 +595,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ chūn qiū zhàn guó bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Spring and Autumn and Warring States periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yuè wǔ zhì dù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，乐舞制度不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, music and dance rites belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "qín hàn tǒng yī shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "秦汉统一是理解中国历史演化的重要内容。",
-      "content_en": "Qin and Han unification is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "zǔ xiān jì sì shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "祖先祭祀是理解西周礼制影响的重要内容。",
+      "content_en": "ancestor rites is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -659,12 +649,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "qín hàn tǒng yī yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Qin and Han unification also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "zǔ xiān jì sì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "祖先祭祀也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "ancestor rites also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -695,30 +685,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ qín hàn tǒng yí bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Qin and Han unification belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ zǔ xiān jì sì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，祖先祭祀不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, ancestor rites belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "sī chóu zhī lù shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "丝绸之路是理解中国历史演化的重要内容。",
-      "content_en": "the Silk Road is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "jūn chén guān xì shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "君臣关系是理解西周礼制影响的重要内容。",
+      "content_en": "ruler-minister relations is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -749,12 +739,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "sī chóu zhī lù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Silk Road also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jūn chén guān xì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "君臣关系也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "ruler-minister relations also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -785,30 +775,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ sī chóu zhī lù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Silk Road belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jūn chén guān xì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，君臣关系不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, ruler-minister relations belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "wèi jìn nán běi cháo shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "魏晋南北朝是理解中国历史演化的重要内容。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "jiā guó guān niàn shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "家国观念是理解西周礼制影响的重要内容。",
+      "content_en": "family-state ideas is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -839,12 +829,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "wèi jìn nán běi cháo yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiā guó guān niàn yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "家国观念也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "family-state ideas also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -875,30 +865,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ wèi jìn nán běi cháo bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Wei-Jin and Northern-Southern Dynasties belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiā guó guān niàn bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，家国观念不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, family-state ideas belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "suí táng dū chéng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "隋唐都城是理解中国历史演化的重要内容。",
-      "content_en": "Sui and Tang capitals is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "yí shì kōng jiān shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "仪式空间是理解西周礼制影响的重要内容。",
+      "content_en": "ritual spaces is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -929,12 +919,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "suí táng dōu chéng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Sui and Tang capitals also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "yí shì kōng jiān yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "仪式空间也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "ritual spaces also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -965,30 +955,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ suí táng dōu chéng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Sui and Tang capitals belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ yí shì kōng jiān bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，仪式空间不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, ritual spaces belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "sòng dài chéng shì shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "宋代城市是理解中国历史演化的重要内容。",
-      "content_en": "Song urban life is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "diǎn zhāng jì yì shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "典章记忆是理解西周礼制影响的重要内容。",
+      "content_en": "institutional memory is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1019,12 +1009,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "sòng dài chéng shì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Song urban life also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "diǎn zhāng jì yì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "典章记忆也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "institutional memory also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1055,30 +1045,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ sòng dài chéng shì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Song urban life belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ diǎn zhāng jì yì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，典章记忆不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, institutional memory belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "yuán míng qīng hù dòng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "元明清互动是理解中国历史演化的重要内容。",
-      "content_en": "Yuan-Ming-Qing interactions is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "jiào yù chuán tǒng shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "教育传统是理解西周礼制影响的重要内容。",
+      "content_en": "educational tradition is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1109,12 +1099,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "yuán míng qīng hù dòng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Yuan-Ming-Qing interactions also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jiào yù chuán tǒng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "教育传统也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "educational tradition also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1145,30 +1135,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ yuán míng qīng hù dòng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Yuan-Ming-Qing interactions belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jiào yù chuán tǒng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，教育传统不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, educational tradition belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "jìn dài zhuǎn xíng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "近代转型是理解中国历史演化的重要内容。",
-      "content_en": "modern transition is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "rú jiā xī shōu shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "儒家吸收是理解西周礼制影响的重要内容。",
+      "content_en": "Confucian adoption is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1199,12 +1189,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "jìn dài zhuǎn xíng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "modern transition also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "rú jiā xī shōu yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "儒家吸收也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "Confucian adoption also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1235,30 +1225,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ jìn dài zhuǎn xíng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, modern transition belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ rú jiā xī shōu bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，儒家吸收不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, Confucian adoption belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "kǎo gǔ bǔ chōng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "考古补充是理解中国历史演化的重要内容。",
-      "content_en": "archaeological evidence is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "rì cháng lǐ yí shì lǐ jiě xī zhōu lǐ zhì yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "日常礼仪是理解西周礼制影响的重要内容。",
+      "content_en": "daily etiquette is an important part of understanding the influence of the Western Zhou ritual system.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của lễ chế Tây Chu.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของระบบพิธีโจวตะวันตก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh tata ritus Zhou Barat."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ xī zhōu lǐ zhì yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把西周礼制影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Western Zhou ritual system in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của lễ chế Tây Chu vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของระบบพิธีโจวตะวันตกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh tata ritus Zhou Barat kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1289,12 +1279,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "kǎo gǔ bǔ chōng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "archaeological evidence also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "rì cháng lǐ yí yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "日常礼仪也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "daily etiquette also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của lễ chế Tây Chu được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของระบบพิธีโจวตะวันตกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh tata ritus Zhou Barat terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1325,12 +1315,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ kǎo gǔ bǔ chōng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, archaeological evidence belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ rì cháng lǐ yí bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě xī zhōu lǐ zhì yǐng xiǎng",
+      "content_zh": "因此，日常礼仪不仅属于过去，也帮助今天的人理解西周礼制影响。",
+      "content_en": "Therefore, daily etiquette belongs to the past while helping people today understand the influence of the Western Zhou ritual system.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của lễ chế Tây Chu rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของระบบพิธีโจวตะวันตกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh tata ritus Zhou Barat dengan lebih jelas."
     }
   ]
 }

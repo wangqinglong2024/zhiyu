@@ -3,17 +3,17 @@
   "doc_version": "2026-05-phase1",
   "category_code": "01",
   "category_dir": "01-history",
-  "article_slug": "01-chinese-history-evolution",
+  "article_slug": "02-yellow-river-yangtze-early-china",
   "article": {
-    "local_id": "hist-001",
+    "local_id": "hist-002",
     "category_code": "01",
-    "title_pinyin": "zhōng guó lì shǐ shì zěn yàng yí bù bù yǎn huà de",
+    "title_pinyin": "huáng hé hé cháng jiāng wèi shén me yǐng xiǎng zǎo qī zhōng guó",
     "title_i18n": {
-      "zh": "中国历史是怎样一步步演化的？",
-      "en": "How Did Chinese History Evolve Step by Step?",
-      "vi": "Lịch sử Trung Quốc phát triển từng bước ra sao?",
-      "th": "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?",
-      "id": "Bagaimana sejarah Tiongkok berkembang bertahap?"
+      "zh": "黄河和长江为什么影响早期中国？",
+      "en": "Why Did the Yellow and Yangtze Rivers Shape Early China?",
+      "vi": "Vì sao Hoàng Hà và Trường Giang ảnh hưởng Trung Quốc sơ kỳ?",
+      "th": "ทำไมหวงเหอและแยงซีจึงมีผลต่อจีนยุคแรก?",
+      "id": "Mengapa Sungai Kuning dan Yangtze membentuk Tiongkok awal?"
     }
   },
   "content_policy": {
@@ -31,187 +31,187 @@
     ]
   },
   "source_story_zh": [
-    "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "黄河和长江影响早期中国，是因为它们提供农业水源、交通空间、聚落基础和多样物产。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
+    "黄土高原也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "黄河长江是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，黄土高原不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "冲积平原是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
+    "冲积平原也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "夏商周三代是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，冲积平原不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "稻作农业是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
+    "稻作农业也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "春秋战国是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，稻作农业不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "粟作农业是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
+    "粟作农业也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "秦汉统一是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，粟作农业不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "洪水治理是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
+    "洪水治理也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "丝绸之路是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，洪水治理不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "河道交通是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
+    "河道交通也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "魏晋南北朝是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，河道交通不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "聚落密度是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
+    "聚落密度也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "隋唐都城是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，聚落密度不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "陶器分布是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
+    "陶器分布也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "宋代城市是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，陶器分布不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "水利经验是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
+    "水利经验也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "元明清互动是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，水利经验不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "区域交流是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
+    "区域交流也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "近代转型是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，区域交流不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "南北差异是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
+    "南北差异也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-    "考古补充是理解中国历史演化的重要内容。",
-    "它把中国历史演化放入具体的时间和地域背景中。",
+    "因此，南北差异不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+    "文明格局是理解黄河和长江对早期中国的影响的重要内容。",
+    "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
     "相关遗址、器物和文字材料，使这一变化更容易被观察。",
     "制度安排和日常生活在这里相互影响，形成长期延续的历史纹理。",
     "如果只看名称，人们会错过背后的生产方式、交通条件和社会关系。",
-    "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
+    "文明格局也说明，早期中国的变化常常来自多种因素的叠加。",
     "从考古证据到传世文献，许多材料共同补充了这幅历史图像。",
     "它影响了后来的治理观念、礼仪秩序或文化记忆。",
     "把这些内容连在一起，可以看见时代如何在延续中改变。",
-    "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。"
+    "因此，文明格局不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。"
   ],
   "seo": {
     "schema_type": "Article",
     "primary_keywords": {
       "zh": [
-        "中国历史演化",
+        "黄河和长江对早期中国的影响",
         "中国历史",
-        "中国历史是怎样一步步演化的"
+        "黄河和长江为什么影响早期中国"
       ],
       "en": [
-        "the evolution of Chinese history",
+        "the influence of the Yellow and Yangtze rivers on early China",
         "Chinese history",
-        "the evolution of Chinese history guide"
+        "the influence of the Yellow and Yangtze rivers on early China guide"
       ],
       "vi": [
-        "sự phát triển của lịch sử Trung Quốc",
+        "ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ",
         "lịch sử Trung Quốc"
       ],
       "th": [
-        "พัฒนาการประวัติศาสตร์จีน",
+        "อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
         "ประวัติศาสตร์จีน"
       ],
       "id": [
-        "perkembangan sejarah Tiongkok",
+        "pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal",
         "sejarah Tiongkok"
       ]
     },
     "search_intents": [
-      "how_to",
+      "why",
       "beginner_learning"
     ],
     "long_tail_questions": {
       "zh": [
-        "中国历史是怎样一步步演化的？",
-        "中国历史演化应该从哪些方面理解？"
+        "黄河和长江为什么影响早期中国？",
+        "黄河和长江对早期中国的影响应该从哪些方面理解？"
       ],
       "en": [
-        "How Did Chinese History Evolve Step by Step?",
-        "How should beginners understand the evolution of Chinese history?"
+        "Why Did the Yellow and Yangtze Rivers Shape Early China?",
+        "How should beginners understand the influence of the Yellow and Yangtze rivers on early China?"
       ],
       "vi": [
-        "Lịch sử Trung Quốc phát triển từng bước ra sao?"
+        "Vì sao Hoàng Hà và Trường Giang ảnh hưởng Trung Quốc sơ kỳ?"
       ],
       "th": [
-        "ประวัติศาสตร์จีนค่อยๆ พัฒนามาอย่างไร?"
+        "ทำไมหวงเหอและแยงซีจึงมีผลต่อจีนยุคแรก?"
       ],
       "id": [
-        "Bagaimana sejarah Tiongkok berkembang bertahap?"
+        "Mengapa Sungai Kuning dan Yangtze membentuk Tiongkok awal?"
       ]
     },
     "pseo_paths": [
-      "/china/01-history/chinese-history-evolution"
+      "/china/01-history/yellow-river-yangtze-early-china"
     ]
   },
   "geo": {
     "bluf": {
-      "zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "zh": "黄河和长江影响早期中国，是因为它们提供农业水源、交通空间、聚落基础和多样物产。",
+      "en": "The Yellow and Yangtze rivers shaped early China by providing farming water, transport spaces, settlement bases, and varied resources.",
+      "vi": "Hoàng Hà và Trường Giang định hình Trung Quốc sơ kỳ nhờ nước nông nghiệp, không gian giao thông, nền cư trú và sản vật đa dạng.",
+      "th": "หวงเหอและแยงซีหล่อหลอมจีนยุคแรกด้วยน้ำเพื่อเกษตร พื้นที่เดินทาง ฐานชุมชน และทรัพยากรหลากหลาย",
+      "id": "Sungai Kuning dan Yangtze membentuk Tiongkok awal melalui air pertanian, ruang transportasi, dasar permukiman, dan sumber daya beragam."
     },
     "entities": [
       {
@@ -225,24 +225,19 @@
         "name_en": "Yangtze River"
       },
       {
-        "type": "dynasty_group",
-        "name_zh": "夏商周",
-        "name_en": "Xia, Shang, and Zhou"
-      },
-      {
-        "type": "dynasty",
-        "name_zh": "秦朝",
-        "name_en": "Qin Dynasty"
-      },
-      {
-        "type": "dynasty",
-        "name_zh": "汉朝",
-        "name_en": "Han Dynasty"
-      },
-      {
         "type": "place",
-        "name_zh": "长安",
-        "name_en": "Chang’an"
+        "name_zh": "黄土高原",
+        "name_en": "Loess Plateau"
+      },
+      {
+        "type": "concept",
+        "name_zh": "稻作农业",
+        "name_en": "rice farming"
+      },
+      {
+        "type": "concept",
+        "name_zh": "粟作农业",
+        "name_en": "millet farming"
       }
     ],
     "citation_notes": [
@@ -254,21 +249,21 @@
   "sentences": [
     {
       "seq_in_article": 1,
-      "pinyin": "zhōng guó lì shǐ shì yí bù cóng zǎo qī jù luò wáng cháo zhì dù chéng shì shēng huó dào xiàn dài shè huì bú duàn yǎn huà de cháng shí duàn guò chéng",
-      "content_zh": "中国历史是一部从早期聚落、王朝制度、城市生活到现代社会不断演化的长时段过程。",
-      "content_en": "Chinese history is a long process that moved from early settlements through dynastic institutions and urban life toward modern society.",
-      "content_vi": "Lịch sử Trung Quốc là quá trình dài đi từ cư trú sơ kỳ qua thể chế vương triều và đời sống đô thị đến xã hội hiện đại.",
-      "content_th": "ประวัติศาสตร์จีนเป็นกระบวนการยาวนานจากชุมชนยุคแรก ผ่านระบบราชวงศ์และชีวิตเมือง ไปสู่สังคมสมัยใหม่",
-      "content_id": "Sejarah Tiongkok adalah proses panjang dari permukiman awal melalui lembaga dinasti dan kehidupan kota menuju masyarakat modern."
+      "pinyin": "huáng hé hé cháng jiāng yǐng xiǎng zǎo qī zhōng guó shì yīn wèi tā men tí gōng nóng yè shuǐ yuán jiāo tōng kōng jiān jù luò jī chǔ hé duō yàng wù chǎn",
+      "content_zh": "黄河和长江影响早期中国，是因为它们提供农业水源、交通空间、聚落基础和多样物产。",
+      "content_en": "The Yellow and Yangtze rivers shaped early China by providing farming water, transport spaces, settlement bases, and varied resources.",
+      "content_vi": "Hoàng Hà và Trường Giang định hình Trung Quốc sơ kỳ nhờ nước nông nghiệp, không gian giao thông, nền cư trú và sản vật đa dạng.",
+      "content_th": "หวงเหอและแยงซีหล่อหลอมจีนยุคแรกด้วยน้ำเพื่อเกษตร พื้นที่เดินทาง ฐานชุมชน และทรัพยากรหลากหลาย",
+      "content_id": "Sungai Kuning dan Yangtze membentuk Tiongkok awal melalui air pertanian, ruang transportasi, dasar permukiman, dan sumber daya beragam."
     },
     {
       "seq_in_article": 2,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 3,
@@ -299,12 +294,12 @@
     },
     {
       "seq_in_article": 6,
-      "pinyin": "zǎo qī jù luò yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "早期聚落也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "early settlements also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "huáng tǔ gāo yuán yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "黄土高原也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "the Loess Plateau also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 7,
@@ -335,30 +330,30 @@
     },
     {
       "seq_in_article": 10,
-      "pinyin": "yīn cǐ zǎo qī jù luò bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，早期聚落不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, early settlements belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ huáng tǔ gāo yuán bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，黄土高原不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, the Loess Plateau belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 11,
-      "pinyin": "huáng hé cháng jiāng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "黄河长江是理解中国历史演化的重要内容。",
-      "content_en": "the Yellow and Yangtze rivers is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "chōng jī píng yuán shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "冲积平原是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "alluvial plains is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 12,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 13,
@@ -389,12 +384,12 @@
     },
     {
       "seq_in_article": 16,
-      "pinyin": "huáng hé cháng jiāng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "黄河长江也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Yellow and Yangtze rivers also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "chōng jī píng yuán yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "冲积平原也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "alluvial plains also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 17,
@@ -425,30 +420,30 @@
     },
     {
       "seq_in_article": 20,
-      "pinyin": "yīn cǐ huáng hé cháng jiāng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，黄河长江不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Yellow and Yangtze rivers belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ chōng jī píng yuán bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，冲积平原不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, alluvial plains belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 21,
-      "pinyin": "xià shāng zhōu sān dài shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "夏商周三代是理解中国历史演化的重要内容。",
-      "content_en": "the Xia, Shang, and Zhou periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "dào zuò nóng yè shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "稻作农业是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "rice farming is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 22,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 23,
@@ -479,12 +474,12 @@
     },
     {
       "seq_in_article": 26,
-      "pinyin": "xià shāng zhōu sān dài yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "夏商周三代也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Xia, Shang, and Zhou periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "dào zuò nóng yè yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "稻作农业也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "rice farming also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 27,
@@ -515,30 +510,30 @@
     },
     {
       "seq_in_article": 30,
-      "pinyin": "yīn cǐ xià shāng zhōu sān dài bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，夏商周三代不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Xia, Shang, and Zhou periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ dào zuò nóng yè bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，稻作农业不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, rice farming belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 31,
-      "pinyin": "chūn qiū zhàn guó shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "春秋战国是理解中国历史演化的重要内容。",
-      "content_en": "the Spring and Autumn and Warring States periods is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "sù zuò nóng yè shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "粟作农业是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "millet farming is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 32,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 33,
@@ -569,12 +564,12 @@
     },
     {
       "seq_in_article": 36,
-      "pinyin": "chūn qiū zhàn guó yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "春秋战国也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Spring and Autumn and Warring States periods also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "sù zuò nóng yè yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "粟作农业也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "millet farming also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 37,
@@ -605,30 +600,30 @@
     },
     {
       "seq_in_article": 40,
-      "pinyin": "yīn cǐ chūn qiū zhàn guó bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，春秋战国不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Spring and Autumn and Warring States periods belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ sù zuò nóng yè bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，粟作农业不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, millet farming belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 41,
-      "pinyin": "qín hàn tǒng yī shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "秦汉统一是理解中国历史演化的重要内容。",
-      "content_en": "Qin and Han unification is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "hóng shuǐ zhì lǐ shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "洪水治理是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "flood control is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 42,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 43,
@@ -659,12 +654,12 @@
     },
     {
       "seq_in_article": 46,
-      "pinyin": "qín hàn tǒng yī yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "秦汉统一也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Qin and Han unification also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "hóng shuǐ zhì lǐ yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "洪水治理也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "flood control also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 47,
@@ -695,30 +690,30 @@
     },
     {
       "seq_in_article": 50,
-      "pinyin": "yīn cǐ qín hàn tǒng yí bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，秦汉统一不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Qin and Han unification belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ hóng shuǐ zhì lǐ bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，洪水治理不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, flood control belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 51,
-      "pinyin": "sī chóu zhī lù shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "丝绸之路是理解中国历史演化的重要内容。",
-      "content_en": "the Silk Road is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "hé dào jiāo tōng shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "河道交通是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "river transport is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 52,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 53,
@@ -749,12 +744,12 @@
     },
     {
       "seq_in_article": 56,
-      "pinyin": "sī chóu zhī lù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "丝绸之路也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Silk Road also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "hé dào jiāo tōng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "河道交通也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "river transport also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 57,
@@ -785,30 +780,30 @@
     },
     {
       "seq_in_article": 60,
-      "pinyin": "yīn cǐ sī chóu zhī lù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，丝绸之路不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Silk Road belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ hé dào jiāo tōng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，河道交通不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, river transport belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 61,
-      "pinyin": "wèi jìn nán běi cháo shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "魏晋南北朝是理解中国历史演化的重要内容。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "jù luò mì dù shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "聚落密度是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "settlement density is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 62,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 63,
@@ -839,12 +834,12 @@
     },
     {
       "seq_in_article": 66,
-      "pinyin": "wèi jìn nán běi cháo yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "魏晋南北朝也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "the Wei-Jin and Northern-Southern Dynasties also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "jù luò mì dù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "聚落密度也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "settlement density also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 67,
@@ -875,30 +870,30 @@
     },
     {
       "seq_in_article": 70,
-      "pinyin": "yīn cǐ wèi jìn nán běi cháo bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，魏晋南北朝不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, the Wei-Jin and Northern-Southern Dynasties belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ jù luò mì dù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，聚落密度不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, settlement density belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 71,
-      "pinyin": "suí táng dū chéng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "隋唐都城是理解中国历史演化的重要内容。",
-      "content_en": "Sui and Tang capitals is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "táo qì fēn bù shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "陶器分布是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "pottery distribution is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 72,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 73,
@@ -929,12 +924,12 @@
     },
     {
       "seq_in_article": 76,
-      "pinyin": "suí táng dōu chéng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "隋唐都城也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Sui and Tang capitals also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "táo qì fēn bù yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "陶器分布也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "pottery distribution also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 77,
@@ -965,30 +960,30 @@
     },
     {
       "seq_in_article": 80,
-      "pinyin": "yīn cǐ suí táng dōu chéng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，隋唐都城不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Sui and Tang capitals belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ táo qì fēn bù bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，陶器分布不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, pottery distribution belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 81,
-      "pinyin": "sòng dài chéng shì shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "宋代城市是理解中国历史演化的重要内容。",
-      "content_en": "Song urban life is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "shuǐ lì jīng yàn shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "水利经验是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "water management is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 82,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 83,
@@ -1019,12 +1014,12 @@
     },
     {
       "seq_in_article": 86,
-      "pinyin": "sòng dài chéng shì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "宋代城市也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Song urban life also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "shuǐ lì jīng yàn yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "水利经验也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "water management also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 87,
@@ -1055,30 +1050,30 @@
     },
     {
       "seq_in_article": 90,
-      "pinyin": "yīn cǐ sòng dài chéng shì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，宋代城市不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Song urban life belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ shuǐ lì jīng yàn bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，水利经验不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, water management belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 91,
-      "pinyin": "yuán míng qīng hù dòng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "元明清互动是理解中国历史演化的重要内容。",
-      "content_en": "Yuan-Ming-Qing interactions is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "qū yù jiāo liú shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "区域交流是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "regional exchange is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 92,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 93,
@@ -1109,12 +1104,12 @@
     },
     {
       "seq_in_article": 96,
-      "pinyin": "yuán míng qīng hù dòng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "元明清互动也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "Yuan-Ming-Qing interactions also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "qū yù jiāo liú yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "区域交流也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "regional exchange also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 97,
@@ -1145,30 +1140,30 @@
     },
     {
       "seq_in_article": 100,
-      "pinyin": "yīn cǐ yuán míng qīng hù dòng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，元明清互动不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, Yuan-Ming-Qing interactions belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ qū yù jiāo liú bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，区域交流不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, regional exchange belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 101,
-      "pinyin": "jìn dài zhuǎn xíng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "近代转型是理解中国历史演化的重要内容。",
-      "content_en": "modern transition is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "nán běi chā yì shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "南北差异是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "north-south differences is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 102,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 103,
@@ -1199,12 +1194,12 @@
     },
     {
       "seq_in_article": 106,
-      "pinyin": "jìn dài zhuǎn xíng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "近代转型也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "modern transition also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "nán běi chà yì yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "南北差异也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "north-south differences also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 107,
@@ -1235,30 +1230,30 @@
     },
     {
       "seq_in_article": 110,
-      "pinyin": "yīn cǐ jìn dài zhuǎn xíng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，近代转型不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, modern transition belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ nán běi chā yì bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，南北差异不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, north-south differences belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     },
     {
       "seq_in_article": 111,
-      "pinyin": "kǎo gǔ bǔ chōng shì lǐ jiě zhōng guó lì shǐ yǎn huà de zhòng yào nèi róng",
-      "content_zh": "考古补充是理解中国历史演化的重要内容。",
-      "content_en": "archaeological evidence is an important part of understanding the evolution of Chinese history.",
-      "content_vi": "Khía cạnh này là phần quan trọng để hiểu sự phát triển của lịch sử Trung Quốc.",
-      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจพัฒนาการประวัติศาสตร์จีน",
-      "content_id": "Bagian ini penting untuk memahami perkembangan sejarah Tiongkok."
+      "pinyin": "wén míng gé jú shì lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng de zhòng yào nèi róng",
+      "content_zh": "文明格局是理解黄河和长江对早期中国的影响的重要内容。",
+      "content_en": "civilizational pattern is an important part of understanding the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Khía cạnh này là phần quan trọng để hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ.",
+      "content_th": "มุมมองนี้เป็นส่วนสำคัญในการเข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรก",
+      "content_id": "Bagian ini penting untuk memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal."
     },
     {
       "seq_in_article": 112,
-      "pinyin": "tā bǎ zhōng guó lì shǐ yǎn huà fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
-      "content_zh": "它把中国历史演化放入具体的时间和地域背景中。",
-      "content_en": "It places the evolution of Chinese history in a concrete setting of time and place.",
-      "content_vi": "Nó đặt sự phát triển của lịch sử Trung Quốc vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
-      "content_th": "มันทำให้พัฒนาการประวัติศาสตร์จีนกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
-      "content_id": "Ia menempatkan perkembangan sejarah Tiongkok kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
+      "pinyin": "tā bǎ huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng fàng rù jù tǐ de shí jiān hé dì yù bèi jǐng zhōng",
+      "content_zh": "它把黄河和长江对早期中国的影响放入具体的时间和地域背景中。",
+      "content_en": "It places the influence of the Yellow and Yangtze rivers on early China in a concrete setting of time and place.",
+      "content_vi": "Nó đặt ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ vào bối cảnh vùng miền, thời gian và đời sống cụ thể.",
+      "content_th": "มันทำให้อิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกกลับไปอยู่ในบริบทของพื้นที่ เวลา และชีวิตจริง",
+      "content_id": "Ia menempatkan pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal kembali dalam konteks wilayah, waktu, dan kehidupan nyata."
     },
     {
       "seq_in_article": 113,
@@ -1289,12 +1284,12 @@
     },
     {
       "seq_in_article": 116,
-      "pinyin": "kǎo gǔ bǔ chōng yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
-      "content_zh": "考古补充也说明，早期中国的变化常常来自多种因素的叠加。",
-      "content_en": "archaeological evidence also shows that early China changed through several factors working together.",
-      "content_vi": "Điều đó cho thấy sự phát triển của lịch sử Trung Quốc được hình thành từ nhiều yếu tố cùng tác động.",
-      "content_th": "สิ่งนี้แสดงว่าพัฒนาการประวัติศาสตร์จีนเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
-      "content_id": "Hal ini menunjukkan bahwa perkembangan sejarah Tiongkok terbentuk dari banyak faktor yang bekerja bersama."
+      "pinyin": "wén míng gé jú yě shuō míng zǎo qī zhōng guó de biàn huà cháng cháng lái zì duō zhǒng yīn sù de dié jiā",
+      "content_zh": "文明格局也说明，早期中国的变化常常来自多种因素的叠加。",
+      "content_en": "civilizational pattern also shows that early China changed through several factors working together.",
+      "content_vi": "Điều đó cho thấy ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ được hình thành từ nhiều yếu tố cùng tác động.",
+      "content_th": "สิ่งนี้แสดงว่าอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกเกิดจากหลายปัจจัยที่ทำงานร่วมกัน",
+      "content_id": "Hal ini menunjukkan bahwa pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal terbentuk dari banyak faktor yang bekerja bersama."
     },
     {
       "seq_in_article": 117,
@@ -1325,12 +1320,12 @@
     },
     {
       "seq_in_article": 120,
-      "pinyin": "yīn cǐ kǎo gǔ bǔ chōng bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě zhōng guó lì shǐ yǎn huà",
-      "content_zh": "因此，考古补充不仅属于过去，也帮助今天的人理解中国历史演化。",
-      "content_en": "Therefore, archaeological evidence belongs to the past while helping people today understand the evolution of Chinese history.",
-      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự phát triển của lịch sử Trung Quốc rõ hơn.",
-      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจพัฒนาการประวัติศาสตร์จีนได้ชัดเจนขึ้น",
-      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami perkembangan sejarah Tiongkok dengan lebih jelas."
+      "pinyin": "yīn cǐ wén míng gé jú bù jǐn shǔ yú guò qù yě bāng zhù jīn tiān de rén lǐ jiě huáng hé hé cháng jiāng duì zǎo qī zhōng guó de yǐng xiǎng",
+      "content_zh": "因此，文明格局不仅属于过去，也帮助今天的人理解黄河和长江对早期中国的影响。",
+      "content_en": "Therefore, civilizational pattern belongs to the past while helping people today understand the influence of the Yellow and Yangtze rivers on early China.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ảnh hưởng của Hoàng Hà và Trường Giang với Trung Quốc sơ kỳ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอิทธิพลของหวงเหอและแยงซีต่อจีนยุคแรกได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pengaruh Sungai Kuning dan Yangtze pada Tiongkok awal dengan lebih jelas."
     }
   ]
 }
