@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "08",
+  "category_dir": "08-idiom",
+  "article_slug": "11-amaze-with-first-cry",
+  "article": {
+    "local_id": "idiom-011",
+    "category_code": "08",
+    "title_pinyin": "yì míng jīng rén wèi shén me lái zì chǔ zhuāng wáng",
+    "title_i18n": {
+      "zh": "一鸣惊人为什么来自楚庄王？",
+      "en": "Why Does Amazing Everyone at One Cry Come from King Zhuang of Chu?",
+      "vi": "Vì sao nhất minh kinh nhân bắt nguồn từ Sở Trang Vương?",
+      "th": "ทำไมร้องครั้งเดียวทำให้คนตะลึงจึงมาจากกษัตริย์จวงแห่งฉู่?",
+      "id": "Mengapa yi ming jing ren berasal dari Raja Zhuang dari Chu?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "一鸣惊人来自楚庄王，是因为故事用长期沉默后的突然作为，说明真正发力时会让人刮目相看。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "楚庄王故事也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，楚庄王故事不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "三年不鸣是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "三年不鸣也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，三年不鸣不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "突然作为是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "突然作为也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，突然作为不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "能力隐藏是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "能力隐藏也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，能力隐藏不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "刮目相看是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "刮目相看也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，刮目相看不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "成语转义是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "成语转义也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，成语转义不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "人物典故是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "人物典故也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，人物典故不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "耐心积累是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "耐心积累也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，耐心积累不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "表现时机是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "表现时机也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，表现时机不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "学习鼓励是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "学习鼓励也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，学习鼓励不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "使用边界是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "使用边界也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，使用边界不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+    "历史记忆是理解一鸣惊人和楚庄王的重要故事环节。",
+    "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "历史记忆也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，历史记忆不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "一鸣惊人和楚庄王",
+        "成语典故",
+        "一鸣惊人为什么来自楚庄王"
+      ],
+      "en": [
+        "yi ming jing ren and King Zhuang of Chu",
+        "Chinese idioms and allusions",
+        "yi ming jing ren and King Zhuang of Chu guide"
+      ],
+      "vi": [
+        "nhất minh kinh nhân và Sở Trang Vương"
+      ],
+      "th": [
+        "อี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่"
+      ],
+      "id": [
+        "yi ming jing ren dan Raja Zhuang dari Chu"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "一鸣惊人为什么来自楚庄王？",
+        "一鸣惊人和楚庄王应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Amazing Everyone at One Cry Come from King Zhuang of Chu?",
+        "How should learners understand yi ming jing ren and King Zhuang of Chu?"
+      ],
+      "vi": [
+        "Vì sao nhất minh kinh nhân bắt nguồn từ Sở Trang Vương?"
+      ],
+      "th": [
+        "ทำไมร้องครั้งเดียวทำให้คนตะลึงจึงมาจากกษัตริย์จวงแห่งฉู่?"
+      ],
+      "id": [
+        "Mengapa yi ming jing ren berasal dari Raja Zhuang dari Chu?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/08-idiom/amaze-with-first-cry"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "一鸣惊人来自楚庄王，是因为故事用长期沉默后的突然作为，说明真正发力时会让人刮目相看。",
+      "en": "Yi ming jing ren comes from King Zhuang of Chu because the story uses sudden action after long silence to show how real achievement surprises others.",
+      "vi": "Nhất minh kinh nhân bắt nguồn từ Sở Trang Vương vì câu chuyện dùng hành động bất ngờ sau im lặng dài để nói thành tựu thật làm người khác kinh ngạc.",
+      "th": "อี้หมิงจิงเหรินมาจากกษัตริย์จวงแห่งฉู่ เพราะเรื่องใช้การลงมือฉับพลันหลังเงียบมานานเพื่อชี้ว่าความสามารถจริงทำให้คนมองใหม่",
+      "id": "Yi ming jing ren berasal dari Raja Zhuang dari Chu karena kisahnya memakai tindakan tiba-tiba setelah lama diam untuk menunjukkan pencapaian sejati mengejutkan orang."
+    },
+    "entities": [
+      {
+        "type": "idiom",
+        "name_zh": "一鸣惊人",
+        "name_en": "amazing everyone at one cry"
+      },
+      {
+        "type": "person",
+        "name_zh": "楚庄王",
+        "name_en": "King Zhuang of Chu"
+      },
+      {
+        "type": "state",
+        "name_zh": "楚",
+        "name_en": "Chu"
+      },
+      {
+        "type": "concept",
+        "name_zh": "典故",
+        "name_en": "allusion"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "yì míng jīng rén lái zì chǔ zhuāng wáng shì yīn wèi gù shì yòng cháng qī chén mò hòu de tū rán zuò wéi shuō míng zhēn zhèng fā lì shí huì ràng rén guā mù xiāng kàn",
+      "content_zh": "一鸣惊人来自楚庄王，是因为故事用长期沉默后的突然作为，说明真正发力时会让人刮目相看。",
+      "content_en": "Yi ming jing ren comes from King Zhuang of Chu because the story uses sudden action after long silence to show how real achievement surprises others.",
+      "content_vi": "Nhất minh kinh nhân bắt nguồn từ Sở Trang Vương vì câu chuyện dùng hành động bất ngờ sau im lặng dài để nói thành tựu thật làm người khác kinh ngạc.",
+      "content_th": "อี้หมิงจิงเหรินมาจากกษัตริย์จวงแห่งฉู่ เพราะเรื่องใช้การลงมือฉับพลันหลังเงียบมานานเพื่อชี้ว่าความสามารถจริงทำให้คนมองใหม่",
+      "content_id": "Yi ming jing ren berasal dari Raja Zhuang dari Chu karena kisahnya memakai tindakan tiba-tiba setelah lama diam untuk menunjukkan pencapaian sejati mengejutkan orang."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "chǔ zhuāng wáng gù shì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "楚庄王故事也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "King Zhuang story also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ chǔ zhuāng wáng gù shì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，楚庄王故事不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, King Zhuang story is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "sān nián bù míng shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "三年不鸣是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "three years without a cry is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "sān nián bù míng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "三年不鸣也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "three years without a cry also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ sān nián bù míng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，三年不鸣不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, three years without a cry is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "tū rán zuò wéi shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "突然作为是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "sudden action is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "tū rán zuò wéi yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "突然作为也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "sudden action also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ tū rán zuò wèi bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，突然作为不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, sudden action is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "néng lì yǐn cáng shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "能力隐藏是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "hidden ability is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "néng lì yǐn cáng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "能力隐藏也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "hidden ability also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ néng lì yǐn cáng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，能力隐藏不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, hidden ability is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "guā mù xiāng kàn shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "刮目相看是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "being seen anew is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "guā mù xiāng kàn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "刮目相看也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "being seen anew also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ guā mù xiāng kàn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，刮目相看不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, being seen anew is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "chéng yǔ zhuǎn yì shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "成语转义是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "shifted idiom meaning is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "chéng yǔ zhuǎn yì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "成语转义也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "shifted idiom meaning also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ chéng yǔ zhuǎn yì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，成语转义不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, shifted idiom meaning is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "rén wù diǎn gù shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "人物典故是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "historical allusion is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "rén wù diǎn gù yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "人物典故也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "historical allusion also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ rén wù diǎn gù bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，人物典故不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, historical allusion is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "nài xīn jī lěi shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "耐心积累是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "patient buildup is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "nài xīn jī lěi yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "耐心积累也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "patient buildup also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ nài xīn jī lèi bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，耐心积累不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, patient buildup is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "biǎo xiàn shí jī shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "表现时机是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "timing of display is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "biǎo xiàn shí jī yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "表现时机也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "timing of display also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ biǎo xiàn shí jī bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，表现时机不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, timing of display is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "xué xí gǔ lì shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "学习鼓励是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "learning encouragement is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "xué xí gǔ lì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "学习鼓励也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "learning encouragement also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ xué xí gǔ lì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，学习鼓励不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, learning encouragement is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "shǐ yòng biān jiè shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "使用边界是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "usage boundary is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "shǐ yòng biān jiè yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "使用边界也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "usage boundary also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ shǐ yòng biān jiè bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，使用边界不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, usage boundary is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "lì shǐ jì yì shì lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng de zhòng yào gù shì huán jié",
+      "content_zh": "历史记忆是理解一鸣惊人和楚庄王的重要故事环节。",
+      "content_en": "historical memory is an important story element for understanding yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu nhất minh kinh nhân và Sở Trang Vương.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่",
+      "content_id": "Bagian ini penting untuk memahami yi ming jing ren dan Raja Zhuang dari Chu."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ yì míng jīng rén hé chǔ zhuāng wáng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把一鸣惊人和楚庄王放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places yi ming jing ren and King Zhuang of Chu back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt nhất minh kinh nhân và Sở Trang Vương trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan yi ming jing ren dan Raja Zhuang dari Chu kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "lì shǐ jì yì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "历史记忆也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "historical memory also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy nhất minh kinh nhân và Sở Trang Vương được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa yi ming jing ren dan Raja Zhuang dari Chu dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ lì shǐ jì yì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě yì míng jīng rén hé chǔ zhuāng wáng",
+      "content_zh": "因此，历史记忆不仅是典故内容，也帮助人们理解一鸣惊人和楚庄王。",
+      "content_en": "Therefore, historical memory is not only allusion content but also a way to understand yi ming jing ren and King Zhuang of Chu.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu nhất minh kinh nhân và Sở Trang Vương rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจอี้หมิงจิงเหรินกับกษัตริย์จวงแห่งฉู่ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami yi ming jing ren dan Raja Zhuang dari Chu dengan lebih jelas."
+    }
+  ]
+}

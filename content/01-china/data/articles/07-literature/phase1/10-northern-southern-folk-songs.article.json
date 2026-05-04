@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "07",
+  "category_dir": "07-literature",
+  "article_slug": "10-northern-southern-folk-songs",
+  "article": {
+    "local_id": "literature-010",
+    "category_code": "07",
+    "title_pinyin": "nán běi cháo mín gē yǒu shén me dì fāng sè cǎi",
+    "title_i18n": {
+      "zh": "南北朝民歌有什么地方色彩？",
+      "en": "What Regional Colors Do Northern and Southern Dynasties Folk Songs Have?",
+      "vi": "Dân ca Nam Bắc triều có sắc thái địa phương nào?",
+      "th": "เพลงพื้นบ้านยุคราชวงศ์เหนือใต้มีสีสันท้องถิ่นอย่างไร?",
+      "id": "Warna daerah apa yang tampak dalam lagu rakyat Dinasti Utara-Selatan?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "南北朝民歌的地方色彩，主要体现在南歌清丽婉转、北歌质朴豪放的语言、节奏和生活画面中。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "南歌清丽也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，南歌清丽不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "北歌豪放是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "北歌豪放也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，北歌豪放不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "语言差异是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "语言差异也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，语言差异不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "节奏差异是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "节奏差异也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，节奏差异不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "江南水乡是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "江南水乡也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，江南水乡不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "北方草原是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "北方草原也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，北方草原不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "爱情题材是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "爱情题材也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，爱情题材不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "劳动场面是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "劳动场面也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，劳动场面不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "木兰诗影响是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "木兰诗影响也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，木兰诗影响不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "民间口吻是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "民间口吻也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，民间口吻不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "地域想象是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "地域想象也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，地域想象不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+    "文学保存是理解南北朝民歌地方色彩的重要文学面向。",
+    "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "文学保存也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，文学保存不仅是知识点，也帮助人们理解南北朝民歌地方色彩。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "南北朝民歌地方色彩",
+        "文学经典",
+        "南北朝民歌有什么地方色彩"
+      ],
+      "en": [
+        "regional colors in Northern and Southern Dynasties folk songs",
+        "Chinese classic literature",
+        "regional colors in Northern and Southern Dynasties folk songs guide"
+      ],
+      "vi": [
+        "sắc thái địa phương trong dân ca Nam Bắc triều"
+      ],
+      "th": [
+        "สีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้"
+      ],
+      "id": [
+        "warna daerah dalam lagu rakyat Dinasti Utara-Selatan"
+      ]
+    },
+    "search_intents": [
+      "what_is",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "南北朝民歌有什么地方色彩？",
+        "南北朝民歌地方色彩应该从哪些方面理解？"
+      ],
+      "en": [
+        "What Regional Colors Do Northern and Southern Dynasties Folk Songs Have?",
+        "How should learners understand regional colors in Northern and Southern Dynasties folk songs?"
+      ],
+      "vi": [
+        "Dân ca Nam Bắc triều có sắc thái địa phương nào?"
+      ],
+      "th": [
+        "เพลงพื้นบ้านยุคราชวงศ์เหนือใต้มีสีสันท้องถิ่นอย่างไร?"
+      ],
+      "id": [
+        "Warna daerah apa yang tampak dalam lagu rakyat Dinasti Utara-Selatan?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/07-literature/northern-southern-folk-songs"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "南北朝民歌的地方色彩，主要体现在南歌清丽婉转、北歌质朴豪放的语言、节奏和生活画面中。",
+      "en": "The regional colors of these folk songs appear in southern songs that are delicate and winding and northern songs that are plain and bold in language, rhythm, and life scenes.",
+      "vi": "Sắc thái địa phương thể hiện ở nam ca thanh lệ uyển chuyển, bắc ca mộc mạc hào phóng trong ngôn ngữ, nhịp điệu và cảnh đời.",
+      "th": "สีสันท้องถิ่นปรากฏในเพลงใต้ที่งดงามอ่อนพลิ้ว และเพลงเหนือที่เรียบง่ายองอาจ ทั้งภาษา จังหวะ และภาพชีวิต",
+      "id": "Warna daerah terlihat pada lagu selatan yang halus berliku dan lagu utara yang sederhana gagah dalam bahasa, irama, dan gambaran hidup."
+    },
+    "entities": [
+      {
+        "type": "period",
+        "name_zh": "南北朝",
+        "name_en": "Northern and Southern Dynasties"
+      },
+      {
+        "type": "genre",
+        "name_zh": "民歌",
+        "name_en": "folk song"
+      },
+      {
+        "type": "work",
+        "name_zh": "木兰诗",
+        "name_en": "Ballad of Mulan"
+      },
+      {
+        "type": "region",
+        "name_zh": "江南",
+        "name_en": "Jiangnan"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "nán běi cháo mín gē de dì fāng sè cǎi zhǔ yào tǐ xiàn zài nán gē qīng lì wǎn zhuǎn běi gē zhì pǔ háo fàng de yǔ yán jié zòu hé shēng huó huà miàn zhōng",
+      "content_zh": "南北朝民歌的地方色彩，主要体现在南歌清丽婉转、北歌质朴豪放的语言、节奏和生活画面中。",
+      "content_en": "The regional colors of these folk songs appear in southern songs that are delicate and winding and northern songs that are plain and bold in language, rhythm, and life scenes.",
+      "content_vi": "Sắc thái địa phương thể hiện ở nam ca thanh lệ uyển chuyển, bắc ca mộc mạc hào phóng trong ngôn ngữ, nhịp điệu và cảnh đời.",
+      "content_th": "สีสันท้องถิ่นปรากฏในเพลงใต้ที่งดงามอ่อนพลิ้ว และเพลงเหนือที่เรียบง่ายองอาจ ทั้งภาษา จังหวะ และภาพชีวิต",
+      "content_id": "Warna daerah terlihat pada lagu selatan yang halus berliku dan lagu utara yang sederhana gagah dalam bahasa, irama, dan gambaran hidup."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "nán gē qīng lì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "南歌清丽也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "delicate southern songs also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ nán gē qīng lì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，南歌清丽不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, delicate southern songs is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "běi gē háo fàng shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "北歌豪放是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "bold northern songs is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "běi gē háo fàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "北歌豪放也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "bold northern songs also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ běi gē háo fàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，北歌豪放不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, bold northern songs is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "yǔ yán chā yì shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "语言差异是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "language differences is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "yǔ yán chā yì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "语言差异也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "language differences also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ yǔ yán chà yì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，语言差异不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, language differences is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "jié zòu chā yì shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "节奏差异是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "rhythm differences is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "jié zòu chā yì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "节奏差异也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "rhythm differences also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ jié zòu chà yì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，节奏差异不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, rhythm differences is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "jiāng nán shuǐ xiāng shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "江南水乡是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "Jiangnan water towns is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "jiāng nán shuǐ xiāng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "江南水乡也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Jiangnan water towns also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ jiāng nán shuǐ xiāng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，江南水乡不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, Jiangnan water towns is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "běi fāng cǎo yuán shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "北方草原是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "northern grasslands is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "běi fāng cǎo yuán yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "北方草原也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "northern grasslands also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ běi fāng cǎo yuán bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，北方草原不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, northern grasslands is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "ài qíng tí cái shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "爱情题材是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "love themes is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "ài qíng tí cái yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "爱情题材也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "love themes also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ ài qíng tí cái bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，爱情题材不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, love themes is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "láo dòng chǎng miàn shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "劳动场面是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "work scenes is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "láo dòng chǎng miàn yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "劳动场面也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "work scenes also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ láo dòng chǎng miàn bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，劳动场面不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, work scenes is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "mù lán shī yǐng xiǎng shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "木兰诗影响是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "influence of Ballad of Mulan is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "mù lán shī yǐng xiǎng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "木兰诗影响也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "influence of Ballad of Mulan also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ mù lán shī yǐng xiǎng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，木兰诗影响不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, influence of Ballad of Mulan is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "mín jiān kǒu wěn shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "民间口吻是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "folk voice is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "mín jiān kǒu wěn yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "民间口吻也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "folk voice also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ mín jiān kǒu wěn bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，民间口吻不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, folk voice is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "dì yù xiǎng xiàng shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "地域想象是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "regional imagination is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "dì yù xiǎng xiàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "地域想象也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "regional imagination also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ dì yù xiǎng xiàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，地域想象不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, regional imagination is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "wén xué bǎo cún shì lǐ jiě nán běi cháo mín gē dì fāng sè cǎi de zhòng yào wén xué miàn xiàng",
+      "content_zh": "文学保存是理解南北朝民歌地方色彩的重要文学面向。",
+      "content_en": "literary preservation is an important literary aspect for understanding regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sắc thái địa phương trong dân ca Nam Bắc triều.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้",
+      "content_id": "Bagian ini penting untuk memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ nán běi cháo mín gē dì fāng sè cǎi fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把南北朝民歌地方色彩放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places regional colors in Northern and Southern Dynasties folk songs back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sắc thái địa phương trong dân ca Nam Bắc triều trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan warna daerah dalam lagu rakyat Dinasti Utara-Selatan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "wén xué bǎo cún yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "文学保存也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "literary preservation also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sắc thái địa phương trong dân ca Nam Bắc triều được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa warna daerah dalam lagu rakyat Dinasti Utara-Selatan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ wén xué bǎo cún bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě nán běi cháo mín gē dì fāng sè cǎi",
+      "content_zh": "因此，文学保存不仅是知识点，也帮助人们理解南北朝民歌地方色彩。",
+      "content_en": "Therefore, literary preservation is not only a knowledge point but also a way to understand regional colors in Northern and Southern Dynasties folk songs.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sắc thái địa phương trong dân ca Nam Bắc triều rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจสีสันท้องถิ่นในเพลงพื้นบ้านยุคราชวงศ์เหนือใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami warna daerah dalam lagu rakyat Dinasti Utara-Selatan dengan lebih jelas."
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "09",
+  "category_dir": "09-philosophy",
+  "article_slug": "10-zhongyong-mean-balance",
+  "article": {
+    "local_id": "philosophy-010",
+    "category_code": "09",
+    "title_pinyin": "zhōng yōng wèi shén me qiáng diào bù piān bù yǐ",
+    "title_i18n": {
+      "zh": "中庸为什么强调不偏不倚？",
+      "en": "Why Does Zhongyong Emphasize Not Leaning to Either Side?",
+      "vi": "Vì sao Trung Dung nhấn mạnh không thiên lệch?",
+      "th": "ทำไมจงยงจึงเน้นความไม่เอนเอียง?",
+      "id": "Mengapa Zhongyong menekankan tidak berat sebelah?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "中庸强调不偏不倚，是因为它追求在具体情境中把情感、原则和行动调整到合宜状态。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "不偏不倚也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，不偏不倚不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "合宜状态是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "合宜状态也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，合宜状态不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "情境判断是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "情境判断也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，情境判断不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "情感调节是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "情感调节也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，情感调节不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "原则坚持是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "原则坚持也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，原则坚持不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "过犹不及是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "过犹不及也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，过犹不及不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "中和观念是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "中和观念也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，中和观念不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "经典文本是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "经典文本也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，经典文本不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "修身实践是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "修身实践也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，修身实践不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "人际处理是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "人际处理也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，人际处理不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "误解澄清是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "误解澄清也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，误解澄清不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+    "现代应用是理解中庸和不偏不倚的重要思想面向。",
+    "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "现代应用也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，现代应用不仅是概念解释，也帮助人们理解中庸和不偏不倚。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "中庸和不偏不倚",
+        "哲学思想",
+        "中庸为什么强调不偏不倚"
+      ],
+      "en": [
+        "Zhongyong and balanced judgment",
+        "Chinese philosophy and wisdom",
+        "Zhongyong and balanced judgment guide"
+      ],
+      "vi": [
+        "Trung Dung và phán đoán cân bằng"
+      ],
+      "th": [
+        "จงยงกับการตัดสินที่สมดุล"
+      ],
+      "id": [
+        "Zhongyong dan penilaian seimbang"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "中庸为什么强调不偏不倚？",
+        "中庸和不偏不倚应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Zhongyong Emphasize Not Leaning to Either Side?",
+        "How should learners understand Zhongyong and balanced judgment?"
+      ],
+      "vi": [
+        "Vì sao Trung Dung nhấn mạnh không thiên lệch?"
+      ],
+      "th": [
+        "ทำไมจงยงจึงเน้นความไม่เอนเอียง?"
+      ],
+      "id": [
+        "Mengapa Zhongyong menekankan tidak berat sebelah?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/09-philosophy/zhongyong-mean-balance"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "中庸强调不偏不倚，是因为它追求在具体情境中把情感、原则和行动调整到合宜状态。",
+      "en": "Zhongyong emphasizes not leaning to either side because it seeks to adjust emotion, principle, and action into appropriateness in concrete situations.",
+      "vi": "Trung Dung nhấn mạnh không thiên lệch vì tìm cách điều chỉnh cảm xúc, nguyên tắc và hành động tới mức hợp nghĩa trong tình huống cụ thể.",
+      "th": "จงยงเน้นความไม่เอนเอียงเพราะมุ่งปรับอารมณ์ หลักการ และการกระทำให้เหมาะควรในสถานการณ์จริง",
+      "id": "Zhongyong menekankan keseimbangan karena berusaha menyesuaikan emosi, prinsip, dan tindakan agar pantas dalam situasi konkret."
+    },
+    "entities": [
+      {
+        "type": "concept",
+        "name_zh": "中庸",
+        "name_en": "Zhongyong"
+      },
+      {
+        "type": "concept",
+        "name_zh": "不偏不倚",
+        "name_en": "not leaning to either side"
+      },
+      {
+        "type": "concept",
+        "name_zh": "合宜",
+        "name_en": "appropriateness"
+      },
+      {
+        "type": "text",
+        "name_zh": "中庸",
+        "name_en": "Doctrine of the Mean"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "zhōng yōng qiáng diào bù piān bù yǐ shì yīn wèi tā zhuī qiú zài jù tǐ qíng jìng zhōng bǎ qíng gǎn yuán zé hé xíng dòng tiáo zhěng dào hé yí zhuàng tài",
+      "content_zh": "中庸强调不偏不倚，是因为它追求在具体情境中把情感、原则和行动调整到合宜状态。",
+      "content_en": "Zhongyong emphasizes not leaning to either side because it seeks to adjust emotion, principle, and action into appropriateness in concrete situations.",
+      "content_vi": "Trung Dung nhấn mạnh không thiên lệch vì tìm cách điều chỉnh cảm xúc, nguyên tắc và hành động tới mức hợp nghĩa trong tình huống cụ thể.",
+      "content_th": "จงยงเน้นความไม่เอนเอียงเพราะมุ่งปรับอารมณ์ หลักการ และการกระทำให้เหมาะควรในสถานการณ์จริง",
+      "content_id": "Zhongyong menekankan keseimbangan karena berusaha menyesuaikan emosi, prinsip, dan tindakan agar pantas dalam situasi konkret."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "bù piān bù yǐ yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "不偏不倚也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "not leaning to either side also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ bù piān bù yǐ bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，不偏不倚不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, not leaning to either side is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "hé yí zhuàng tài shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "合宜状态是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "appropriate state is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "hé yí zhuàng tài yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "合宜状态也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "appropriate state also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ hé yí zhuàng tài bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，合宜状态不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, appropriate state is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "qíng jìng pàn duàn shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "情境判断是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "situational judgment is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "qíng jìng pàn duàn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "情境判断也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "situational judgment also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ qíng jìng pàn duàn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，情境判断不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, situational judgment is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "qíng gǎn tiáo jié shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "情感调节是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "emotional adjustment is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "qíng gǎn tiáo jié yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "情感调节也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "emotional adjustment also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ qíng gǎn tiáo jié bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，情感调节不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, emotional adjustment is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "yuán zé jiān chí shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "原则坚持是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "holding principles is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "yuán zé jiān chí yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "原则坚持也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "holding principles also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ yuán zé jiān chí bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，原则坚持不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, holding principles is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "guò yóu bù jí shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "过犹不及是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "too much is as bad as too little is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "guò yóu bù jí yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "过犹不及也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "too much is as bad as too little also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ guò yóu bù jí bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，过犹不及不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, too much is as bad as too little is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "zhōng hé guān niàn shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "中和观念是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "central harmony is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "zhōng hé guān niàn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "中和观念也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "central harmony also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ zhōng hé guān niàn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，中和观念不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, central harmony is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "jīng diǎn wén běn shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "经典文本是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "classic text is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "jīng diǎn wén běn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "经典文本也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "classic text also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ jīng diǎn wén běn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，经典文本不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, classic text is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "xiū shēn shí jiàn shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "修身实践是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "self-cultivation practice is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "xiū shēn shí jiàn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "修身实践也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "self-cultivation practice also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ xiū shēn shí jiàn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，修身实践不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, self-cultivation practice is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "rén jì chǔ lǐ shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "人际处理是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "handling relations is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "rén jì chù lǐ yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "人际处理也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "handling relations also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ rén jì chù lǐ bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，人际处理不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, handling relations is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "wù jiě chéng qīng shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "误解澄清是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "clarifying misunderstanding is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "wù jiě chéng qīng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "误解澄清也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "clarifying misunderstanding also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ wù jiě chéng qīng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，误解澄清不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, clarifying misunderstanding is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xiàn dài yìng yòng shì lǐ jiě zhōng yōng hé bù piān bù yǐ de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "现代应用是理解中庸和不偏不倚的重要思想面向。",
+      "content_en": "modern use is an important philosophical aspect for understanding Zhongyong and balanced judgment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Trung Dung và phán đoán cân bằng.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจงยงกับการตัดสินที่สมดุล",
+      "content_id": "Bagian ini penting untuk memahami Zhongyong dan penilaian seimbang."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ zhōng yōng hé bù piān bù yǐ fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把中庸和不偏不倚放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places Zhongyong and balanced judgment back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Trung Dung và phán đoán cân bằng trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจงยงกับการตัดสินที่สมดุลกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Zhongyong dan penilaian seimbang kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xiàn dài yìng yòng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "现代应用也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "modern use also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Trung Dung và phán đoán cân bằng được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจงยงกับการตัดสินที่สมดุลเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Zhongyong dan penilaian seimbang dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xiàn dài yìng yòng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě zhōng yōng hé bù piān bù yǐ",
+      "content_zh": "因此，现代应用不仅是概念解释，也帮助人们理解中庸和不偏不倚。",
+      "content_en": "Therefore, modern use is not only a concept explanation but also a way to understand Zhongyong and balanced judgment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Trung Dung và phán đoán cân bằng rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจงยงกับการตัดสินที่สมดุลได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Zhongyong dan penilaian seimbang dengan lebih jelas."
+    }
+  ]
+}

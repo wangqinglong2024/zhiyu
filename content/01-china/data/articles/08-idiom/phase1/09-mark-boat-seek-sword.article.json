@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "08",
+  "category_dir": "08-idiom",
+  "article_slug": "09-mark-boat-seek-sword",
+  "article": {
+    "local_id": "idiom-009",
+    "category_code": "08",
+    "title_pinyin": "kè zhōu qiú jiàn wèi shén me fěng cì gù zhí",
+    "title_i18n": {
+      "zh": "刻舟求剑为什么讽刺固执？",
+      "en": "Why Does Marking the Boat to Find a Sword Satirize Stubbornness?",
+      "vi": "Vì sao khắc thuyền tìm kiếm châm biếm cố chấp?",
+      "th": "ทำไมทำรอยบนเรือหาดาบจึงเสียดสีความดื้อดึง?",
+      "id": "Mengapa menandai perahu untuk mencari pedang menyindir keras kepala?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "刻舟求剑讽刺固执，是因为船在移动而剑落在原处，按旧标记寻找必然偏离事实。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "船在移动也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，船在移动不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "剑落水中是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "剑落水中也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，剑落水中不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "刻记位置是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "刻记位置也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，刻记位置不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "事实变化是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "事实变化也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，事实变化不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "固执方法是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "固执方法也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，固执方法不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "时间差异是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "时间差异也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，时间差异不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "观察更新是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "观察更新也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，观察更新不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "经验失效是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "经验失效也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，经验失效不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "寓言讽刺是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "寓言讽刺也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，寓言讽刺不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "学习提醒是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "学习提醒也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，学习提醒不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "决策错误是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "决策错误也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，决策错误不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+    "现代场景是理解刻舟求剑和固执的重要故事环节。",
+    "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "现代场景也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，现代场景不仅是典故内容，也帮助人们理解刻舟求剑和固执。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "刻舟求剑和固执",
+        "成语典故",
+        "刻舟求剑为什么讽刺固执"
+      ],
+      "en": [
+        "marking the boat to find a sword and stubbornness",
+        "Chinese idioms and allusions",
+        "marking the boat to find a sword and stubbornness guide"
+      ],
+      "vi": [
+        "khắc thuyền tìm kiếm và sự cố chấp"
+      ],
+      "th": [
+        "การทำรอยบนเรือหาดาบกับความดื้อดึง"
+      ],
+      "id": [
+        "menandai perahu mencari pedang dan keras kepala"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "刻舟求剑为什么讽刺固执？",
+        "刻舟求剑和固执应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Marking the Boat to Find a Sword Satirize Stubbornness?",
+        "How should learners understand marking the boat to find a sword and stubbornness?"
+      ],
+      "vi": [
+        "Vì sao khắc thuyền tìm kiếm châm biếm cố chấp?"
+      ],
+      "th": [
+        "ทำไมทำรอยบนเรือหาดาบจึงเสียดสีความดื้อดึง?"
+      ],
+      "id": [
+        "Mengapa menandai perahu untuk mencari pedang menyindir keras kepala?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/08-idiom/mark-boat-seek-sword"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "刻舟求剑讽刺固执，是因为船在移动而剑落在原处，按旧标记寻找必然偏离事实。",
+      "en": "Marking the boat to find a sword satirizes stubbornness because the boat moves while the sword stays where it fell, so an old mark misses reality.",
+      "vi": "Khắc thuyền tìm kiếm châm biếm cố chấp vì thuyền di chuyển còn kiếm rơi tại chỗ, tìm theo dấu cũ chắc chắn lệch thực tế.",
+      "th": "ทำรอยบนเรือหาดาบเสียดสีความดื้อดึง เพราะเรือเคลื่อนที่แต่ดาบตกอยู่ที่เดิม การหาตามรอยเก่าย่อมผิดจากจริง",
+      "id": "Menandai perahu untuk mencari pedang menyindir keras kepala karena perahu bergerak sementara pedang tetap di tempat jatuhnya, jadi tanda lama meleset dari kenyataan."
+    },
+    "entities": [
+      {
+        "type": "idiom",
+        "name_zh": "刻舟求剑",
+        "name_en": "marking the boat to find a sword"
+      },
+      {
+        "type": "object",
+        "name_zh": "船",
+        "name_en": "boat"
+      },
+      {
+        "type": "object",
+        "name_zh": "剑",
+        "name_en": "sword"
+      },
+      {
+        "type": "concept",
+        "name_zh": "固执",
+        "name_en": "stubbornness"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "kè zhōu qiú jiàn fěng cì gù zhí shì yīn wèi chuán zài yí dòng ér jiàn luò zài yuán chù àn jiù biāo jì xún zhǎo bì rán piān lí shì shí",
+      "content_zh": "刻舟求剑讽刺固执，是因为船在移动而剑落在原处，按旧标记寻找必然偏离事实。",
+      "content_en": "Marking the boat to find a sword satirizes stubbornness because the boat moves while the sword stays where it fell, so an old mark misses reality.",
+      "content_vi": "Khắc thuyền tìm kiếm châm biếm cố chấp vì thuyền di chuyển còn kiếm rơi tại chỗ, tìm theo dấu cũ chắc chắn lệch thực tế.",
+      "content_th": "ทำรอยบนเรือหาดาบเสียดสีความดื้อดึง เพราะเรือเคลื่อนที่แต่ดาบตกอยู่ที่เดิม การหาตามรอยเก่าย่อมผิดจากจริง",
+      "content_id": "Menandai perahu untuk mencari pedang menyindir keras kepala karena perahu bergerak sementara pedang tetap di tempat jatuhnya, jadi tanda lama meleset dari kenyataan."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "chuán zài yí dòng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "船在移动也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "moving boat also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ chuán zài yí dòng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，船在移动不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, moving boat is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "jiàn luò shuǐ zhōng shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "剑落水中是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "sword falling into water is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "jiàn luò shuǐ zhōng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "剑落水中也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "sword falling into water also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ jiàn luò shuǐ zhōng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，剑落水中不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, sword falling into water is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "kè jì wèi zhì shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "刻记位置是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "marked position is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "kè jì wèi zhì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "刻记位置也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "marked position also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ kè jì wèi zhì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，刻记位置不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, marked position is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "shì shí biàn huà shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "事实变化是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "changed facts is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "shì shí biàn huà yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "事实变化也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "changed facts also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ shì shí biàn huà bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，事实变化不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, changed facts is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "gù zhí fāng fǎ shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "固执方法是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "stubborn method is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "gù zhí fāng fǎ yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "固执方法也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "stubborn method also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ gù zhí fāng fǎ bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，固执方法不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, stubborn method is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "shí jiān chā yì shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "时间差异是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "difference over time is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "shí jiān chā yì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "时间差异也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "difference over time also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ shí jiān chà yì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，时间差异不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, difference over time is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "guān chá gēng xīn shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "观察更新是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "updating observation is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "guān chá gēng xīn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "观察更新也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "updating observation also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ guān chá gèng xīn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，观察更新不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, updating observation is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "jīng yàn shī xiào shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "经验失效是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "failed experience is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "jīng yàn shī xiào yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "经验失效也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "failed experience also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ jīng yàn shī xiào bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，经验失效不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, failed experience is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "yù yán fěng cì shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "寓言讽刺是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "fable satire is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "yù yán fěng cì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "寓言讽刺也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "fable satire also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yù yán fěng cì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，寓言讽刺不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, fable satire is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "xué xí tí xǐng shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "学习提醒是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "learning reminder is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "xué xí tí xǐng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "学习提醒也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "learning reminder also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ xué xí tí xǐng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，学习提醒不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, learning reminder is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "jué cè cuò wù shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "决策错误是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "decision error is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "jué cè cuò wù yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "决策错误也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "decision error also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ jué cè cuò wù bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，决策错误不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, decision error is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xiàn dài chǎng jǐng shì lǐ jiě kè zhōu qiú jiàn hé gù zhí de zhòng yào gù shì huán jié",
+      "content_zh": "现代场景是理解刻舟求剑和固执的重要故事环节。",
+      "content_en": "modern scenes is an important story element for understanding marking the boat to find a sword and stubbornness.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khắc thuyền tìm kiếm và sự cố chấp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึง",
+      "content_id": "Bagian ini penting untuk memahami menandai perahu mencari pedang dan keras kepala."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ kè zhōu qiú jiàn hé gù zhí fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把刻舟求剑和固执放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places marking the boat to find a sword and stubbornness back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt khắc thuyền tìm kiếm và sự cố chấp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการทำรอยบนเรือหาดาบกับความดื้อดึงกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menandai perahu mencari pedang dan keras kepala kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xiàn dài chǎng jǐng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "现代场景也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "modern scenes also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy khắc thuyền tìm kiếm và sự cố chấp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการทำรอยบนเรือหาดาบกับความดื้อดึงเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menandai perahu mencari pedang dan keras kepala dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xiàn dài chǎng jǐng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě kè zhōu qiú jiàn hé gù zhí",
+      "content_zh": "因此，现代场景不仅是典故内容，也帮助人们理解刻舟求剑和固执。",
+      "content_en": "Therefore, modern scenes is not only allusion content but also a way to understand marking the boat to find a sword and stubbornness.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khắc thuyền tìm kiếm và sự cố chấp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการทำรอยบนเรือหาดาบกับความดื้อดึงได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menandai perahu mencari pedang dan keras kepala dengan lebih jelas."
+    }
+  ]
+}

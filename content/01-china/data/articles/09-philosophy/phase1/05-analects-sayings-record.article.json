@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "09",
+  "category_dir": "09-philosophy",
+  "article_slug": "05-analects-sayings-record",
+  "article": {
+    "local_id": "philosophy-005",
+    "category_code": "09",
+    "title_pinyin": "lún yǔ wèi shén me xiàng yí bù yán xíng jì lù",
+    "title_i18n": {
+      "zh": "《论语》为什么像一部言行记录？",
+      "en": "Why Does the Analects Read Like a Record of Words and Deeds?",
+      "vi": "Vì sao Luận Ngữ giống bản ghi lời nói và việc làm?",
+      "th": "ทำไมหลุนอวี่จึงเหมือนบันทึกคำพูดและการกระทำ?",
+      "id": "Mengapa Analects tampak seperti catatan ucapan dan tindakan?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "《论语》像一部言行记录，是因为它多以短章保存孔子和弟子的问答、评语与生活场景。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "短章形式也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，短章形式不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "师生问答是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "师生问答也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，师生问答不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "孔子评语是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "孔子评语也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，孔子评语不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "弟子形象是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "弟子形象也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，弟子形象不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "生活场景是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "生活场景也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，生活场景不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "修身内容是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "修身内容也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，修身内容不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "礼仁讨论是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "礼仁讨论也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，礼仁讨论不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "开放解释是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "开放解释也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，开放解释不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "经典编纂是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "经典编纂也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，经典编纂不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "阅读节奏是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "阅读节奏也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，阅读节奏不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "教育影响是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "教育影响也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，教育影响不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+    "思想入口是理解《论语》言行记录特点的重要思想面向。",
+    "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "思想入口也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，思想入口不仅是概念解释，也帮助人们理解《论语》言行记录特点。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "《论语》言行记录特点",
+        "哲学思想",
+        "论语为什么像一部言行记录"
+      ],
+      "en": [
+        "the Analects as a record of words and deeds",
+        "Chinese philosophy and wisdom",
+        "the Analects as a record of words and deeds guide"
+      ],
+      "vi": [
+        "Luận Ngữ như bản ghi lời nói và hành vi"
+      ],
+      "th": [
+        "หลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ"
+      ],
+      "id": [
+        "Analects sebagai catatan ucapan dan tindakan"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "《论语》为什么像一部言行记录？",
+        "《论语》言行记录特点应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does the Analects Read Like a Record of Words and Deeds?",
+        "How should learners understand the Analects as a record of words and deeds?"
+      ],
+      "vi": [
+        "Vì sao Luận Ngữ giống bản ghi lời nói và việc làm?"
+      ],
+      "th": [
+        "ทำไมหลุนอวี่จึงเหมือนบันทึกคำพูดและการกระทำ?"
+      ],
+      "id": [
+        "Mengapa Analects tampak seperti catatan ucapan dan tindakan?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/09-philosophy/analects-sayings-record"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "《论语》像一部言行记录，是因为它多以短章保存孔子和弟子的问答、评语与生活场景。",
+      "en": "The Analects reads like a record of words and deeds because it preserves questions, answers, comments, and life scenes of Confucius and his disciples in short passages.",
+      "vi": "Luận Ngữ giống bản ghi lời nói và việc làm vì lưu đối đáp, nhận xét và cảnh đời của Khổng Tử cùng đệ tử bằng đoạn ngắn.",
+      "th": "หลุนอวี่เหมือนบันทึกคำพูดและการกระทำ เพราะเก็บคำถาม คำตอบ ความเห็น และฉากชีวิตของขงจื๊อกับศิษย์เป็นตอนสั้น",
+      "id": "Analects tampak seperti catatan ucapan dan tindakan karena menyimpan tanya jawab, komentar, dan adegan hidup Kongzi bersama muridnya dalam bagian pendek."
+    },
+    "entities": [
+      {
+        "type": "work",
+        "name_zh": "论语",
+        "name_en": "Analects"
+      },
+      {
+        "type": "person",
+        "name_zh": "孔子",
+        "name_en": "Confucius"
+      },
+      {
+        "type": "group",
+        "name_zh": "弟子",
+        "name_en": "disciples"
+      },
+      {
+        "type": "concept",
+        "name_zh": "言行记录",
+        "name_en": "record of words and deeds"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "lún yǔ xiàng yí bù yán xíng jì lù shì yīn wèi tā duō yǐ duǎn zhāng bǎo cún kǒng zǐ hé dì zǐ de wèn dá píng yǔ yǔ shēng huó chǎng jǐng",
+      "content_zh": "《论语》像一部言行记录，是因为它多以短章保存孔子和弟子的问答、评语与生活场景。",
+      "content_en": "The Analects reads like a record of words and deeds because it preserves questions, answers, comments, and life scenes of Confucius and his disciples in short passages.",
+      "content_vi": "Luận Ngữ giống bản ghi lời nói và việc làm vì lưu đối đáp, nhận xét và cảnh đời của Khổng Tử cùng đệ tử bằng đoạn ngắn.",
+      "content_th": "หลุนอวี่เหมือนบันทึกคำพูดและการกระทำ เพราะเก็บคำถาม คำตอบ ความเห็น และฉากชีวิตของขงจื๊อกับศิษย์เป็นตอนสั้น",
+      "content_id": "Analects tampak seperti catatan ucapan dan tindakan karena menyimpan tanya jawab, komentar, dan adegan hidup Kongzi bersama muridnya dalam bagian pendek."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "duǎn zhāng xíng shì yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "短章形式也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "short passages also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ duǎn zhāng xíng shì bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，短章形式不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, short passages is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "shī shēng wèn dá shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "师生问答是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "teacher-student dialogue is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "shī shēng wèn dá yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "师生问答也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "teacher-student dialogue also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ shī shēng wèn dá bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，师生问答不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, teacher-student dialogue is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "kǒng zǐ píng yǔ shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "孔子评语是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "Confucius’ comments is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "kǒng zǐ píng yǔ yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "孔子评语也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "Confucius’ comments also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ kǒng zǐ píng yǔ bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，孔子评语不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, Confucius’ comments is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "dì zǐ xíng xiàng shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "弟子形象是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "images of disciples is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "dì zǐ xíng xiàng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "弟子形象也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "images of disciples also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ dì zǐ xíng xiàng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，弟子形象不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, images of disciples is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "shēng huó chǎng jǐng shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "生活场景是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "life scenes is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "shēng huó chǎng jǐng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "生活场景也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "life scenes also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ shēng huó chǎng jǐng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，生活场景不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, life scenes is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "xiū shēn nèi róng shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "修身内容是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "self-cultivation content is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "xiū shēn nèi róng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "修身内容也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "self-cultivation content also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ xiū shēn nèi róng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，修身内容不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, self-cultivation content is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "lǐ rén tǎo lùn shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "礼仁讨论是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "discussion of li and ren is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "lǐ rén tǎo lùn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "礼仁讨论也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "discussion of li and ren also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ lǐ rén tǎo lùn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，礼仁讨论不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, discussion of li and ren is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "kāi fàng jiě shì shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "开放解释是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "open interpretation is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "kāi fàng jiě shì yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "开放解释也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "open interpretation also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ kāi fàng jiě shì bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，开放解释不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, open interpretation is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "jīng diǎn biān zuǎn shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "经典编纂是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "classic compilation is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "jīng diǎn biān zuǎn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "经典编纂也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "classic compilation also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ jīng diǎn biān zuǎn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，经典编纂不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, classic compilation is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "yuè dú jié zòu shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "阅读节奏是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "reading rhythm is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "yuè dú jié zòu yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "阅读节奏也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "reading rhythm also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ yuè dú jié zòu bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，阅读节奏不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, reading rhythm is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "jiào yù yǐng xiǎng shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "教育影响是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "educational influence is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "jiào yù yǐng xiǎng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "教育影响也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "educational influence also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ jiào yù yǐng xiǎng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，教育影响不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, educational influence is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "sī xiǎng rù kǒu shì lǐ jiě lún yǔ yán xíng jì lù tè diǎn de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "思想入口是理解《论语》言行记录特点的重要思想面向。",
+      "content_en": "entry to thought is an important philosophical aspect for understanding the Analects as a record of words and deeds.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Luận Ngữ như bản ghi lời nói và hành vi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำ",
+      "content_id": "Bagian ini penting untuk memahami Analects sebagai catatan ucapan dan tindakan."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ lún yǔ yán xíng jì lù tè diǎn fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把《论语》言行记录特点放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the Analects as a record of words and deeds back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt Luận Ngữ như bản ghi lời nói và hành vi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Analects sebagai catatan ucapan dan tindakan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "sī xiǎng rù kǒu yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "思想入口也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "entry to thought also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy Luận Ngữ như bản ghi lời nói và hành vi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Analects sebagai catatan ucapan dan tindakan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ sī xiǎng rù kǒu bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě lún yǔ yán xíng jì lù tè diǎn",
+      "content_zh": "因此，思想入口不仅是概念解释，也帮助人们理解《论语》言行记录特点。",
+      "content_en": "Therefore, entry to thought is not only a concept explanation but also a way to understand the Analects as a record of words and deeds.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Luận Ngữ như bản ghi lời nói và hành vi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจหลุนอวี่ในฐานะบันทึกคำพูดและการกระทำได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Analects sebagai catatan ucapan dan tindakan dengan lebih jelas."
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "08",
+  "category_dir": "08-idiom",
+  "article_slug": "04-playing-music-to-cow",
+  "article": {
+    "local_id": "idiom-004",
+    "category_code": "08",
+    "title_pinyin": "duì niú tán qín wèi shén me xíng róng duì xiàng bù hé shì",
+    "title_i18n": {
+      "zh": "对牛弹琴为什么形容对象不合适？",
+      "en": "Why Does Playing Music to a Cow Mean the Audience Is Wrong?",
+      "vi": "Vì sao đàn cho trâu nghe chỉ đối tượng không phù hợp?",
+      "th": "ทำไมดีดพิณให้วัวฟังจึงหมายถึงเลือกผู้ฟังไม่เหมาะ?",
+      "id": "Mengapa bermain musik untuk sapi berarti sasaran tidak tepat?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "对牛弹琴形容对象不合适，是因为再精妙的表达也需要接收者具备理解条件，否则效果会落空。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "表达对象也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，表达对象不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "理解条件是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "理解条件也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，理解条件不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "琴声比喻是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "琴声比喻也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，琴声比喻不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "沟通落空是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "沟通落空也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，沟通落空不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "内容匹配是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "内容匹配也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，内容匹配不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "语境判断是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "语境判断也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，语境判断不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "教育场景是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "教育场景也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，教育场景不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "劝说场景是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "劝说场景也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，劝说场景不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "幽默色彩是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "幽默色彩也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，幽默色彩不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "避免轻慢是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "避免轻慢也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，避免轻慢不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "表达策略是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "表达策略也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，表达策略不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+    "现代使用是理解对牛弹琴和对象不合适的重要故事环节。",
+    "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "现代使用也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，现代使用不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "对牛弹琴和对象不合适",
+        "成语典故",
+        "对牛弹琴为什么形容对象不合适"
+      ],
+      "en": [
+        "playing music to a cow and the wrong audience",
+        "Chinese idioms and allusions",
+        "playing music to a cow and the wrong audience guide"
+      ],
+      "vi": [
+        "đàn cho trâu nghe và đối tượng không phù hợp"
+      ],
+      "th": [
+        "การดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ"
+      ],
+      "id": [
+        "bermain musik untuk sapi dan sasaran tidak tepat"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "对牛弹琴为什么形容对象不合适？",
+        "对牛弹琴和对象不合适应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Playing Music to a Cow Mean the Audience Is Wrong?",
+        "How should learners understand playing music to a cow and the wrong audience?"
+      ],
+      "vi": [
+        "Vì sao đàn cho trâu nghe chỉ đối tượng không phù hợp?"
+      ],
+      "th": [
+        "ทำไมดีดพิณให้วัวฟังจึงหมายถึงเลือกผู้ฟังไม่เหมาะ?"
+      ],
+      "id": [
+        "Mengapa bermain musik untuk sapi berarti sasaran tidak tepat?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/08-idiom/playing-music-to-cow"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "对牛弹琴形容对象不合适，是因为再精妙的表达也需要接收者具备理解条件，否则效果会落空。",
+      "en": "Playing music to a cow means the audience is wrong because even refined expression needs a receiver able to understand it, or the effect fails.",
+      "vi": "Đàn cho trâu nghe chỉ đối tượng không phù hợp vì cách diễn đạt tinh tế vẫn cần người tiếp nhận có điều kiện hiểu.",
+      "th": "ดีดพิณให้วัวฟังหมายถึงผู้รับไม่เหมาะ เพราะการสื่อสารที่ประณีตยังต้องมีผู้ฟังที่เข้าใจ มิฉะนั้นผลจะไม่เกิด",
+      "id": "Bermain musik untuk sapi berarti sasaran tidak tepat karena ungkapan halus tetap memerlukan penerima yang mampu memahami."
+    },
+    "entities": [
+      {
+        "type": "idiom",
+        "name_zh": "对牛弹琴",
+        "name_en": "playing music to a cow"
+      },
+      {
+        "type": "object",
+        "name_zh": "琴",
+        "name_en": "qin"
+      },
+      {
+        "type": "animal",
+        "name_zh": "牛",
+        "name_en": "cow"
+      },
+      {
+        "type": "concept",
+        "name_zh": "沟通",
+        "name_en": "communication"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "duì niú tán qín xíng róng duì xiàng bù hé shì shì yīn wèi zài jīng miào de biǎo dá yě xū yào jiē shōu zhě jù bèi lǐ jiě tiáo jiàn fǒu zé xiào guǒ huì luò kōng",
+      "content_zh": "对牛弹琴形容对象不合适，是因为再精妙的表达也需要接收者具备理解条件，否则效果会落空。",
+      "content_en": "Playing music to a cow means the audience is wrong because even refined expression needs a receiver able to understand it, or the effect fails.",
+      "content_vi": "Đàn cho trâu nghe chỉ đối tượng không phù hợp vì cách diễn đạt tinh tế vẫn cần người tiếp nhận có điều kiện hiểu.",
+      "content_th": "ดีดพิณให้วัวฟังหมายถึงผู้รับไม่เหมาะ เพราะการสื่อสารที่ประณีตยังต้องมีผู้ฟังที่เข้าใจ มิฉะนั้นผลจะไม่เกิด",
+      "content_id": "Bermain musik untuk sapi berarti sasaran tidak tepat karena ungkapan halus tetap memerlukan penerima yang mampu memahami."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "biǎo dá duì xiàng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "表达对象也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "target audience also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ biǎo dá duì xiàng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，表达对象不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, target audience is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "lǐ jiě tiáo jiàn shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "理解条件是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "conditions for understanding is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "lǐ jiě tiáo jiàn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "理解条件也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "conditions for understanding also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ lǐ jiě tiáo jiàn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，理解条件不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, conditions for understanding is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "qín shēng bǐ yù shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "琴声比喻是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "music metaphor is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "qín shēng bǐ yù yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "琴声比喻也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "music metaphor also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ qín shēng bǐ yù bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，琴声比喻不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, music metaphor is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "gōu tōng luò kōng shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "沟通落空是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "failed communication is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "gōu tōng luò kōng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "沟通落空也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "failed communication also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ gōu tōng luò kōng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，沟通落空不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, failed communication is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "nèi róng pǐ pèi shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "内容匹配是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "content matching is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "nèi róng pǐ pèi yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "内容匹配也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "content matching also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ nèi róng pǐ pèi bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，内容匹配不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, content matching is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "yǔ jìng pàn duàn shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "语境判断是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "context judgment is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "yǔ jìng pàn duàn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "语境判断也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "context judgment also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ yǔ jìng pàn duàn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，语境判断不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, context judgment is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "jiào yù chǎng jǐng shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "教育场景是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "education scenes is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "jiào yù chǎng jǐng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "教育场景也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "education scenes also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ jiào yù chǎng jǐng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，教育场景不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, education scenes is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "quàn shuō chǎng jǐng shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "劝说场景是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "persuasion scenes is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "quàn shuō chǎng jǐng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "劝说场景也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "persuasion scenes also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ quàn shuō chǎng jǐng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，劝说场景不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, persuasion scenes is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "yōu mò sè cǎi shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "幽默色彩是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "humorous tone is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "yōu mò sè cǎi yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "幽默色彩也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "humorous tone also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yōu mò sè cǎi bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，幽默色彩不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, humorous tone is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "bì miǎn qīng màn shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "避免轻慢是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "avoiding contempt is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "bì miǎn qīng màn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "避免轻慢也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "avoiding contempt also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ bì miǎn qīng màn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，避免轻慢不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, avoiding contempt is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "biǎo dá cè lüè shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "表达策略是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "expression strategy is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "biǎo dá cè lüè yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "表达策略也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "expression strategy also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ biǎo dá cè lüè bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，表达策略不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, expression strategy is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xiàn dài shǐ yòng shì lǐ jiě duì niú tán qín hé duì xiàng bù hé shì de zhòng yào gù shì huán jié",
+      "content_zh": "现代使用是理解对牛弹琴和对象不合适的重要故事环节。",
+      "content_en": "modern usage is an important story element for understanding playing music to a cow and the wrong audience.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu đàn cho trâu nghe và đối tượng không phù hợp.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะ",
+      "content_id": "Bagian ini penting untuk memahami bermain musik untuk sapi dan sasaran tidak tepat."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ duì niú tán qín hé duì xiàng bù hé shì fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把对牛弹琴和对象不合适放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places playing music to a cow and the wrong audience back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt đàn cho trâu nghe và đối tượng không phù hợp trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan bermain musik untuk sapi dan sasaran tidak tepat kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xiàn dài shǐ yòng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "现代使用也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "modern usage also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy đàn cho trâu nghe và đối tượng không phù hợp được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa bermain musik untuk sapi dan sasaran tidak tepat dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xiàn dài shǐ yòng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě duì niú tán qín hé duì xiàng bù hé shì",
+      "content_zh": "因此，现代使用不仅是典故内容，也帮助人们理解对牛弹琴和对象不合适。",
+      "content_en": "Therefore, modern usage is not only allusion content but also a way to understand playing music to a cow and the wrong audience.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu đàn cho trâu nghe và đối tượng không phù hợp rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการดีดพิณให้วัวฟังกับผู้รับที่ไม่เหมาะได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami bermain musik untuk sapi dan sasaran tidak tepat dengan lebih jelas."
+    }
+  ]
+}

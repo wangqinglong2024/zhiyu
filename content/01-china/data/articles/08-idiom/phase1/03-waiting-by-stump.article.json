@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "08",
+  "category_dir": "08-idiom",
+  "article_slug": "03-waiting-by-stump",
+  "article": {
+    "local_id": "idiom-003",
+    "category_code": "08",
+    "title_pinyin": "shǒu zhū dài tù wèi shén me tí xǐng rén bú yào jiǎo xìng",
+    "title_i18n": {
+      "zh": "守株待兔为什么提醒人不要侥幸？",
+      "en": "Why Does Waiting by a Stump Warn Against Luck-Seeking?",
+      "vi": "Vì sao ôm cây đợi thỏ nhắc đừng cầu may?",
+      "th": "ทำไมเฝ้าตอรอกระต่ายจึงเตือนไม่ให้หวังโชค?",
+      "id": "Mengapa menunggu tunggul memperingatkan soal keberuntungan?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "守株待兔提醒人不要侥幸，是因为故事中的人把偶然收获当成固定方法，最终耽误了正常劳动。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "偶然收获也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，偶然收获不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "固定幻想是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "固定幻想也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，固定幻想不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "停止耕作是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "停止耕作也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，停止耕作不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "等待心理是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "等待心理也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，等待心理不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "侥幸心态是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "侥幸心态也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，侥幸心态不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "方法误判是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "方法误判也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，方法误判不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "劳动价值是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "劳动价值也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，劳动价值不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "寓言讽刺是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "寓言讽刺也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，寓言讽刺不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "学习提醒是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "学习提醒也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，学习提醒不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "决策场景是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "决策场景也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，决策场景不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "成语画面是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "成语画面也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，成语画面不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+    "现实应用是理解守株待兔和侥幸心理的重要故事环节。",
+    "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "现实应用也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，现实应用不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "守株待兔和侥幸心理",
+        "成语典故",
+        "守株待兔为什么提醒人不要侥幸"
+      ],
+      "en": [
+        "waiting by a stump and luck-seeking",
+        "Chinese idioms and allusions",
+        "waiting by a stump and luck-seeking guide"
+      ],
+      "vi": [
+        "ôm cây đợi thỏ và tâm lý cầu may"
+      ],
+      "th": [
+        "การเฝ้าตอรอกระต่ายกับความหวังโชค"
+      ],
+      "id": [
+        "menunggu tunggul dan mengandalkan nasib"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "守株待兔为什么提醒人不要侥幸？",
+        "守株待兔和侥幸心理应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Waiting by a Stump Warn Against Luck-Seeking?",
+        "How should learners understand waiting by a stump and luck-seeking?"
+      ],
+      "vi": [
+        "Vì sao ôm cây đợi thỏ nhắc đừng cầu may?"
+      ],
+      "th": [
+        "ทำไมเฝ้าตอรอกระต่ายจึงเตือนไม่ให้หวังโชค?"
+      ],
+      "id": [
+        "Mengapa menunggu tunggul memperingatkan soal keberuntungan?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/08-idiom/waiting-by-stump"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "守株待兔提醒人不要侥幸，是因为故事中的人把偶然收获当成固定方法，最终耽误了正常劳动。",
+      "en": "Waiting by a stump warns against luck-seeking because the person treats an accidental gain as a fixed method and neglects normal work.",
+      "vi": "Ôm cây đợi thỏ nhắc đừng cầu may vì nhân vật xem thu hoạch tình cờ thành phương pháp cố định và bỏ lỡ lao động thường ngày.",
+      "th": "เฝ้าตอรอกระต่ายเตือนไม่ให้หวังโชค เพราะคนในเรื่องเอาผลที่บังเอิญได้มาเป็นวิธีประจำจนละเลยงานปกติ",
+      "id": "Menunggu di tunggul memperingatkan agar tidak mengandalkan keberuntungan karena tokohnya menjadikan kebetulan sebagai cara tetap dan meninggalkan kerja wajar."
+    },
+    "entities": [
+      {
+        "type": "idiom",
+        "name_zh": "守株待兔",
+        "name_en": "waiting by a stump"
+      },
+      {
+        "type": "object",
+        "name_zh": "树桩",
+        "name_en": "stump"
+      },
+      {
+        "type": "concept",
+        "name_zh": "侥幸",
+        "name_en": "luck-seeking"
+      },
+      {
+        "type": "concept",
+        "name_zh": "劳动",
+        "name_en": "work"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "shǒu zhū dài tù tí xǐng rén bú yào jiǎo xìng shì yīn wèi gù shì zhōng de rén bǎ ǒu rán shōu huò dàng chéng gù dìng fāng fǎ zuì zhōng dān wù le zhèng cháng láo dòng",
+      "content_zh": "守株待兔提醒人不要侥幸，是因为故事中的人把偶然收获当成固定方法，最终耽误了正常劳动。",
+      "content_en": "Waiting by a stump warns against luck-seeking because the person treats an accidental gain as a fixed method and neglects normal work.",
+      "content_vi": "Ôm cây đợi thỏ nhắc đừng cầu may vì nhân vật xem thu hoạch tình cờ thành phương pháp cố định và bỏ lỡ lao động thường ngày.",
+      "content_th": "เฝ้าตอรอกระต่ายเตือนไม่ให้หวังโชค เพราะคนในเรื่องเอาผลที่บังเอิญได้มาเป็นวิธีประจำจนละเลยงานปกติ",
+      "content_id": "Menunggu di tunggul memperingatkan agar tidak mengandalkan keberuntungan karena tokohnya menjadikan kebetulan sebagai cara tetap dan meninggalkan kerja wajar."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "ǒu rán shōu huò yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "偶然收获也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "accidental gain also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ ǒu rán shōu huò bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，偶然收获不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, accidental gain is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "gù dìng huàn xiǎng shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "固定幻想是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "fixed fantasy is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "gù dìng huàn xiǎng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "固定幻想也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "fixed fantasy also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ gù dìng huàn xiǎng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，固定幻想不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, fixed fantasy is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "tíng zhǐ gēng zuò shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "停止耕作是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "stopping farm work is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "tíng zhǐ gēng zuò yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "停止耕作也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "stopping farm work also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ tíng zhǐ gēng zuò bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，停止耕作不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, stopping farm work is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "děng dài xīn lǐ shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "等待心理是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "waiting mentality is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "děng dài xīn lǐ yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "等待心理也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "waiting mentality also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ děng dài xīn lǐ bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，等待心理不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, waiting mentality is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "jiǎo xìng xīn tài shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "侥幸心态是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "luck-seeking mindset is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "jiǎo xìng xīn tài yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "侥幸心态也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "luck-seeking mindset also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ jiǎo xìng xīn tài bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，侥幸心态不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, luck-seeking mindset is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "fāng fǎ wù pàn shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "方法误判是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "mistaken method is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "fāng fǎ wù pàn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "方法误判也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "mistaken method also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ fāng fǎ wù pàn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，方法误判不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, mistaken method is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "láo dòng jià zhí shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "劳动价值是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "value of work is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "láo dòng jià zhí yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "劳动价值也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "value of work also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ láo dòng jià zhí bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，劳动价值不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, value of work is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "yù yán fěng cì shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "寓言讽刺是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "fable satire is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "yù yán fěng cì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "寓言讽刺也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "fable satire also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ yù yán fěng cì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，寓言讽刺不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, fable satire is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "xué xí tí xǐng shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "学习提醒是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "learning reminder is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "xué xí tí xǐng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "学习提醒也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "learning reminder also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ xué xí tí xǐng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，学习提醒不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, learning reminder is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "jué cè chǎng jǐng shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "决策场景是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "decision scenes is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "jué cè chǎng jǐng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "决策场景也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "decision scenes also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ jué cè chǎng jǐng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，决策场景不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, decision scenes is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "chéng yǔ huà miàn shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "成语画面是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "idiom image is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "chéng yǔ huà miàn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "成语画面也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "idiom image also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ chéng yǔ huà miàn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，成语画面不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, idiom image is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "xiàn shí yìng yòng shì lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ de zhòng yào gù shì huán jié",
+      "content_zh": "现实应用是理解守株待兔和侥幸心理的重要故事环节。",
+      "content_en": "real-life use is an important story element for understanding waiting by a stump and luck-seeking.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu ôm cây đợi thỏ và tâm lý cầu may.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชค",
+      "content_id": "Bagian ini penting untuk memahami menunggu tunggul dan mengandalkan nasib."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ shǒu zhū dài tù hé jiǎo xìng xīn lǐ fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把守株待兔和侥幸心理放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places waiting by a stump and luck-seeking back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt ôm cây đợi thỏ và tâm lý cầu may trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการเฝ้าตอรอกระต่ายกับความหวังโชคกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan menunggu tunggul dan mengandalkan nasib kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "xiàn shí yìng yòng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "现实应用也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "real-life use also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy ôm cây đợi thỏ và tâm lý cầu may được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการเฝ้าตอรอกระต่ายกับความหวังโชคเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa menunggu tunggul dan mengandalkan nasib dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ xiàn shí yìng yòng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě shǒu zhū dài tù hé jiǎo xìng xīn lǐ",
+      "content_zh": "因此，现实应用不仅是典故内容，也帮助人们理解守株待兔和侥幸心理。",
+      "content_en": "Therefore, real-life use is not only allusion content but also a way to understand waiting by a stump and luck-seeking.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu ôm cây đợi thỏ và tâm lý cầu may rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการเฝ้าตอรอกระต่ายกับความหวังโชคได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami menunggu tunggul dan mengandalkan nasib dengan lebih jelas."
+    }
+  ]
+}

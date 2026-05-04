@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "08",
+  "category_dir": "08-idiom",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-idioms-condensed-stories.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "897d0acca5ed76e3c660636bb91c25d9b5fada83ae8e0b4ac0329845f84a99f1"
+    },
+    {
+      "path": "02-drawing-snake-extra-feet.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "01dbc85b2c1c7c8c75723a2cf14b68b3cb230a2bff628f34434e38480776efc5"
+    },
+    {
+      "path": "03-waiting-by-stump.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "fd14f8f3d8dfed7d917fe8ccc3dafbeac3ddf123dd65128ee0f1d49bef876b56"
+    },
+    {
+      "path": "04-playing-music-to-cow.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "17146ce49de1f8f79ac532c6d2cf7494ff8d2659256597c57688fdceb6d351e1"
+    },
+    {
+      "path": "05-frog-in-well-limited-view.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4ad4e58b15f43a192cd733517b911b82e0994ec7eddd005bf158a18b47ecc56f"
+    },
+    {
+      "path": "06-foolish-old-man-moves-mountain.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "27f512983cbdd5739ad7c59dace3215004ab7b7b44bfec9be91a155de9043ab3"
+    },
+    {
+      "path": "07-cup-bow-snake-shadow.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f49faf2d791229c545c6e1c85940e10e1e6a33bbf973900e7b9fe7bd9e2a1001"
+    },
+    {
+      "path": "08-zhaosan-musi-change-misunderstanding.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f0f653fd49a45a4dd18a1e5b3cf493967d36896e2ff085a53e2449ef8b6c7a5e"
+    },
+    {
+      "path": "09-mark-boat-seek-sword.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "151f7df0b248db4e999ede1c68668a58460d121e943b480a3606e8795a2e5000"
+    },
+    {
+      "path": "10-meng-mother-three-moves.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "a3d093a0f03ae14c1101713b892a7d6425e9162b462629e2be054104c27be02f"
+    },
+    {
+      "path": "11-amaze-with-first-cry.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "00d4f647dca5e6f6ba5f68ce61cfd67341e885103575e9f970153520310595b1"
+    },
+    {
+      "path": "12-sleep-on-brushwood-taste-gall.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "7b77cff6656ad32e595c647dbaa18e042f8270f6d4c0bb40775c44ec3e764752"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "3.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

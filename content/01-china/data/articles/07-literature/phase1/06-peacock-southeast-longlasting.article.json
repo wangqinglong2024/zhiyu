@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "07",
+  "category_dir": "07-literature",
+  "article_slug": "06-peacock-southeast-longlasting",
+  "article": {
+    "local_id": "literature-006",
+    "category_code": "07",
+    "title_pinyin": "kǒng què dōng nán fēi wèi shén me liú chuán hěn jiǔ",
+    "title_i18n": {
+      "zh": "《孔雀东南飞》为什么流传很久？",
+      "en": "Why Has The Peacock Flies Southeast Been Passed Down So Long?",
+      "vi": "Vì sao Khổng Tước Đông Nam Phi lưu truyền lâu dài?",
+      "th": "ทำไมบทนกยูงบินตะวันออกเฉียงใต้จึงสืบทอดมานาน?",
+      "id": "Mengapa The Peacock Flies Southeast diwariskan begitu lama?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "《孔雀东南飞》流传很久，是因为它用完整叙事写出婚姻悲剧、人物情感和社会压力，具有强烈共鸣。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "长篇叙事也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，长篇叙事不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "婚姻悲剧是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "婚姻悲剧也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，婚姻悲剧不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "人物对话是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "人物对话也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，人物对话不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "刘兰芝形象是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "刘兰芝形象也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，刘兰芝形象不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "焦仲卿形象是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "焦仲卿形象也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，焦仲卿形象不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "家庭压力是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "家庭压力也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，家庭压力不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "情感张力是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "情感张力也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，情感张力不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "民间来源是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "民间来源也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，民间来源不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "乐府传统是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "乐府传统也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，乐府传统不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "文学同情是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "文学同情也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，文学同情不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "课堂常读是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "课堂常读也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，课堂常读不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+    "流传记忆是理解《孔雀东南飞》的流传的重要文学面向。",
+    "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "流传记忆也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，流传记忆不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "《孔雀东南飞》的流传",
+        "文学经典",
+        "孔雀东南飞为什么流传很久"
+      ],
+      "en": [
+        "the long transmission of The Peacock Flies Southeast",
+        "Chinese classic literature",
+        "the long transmission of The Peacock Flies Southeast guide"
+      ],
+      "vi": [
+        "sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi"
+      ],
+      "th": [
+        "การสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้"
+      ],
+      "id": [
+        "pewarisan panjang The Peacock Flies Southeast"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "《孔雀东南飞》为什么流传很久？",
+        "《孔雀东南飞》的流传应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Has The Peacock Flies Southeast Been Passed Down So Long?",
+        "How should learners understand the long transmission of The Peacock Flies Southeast?"
+      ],
+      "vi": [
+        "Vì sao Khổng Tước Đông Nam Phi lưu truyền lâu dài?"
+      ],
+      "th": [
+        "ทำไมบทนกยูงบินตะวันออกเฉียงใต้จึงสืบทอดมานาน?"
+      ],
+      "id": [
+        "Mengapa The Peacock Flies Southeast diwariskan begitu lama?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/07-literature/peacock-southeast-longlasting"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "《孔雀东南飞》流传很久，是因为它用完整叙事写出婚姻悲剧、人物情感和社会压力，具有强烈共鸣。",
+      "en": "The Peacock Flies Southeast has endured because its complete narrative portrays marital tragedy, human feeling, and social pressure with strong resonance.",
+      "vi": "Khổng Tước Đông Nam Phi lưu truyền lâu vì tự sự hoàn chỉnh khắc họa bi kịch hôn nhân, tình cảm con người và áp lực xã hội.",
+      "th": "นกยูงบินตะวันออกเฉียงใต้สืบทอดนาน เพราะเรื่องเล่าสมบูรณ์ถ่ายทอดโศกนาฏกรรมการแต่งงาน ความรู้สึกมนุษย์ และแรงกดดันทางสังคมอย่างสะเทือนใจ",
+      "id": "The Peacock Flies Southeast bertahan lama karena narasinya lengkap, menggambarkan tragedi perkawinan, perasaan manusia, dan tekanan sosial."
+    },
+    "entities": [
+      {
+        "type": "work",
+        "name_zh": "孔雀东南飞",
+        "name_en": "The Peacock Flies Southeast"
+      },
+      {
+        "type": "person",
+        "name_zh": "刘兰芝",
+        "name_en": "Liu Lanzhi"
+      },
+      {
+        "type": "person",
+        "name_zh": "焦仲卿",
+        "name_en": "Jiao Zhongqing"
+      },
+      {
+        "type": "genre",
+        "name_zh": "乐府诗",
+        "name_en": "Yuefu poem"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "kǒng què dōng nán fēi liú chuán hěn jiǔ shì yīn wèi tā yòng wán zhěng xù shì xiě chū hūn yīn bēi jù rén wù qíng gǎn hé shè huì yā lì jù yǒu qiáng liè gòng míng",
+      "content_zh": "《孔雀东南飞》流传很久，是因为它用完整叙事写出婚姻悲剧、人物情感和社会压力，具有强烈共鸣。",
+      "content_en": "The Peacock Flies Southeast has endured because its complete narrative portrays marital tragedy, human feeling, and social pressure with strong resonance.",
+      "content_vi": "Khổng Tước Đông Nam Phi lưu truyền lâu vì tự sự hoàn chỉnh khắc họa bi kịch hôn nhân, tình cảm con người và áp lực xã hội.",
+      "content_th": "นกยูงบินตะวันออกเฉียงใต้สืบทอดนาน เพราะเรื่องเล่าสมบูรณ์ถ่ายทอดโศกนาฏกรรมการแต่งงาน ความรู้สึกมนุษย์ และแรงกดดันทางสังคมอย่างสะเทือนใจ",
+      "content_id": "The Peacock Flies Southeast bertahan lama karena narasinya lengkap, menggambarkan tragedi perkawinan, perasaan manusia, dan tekanan sosial."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "cháng piān xù shì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "长篇叙事也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "long narrative also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ cháng piān xù shì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，长篇叙事不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, long narrative is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "hūn yīn bēi jù shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "婚姻悲剧是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "marital tragedy is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "hūn yīn bēi jù yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "婚姻悲剧也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "marital tragedy also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ hūn yīn bēi jù bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，婚姻悲剧不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, marital tragedy is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "rén wù duì huà shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "人物对话是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "character dialogue is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "rén wù duì huà yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "人物对话也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "character dialogue also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ rén wù duì huà bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，人物对话不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, character dialogue is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "liú lán zhī xíng xiàng shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "刘兰芝形象是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "image of Liu Lanzhi is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "liú lán zhī xíng xiàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "刘兰芝形象也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "image of Liu Lanzhi also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ liú lán zhī xíng xiàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，刘兰芝形象不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, image of Liu Lanzhi is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "jiāo zhòng qīng xíng xiàng shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "焦仲卿形象是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "image of Jiao Zhongqing is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "jiāo zhòng qīng xíng xiàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "焦仲卿形象也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "image of Jiao Zhongqing also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ jiāo zhòng qīng xíng xiàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，焦仲卿形象不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, image of Jiao Zhongqing is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "jiā tíng yā lì shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "家庭压力是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "family pressure is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "jiā tíng yā lì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "家庭压力也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "family pressure also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ jiā tíng yā lì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，家庭压力不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, family pressure is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "qíng gǎn zhāng lì shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "情感张力是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "emotional tension is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "qíng gǎn zhāng lì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "情感张力也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "emotional tension also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ qíng gǎn zhāng lì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，情感张力不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, emotional tension is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "mín jiān lái yuán shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "民间来源是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "folk origin is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "mín jiān lái yuán yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "民间来源也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "folk origin also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ mín jiān lái yuán bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，民间来源不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, folk origin is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "lè fǔ chuán tǒng shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "乐府传统是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "Yuefu tradition is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "lè fǔ chuán tǒng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "乐府传统也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Yuefu tradition also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yuè fǔ chuán tǒng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，乐府传统不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, Yuefu tradition is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "wén xué tóng qíng shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "文学同情是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "literary sympathy is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "wén xué tóng qíng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "文学同情也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "literary sympathy also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ wén xué tóng qíng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，文学同情不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, literary sympathy is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "kè táng cháng dú shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "课堂常读是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "classroom reading is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "kè táng cháng dú yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "课堂常读也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "classroom reading also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ kè táng cháng dú bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，课堂常读不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, classroom reading is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "liú zhuàn jì yì shì lǐ jiě kǒng què dōng nán fēi de liú chuán de zhòng yào wén xué miàn xiàng",
+      "content_zh": "流传记忆是理解《孔雀东南飞》的流传的重要文学面向。",
+      "content_en": "transmission memory is an important literary aspect for understanding the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้",
+      "content_id": "Bagian ini penting untuk memahami pewarisan panjang The Peacock Flies Southeast."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ kǒng què dōng nán fēi de liú chuán fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《孔雀东南飞》的流传放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the long transmission of The Peacock Flies Southeast back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้กลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pewarisan panjang The Peacock Flies Southeast kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "liú chuán jì yì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "流传记忆也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "transmission memory also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้เกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pewarisan panjang The Peacock Flies Southeast dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ liú zhuàn jì yì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě kǒng què dōng nán fēi de liú chuán",
+      "content_zh": "因此，流传记忆不仅是知识点，也帮助人们理解《孔雀东南飞》的流传。",
+      "content_en": "Therefore, transmission memory is not only a knowledge point but also a way to understand the long transmission of The Peacock Flies Southeast.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu sự lưu truyền lâu dài của Khổng Tước Đông Nam Phi rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจการสืบทอดยาวนานของนกยูงบินตะวันออกเฉียงใต้ได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pewarisan panjang The Peacock Flies Southeast dengan lebih jelas."
+    }
+  ]
+}

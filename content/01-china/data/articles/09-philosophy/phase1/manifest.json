@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "09",
+  "category_dir": "09-philosophy",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-humans-and-world.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "e8b9eae3b8625386c16afe02d75d5355a710bf5f25ea80639c8c58ca7bc911ed"
+    },
+    {
+      "path": "02-hundred-schools-spring-autumn-warring-states.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "f5384303dad7d35d922d491515f41315bfb1c3d132541ba9f896755571d70275"
+    },
+    {
+      "path": "03-confucian-human-relations.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "692bcf83a81f6fd6123363c485e1facc3f1700de5c6feb3390409b7da641a6d1"
+    },
+    {
+      "path": "04-confucius-emphasizes-ren.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "6f99609da7b138929f4c780931203bdd69465f1c24e477dedb62432ed7baee90"
+    },
+    {
+      "path": "05-analects-sayings-record.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "3f43878ad80cc0936af568e1f278a1af624246569a63c2e0ffc1b7b8c4fe1c10"
+    },
+    {
+      "path": "06-ren-yi-li-zhi-xin.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4716c777f528cad1d2a1f0651b4628fb1ebb3e7bc9cc626e09701ee0d633673a"
+    },
+    {
+      "path": "07-li-more-than-politeness.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "515ab5a7eff0b617eb7889c940772f34ae37faf6db749cca030ae664e1904253"
+    },
+    {
+      "path": "08-filial-piety-important.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "aa6d20302e53951b69ede534bd8dc595ca220823dd58f487792db22dc9dd297b"
+    },
+    {
+      "path": "09-junzi-confucian-ideal-personality.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4d9b06ce512c30082b7caffa667278dc2ccb6041d29498aa530811a23eb7fb28"
+    },
+    {
+      "path": "10-zhongyong-mean-balance.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "b9c556f492022207efede315fa87ba8c74a2ea49663996b21e3a7d295f70d31f"
+    },
+    {
+      "path": "11-mencius-compassion-heart.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "5d74798cf87177a4bde3a3a87015b5ccbe0db675f9f62051babc691ee981e268"
+    },
+    {
+      "path": "12-mencius-vast-flowing-qi.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "073dcdd6ed56f99d1316cfbf8757e53a01a44799ac6e706b4bf2884350541499"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "3.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

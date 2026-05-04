@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "08",
+  "category_dir": "08-idiom",
+  "article_slug": "10-meng-mother-three-moves",
+  "article": {
+    "local_id": "idiom-010",
+    "category_code": "08",
+    "title_pinyin": "mèng mǔ sān qiān wèi shén me zhòng shì huán jìng",
+    "title_i18n": {
+      "zh": "孟母三迁为什么重视环境？",
+      "en": "Why Does Mencius’ Mother Moving Three Times Value Environment?",
+      "vi": "Vì sao Mạnh mẫu tam thiên coi trọng môi trường?",
+      "th": "ทำไมมารดาเมิ่งจื่อย้ายบ้านสามครั้งจึงเน้นสิ่งแวดล้อม?",
+      "id": "Mengapa ibu Mengzi pindah tiga kali menekankan lingkungan?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "孟母三迁重视环境，是因为故事强调儿童会受周围行为影响，适合的学习环境能改变成长方向。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "母亲选择也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，母亲选择不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "儿童模仿是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "儿童模仿也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，儿童模仿不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "邻里影响是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "邻里影响也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，邻里影响不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "学习场所是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "学习场所也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，学习场所不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "成长方向是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "成长方向也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，成长方向不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "教育观念是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "教育观念也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，教育观念不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "家庭责任是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "家庭责任也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，家庭责任不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "环境塑造是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "环境塑造也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，环境塑造不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "故事流传是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "故事流传也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，故事流传不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "儒家记忆是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "儒家记忆也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，儒家记忆不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "现代教育是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "现代教育也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，现代教育不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+    "慎选环境是理解孟母三迁和环境的重要故事环节。",
+    "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+    "成语的力量来自简短表达背后的画面感和判断力。",
+    "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+    "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+    "慎选环境也说明，成语常用一个鲜明画面保存经验教训。",
+    "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+    "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+    "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+    "因此，慎选环境不仅是典故内容，也帮助人们理解孟母三迁和环境。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "孟母三迁和环境",
+        "成语典故",
+        "孟母三迁为什么重视环境"
+      ],
+      "en": [
+        "Mencius’ mother’s three moves and environment",
+        "Chinese idioms and allusions",
+        "Mencius’ mother’s three moves and environment guide"
+      ],
+      "vi": [
+        "Mạnh mẫu tam thiên và môi trường"
+      ],
+      "th": [
+        "มารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม"
+      ],
+      "id": [
+        "ibu Mengzi pindah tiga kali dan lingkungan"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "孟母三迁为什么重视环境？",
+        "孟母三迁和环境应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Mencius’ Mother Moving Three Times Value Environment?",
+        "How should learners understand Mencius’ mother’s three moves and environment?"
+      ],
+      "vi": [
+        "Vì sao Mạnh mẫu tam thiên coi trọng môi trường?"
+      ],
+      "th": [
+        "ทำไมมารดาเมิ่งจื่อย้ายบ้านสามครั้งจึงเน้นสิ่งแวดล้อม?"
+      ],
+      "id": [
+        "Mengapa ibu Mengzi pindah tiga kali menekankan lingkungan?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/08-idiom/meng-mother-three-moves"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "孟母三迁重视环境，是因为故事强调儿童会受周围行为影响，适合的学习环境能改变成长方向。",
+      "en": "Mencius’ mother moving three times values environment because the story stresses that children are shaped by surrounding behavior and better settings can guide growth.",
+      "vi": "Mạnh mẫu tam thiên coi trọng môi trường vì câu chuyện nhấn mạnh trẻ chịu ảnh hưởng hành vi xung quanh và môi trường học tốt định hướng trưởng thành.",
+      "th": "เรื่องมารดาเมิ่งจื่อย้ายสามครั้งเน้นสิ่งแวดล้อม เพราะเด็กได้รับผลจากพฤติกรรมรอบตัว และสภาพแวดล้อมการเรียนที่เหมาะช่วยชี้ทางเติบโต",
+      "id": "Kisah ibu Mengzi pindah tiga kali menekankan lingkungan karena anak dipengaruhi perilaku sekitar dan lingkungan belajar yang sesuai membentuk arah tumbuh."
+    },
+    "entities": [
+      {
+        "type": "idiom",
+        "name_zh": "孟母三迁",
+        "name_en": "Mencius’ mother moved three times"
+      },
+      {
+        "type": "person",
+        "name_zh": "孟母",
+        "name_en": "Mencius’ mother"
+      },
+      {
+        "type": "person",
+        "name_zh": "孟子",
+        "name_en": "Mencius"
+      },
+      {
+        "type": "concept",
+        "name_zh": "环境",
+        "name_en": "environment"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "mèng mǔ sān qiān zhòng shì huán jìng shì yīn wèi gù shì qiáng tiáo ér tóng huì shòu zhōu wéi xíng wéi yǐng xiǎng shì hé de xué xí huán jìng néng gǎi biàn chéng zhǎng fāng xiàng",
+      "content_zh": "孟母三迁重视环境，是因为故事强调儿童会受周围行为影响，适合的学习环境能改变成长方向。",
+      "content_en": "Mencius’ mother moving three times values environment because the story stresses that children are shaped by surrounding behavior and better settings can guide growth.",
+      "content_vi": "Mạnh mẫu tam thiên coi trọng môi trường vì câu chuyện nhấn mạnh trẻ chịu ảnh hưởng hành vi xung quanh và môi trường học tốt định hướng trưởng thành.",
+      "content_th": "เรื่องมารดาเมิ่งจื่อย้ายสามครั้งเน้นสิ่งแวดล้อม เพราะเด็กได้รับผลจากพฤติกรรมรอบตัว และสภาพแวดล้อมการเรียนที่เหมาะช่วยชี้ทางเติบโต",
+      "content_id": "Kisah ibu Mengzi pindah tiga kali menekankan lingkungan karena anak dipengaruhi perilaku sekitar dan lingkungan belajar yang sesuai membentuk arah tumbuh."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "mǔ qīn xuǎn zé yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "母亲选择也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "mother’s choice also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ mǔ qīn xuǎn zé bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，母亲选择不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, mother’s choice is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "ér tóng mó fǎng shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "儿童模仿是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "children’s imitation is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "ér tóng mó fǎng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "儿童模仿也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "children’s imitation also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ ér tóng mó fǎng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，儿童模仿不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, children’s imitation is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "lín lǐ yǐng xiǎng shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "邻里影响是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "neighborhood influence is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "lín lǐ yǐng xiǎng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "邻里影响也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "neighborhood influence also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ lín lǐ yǐng xiǎng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，邻里影响不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, neighborhood influence is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "xué xí chǎng suǒ shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "学习场所是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "learning setting is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "xué xí chǎng suǒ yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "学习场所也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "learning setting also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ xué xí chǎng suǒ bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，学习场所不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, learning setting is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "chéng zhǎng fāng xiàng shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "成长方向是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "growth direction is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "chéng cháng fāng xiàng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "成长方向也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "growth direction also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ chéng zhǎng fāng xiàng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，成长方向不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, growth direction is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "jiào yù guān niàn shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "教育观念是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "education idea is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "jiào yù guān niàn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "教育观念也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "education idea also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ jiào yù guān niàn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，教育观念不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, education idea is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "jiā tíng zé rèn shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "家庭责任是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "family responsibility is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "jiā tíng zé rèn yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "家庭责任也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "family responsibility also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ jiā tíng zé rèn bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，家庭责任不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, family responsibility is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "huán jìng sù zào shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "环境塑造是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "environment shaping is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "huán jìng sù zào yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "环境塑造也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "environment shaping also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ huán jìng sù zào bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，环境塑造不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, environment shaping is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "gù shì liú chuán shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "故事流传是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "story transmission is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "gù shì liú chuán yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "故事流传也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "story transmission also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ gù shì liú chuán bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，故事流传不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, story transmission is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "rú jiā jì yì shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "儒家记忆是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "Confucian memory is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "rú jiā jì yì yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "儒家记忆也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "Confucian memory also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ rú jiā jì yì bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，儒家记忆不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, Confucian memory is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "xiàn dài jiào yù shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "现代教育是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "modern education is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "xiàn dài jiào yù yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "现代教育也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "modern education also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ xiàn dài jiào yù bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，现代教育不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, modern education is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "shèn xuǎn huán jìng shì lǐ jiě mèng mǔ sān qiān hé huán jìng de zhòng yào gù shì huán jié",
+      "content_zh": "慎选环境是理解孟母三迁和环境的重要故事环节。",
+      "content_en": "careful choice of setting is an important story element for understanding Mencius’ mother’s three moves and environment.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Mạnh mẫu tam thiên và môi trường.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อม",
+      "content_id": "Bagian ini penting untuk memahami ibu Mengzi pindah tiga kali dan lingkungan."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ mèng mǔ sān qiān hé huán jìng fàng huí jù tǐ rén wù dòng zuò jié guǒ hé pàn duàn zhī zhōng",
+      "content_zh": "它把孟母三迁和环境放回具体人物、动作、结果和判断之中。",
+      "content_en": "It places Mencius’ mother’s three moves and environment back among people, actions, results, and judgment.",
+      "content_vi": "Nó đặt Mạnh mẫu tam thiên và môi trường trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan ibu Mengzi pindah tiga kali dan lingkungan kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "chéng yǔ de lì liàng lái zì jiǎn duǎn biǎo dá bèi hòu de huà miàn gǎn hé pàn duàn lì",
+      "content_zh": "成语的力量来自简短表达背后的画面感和判断力。",
+      "content_en": "The power of an idiom comes from the vivid image and judgment hidden behind a short expression.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "gù shì kàn sì jiǎn dān què cháng bǎ xí guàn xīn lǐ hé chǔ shì fāng shì yā suō zài yì qǐ",
+      "content_zh": "故事看似简单，却常把习惯、心理和处事方式压缩在一起。",
+      "content_en": "The story may look simple, yet it often compresses habits, psychology, and ways of handling matters.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī bèi zì miàn yì sī rén men róng yì cuò guò tā zài zhēn shí jiāo liú zhōng de tí xǐng zuò yòng",
+      "content_zh": "如果只背字面意思，人们容易错过它在真实交流中的提醒作用。",
+      "content_en": "If people only memorize the literal meaning, they may miss its reminder in real communication.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "shèn xuǎn huán jìng yě shuō míng chéng yǔ cháng yòng yí gè xiān míng huà miàn bǎo cún jīng yàn jiào xùn",
+      "content_zh": "慎选环境也说明，成语常用一个鲜明画面保存经验教训。",
+      "content_en": "careful choice of setting also shows how an idiom preserves experience through a striking image.",
+      "content_vi": "Điều đó cho thấy Mạnh mẫu tam thiên và môi trường được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่ามารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa ibu Mengzi pindah tiga kali dan lingkungan dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē shuō fǎ tōng guò jiǎng gù shì kè táng jiě shì xiě zuò biǎo dá hé rì cháng duì huà jì xù shǐ yòng",
+      "content_zh": "这些说法通过讲故事、课堂解释、写作表达和日常对话继续使用。",
+      "content_en": "These sayings continue through storytelling, classroom explanation, writing, and daily conversation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài shǐ yòng shí xū yào zhù yì yǔ qì jì yào zhǔn què yě yào bì miǎn bǎ fù zá qíng kuàng shuō dé guò fèn jiǎn dān",
+      "content_zh": "当代使用时需要注意语气，既要准确，也要避免把复杂情况说得过分简单。",
+      "content_en": "In modern use, tone matters: the idiom should be accurate without flattening complex situations too much.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gù shì lái yuán hé xiàn dài chǎng jǐng lián qǐ lái chéng yǔ huì bǐ dān chún shì yì gèng róng yì jì zhù",
+      "content_zh": "把故事来源和现代场景连起来，成语会比单纯释义更容易记住。",
+      "content_en": "When the source story and modern scene are connected, the idiom becomes easier to remember than a bare definition.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ shèn xuǎn huán jìng bù jǐn shì diǎn gù nèi róng yě bāng zhù rén men lǐ jiě mèng mǔ sān qiān hé huán jìng",
+      "content_zh": "因此，慎选环境不仅是典故内容，也帮助人们理解孟母三迁和环境。",
+      "content_en": "Therefore, careful choice of setting is not only allusion content but also a way to understand Mencius’ mother’s three moves and environment.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Mạnh mẫu tam thiên và môi trường rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจมารดาเมิ่งจื่อย้ายบ้านสามครั้งกับสิ่งแวดล้อมได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami ibu Mengzi pindah tiga kali dan lingkungan dengan lebih jelas."
+    }
+  ]
+}

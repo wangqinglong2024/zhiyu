@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "09",
+  "category_dir": "09-philosophy",
+  "article_slug": "08-filial-piety-important",
+  "article": {
+    "local_id": "philosophy-008",
+    "category_code": "09",
+    "title_pinyin": "xiào wèi shén me zài zhōng guó wén huà zhōng zhòng yào",
+    "title_i18n": {
+      "zh": "孝为什么在中国文化中重要？",
+      "en": "Why Is Filial Piety Important in Chinese Culture?",
+      "vi": "Vì sao hiếu quan trọng trong văn hóa Trung Quốc?",
+      "th": "ทำไมความกตัญญูต่อพ่อแม่จึงสำคัญในวัฒนธรรมจีน?",
+      "id": "Mengapa bakti kepada orang tua penting dalam budaya Tiongkok?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "孝在中国文化中重要，是因为它把亲子情感、家庭责任、代际照顾和伦理教育连接起来。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "亲子情感也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，亲子情感不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "家庭责任是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "家庭责任也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，家庭责任不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "代际照顾是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "代际照顾也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，代际照顾不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "伦理教育是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "伦理教育也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，伦理教育不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "孝经传统是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "孝经传统也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，孝经传统不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "儒家解释是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "儒家解释也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，儒家解释不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "日常供养是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "日常供养也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，日常供养不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "尊亲敬老是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "尊亲敬老也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，尊亲敬老不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "情理平衡是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "情理平衡也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，情理平衡不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "现代家庭是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "现代家庭也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，现代家庭不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "海外语境是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "海外语境也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，海外语境不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+    "价值转化是理解孝在中国文化中的重要性的重要思想面向。",
+    "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+    "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+    "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+    "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+    "价值转化也说明，中国思想常把内在修养和外在行为连在一起。",
+    "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+    "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+    "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+    "因此，价值转化不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "孝在中国文化中的重要性",
+        "哲学思想",
+        "孝为什么在中国文化中重要"
+      ],
+      "en": [
+        "the importance of filial piety in Chinese culture",
+        "Chinese philosophy and wisdom",
+        "the importance of filial piety in Chinese culture guide"
+      ],
+      "vi": [
+        "tầm quan trọng của hiếu trong văn hóa Trung Quốc"
+      ],
+      "th": [
+        "ความสำคัญของความกตัญญูในวัฒนธรรมจีน"
+      ],
+      "id": [
+        "pentingnya bakti dalam budaya Tiongkok"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "孝为什么在中国文化中重要？",
+        "孝在中国文化中的重要性应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Is Filial Piety Important in Chinese Culture?",
+        "How should learners understand the importance of filial piety in Chinese culture?"
+      ],
+      "vi": [
+        "Vì sao hiếu quan trọng trong văn hóa Trung Quốc?"
+      ],
+      "th": [
+        "ทำไมความกตัญญูต่อพ่อแม่จึงสำคัญในวัฒนธรรมจีน?"
+      ],
+      "id": [
+        "Mengapa bakti kepada orang tua penting dalam budaya Tiongkok?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/09-philosophy/filial-piety-important"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "孝在中国文化中重要，是因为它把亲子情感、家庭责任、代际照顾和伦理教育连接起来。",
+      "en": "Filial piety is important in Chinese culture because it connects parent-child feeling, family responsibility, intergenerational care, and ethical education.",
+      "vi": "Hiếu quan trọng vì nối tình cảm cha mẹ con cái, trách nhiệm gia đình, chăm sóc giữa các thế hệ và giáo dục đạo đức.",
+      "th": "ความกตัญญูสำคัญในวัฒนธรรมจีนเพราะเชื่อมความรู้สึกพ่อแม่ลูก หน้าที่ครอบครัว การดูแลข้ามรุ่น และการศึกษาจริยธรรม",
+      "id": "Bakti penting dalam budaya Tiongkok karena menghubungkan rasa orang tua-anak, tanggung jawab keluarga, perawatan antar generasi, dan pendidikan etika."
+    },
+    "entities": [
+      {
+        "type": "concept",
+        "name_zh": "孝",
+        "name_en": "filial piety"
+      },
+      {
+        "type": "work",
+        "name_zh": "孝经",
+        "name_en": "Xiaojing"
+      },
+      {
+        "type": "concept",
+        "name_zh": "家庭责任",
+        "name_en": "family responsibility"
+      },
+      {
+        "type": "concept",
+        "name_zh": "敬老",
+        "name_en": "respecting elders"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "xiào zài zhōng guó wén huà zhōng zhòng yào shì yīn wèi tā bǎ qīn zǐ qíng gǎn jiā tíng zé rèn dài jì zhào gù hé lún lǐ jiào yù lián jiē qǐ lái",
+      "content_zh": "孝在中国文化中重要，是因为它把亲子情感、家庭责任、代际照顾和伦理教育连接起来。",
+      "content_en": "Filial piety is important in Chinese culture because it connects parent-child feeling, family responsibility, intergenerational care, and ethical education.",
+      "content_vi": "Hiếu quan trọng vì nối tình cảm cha mẹ con cái, trách nhiệm gia đình, chăm sóc giữa các thế hệ và giáo dục đạo đức.",
+      "content_th": "ความกตัญญูสำคัญในวัฒนธรรมจีนเพราะเชื่อมความรู้สึกพ่อแม่ลูก หน้าที่ครอบครัว การดูแลข้ามรุ่น และการศึกษาจริยธรรม",
+      "content_id": "Bakti penting dalam budaya Tiongkok karena menghubungkan rasa orang tua-anak, tanggung jawab keluarga, perawatan antar generasi, dan pendidikan etika."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "qīn zǐ qíng gǎn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "亲子情感也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "parent-child feeling also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ qīn zǐ qíng gǎn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，亲子情感不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, parent-child feeling is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "jiā tíng zé rèn shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "家庭责任是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "family responsibility is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "jiā tíng zé rèn yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "家庭责任也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "family responsibility also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ jiā tíng zé rèn bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，家庭责任不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, family responsibility is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "dài jì zhào gù shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "代际照顾是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "intergenerational care is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "dài jì zhào gù yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "代际照顾也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "intergenerational care also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ dài jì zhào gù bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，代际照顾不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, intergenerational care is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "lún lǐ jiào yù shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "伦理教育是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "ethical education is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "lún lǐ jiào yù yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "伦理教育也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "ethical education also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ lún lǐ jiào yù bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，伦理教育不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, ethical education is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "xiào jīng chuán tǒng shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "孝经传统是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "Xiaojing tradition is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "xiào jīng chuán tǒng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "孝经传统也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "Xiaojing tradition also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ xiào jīng zhuàn tǒng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，孝经传统不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, Xiaojing tradition is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "rú jiā jiě shì shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "儒家解释是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "Confucian interpretation is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "rú jiā jiě shì yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "儒家解释也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "Confucian interpretation also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ rú jiā jiě shì bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，儒家解释不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, Confucian interpretation is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "rì cháng gòng yǎng shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "日常供养是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "daily support is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "rì cháng gòng yǎng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "日常供养也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "daily support also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ rì cháng gòng yǎng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，日常供养不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, daily support is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "zūn qīn jìng lǎo shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "尊亲敬老是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "respect for elders is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "zūn qīn jìng lǎo yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "尊亲敬老也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "respect for elders also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ zūn qīn jìng lǎo bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，尊亲敬老不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, respect for elders is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "qíng lǐ píng héng shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "情理平衡是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "balance of feeling and reason is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "qíng lǐ píng héng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "情理平衡也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "balance of feeling and reason also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ qíng lǐ píng héng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，情理平衡不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, balance of feeling and reason is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "xiàn dài jiā tíng shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "现代家庭是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "modern family is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "xiàn dài jiā tíng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "现代家庭也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "modern family also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ xiàn dài jiā tíng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，现代家庭不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, modern family is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "hǎi wài yǔ jìng shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "海外语境是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "overseas context is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "hǎi wài yǔ jìng yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "海外语境也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "overseas context also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ hǎi wài yǔ jìng bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，海外语境不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, overseas context is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "jià zhí zhuǎn huà shì lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng de zhòng yào sī xiǎng miàn xiàng",
+      "content_zh": "价值转化是理解孝在中国文化中的重要性的重要思想面向。",
+      "content_en": "value transformation is an important philosophical aspect for understanding the importance of filial piety in Chinese culture.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีน",
+      "content_id": "Bagian ini penting untuk memahami pentingnya bakti dalam budaya Tiongkok."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ xiào zài zhōng guó wén huà zhōng de zhòng yào xìng fàng huí xiū shēn guān xì zhì xù hé rì cháng shí jiàn zhī zhōng",
+      "content_zh": "它把孝在中国文化中的重要性放回修身、关系、秩序和日常实践之中。",
+      "content_en": "It places the importance of filial piety in Chinese culture back into self-cultivation, relationships, order, and daily practice.",
+      "content_vi": "Nó đặt tầm quan trọng của hiếu trong văn hóa Trung Quốc trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาความสำคัญของความกตัญญูในวัฒนธรรมจีนกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan pentingnya bakti dalam budaya Tiongkok kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zhè xiē guān niàn bú shì chōu xiàng kǒu hào ér shì yòng lái sī kǎo rén zěn yàng shēng huó xiāng chǔ hé pàn duàn",
+      "content_zh": "这些观念不是抽象口号，而是用来思考人怎样生活、相处和判断。",
+      "content_en": "These ideas are not abstract slogans; they help people think about living, relating, and judging.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "bù tóng xué pài huì gěi chū bù tóng huí dá dàn dōu guān xīn rén de chǔ jìng hé xíng dòng xuǎn zé",
+      "content_zh": "不同学派会给出不同回答，但都关心人的处境和行动选择。",
+      "content_en": "Different schools offer different answers, but all care about human situations and choices of action.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shù yǔ rén men róng yì hū lüè tā zài jù tǐ qíng jìng lǐ de fēn cùn",
+      "content_zh": "如果只记住术语，人们容易忽略它在具体情境里的分寸。",
+      "content_en": "If people only remember terms, they may miss the measure needed in concrete situations.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "jià zhí zhuǎn huà yě shuō míng zhōng guó sī xiǎng cháng bǎ nèi zài xiū yǎng hé wài zài xíng wéi lián zài yì qǐ",
+      "content_zh": "价值转化也说明，中国思想常把内在修养和外在行为连在一起。",
+      "content_en": "value transformation also shows how Chinese thought often links inner cultivation with outward behavior.",
+      "content_vi": "Điều đó cho thấy tầm quan trọng của hiếu trong văn hóa Trung Quốc được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าความสำคัญของความกตัญญูในวัฒนธรรมจีนเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa pentingnya bakti dalam budaya Tiongkok dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "jīng diǎn wén běn tōng guò wèn dá bǐ yù hé jiǎn duǎn pàn duàn bǎo cún sī xiǎng huó dòng de xiàn chǎng gǎn",
+      "content_zh": "经典文本通过问答、比喻和简短判断保存思想活动的现场感。",
+      "content_en": "Classic texts preserve the live feeling of thought through questions, metaphors, and short judgments.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài lǐ jiě zhè xiē guān niàn shí xū yào fàng zài lì shǐ yǔ jìng hé xiàn dài shēng huó zhī jiān lái bǐ jiào",
+      "content_zh": "当代理解这些观念时，需要放在历史语境和现代生活之间来比较。",
+      "content_en": "Modern understanding should compare these ideas between historical context and present life.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ gài niàn gù shì hé shí jiàn lián qǐ lái sī xiǎng jiù huì xiǎn de gèng qīng chǔ yě gèng kě tǎo lùn",
+      "content_zh": "把概念、故事和实践连起来，思想就会显得更清楚也更可讨论。",
+      "content_en": "When concepts, stories, and practice are connected, thought becomes clearer and more discussable.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ jià zhí zhuǎn huà bù jǐn shì gài niàn jiě shì yě bāng zhù rén men lǐ jiě xiào zài zhōng guó wén huà zhōng de zhòng yào xìng",
+      "content_zh": "因此，价值转化不仅是概念解释，也帮助人们理解孝在中国文化中的重要性。",
+      "content_en": "Therefore, value transformation is not only a concept explanation but also a way to understand the importance of filial piety in Chinese culture.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu tầm quan trọng của hiếu trong văn hóa Trung Quốc rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจความสำคัญของความกตัญญูในวัฒนธรรมจีนได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami pentingnya bakti dalam budaya Tiongkok dengan lebih jelas."
+    }
+  ]
+}

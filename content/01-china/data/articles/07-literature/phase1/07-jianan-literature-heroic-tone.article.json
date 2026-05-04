@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "07",
+  "category_dir": "07-literature",
+  "article_slug": "07-jianan-literature-heroic-tone",
+  "article": {
+    "local_id": "literature-007",
+    "category_code": "07",
+    "title_pinyin": "jiàn ān wén xué wèi shén me yǒu kāng kǎi qì zhì",
+    "title_i18n": {
+      "zh": "建安文学为什么有慷慨气质？",
+      "en": "Why Does Jian’an Literature Have a Generous, Stirring Tone?",
+      "vi": "Vì sao văn học Kiến An có khí chất khẳng khái?",
+      "th": "ทำไมวรรณกรรมเจี้ยนอันจึงมีน้ำเสียงฮึกเหิม?",
+      "id": "Mengapa sastra Jian’an memiliki watak gagah menggugah?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "建安文学有慷慨气质，是因为动荡时代、人生短促感和诗人建功愿望共同形成了昂扬而苍凉的声音。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "时代动荡也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，时代动荡不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "人生短促是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "人生短促也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，人生短促不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "建功愿望是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "建功愿望也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，建功愿望不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "曹氏父子是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "曹氏父子也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，曹氏父子不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "建安七子是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "建安七子也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，建安七子不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "五言诗成熟是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "五言诗成熟也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，五言诗成熟不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "慷慨悲凉是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "慷慨悲凉也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，慷慨悲凉不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "现实感受是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "现实感受也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，现实感受不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "英雄气息是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "英雄气息也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，英雄气息不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "宴饮唱和是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "宴饮唱和也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，宴饮唱和不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "文学风骨是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "文学风骨也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，文学风骨不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+    "后世评价是理解建安文学慷慨气质的重要文学面向。",
+    "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "后世评价也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，后世评价不仅是知识点，也帮助人们理解建安文学慷慨气质。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "建安文学慷慨气质",
+        "文学经典",
+        "建安文学为什么有慷慨气质"
+      ],
+      "en": [
+        "the stirring tone of Jian’an literature",
+        "Chinese classic literature",
+        "the stirring tone of Jian’an literature guide"
+      ],
+      "vi": [
+        "khí chất khẳng khái của văn học Kiến An"
+      ],
+      "th": [
+        "น้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน"
+      ],
+      "id": [
+        "watak menggugah sastra Jian’an"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "建安文学为什么有慷慨气质？",
+        "建安文学慷慨气质应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Does Jian’an Literature Have a Generous, Stirring Tone?",
+        "How should learners understand the stirring tone of Jian’an literature?"
+      ],
+      "vi": [
+        "Vì sao văn học Kiến An có khí chất khẳng khái?"
+      ],
+      "th": [
+        "ทำไมวรรณกรรมเจี้ยนอันจึงมีน้ำเสียงฮึกเหิม?"
+      ],
+      "id": [
+        "Mengapa sastra Jian’an memiliki watak gagah menggugah?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/07-literature/jianan-literature-heroic-tone"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "建安文学有慷慨气质，是因为动荡时代、人生短促感和诗人建功愿望共同形成了昂扬而苍凉的声音。",
+      "en": "Jian’an literature has a stirring tone because turbulent times, a sense of brief life, and the wish to achieve public merit produced voices both elevated and bleak.",
+      "vi": "Văn học Kiến An có khí chất khẳng khái vì thời loạn, cảm giác đời ngắn và khát vọng lập công tạo nên giọng vừa hào sảng vừa bi thương.",
+      "th": "วรรณกรรมเจี้ยนอันมีน้ำเสียงฮึกเหิมเพราะยุคปั่นป่วน ความรู้สึกว่าชีวิตสั้น และความปรารถนาสร้างผลงานร่วมกันทำให้เสียงสูงส่งแต่เศร้า",
+      "id": "Sastra Jian’an menggugah karena masa kacau, rasa hidup singkat, dan keinginan berjasa melahirkan suara agung sekaligus muram."
+    },
+    "entities": [
+      {
+        "type": "period",
+        "name_zh": "建安",
+        "name_en": "Jian’an"
+      },
+      {
+        "type": "group",
+        "name_zh": "建安七子",
+        "name_en": "Seven Masters of Jian’an"
+      },
+      {
+        "type": "person",
+        "name_zh": "曹操",
+        "name_en": "Cao Cao"
+      },
+      {
+        "type": "form",
+        "name_zh": "五言诗",
+        "name_en": "five-character verse"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "jiàn ān wén xué yǒu kāng kǎi qì zhì shì yīn wèi dòng dàng shí dài rén shēng duǎn cù gǎn hé shī rén jiàn gōng yuàn wàng gòng tóng xíng chéng le áng yáng ér cāng liáng de shēng yīn",
+      "content_zh": "建安文学有慷慨气质，是因为动荡时代、人生短促感和诗人建功愿望共同形成了昂扬而苍凉的声音。",
+      "content_en": "Jian’an literature has a stirring tone because turbulent times, a sense of brief life, and the wish to achieve public merit produced voices both elevated and bleak.",
+      "content_vi": "Văn học Kiến An có khí chất khẳng khái vì thời loạn, cảm giác đời ngắn và khát vọng lập công tạo nên giọng vừa hào sảng vừa bi thương.",
+      "content_th": "วรรณกรรมเจี้ยนอันมีน้ำเสียงฮึกเหิมเพราะยุคปั่นป่วน ความรู้สึกว่าชีวิตสั้น และความปรารถนาสร้างผลงานร่วมกันทำให้เสียงสูงส่งแต่เศร้า",
+      "content_id": "Sastra Jian’an menggugah karena masa kacau, rasa hidup singkat, dan keinginan berjasa melahirkan suara agung sekaligus muram."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "shí dài dòng dàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "时代动荡也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "turbulent times also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ shí dài dòng dàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，时代动荡不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, turbulent times is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "rén shēng duǎn cù shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "人生短促是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "briefness of life is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "rén shēng duǎn cù yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "人生短促也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "briefness of life also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ rén shēng duǎn cù bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，人生短促不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, briefness of life is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "jiàn gōng yuàn wàng shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "建功愿望是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "wish for achievement is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "jiàn gōng yuàn wàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "建功愿望也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "wish for achievement also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ jiàn gōng yuàn wàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，建功愿望不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, wish for achievement is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "cáo shì fù zǐ shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "曹氏父子是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "Cao family writers is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "cáo shì fù zǐ yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "曹氏父子也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Cao family writers also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ cáo shì fù zǐ bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，曹氏父子不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, Cao family writers is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "jiàn ān qī zǐ shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "建安七子是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "Seven Masters of Jian’an is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "jiàn ān qī zǐ yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "建安七子也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Seven Masters of Jian’an also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ jiàn ān qī zǐ bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，建安七子不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, Seven Masters of Jian’an is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "wǔ yán shī chéng shú shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "五言诗成熟是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "maturing five-character verse is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "wǔ yán shī chéng shú yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "五言诗成熟也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "maturing five-character verse also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ wǔ yán shī chéng shú bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，五言诗成熟不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, maturing five-character verse is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "kāng kǎi bēi liáng shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "慷慨悲凉是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "stirring and bleak mood is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "kāng kǎi bēi liáng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "慷慨悲凉也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "stirring and bleak mood also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ kāng kǎi bēi liáng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，慷慨悲凉不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, stirring and bleak mood is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "xiàn shí gǎn shòu shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "现实感受是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "real-life feeling is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "xiàn shí gǎn shòu yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "现实感受也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "real-life feeling also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ xiàn shí gǎn shòu bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，现实感受不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, real-life feeling is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "yīng xióng qì xī shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "英雄气息是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "heroic atmosphere is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "yīng xióng qì xī yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "英雄气息也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "heroic atmosphere also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yīng xióng qì xī bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，英雄气息不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, heroic atmosphere is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "yàn yǐn chàng hè shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "宴饮唱和是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "banquet exchanges is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "yàn yǐn chàng hè yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "宴饮唱和也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "banquet exchanges also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ yàn yǐn chàng hè bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，宴饮唱和不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, banquet exchanges is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "wén xué fēng gǔ shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "文学风骨是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "literary backbone is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "wén xué fēng gǔ yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "文学风骨也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "literary backbone also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ wén xué fēng gǔ bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，文学风骨不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, literary backbone is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "hòu shì píng jià shì lǐ jiě jiàn ān wén xué kāng kǎi qì zhì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "后世评价是理解建安文学慷慨气质的重要文学面向。",
+      "content_en": "later evaluation is an important literary aspect for understanding the stirring tone of Jian’an literature.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu khí chất khẳng khái của văn học Kiến An.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอัน",
+      "content_id": "Bagian ini penting untuk memahami watak menggugah sastra Jian’an."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ jiàn ān wén xué kāng kǎi qì zhì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把建安文学慷慨气质放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places the stirring tone of Jian’an literature back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt khí chất khẳng khái của văn học Kiến An trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan watak menggugah sastra Jian’an kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "hòu shì píng jià yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "后世评价也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "later evaluation also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy khí chất khẳng khái của văn học Kiến An được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa watak menggugah sastra Jian’an dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ hòu shì píng jià bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě jiàn ān wén xué kāng kǎi qì zhì",
+      "content_zh": "因此，后世评价不仅是知识点，也帮助人们理解建安文学慷慨气质。",
+      "content_en": "Therefore, later evaluation is not only a knowledge point but also a way to understand the stirring tone of Jian’an literature.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu khí chất khẳng khái của văn học Kiến An rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจน้ำเสียงฮึกเหิมของวรรณกรรมเจี้ยนอันได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami watak menggugah sastra Jian’an dengan lebih jelas."
+    }
+  ]
+}

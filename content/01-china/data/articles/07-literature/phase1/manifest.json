@@ -1,0 +1,111 @@
+{
+  "schema": "china.article_manifest.v2",
+  "domain": "china",
+  "category_code": "07",
+  "category_dir": "07-literature",
+  "phase": "phase1",
+  "generated_at": "2026-05-04T00:00:00+08:00",
+  "update_mode": "append_only_infinite",
+  "article_count": 12,
+  "sentence_target_per_article": 120,
+  "total_sentences": 1440,
+  "risk_controls": [
+    "sea_market_safe",
+    "no_politics",
+    "no_ethnic_conflict",
+    "no_religious_dispute",
+    "no_territorial_dispute",
+    "no_adult_sexual_content"
+  ],
+  "files": [
+    {
+      "path": "01-literature-begins-with-poetry.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "16d1b3798e504e870c29c93585b5fa3f596955c6b3dc98afa839980f9fdeaafb"
+    },
+    {
+      "path": "02-shijing-earliest-poetry-collection.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "9d82d203768a3016309b5bb3b3e327f438ed7f0b377cd3fdc3d238106ca7bec8"
+    },
+    {
+      "path": "03-chuci-imagination.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "9f6714aa560655debb12ef7138aa55efb5863d2f87a110ee481718e0ea6dcbea"
+    },
+    {
+      "path": "04-qu-yuan-chuci-representative.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "74c74519f3d1fb549d2263292104c3c457b0bb93f6a608c48d61ba839f9b3629"
+    },
+    {
+      "path": "05-han-yuefu-folk-life.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "d2de33f53309760e0701b2ff6e98377cae718993707ee4ea672ef76db245aa60"
+    },
+    {
+      "path": "06-peacock-southeast-longlasting.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "3859774759004ee38677c5c1669e4ce13eafa08a48634d91dbd133be00604c36"
+    },
+    {
+      "path": "07-jianan-literature-heroic-tone.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "703f7fe36973f3bdc93f2a7dfd5886371958d0510a52a31dced7d2fbe197fcbe"
+    },
+    {
+      "path": "08-cao-cao-short-forceful-poems.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "241e2a8fae23e3bd1d6eeb2d2a19c64a36d5661299b9531e180753abc74b9b3a"
+    },
+    {
+      "path": "09-tao-yuanming-pastoral-poetry.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "02e99058d7b8cde2a49e9fb5299a6c64ac6a6b926c906689c8c8d344076658af"
+    },
+    {
+      "path": "10-northern-southern-folk-songs.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "2982747f3e1011f8bbfc44c71277ba2bfddaf856a30a015cb4012d046d70030f"
+    },
+    {
+      "path": "11-tang-poetry-literary-peak.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "92101ddff2c75c67101d9870e83c14d510fd7a51842cdb24965dee1498d948ff"
+    },
+    {
+      "path": "12-early-tang-poetry-maturity.article.json",
+      "kind": "article",
+      "rows": 1,
+      "sentences": 120,
+      "sha256": "4e74401f1dea2ff840704b57d8cf8c7849827704f3176e07e00566d0789a9aeb"
+    }
+  ],
+  "generator": {
+    "name": "github-copilot-direct-authoring",
+    "version": "3.0.0",
+    "note": "Phase1 article set authored for the first 12 planned titles with china.article.v2 structure, 120 sentences per article, and embedded SEO/GEO metadata."
+  }
+}

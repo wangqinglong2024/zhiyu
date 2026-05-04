@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "07",
+  "category_dir": "07-literature",
+  "article_slug": "04-qu-yuan-chuci-representative",
+  "article": {
+    "local_id": "literature-004",
+    "category_code": "07",
+    "title_pinyin": "qū yuán wèi shén me chéng wéi chǔ cí dài biǎo",
+    "title_i18n": {
+      "zh": "屈原为什么成为楚辞代表？",
+      "en": "Why Did Qu Yuan Become the Representative of Chuci?",
+      "vi": "Vì sao Khuất Nguyên trở thành đại diện của Sở Từ?",
+      "th": "ทำไมชวีหยวนจึงเป็นตัวแทนของฉู่ฉือ?",
+      "id": "Mengapa Qu Yuan menjadi wakil Chuci?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "屈原成为楚辞代表，是因为他的作品把个人抒情、楚地文化和高洁人格结合起来，形成鲜明的文学形象。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "屈原形象也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，屈原形象不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "离骚创作是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "离骚创作也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，离骚创作不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "个人抒情是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "个人抒情也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，个人抒情不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "楚地传统是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "楚地传统也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，楚地传统不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "香草象征是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "香草象征也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，香草象征不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "人格表达是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "人格表达也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，人格表达不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "长篇结构是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "长篇结构也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，长篇结构不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "端午记忆是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "端午记忆也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，端午记忆不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "后世纪念是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "后世纪念也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，后世纪念不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "诗人身份是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "诗人身份也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，诗人身份不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "文学典范是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "文学典范也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，文学典范不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+    "文化符号是理解屈原和楚辞代表性的重要文学面向。",
+    "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "文化符号也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，文化符号不仅是知识点，也帮助人们理解屈原和楚辞代表性。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "屈原和楚辞代表性",
+        "文学经典",
+        "屈原为什么成为楚辞代表"
+      ],
+      "en": [
+        "Qu Yuan as the representative of Chuci",
+        "Chinese classic literature",
+        "Qu Yuan as the representative of Chuci guide"
+      ],
+      "vi": [
+        "Khuất Nguyên như đại diện Sở Từ"
+      ],
+      "th": [
+        "ชวีหยวนในฐานะตัวแทนฉู่ฉือ"
+      ],
+      "id": [
+        "Qu Yuan sebagai wakil Chuci"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "屈原为什么成为楚辞代表？",
+        "屈原和楚辞代表性应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Did Qu Yuan Become the Representative of Chuci?",
+        "How should learners understand Qu Yuan as the representative of Chuci?"
+      ],
+      "vi": [
+        "Vì sao Khuất Nguyên trở thành đại diện của Sở Từ?"
+      ],
+      "th": [
+        "ทำไมชวีหยวนจึงเป็นตัวแทนของฉู่ฉือ?"
+      ],
+      "id": [
+        "Mengapa Qu Yuan menjadi wakil Chuci?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/07-literature/qu-yuan-chuci-representative"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "屈原成为楚辞代表，是因为他的作品把个人抒情、楚地文化和高洁人格结合起来，形成鲜明的文学形象。",
+      "en": "Qu Yuan became the representative of Chuci because his works combine personal lyricism, Chu culture, and a noble moral image.",
+      "vi": "Khuất Nguyên trở thành đại diện Sở Từ vì tác phẩm của ông kết hợp trữ tình cá nhân, văn hóa Sở và hình tượng nhân cách cao khiết.",
+      "th": "ชวีหยวนเป็นตัวแทนฉู่ฉือเพราะงานของเขารวมอารมณ์ส่วนตัว วัฒนธรรมฉู่ และภาพบุคลิกสูงส่งไว้ชัดเจน",
+      "id": "Qu Yuan menjadi wakil Chuci karena karyanya memadukan lirik pribadi, budaya Chu, dan citra kepribadian luhur."
+    },
+    "entities": [
+      {
+        "type": "person",
+        "name_zh": "屈原",
+        "name_en": "Qu Yuan"
+      },
+      {
+        "type": "work",
+        "name_zh": "离骚",
+        "name_en": "Li Sao"
+      },
+      {
+        "type": "work",
+        "name_zh": "楚辞",
+        "name_en": "Chuci"
+      },
+      {
+        "type": "festival",
+        "name_zh": "端午",
+        "name_en": "Dragon Boat Festival"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "qū yuán chéng wéi chǔ cí dài biǎo shì yīn wèi tā de zuò pǐn bǎ gè rén shū qíng chǔ dì wén huà hé gāo jié rén gé jié hé qǐ lái xíng chéng xiān míng de wén xué xíng xiàng",
+      "content_zh": "屈原成为楚辞代表，是因为他的作品把个人抒情、楚地文化和高洁人格结合起来，形成鲜明的文学形象。",
+      "content_en": "Qu Yuan became the representative of Chuci because his works combine personal lyricism, Chu culture, and a noble moral image.",
+      "content_vi": "Khuất Nguyên trở thành đại diện Sở Từ vì tác phẩm của ông kết hợp trữ tình cá nhân, văn hóa Sở và hình tượng nhân cách cao khiết.",
+      "content_th": "ชวีหยวนเป็นตัวแทนฉู่ฉือเพราะงานของเขารวมอารมณ์ส่วนตัว วัฒนธรรมฉู่ และภาพบุคลิกสูงส่งไว้ชัดเจน",
+      "content_id": "Qu Yuan menjadi wakil Chuci karena karyanya memadukan lirik pribadi, budaya Chu, dan citra kepribadian luhur."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "qū yuán xíng xiàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "屈原形象也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "image of Qu Yuan also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ qū yuán xíng xiàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，屈原形象不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, image of Qu Yuan is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "lí sāo chuàng zuò shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "离骚创作是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "creation of Li Sao is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "lí sāo chuàng zuò yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "离骚创作也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "creation of Li Sao also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ lí sāo chuàng zuò bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，离骚创作不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, creation of Li Sao is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "gè rén shū qíng shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "个人抒情是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "personal lyricism is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "gè rén shū qíng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "个人抒情也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "personal lyricism also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ gè rén shū qíng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，个人抒情不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, personal lyricism is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "chǔ dì chuán tǒng shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "楚地传统是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "Chu tradition is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "chǔ dì chuán tǒng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "楚地传统也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Chu tradition also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ chǔ dì chuán tǒng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，楚地传统不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, Chu tradition is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "xiāng cǎo xiàng zhēng shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "香草象征是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "fragrant-plant symbols is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "xiāng cǎo xiàng zhēng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "香草象征也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "fragrant-plant symbols also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ xiāng cǎo xiàng zhēng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，香草象征不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, fragrant-plant symbols is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "rén gé biǎo dá shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "人格表达是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "moral character expression is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "rén gé biǎo dá yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "人格表达也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "moral character expression also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ rén gé biǎo dá bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，人格表达不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, moral character expression is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "cháng piān jié gòu shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "长篇结构是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "long-form structure is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "cháng piān jié gòu yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "长篇结构也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "long-form structure also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ cháng piān jié gòu bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，长篇结构不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, long-form structure is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "duān wǔ jì yì shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "端午记忆是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "Dragon Boat memory is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "duān wǔ jì yì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "端午记忆也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Dragon Boat memory also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ duān wǔ jì yì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，端午记忆不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, Dragon Boat memory is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "hòu shì jì niàn shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "后世纪念是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "later commemoration is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "hòu shì jì niàn yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "后世纪念也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "later commemoration also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ hòu shì jì niàn bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，后世纪念不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, later commemoration is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "shī rén shēn fèn shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "诗人身份是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "poet identity is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "shī rén shēn fèn yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "诗人身份也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "poet identity also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ shī rén shēn fèn bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，诗人身份不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, poet identity is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "wén xué diǎn fàn shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "文学典范是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "literary model is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "wén xué diǎn fàn yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "文学典范也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "literary model also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ wén xué diǎn fàn bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，文学典范不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, literary model is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "wén huà fú hào shì lǐ jiě qū yuán hé chǔ cí dài biǎo xìng de zhòng yào wén xué miàn xiàng",
+      "content_zh": "文化符号是理解屈原和楚辞代表性的重要文学面向。",
+      "content_en": "cultural symbol is an important literary aspect for understanding Qu Yuan as the representative of Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu Khuất Nguyên như đại diện Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami Qu Yuan sebagai wakil Chuci."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ qū yuán hé chǔ cí dài biǎo xìng fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把屈原和楚辞代表性放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places Qu Yuan as the representative of Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt Khuất Nguyên như đại diện Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาชวีหยวนในฐานะตัวแทนฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan Qu Yuan sebagai wakil Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "wén huà fú hào yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "文化符号也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "cultural symbol also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy Khuất Nguyên như đại diện Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าชวีหยวนในฐานะตัวแทนฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa Qu Yuan sebagai wakil Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ wén huà fú hào bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě qū yuán hé chǔ cí dài biǎo xìng",
+      "content_zh": "因此，文化符号不仅是知识点，也帮助人们理解屈原和楚辞代表性。",
+      "content_en": "Therefore, cultural symbol is not only a knowledge point but also a way to understand Qu Yuan as the representative of Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu Khuất Nguyên như đại diện Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจชวีหยวนในฐานะตัวแทนฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami Qu Yuan sebagai wakil Chuci dengan lebih jelas."
+    }
+  ]
+}

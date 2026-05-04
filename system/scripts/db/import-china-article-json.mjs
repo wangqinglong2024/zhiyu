@@ -45,6 +45,21 @@ const categoryCatalog = {
     nameI18n: { zh: '音乐戏曲', en: 'Music & Opera', vi: 'Âm nhạc & Hí khúc', th: 'ดนตรีและงิ้ว', id: 'Musik & Opera' },
     descriptionI18n: { zh: '民族乐器、京剧、民歌', en: 'Folk instruments, Peking Opera, folk songs', vi: 'Nhạc cụ dân tộc, kinh kịch, dân ca', th: 'เครื่องดนตรีพื้นเมือง งิ้วปักกิ่ง เพลงพื้นบ้าน', id: 'Alat musik etnis, opera Beijing, lagu rakyat' },
   },
+  '07': {
+    sortOrder: 7,
+    nameI18n: { zh: '文学经典', en: 'Classic Literature', vi: 'Văn học kinh điển', th: 'วรรณกรรมคลาสสิก', id: 'Sastra Klasik' },
+    descriptionI18n: { zh: '古典名著、诗词歌赋、寓言', en: 'Classic works, poetry, fables', vi: 'Tác phẩm kinh điển, thi ca, ngụ ngôn', th: 'วรรณกรรม กวีนิพนธ์ นิทาน', id: 'Karya klasik, puisi, fabel' },
+  },
+  '08': {
+    sortOrder: 8,
+    nameI18n: { zh: '成语典故', en: 'Idioms & Allusions', vi: 'Thành ngữ & Điển cố', th: 'สำนวนและตำนาน', id: 'Idiom & Kisah' },
+    descriptionI18n: { zh: '成语故事、歇后语、谚语', en: 'Idiom stories, two-part allegorical sayings, proverbs', vi: 'Câu chuyện thành ngữ, yết hậu ngữ, tục ngữ', th: 'นิทานสำนวน คำพังเพย สุภาษิต', id: 'Kisah idiom, peribahasa dua bagian, pepatah' },
+  },
+  '09': {
+    sortOrder: 9,
+    nameI18n: { zh: '哲学思想', en: 'Philosophy & Wisdom', vi: 'Triết học & Trí tuệ', th: 'ปรัชญาและภูมิปัญญา', id: 'Filsafat & Kebijaksanaan' },
+    descriptionI18n: { zh: '儒释道、诸子百家', en: 'Confucianism, Buddhism, Daoism, Hundred Schools', vi: 'Nho-Phật-Đạo, bách gia chư tử', th: 'ขงจื๊อ พุทธ เต๋า นักปราชญ์ร้อยสำนัก', id: 'Konfusianisme, Buddhisme, Taoisme, Seratus Aliran' },
+  },
 };
 
 if (!databaseUrl && !args.dryRun) {

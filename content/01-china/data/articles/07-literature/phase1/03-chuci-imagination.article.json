@@ -1,0 +1,1323 @@
+{
+  "schema": "china.article.v2",
+  "doc_version": "2026-05-phase1",
+  "category_code": "07",
+  "category_dir": "07-literature",
+  "article_slug": "03-chuci-imagination",
+  "article": {
+    "local_id": "literature-003",
+    "category_code": "07",
+    "title_pinyin": "chǔ cí wèi shén me chōng mǎn xiǎng xiàng lì",
+    "title_i18n": {
+      "zh": "《楚辞》为什么充满想象力？",
+      "en": "Why Is Chuci Full of Imagination?",
+      "vi": "Vì sao Sở Từ đầy trí tưởng tượng?",
+      "th": "ทำไมฉู่ฉือจึงเต็มไปด้วยจินตนาการ?",
+      "id": "Mengapa Chuci penuh imajinasi?"
+    }
+  },
+  "content_policy": {
+    "sentence_target": 120,
+    "sentence_hard_max": 120,
+    "update_mode": "append_only_infinite",
+    "phase": "phase1",
+    "risk_controls": [
+      "sea_market_safe",
+      "no_politics",
+      "no_ethnic_conflict",
+      "no_religious_dispute",
+      "no_territorial_dispute",
+      "no_adult_sexual_content"
+    ]
+  },
+  "source_story_zh": [
+    "《楚辞》充满想象力，是因为它融合楚地巫风、神话意象和长篇抒情，把现实感受写成瑰丽远游。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "楚地文化也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，楚地文化不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "神话意象是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "神话意象也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，神话意象不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "香草美人是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "香草美人也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，香草美人不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "长篇抒情是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "长篇抒情也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，长篇抒情不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "远游结构是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "远游结构也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，远游结构不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "离骚风格是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "离骚风格也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，离骚风格不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "巫风背景是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "巫风背景也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，巫风背景不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "天地往返是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "天地往返也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，天地往返不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "语言华丽是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "语言华丽也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，语言华丽不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "个人情感是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "个人情感也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，个人情感不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "浪漫气质是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "浪漫气质也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，浪漫气质不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+    "文学影响是理解《楚辞》的想象力的重要文学面向。",
+    "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+    "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+    "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+    "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+    "文学影响也说明，经典常在具体句子里保存复杂的人生感受。",
+    "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+    "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+    "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+    "因此，文学影响不仅是知识点，也帮助人们理解《楚辞》的想象力。"
+  ],
+  "seo": {
+    "schema_type": "Article",
+    "primary_keywords": {
+      "zh": [
+        "《楚辞》的想象力",
+        "文学经典",
+        "楚辞为什么充满想象力"
+      ],
+      "en": [
+        "imagination in Chuci",
+        "Chinese classic literature",
+        "imagination in Chuci guide"
+      ],
+      "vi": [
+        "trí tưởng tượng trong Sở Từ"
+      ],
+      "th": [
+        "จินตนาการในฉู่ฉือ"
+      ],
+      "id": [
+        "imajinasi dalam Chuci"
+      ]
+    },
+    "search_intents": [
+      "why",
+      "beginner_learning"
+    ],
+    "long_tail_questions": {
+      "zh": [
+        "《楚辞》为什么充满想象力？",
+        "《楚辞》的想象力应该从哪些方面理解？"
+      ],
+      "en": [
+        "Why Is Chuci Full of Imagination?",
+        "How should learners understand imagination in Chuci?"
+      ],
+      "vi": [
+        "Vì sao Sở Từ đầy trí tưởng tượng?"
+      ],
+      "th": [
+        "ทำไมฉู่ฉือจึงเต็มไปด้วยจินตนาการ?"
+      ],
+      "id": [
+        "Mengapa Chuci penuh imajinasi?"
+      ]
+    },
+    "pseo_paths": [
+      "/china/07-literature/chuci-imagination"
+    ]
+  },
+  "geo": {
+    "bluf": {
+      "zh": "《楚辞》充满想象力，是因为它融合楚地巫风、神话意象和长篇抒情，把现实感受写成瑰丽远游。",
+      "en": "Chuci is full of imagination because it blends Chu shamanic culture, mythic images, and long lyric expression, turning real feeling into splendid journeys.",
+      "vi": "Sở Từ đầy tưởng tượng vì kết hợp phong tục vu Sở, hình ảnh thần thoại và trữ tình dài, biến cảm xúc đời thực thành chuyến đi lộng lẫy.",
+      "th": "ฉู่ฉือเต็มด้วยจินตนาการเพราะผสานวัฒนธรรมพิธีของแคว้นฉู่ ภาพเทพปกรณัม และการพรรณนาอารมณ์ยาว ให้ความรู้สึกจริงกลายเป็นการเดินทางงดงาม",
+      "id": "Chuci penuh imajinasi karena memadukan budaya ritual Chu, citra mitos, dan lirik panjang, mengubah rasa nyata menjadi perjalanan megah."
+    },
+    "entities": [
+      {
+        "type": "work",
+        "name_zh": "楚辞",
+        "name_en": "Chuci"
+      },
+      {
+        "type": "work",
+        "name_zh": "离骚",
+        "name_en": "Li Sao"
+      },
+      {
+        "type": "region",
+        "name_zh": "楚地",
+        "name_en": "Chu region"
+      },
+      {
+        "type": "concept",
+        "name_zh": "神话意象",
+        "name_en": "mythic imagery"
+      }
+    ],
+    "citation_notes": [
+      "第 1 句可直接回答标题问题。",
+      "正文围绕对象、背景、代表作品、形成原因、学习价值和当代理解展开。",
+      "内容保持中立学习语气，避开现实政治、民族争议、领土争议和成人性内容。"
+    ]
+  },
+  "sentences": [
+    {
+      "seq_in_article": 1,
+      "pinyin": "chǔ cí chōng mǎn xiǎng xiàng lì shì yīn wèi tā róng hé chǔ dì wū fēng shén huà yì xiàng hé cháng piān shū qíng bǎ xiàn shí gǎn shòu xiě chéng guī lì yuǎn yóu",
+      "content_zh": "《楚辞》充满想象力，是因为它融合楚地巫风、神话意象和长篇抒情，把现实感受写成瑰丽远游。",
+      "content_en": "Chuci is full of imagination because it blends Chu shamanic culture, mythic images, and long lyric expression, turning real feeling into splendid journeys.",
+      "content_vi": "Sở Từ đầy tưởng tượng vì kết hợp phong tục vu Sở, hình ảnh thần thoại và trữ tình dài, biến cảm xúc đời thực thành chuyến đi lộng lẫy.",
+      "content_th": "ฉู่ฉือเต็มด้วยจินตนาการเพราะผสานวัฒนธรรมพิธีของแคว้นฉู่ ภาพเทพปกรณัม และการพรรณนาอารมณ์ยาว ให้ความรู้สึกจริงกลายเป็นการเดินทางงดงาม",
+      "content_id": "Chuci penuh imajinasi karena memadukan budaya ritual Chu, citra mitos, dan lirik panjang, mengubah rasa nyata menjadi perjalanan megah."
+    },
+    {
+      "seq_in_article": 2,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 3,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 4,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 5,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 6,
+      "pinyin": "chǔ dì wén huà yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "楚地文化也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Chu regional culture also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 7,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 8,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 9,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 10,
+      "pinyin": "yīn cǐ chǔ dì wén huà bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，楚地文化不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, Chu regional culture is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 11,
+      "pinyin": "shén huà yì xiàng shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "神话意象是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "mythic imagery is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 12,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 13,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 14,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 15,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 16,
+      "pinyin": "shén huà yì xiàng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "神话意象也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "mythic imagery also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 17,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 18,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 19,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 20,
+      "pinyin": "yīn cǐ shén huà yì xiàng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，神话意象不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, mythic imagery is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 21,
+      "pinyin": "xiāng cǎo měi rén shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "香草美人是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "fragrant plants and beauty images is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 22,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 23,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 24,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 25,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 26,
+      "pinyin": "xiāng cǎo měi rén yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "香草美人也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "fragrant plants and beauty images also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 27,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 28,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 29,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 30,
+      "pinyin": "yīn cǐ xiāng cǎo měi rén bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，香草美人不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, fragrant plants and beauty images is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 31,
+      "pinyin": "cháng piān shū qíng shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "长篇抒情是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "long lyric expression is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 32,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 33,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 34,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 35,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 36,
+      "pinyin": "cháng piān shū qíng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "长篇抒情也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "long lyric expression also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 37,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 38,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 39,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 40,
+      "pinyin": "yīn cǐ cháng piān shū qíng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，长篇抒情不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, long lyric expression is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 41,
+      "pinyin": "yuǎn yóu jié gòu shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "远游结构是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "journey structure is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 42,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 43,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 44,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 45,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 46,
+      "pinyin": "yuǎn yóu jié gòu yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "远游结构也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "journey structure also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 47,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 48,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 49,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 50,
+      "pinyin": "yīn cǐ yuǎn yóu jié gòu bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，远游结构不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, journey structure is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 51,
+      "pinyin": "lí sāo fēng gé shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "离骚风格是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "Li Sao style is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 52,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 53,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 54,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 55,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 56,
+      "pinyin": "lí sāo fēng gé yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "离骚风格也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "Li Sao style also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 57,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 58,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 59,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 60,
+      "pinyin": "yīn cǐ lí sāo fēng gé bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，离骚风格不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, Li Sao style is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 61,
+      "pinyin": "wū fēng bèi jǐng shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "巫风背景是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "shamanic background is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 62,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 63,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 64,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 65,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 66,
+      "pinyin": "wū fēng bèi jǐng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "巫风背景也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "shamanic background also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 67,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 68,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 69,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 70,
+      "pinyin": "yīn cǐ wū fēng bèi jǐng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，巫风背景不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, shamanic background is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 71,
+      "pinyin": "tiān dì wǎng fǎn shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "天地往返是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "movement between heaven and earth is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 72,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 73,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 74,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 75,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 76,
+      "pinyin": "tiān dì wǎng fǎn yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "天地往返也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "movement between heaven and earth also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 77,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 78,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 79,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 80,
+      "pinyin": "yīn cǐ tiān dì wǎng fǎn bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，天地往返不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, movement between heaven and earth is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 81,
+      "pinyin": "yǔ yán huá lì shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "语言华丽是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "ornate language is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 82,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 83,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 84,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 85,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 86,
+      "pinyin": "yǔ yán huá lì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "语言华丽也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "ornate language also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 87,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 88,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 89,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 90,
+      "pinyin": "yīn cǐ yǔ yán huá lì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，语言华丽不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, ornate language is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 91,
+      "pinyin": "gè rén qíng gǎn shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "个人情感是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "personal feeling is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 92,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 93,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 94,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 95,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 96,
+      "pinyin": "gè rén qíng gǎn yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "个人情感也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "personal feeling also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 97,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 98,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 99,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 100,
+      "pinyin": "yīn cǐ gè rén qíng gǎn bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，个人情感不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, personal feeling is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 101,
+      "pinyin": "làng màn qì zhì shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "浪漫气质是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "romantic quality is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 102,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 103,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 104,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 105,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 106,
+      "pinyin": "làng màn qì zhì yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "浪漫气质也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "romantic quality also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 107,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 108,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 109,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 110,
+      "pinyin": "yīn cǐ làng màn qì zhì bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，浪漫气质不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, romantic quality is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    },
+    {
+      "seq_in_article": 111,
+      "pinyin": "wén xué yǐng xiǎng shì lǐ jiě chǔ cí de xiǎng xiàng lì de zhòng yào wén xué miàn xiàng",
+      "content_zh": "文学影响是理解《楚辞》的想象力的重要文学面向。",
+      "content_en": "literary influence is an important literary aspect for understanding imagination in Chuci.",
+      "content_vi": "Phần này là điểm quan trọng để hiểu trí tưởng tượng trong Sở Từ.",
+      "content_th": "ส่วนนี้เป็นจุดสำคัญในการเข้าใจจินตนาการในฉู่ฉือ",
+      "content_id": "Bagian ini penting untuk memahami imajinasi dalam Chuci."
+    },
+    {
+      "seq_in_article": 112,
+      "pinyin": "tā bǎ chǔ cí de xiǎng xiàng lì fàng huí zuò zhě shí dài tǐ cái hé dú zhě jīng yàn zhī zhōng",
+      "content_zh": "它把《楚辞》的想象力放回作者、时代、体裁和读者经验之中。",
+      "content_en": "It places imagination in Chuci back among authors, eras, genres, and reader experience.",
+      "content_vi": "Nó đặt trí tưởng tượng trong Sở Từ trở lại trong bối cảnh văn bản, con người và đời sống.",
+      "content_th": "มันพาจินตนาการในฉู่ฉือกลับไปอยู่ในบริบทของตัวบท ผู้คน และชีวิตจริง",
+      "content_id": "Ia menempatkan imajinasi dalam Chuci kembali dalam konteks teks, manusia, dan kehidupan nyata."
+    },
+    {
+      "seq_in_article": 113,
+      "pinyin": "zuò pǐn zhōng de yǔ yán bìng bù zhǐ shì biǎo dá yì sī yě bǎo cún jié zòu shēng yīn hé qíng gǎn wēn dù",
+      "content_zh": "作品中的语言并不只是表达意思，也保存节奏、声音和情感温度。",
+      "content_en": "Literary language does more than convey meaning; it also preserves rhythm, sound, and emotional warmth.",
+      "content_vi": "Ngôn ngữ, hình ảnh, hành động và cảm xúc cùng tạo nên kinh nghiệm có thể ghi nhớ.",
+      "content_th": "ภาษา ภาพ การกระทำ และความรู้สึกร่วมกันสร้างประสบการณ์ที่จดจำได้",
+      "content_id": "Bahasa, gambar, tindakan, dan rasa bersama membentuk pengalaman yang mudah diingat."
+    },
+    {
+      "seq_in_article": 114,
+      "pinyin": "rén wù jǐng wù xù shì hé shū qíng xiāng hù pèi hé shǐ wén xué jì yì néng gòu kuà yuè hěn cháng shí jiān",
+      "content_zh": "人物、景物、叙事和抒情相互配合，使文学记忆能够跨越很长时间。",
+      "content_en": "Characters, scenes, narration, and lyric feeling work together so literary memory can last for a long time.",
+      "content_vi": "Bề ngoài có thể ngắn gọn, nhưng bên trong thường chứa nhiều tầng phán đoán.",
+      "content_th": "ภายนอกอาจสั้นกระชับ แต่ภายในมักมีการตัดสินหลายชั้น",
+      "content_id": "Dari luar mungkin singkat, tetapi di dalamnya sering ada banyak lapisan penilaian."
+    },
+    {
+      "seq_in_article": 115,
+      "pinyin": "rú guǒ zhī jì zhù shū míng rén men róng yì hū lüè zuò pǐn xíng chéng de shí dài bèi jǐng hé chuán bō fāng shì",
+      "content_zh": "如果只记住书名，人们容易忽略作品形成的时代背景和传播方式。",
+      "content_en": "If people only remember titles, they may miss the historical background and transmission of the works.",
+      "content_vi": "Nếu chỉ học tên gọi, người học dễ bỏ qua hoàn cảnh và cách sử dụng cụ thể.",
+      "content_th": "หากเรียนเพียงชื่อ ผู้เรียนอาจมองข้ามบริบทและวิธีใช้ที่เฉพาะเจาะจง",
+      "content_id": "Jika hanya mempelajari nama, pelajar mudah melewatkan konteks dan cara pakai yang konkret."
+    },
+    {
+      "seq_in_article": 116,
+      "pinyin": "wén xué yǐng xiǎng yě shuō míng jīng diǎn cháng zài jù tǐ jù zi lǐ bǎo cún fù zá de rén shēng gǎn shòu",
+      "content_zh": "文学影响也说明，经典常在具体句子里保存复杂的人生感受。",
+      "content_en": "literary influence also shows how classics preserve complex life feelings in concrete sentences.",
+      "content_vi": "Điều đó cho thấy trí tưởng tượng trong Sở Từ được tạo nên bởi kinh nghiệm lịch sử và đời sống lâu dài.",
+      "content_th": "สิ่งนี้แสดงว่าจินตนาการในฉู่ฉือเกิดจากประสบการณ์ทางประวัติศาสตร์และชีวิตที่ยาวนาน",
+      "content_id": "Hal ini menunjukkan bahwa imajinasi dalam Chuci dibentuk oleh pengalaman sejarah dan kehidupan yang panjang."
+    },
+    {
+      "seq_in_article": 117,
+      "pinyin": "zhè xiē wén běn tōng guò kè táng zhù běn lǎng dú hé fān yì jìn rù bù tóng dú zhě de shēng huó",
+      "content_zh": "这些文本通过课堂、注本、朗读和翻译进入不同读者的生活。",
+      "content_en": "These texts enter readers’ lives through classes, commentaries, recitation, and translation.",
+      "content_vi": "Những nội dung này tiếp tục truyền qua lớp học, sách chú giải, kể chuyện và đối thoại hằng ngày.",
+      "content_th": "เนื้อหาเหล่านี้ยังส่งต่อผ่านห้องเรียน หนังสืออธิบาย การเล่าเรื่อง และบทสนทนาประจำวัน",
+      "content_id": "Isi seperti ini terus diwariskan melalui kelas, komentar, cerita, dan percakapan harian."
+    },
+    {
+      "seq_in_article": 118,
+      "pinyin": "dāng dài yuè dú kě yǐ xiān zhuā zhù huà miàn hé qíng xù zài màn màn lǐ jiě gé lǜ diǎn gù hé wén tǐ biàn huà",
+      "content_zh": "当代阅读可以先抓住画面和情绪，再慢慢理解格律、典故和文体变化。",
+      "content_en": "Contemporary reading can begin with images and emotions before moving to form, allusion, and genre change.",
+      "content_vi": "Trong đời sống hiện đại, cần hiểu nghĩa cũ rồi so sánh với tình huống mới.",
+      "content_th": "ในชีวิตสมัยใหม่ ควรเข้าใจความหมายเดิมแล้วค่อยเปรียบกับสถานการณ์ใหม่",
+      "content_id": "Dalam kehidupan modern, makna lama perlu dipahami lalu dibandingkan dengan keadaan baru."
+    },
+    {
+      "seq_in_article": 119,
+      "pinyin": "bǎ zuò zhě jīng yàn shí dài huán jìng hé wén běn xíng shì lián qǐ lái wén xué jiù bú zài zhǐ shì gū lì míng piān",
+      "content_zh": "把作者经验、时代环境和文本形式连起来，文学就不再只是孤立名篇。",
+      "content_en": "When author experience, historical setting, and textual form are linked, literature is no longer isolated famous works.",
+      "content_vi": "Khi đặt văn bản, câu chuyện và thực hành cạnh nhau, truyền thống trở nên dễ hiểu hơn.",
+      "content_th": "เมื่อนำตัวบท เรื่องเล่า และการปฏิบัติมาไว้ด้วยกัน ประเพณีจะเข้าใจง่ายขึ้น",
+      "content_id": "Ketika teks, cerita, dan praktik ditempatkan bersama, tradisi menjadi lebih mudah dipahami."
+    },
+    {
+      "seq_in_article": 120,
+      "pinyin": "yīn cǐ wén xué yǐng xiǎng bù jǐn shì zhī shi diǎn yě bāng zhù rén men lǐ jiě chǔ cí de xiǎng xiàng lì",
+      "content_zh": "因此，文学影响不仅是知识点，也帮助人们理解《楚辞》的想象力。",
+      "content_en": "Therefore, literary influence is not only a knowledge point but also a way to understand imagination in Chuci.",
+      "content_vi": "Vì vậy, nội dung này giúp người học hôm nay hiểu trí tưởng tượng trong Sở Từ rõ hơn.",
+      "content_th": "ดังนั้นเนื้อหานี้ช่วยให้ผู้เรียนวันนี้เข้าใจจินตนาการในฉู่ฉือได้ชัดเจนขึ้น",
+      "content_id": "Karena itu, bagian ini membantu pelajar masa kini memahami imajinasi dalam Chuci dengan lebih jelas."
+    }
+  ]
+}
